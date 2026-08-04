@@ -36,6 +36,16 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Sincronizar con la versión más reciente de main
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git checkout -B main origin/main
 
       - uses: actions/setup-python@v5
         with:
@@ -192,16 +202,61 @@ jobs:
                         f"| {p.get('nivel_impacto','')} | {p.get('urgencia_legible','')} | {t} |")
           PY
 
-      - name: Publicar resultados
+      - name: Publicar resultados de forma segura
         if: steps.cfg.outputs.modo == 'rapido' || steps.cfg.outputs.modo == 'conciliacion'
+        shell: bash
         run: |
+          set -euo pipefail
+
           git config user.name  "monitor-legislativo"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f datos.json resumen.json .monitor_estado.json 2>/dev/null || true
-          if git diff --cached --quiet; then
-            echo "Sin cambios que publicar."
+
+          # Conserva fuera del repositorio los resultados generados por esta corrida.
+          SALIDA_TEMPORAL="$(mktemp -d)"
+          cp datos.json "$SALIDA_TEMPORAL/datos.json"
+          cp resumen.json "$SALIDA_TEMPORAL/resumen.json"
+
+          if [ -f .monitor_estado.json ]; then
+            cp .monitor_estado.json "$SALIDA_TEMPORAL/.monitor_estado.json"
+            ESTADO_GENERADO="si"
           else
-            git commit -m "Monitor legislativo: ${{ steps.cfg.outputs.modo }} $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase --autostash || true
-            git push
+            ESTADO_GENERADO="no"
           fi
+
+          # Reintenta sobre la versión más reciente de main. Así, un commit
+          # realizado mientras corría el monitor no produce conflictos de rebase.
+          for INTENTO in 1 2 3 4; do
+            echo "Intento de publicación $INTENTO de 4"
+
+            git fetch origin main
+            git checkout -B main origin/main
+
+            cp "$SALIDA_TEMPORAL/datos.json" datos.json
+            cp "$SALIDA_TEMPORAL/resumen.json" resumen.json
+
+            if [ "$ESTADO_GENERADO" = "si" ]; then
+              cp "$SALIDA_TEMPORAL/.monitor_estado.json" .monitor_estado.json
+            else
+              rm -f .monitor_estado.json
+            fi
+
+            git add -f datos.json resumen.json .monitor_estado.json 2>/dev/null || true
+
+            if git diff --cached --quiet; then
+              echo "La rama principal ya contiene estos resultados."
+              exit 0
+            fi
+
+            git commit -m "Monitor legislativo: ${{ steps.cfg.outputs.modo }} $(date -u +'%Y-%m-%d %H:%M UTC')"
+
+            if git push origin HEAD:main; then
+              echo "Resultados publicados correctamente."
+              exit 0
+            fi
+
+            echo "La rama cambió durante la publicación; se reintentará sin rebase."
+            sleep $((INTENTO * 3))
+          done
+
+          echo "No fue posible publicar después de 4 intentos."
+          exit 1
