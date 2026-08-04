@@ -1,8 +1,8 @@
 {
- "generado": "2026-08-04T12:09:08.973472-04:00",
- "generado_legible": "04/08/2026 12:09",
+ "generado": "2026-08-04T12:12:38.404852-04:00",
+ "generado_legible": "04/08/2026 12:12",
  "version_motor": "1.0.0-tramitacion-legislativa",
- "modo_ejecucion": "conciliacion",
+ "modo_ejecucion": "rapido",
  "metricas": {
   "total": 27,
   "vigentes": 25,
@@ -133,7 +133,7 @@
     "total": 3
    }
   ],
-  "generado": "2026-08-04T12:09:08.973472-04:00"
+  "generado": "2026-08-04T12:12:38.404852-04:00"
  },
  "proyectos": [
   {
@@ -472,7 +472,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "camara_anno"
+    "cartera"
    ],
    "id": "fa5ca40fa3da378b",
    "puntaje_pertinencia": 237.0,
@@ -522,7 +522,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17412&prmBOLETIN=16808-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16808",
    "sintesis": "Simple urgencia · Segundo trámite constitucional (Senado) · Cuenta del Mensaje 215-374 que retira y hace presente la urgencia Simple",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -656,7 +656,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "80d2ea7de230a503",
    "puntaje_pertinencia": 237.0,
@@ -706,7 +706,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18569&prmBOLETIN=17912-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17912",
    "sintesis": "Simple urgencia · Primer trámite constitucional (C.Diputados) · Cuenta de primer informe de comisión .",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -2243,7 +2243,8 @@
    "es_semilla": true,
    "admisible": "true",
    "canales_descubrimiento": [
-    "semilla"
+    "semilla",
+    "cartera"
    ],
    "id": "d91f40e7b4657b1d",
    "puntaje_pertinencia": 120.0,
@@ -2292,7 +2293,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=16514&prmBOLETIN=15975-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15975",
    "sintesis": "Comisión Mixta por rechazo de modificaciones (Senado) · Cuenta del Mensaje 188-374 que hace presente la urgencia Suma",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -2360,7 +2361,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "camara_anno"
+    "cartera"
    ],
    "id": "bf99bac3167f7b32",
    "puntaje_pertinencia": 225.0,
@@ -2415,7 +2416,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19055&prmBOLETIN=18373-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18373",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -2508,7 +2509,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "8cff1dd109fe79cc",
    "puntaje_pertinencia": 177.0,
@@ -2558,7 +2559,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18599&prmBOLETIN=17943-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17943",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Oficio N° 20884. Comunica a la Comisión de Constitución, Legislación, Justicia y Reglamento el acuerdo de la Sala, en orden a remitirle el proyecto de ley, asignado originalmente a la Comisión de Seguridad Ciudadana.",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -2680,7 +2681,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "c58afe1ec6c52f81",
    "puntaje_pertinencia": 60.0,
@@ -2730,7 +2731,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17652&prmBOLETIN=17038-03",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17038",
    "sintesis": "Suma urgencia · Primer trámite constitucional (Senado) · Cuenta del Mensaje 1605-373 que hace presente la urgencia Suma",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -2800,7 +2801,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "camara_anno"
+    "cartera"
    ],
    "id": "02863b4593c9c21a",
    "puntaje_pertinencia": 165.0,
@@ -2845,7 +2846,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17365&prmBOLETIN=16764-03",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16764",
    "sintesis": "Primer trámite constitucional (Senado) · La Sala acuerda refundir los proyectos de ley correspondientes a los boletines números 15.462-03, 16.764-03 y 16.783-03.",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -2914,7 +2915,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "90f135122e7e4520",
    "puntaje_pertinencia": 177.0,
@@ -2967,7 +2968,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17540&prmBOLETIN=16928-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16928",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento.",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -3028,7 +3029,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "4a9ed10c241cbf73",
    "puntaje_pertinencia": 165.0,
@@ -3072,7 +3073,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17553&prmBOLETIN=16939-06",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16939",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Gobierno, Descentralización y Regionalización",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -3125,7 +3126,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "fe916a091ea2d344",
    "puntaje_pertinencia": 165.0,
@@ -3169,7 +3170,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17784&prmBOLETIN=17161-06",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17161",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -3232,7 +3233,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "b29ab9627e21671f",
    "puntaje_pertinencia": 72.0,
@@ -3283,7 +3284,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17266&prmBOLETIN=16696-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16696",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -3341,7 +3342,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "camara_anno"
+    "cartera"
    ],
    "id": "a2afa16efcdd8cf0",
    "puntaje_pertinencia": 48.0,
@@ -3385,7 +3386,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19090&prmBOLETIN=18407-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18407",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -3464,7 +3465,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "688ee3f1969d92eb",
    "puntaje_pertinencia": 48.0,
@@ -3508,7 +3509,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18489&prmBOLETIN=17835-06",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17835",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta oficio N° 264-2025 de la Corte Suprema",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -3563,7 +3564,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "207716662ac2d29b",
    "puntaje_pertinencia": 36.0,
@@ -3613,7 +3614,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18535&prmBOLETIN=17881-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17881",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -3666,7 +3667,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "54783418c224bc68",
    "puntaje_pertinencia": 48.0,
@@ -3710,7 +3711,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18715&prmBOLETIN=18053-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18053",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -3766,7 +3767,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "camara_anno"
+    "cartera"
    ],
    "id": "549f2c9d43daf111",
    "puntaje_pertinencia": 48.0,
@@ -3813,7 +3814,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18742&prmBOLETIN=18080-03",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18080",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Economía",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -3874,7 +3875,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "24d58c518528ba31",
    "puntaje_pertinencia": 48.0,
@@ -3918,7 +3919,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18068&prmBOLETIN=17432-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17432",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -3971,7 +3972,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "c208c749e4d5d678",
    "puntaje_pertinencia": 48.0,
@@ -4015,7 +4016,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18078&prmBOLETIN=17446-17",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17446",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -4086,7 +4087,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "bc332ed625b5da38",
    "puntaje_pertinencia": 48.0,
@@ -4127,7 +4128,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18152&prmBOLETIN=17515-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17515",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -4214,7 +4215,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "07dec5631b5fcdbf",
    "puntaje_pertinencia": 48.0,
@@ -4258,7 +4259,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18160&prmBOLETIN=17520-17",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17520",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Oficio N° 20406. Deriva a la Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa; Protección de los Consumidores y Turismo, el proyecto de ley asignado inicialmente a la Comisión de Derechos Humanos.",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -4338,7 +4339,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "camara_anno"
+    "cartera"
    ],
    "id": "9ea5d77fee565cf7",
    "puntaje_pertinencia": 24.0,
@@ -4382,7 +4383,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19092&prmBOLETIN=18420-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18420",
    "sintesis": "Primer trámite constitucional (Senado) · La Sala acuerda que el proyecto de ley sea conocido por la Comisión de Intereses Marítimos, Pesca y Acuicultura, en lugar de la Comisión de Seguridad Pública",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -4446,7 +4447,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "camara_anno"
+    "cartera"
    ],
    "id": "dd8debf4ea849c38",
    "puntaje_pertinencia": 24.0,
@@ -4490,7 +4491,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19173&prmBOLETIN=18488-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18488",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -4586,7 +4587,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "camara_anno"
+    "cartera"
    ],
    "id": "d28816cac6bf9370",
    "puntaje_pertinencia": 24.0,
@@ -4630,7 +4631,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18879&prmBOLETIN=18217-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18217",
    "sintesis": "Primer trámite constitucional (Senado) · El Honorable Senador señor Vial adhiere al proyecto de ley",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -4694,7 +4695,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "camara_anno"
+    "cartera"
    ],
    "id": "022f13e1bf19d971",
    "puntaje_pertinencia": 24.0,
@@ -4734,7 +4735,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19037&prmBOLETIN=18369-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18369",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -6786,7 +6787,8 @@
    "es_semilla": true,
    "admisible": "true",
    "canales_descubrimiento": [
-    "semilla"
+    "semilla",
+    "cartera"
    ],
    "id": "279d383a148f5857",
    "puntaje_pertinencia": 0.0,
@@ -6824,7 +6826,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=12757&prmBOLETIN=12234-02",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=12234",
    "sintesis": "Discusión inmediata · Tramitación terminada · Oficio de ley al Ejecutivo .",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   },
   {
@@ -6909,7 +6911,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "e693c21c1373b494",
    "puntaje_pertinencia": 48.0,
@@ -6950,12 +6952,20 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17573&prmBOLETIN=16960-02",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16960",
    "sintesis": "Archivado · Archivado",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T12:09:08.973472-04:00"
   }
  ],
- "descartados": [],
- "novedades": 26,
+ "descartados": [
+  {
+   "boletin": "17700-05",
+   "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia",
+   "revisado": "2026-08-04T12:12:38.404852-04:00"
+  }
+ ],
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -6999,64 +7009,64 @@
   }
  },
  "auditoria": {
-  "modo": "conciliacion",
-  "candidatos_descubiertos": 1993,
-  "boletines_consultados": 26,
-  "fichas_obtenidas": 26,
+  "modo": "rapido",
+  "candidatos_descubiertos": 86,
+  "boletines_consultados": 27,
+  "fichas_obtenidas": 27,
   "consultas_fallidas": 0,
   "registros_publicados": 27,
   "registros_conservados_sin_revisar": 1,
-  "descartados_por_pertinencia": 0,
-  "novedades_corrida": 26,
-  "nuevos_en_cartera": 26,
+  "descartados_por_pertinencia": 1,
+  "novedades_corrida": 0,
+  "nuevos_en_cartera": 0,
   "con_movimiento": 0,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 11,
-   "cartera": 0,
-   "senado_movimiento": 0,
-   "camara_anno": 1991
+   "cartera": 27,
+   "senado_movimiento": 59,
+   "camara_anno": 0
   },
   "cobertura_canales": [
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 0,
-    "errores": [
-     "05/07/2026: TimeoutError: The read operation timed out"
-    ],
+    "resultados": 59,
+    "errores": [],
     "consultado": true
    },
    {
     "canal": "senado_boletin",
-    "llamadas": 26,
-    "resultados": 26,
+    "llamadas": 27,
+    "resultados": 27,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_boletin",
-    "llamadas": 26,
-    "resultados": 26,
+    "llamadas": 27,
+    "resultados": 27,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_anno",
-    "llamadas": 6,
-    "resultados": 1991,
-    "errores": [],
-    "consultado": true
+    "llamadas": 0,
+    "resultados": 0,
+    "errores": [
+     "no consultado en esta corrida"
+    ],
+    "consultado": false
    }
   ],
   "ultima_conciliacion": "2026-08-04T12:09:08.973472-04:00",
-  "migracion_estado": true,
+  "migracion_estado": false,
   "umbral_pertinencia": 30,
   "consulta_camara": true,
   "respeta_robots": true,
-  "ventana_movimiento_dias": 30,
+  "ventana_movimiento_dias": 7,
   "semillas_configuradas": 11,
   "boletines_excluidos": 0,
-  "segundos_corrida": 79.6
+  "segundos_corrida": 40.2
  }
 }
