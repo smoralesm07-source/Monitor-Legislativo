@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-04T16:25:51.256113-04:00",
- "generado_legible": "04/08/2026 16:25",
+ "generado": "2026-08-04T17:16:52.425087-04:00",
+ "generado_legible": "04/08/2026 17:16",
  "version_motor": "1.0.0-tramitacion-legislativa",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -142,7 +142,7 @@
     "total": 5
    }
   ],
-  "generado": "2026-08-04T16:25:51.256113-04:00"
+  "generado": "2026-08-04T17:16:52.425087-04:00"
  },
  "proyectos": [
   {
@@ -3255,7 +3255,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
    "sintesis": "Discusión inmediata · Disc. informe C.Mixta por rechazo de modif. C. Revisora (Senado) · Cuenta del Mensaje 222-374 que retira la urgencia Discusión inmediata",
-   "novedad": "urgencia",
+   "novedad": "",
    "novedad_detectada": "2026-08-04T16:25:51.256113-04:00"
   },
   {
@@ -8832,24 +8832,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-04T16:25:51.256113-04:00"
+   "revisado": "2026-08-04T17:16:52.425087-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-04T16:25:51.256113-04:00"
+   "revisado": "2026-08-04T17:16:52.425087-04:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-04T16:25:51.256113-04:00"
+   "revisado": "2026-08-04T17:16:52.425087-04:00"
   }
  ],
- "novedades": 1,
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -8899,7 +8899,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 116,
+  "candidatos_descubiertos": 129,
   "boletines_consultados": 33,
   "fichas_obtenidas": 33,
   "consultas_fallidas": 0,
@@ -8907,21 +8907,21 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 1,
+  "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
   "con_movimiento": 0,
-  "cambios_urgencia": 1,
+  "cambios_urgencia": 0,
   "canales": {
    "semillas": 12,
    "cartera": 31,
-   "senado_movimiento": 86,
+   "senado_movimiento": 99,
    "camara_anno": 0
   },
   "cobertura_canales": [
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 86,
+    "resultados": 99,
     "errores": [],
     "consultado": true
    },
@@ -8957,6 +8957,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 12,
   "boletines_excluidos": 0,
-  "segundos_corrida": 49.8
+  "segundos_corrida": 51.3
  }
 }
