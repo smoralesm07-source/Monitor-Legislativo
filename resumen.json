@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-04T15:50:51.697211-04:00",
-  "generado_legible": "04/08/2026 15:50",
+  "generado": "2026-08-04T16:25:51.256113-04:00",
+  "generado_legible": "04/08/2026 16:25",
   "proyectos_total": 31,
   "vigentes": 28,
   "movimientos_recientes": 1,
   "movimientos_30d": 7,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 9,
-  "con_urgencia": 4,
+  "con_urgencia": 5,
   "prioridad_alta": 3,
   "estancados_180d": 15,
   "ultimo": {
-    "titulo": "Modifica diversos cuerpos legales en materia de persecución penal y patrimonial, y tipifica nuevos delitos para combatir el crimen organizado",
-    "detalle": "Boletín 18488-07 · 22/07/2026 · Primer trámite constitucional (Senado)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18488-07",
-    "fecha": "2026-07-22T00:00:00-04:00"
+    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+    "detalle": "Boletín 18216-05 · 04/08/2026 · Disc. informe C.Mixta por rechazo de modif. C. Revisora (Senado)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+    "fecha": "2026-08-04T00:00:00-04:00"
   },
   "serie_7d": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "fecha": "2026-07-31",
-      "n": 1
+      "n": 0
     },
     {
       "fecha": "2026-08-01",
@@ -46,50 +46,47 @@
     },
     {
       "fecha": "2026-08-04",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
     {
-      "severidad": "alta",
-      "titulo": "Regula a los proveedores de servicios de activos virtuales e incorpora obligaciones de debida diligencia y reporte de operaciones sospechosas",
-      "detalle": "Boletín 17700-05 · Nivel 1 · Impacto en la Ley 19.913 · Suma urgencia",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17700-05",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "alta",
-      "titulo": "Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal",
-      "detalle": "Boletín 16808-25 · Nivel 1 · Impacto en la Ley 19.913 · Simple urgencia",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16808-25",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "alta",
-      "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
-      "detalle": "Boletín 17912-25 · Nivel 1 · Impacto en la Ley 19.913 · Simple urgencia",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
-      "fuente": "LEGISLATIVO"
-    },
-    {
       "severidad": "media",
-      "titulo": "Modifica la Ley General de Bancos, para exceptuar del secreto bancario a las autoridades que señala",
-      "detalle": "Boletín 17038-03 · Nivel 2 · Perímetro regulatorio · Suma urgencia",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17038-03",
+      "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+      "detalle": "Boletín 18216-05 · Nivel 3 · Seguimiento · Discusión inmediata",
+      "fecha": "2026-08-04T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
+      "titulo": "Modifica diversos cuerpos legales en materia de persecución penal y patrimonial, y tipifica nuevos delitos para combatir el crimen organizado",
+      "detalle": "Boletín 18488-07 · Nivel 3 · Seguimiento · Sin urgencia",
+      "fecha": "2026-07-22T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18488-07",
       "fuente": "LEGISLATIVO"
     },
     {
       "severidad": "info",
       "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
       "detalle": "Boletín 15975-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-07-07T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
+      "titulo": "Modifica diversos cuerpos legales, con el objeto de agravar las sanciones aplicables en materia de lavado de activos",
+      "detalle": "Boletín 18407-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-06-24T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18407-25",
       "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
     {
-      "fecha": "2026-07-31T00:00:00-04:00",
-      "texto": "Boletín 18216-05: Cuenta oficio N° 211-2026 de la Corte Suprema"
+      "fecha": "2026-08-04T00:00:00-04:00",
+      "texto": "Boletín 18216-05: Cuenta del Mensaje 222-374 que retira la urgencia Discusión inmediata"
     },
     {
       "fecha": "2026-07-26T13:32:08-04:00",
