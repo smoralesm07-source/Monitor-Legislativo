@@ -121,6 +121,7 @@ jobs:
           MONITOR_SMTP_USUARIO: ${{ secrets.MONITOR_SMTP_USUARIO }}
           MONITOR_SMTP_CLAVE: ${{ secrets.MONITOR_SMTP_CLAVE }}
           MONITOR_DESTINATARIOS: ${{ secrets.MONITOR_DESTINATARIOS }}
+          MONITOR_NIVEL_AVISO: "1"
         run: python monitor_legislativo.py --probar-correo
 
       - name: Ejecutar monitor
@@ -134,6 +135,9 @@ jobs:
           MONITOR_SMTP_USUARIO: ${{ secrets.MONITOR_SMTP_USUARIO }}
           MONITOR_SMTP_CLAVE: ${{ secrets.MONITOR_SMTP_CLAVE }}
           MONITOR_DESTINATARIOS: ${{ secrets.MONITOR_DESTINATARIOS }}
+          # Nivel máximo que dispara aviso: 1 solo la Ley 19.913, 2 suma el
+          # perímetro (delitos base y sujetos obligados), 3 todo.
+          MONITOR_NIVEL_AVISO: "1"
         run: python monitor_legislativo.py --modo "${{ steps.cfg.outputs.modo }}"
 
       - name: Resumen de la corrida
