@@ -101,7 +101,12 @@ No hay que hacer nada: el monitor corre solo y publica en el tablero.
 - `MOVIMIENTO` — avanzó procesalmente
 - `CAMBIO DE URGENCIA` — el Ejecutivo modificó la calificación, y eso cambia el tiempo real disponible para incidir técnicamente
 
-**En el tablero**, el itinerario legislativo muestra dónde está cada proyecto y el color del borde indica la urgencia. Al expandir una ficha aparecen la línea de tramitación y **la evidencia textual que motivó la clasificación**, para que puedas auditar por qué el motor incluyó ese boletín en lugar de confiar en un puntaje.
+**En el tablero:**
+
+- El encabezado muestra las **tres iniciativas que se movieron más recientemente** dentro de la vista filtrada.
+- **Clic en cualquier boletín** —en el encabezado, en el itinerario o en el listado— abre una **ficha emergente** con todo lo levantado: estado procesal, urgencia, ejes, sectores, materias, autoría, ministerios, tramitación completa, votaciones, historial de urgencias, enlaces a las fuentes y **la evidencia textual que motivó la clasificación**. Se cierra al hacer clic fuera, con la tecla `Esc` o con el botón de cierre.
+- Los **filtros que se aplican con un clic** (ejes, sectores, urgencias, cámara, trámite en el itinerario, botones del encabezado) **se anulan al volver a hacer clic** sobre el mismo elemento.
+- El itinerario legislativo muestra dónde está cada proyecto; el color del borde indica la urgencia. Clic en el nombre de un trámite filtra por esa etapa.
 
 ---
 
@@ -126,6 +131,8 @@ Ninguna fuente basta sola: el Senado tiene el itinerario procesal y las urgencia
 La pregunta que responde no es "¿menciona a la UAF?" sino **"¿puede alterar el marco en que la UAF opera?"**. Los proyectos que más importan a menudo nunca escriben la sigla: agregan delitos base al artículo 27, tocan el secreto bancario, o regulan a un sector que ya es sujeto obligado. Por eso clasifica en cuatro capas —directo, estructural, sectorial, descartado— y calcula una prioridad que combina impacto, urgencia, proximidad al despacho y frescura.
 
 **La clasificación es una estimación automática y requiere validación de analista antes de cualquier uso institucional.**
+
+El motor lee título, materias, comisiones y tramitación, **no el articulado**. En los proyectos ómnibus eso no alcanza: una norma que afecta a la UAF puede viajar en el artículo 31 sin dejar rastro en ninguno de esos campos. Esos proyectos no se descartan: quedan marcados como **"Revisión de analista"**, visibles con el filtro *Solo pendientes de revisión*. Cuando confirmes que uno sí es relevante, agrégalo a `boletines_semilla.json`.
 
 El detalle técnico completo está en [`INSTRUCCIONES.md`](INSTRUCCIONES.md).
 

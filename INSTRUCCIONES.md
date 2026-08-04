@@ -80,7 +80,20 @@ Dos detalles del Senado que cuestan horas si no se saben: el parámetro `boletin
 
 Ninguna fuente basta sola: el Senado tiene el itinerario procesal, la Cámara tiene las materias y el patrocinio ministerial. El motor las fusiona por boletín normalizado, privilegiando al Senado en tramitación.
 
-Antes de gastar una llamada de red por boletín, el motor **preselecciona por título**. Un año legislativo trae más de mil proyectos y solo una fracción toca el perímetro de la UAF. Las semillas y la cartera nunca se filtran; los boletines sin título conocido tampoco se descartan a ciegas.
+Antes de gastar una llamada de red por boletín, el motor **preselecciona por título**, porque un año legislativo trae más de mil proyectos y solo una fracción toca el perímetro de la UAF.
+
+El descarte tiene un riesgo asimétrico: un falso positivo cuesta una llamada de red, un falso negativo cuesta que un proyecto relevante **nunca aparezca**. Por eso solo se descarta el caso claro —título informativo que puntúa bajo el umbral— y todo lo ambiguo pasa a consulta, en este orden:
+
+| Nivel | Qué es | Se consulta |
+|---|---|---|
+| 0 | Semillas y cartera | Siempre |
+| 1 | Pertinente por título | Siempre |
+| 2 | Sin título conocido | Siempre |
+| 3 | Título genérico en materia sensible (05, 07, 25, 03, 06, 02) | Hasta el tope |
+| 4 | Título genérico | Hasta el tope |
+| — | Título informativo bajo umbral | **Descartado** |
+
+Los **títulos genéricos** son el punto crítico. Un proyecto ómnibus del Ejecutivo agrupa decenas de materias heterogéneas bajo un encabezado que no describe nada: *"Para la reconstrucción nacional y el desarrollo económico y social"* (boletín 18216-05) reúne 38 artículos permanentes de materia tributaria, ambiental, laboral y municipal. Descartarlo por título sería perder justamente los casos donde una norma que afecta a la UAF viaja escondida entre otras cien. El tope de estos pases está en `MONITOR_MAX_GENERICOS` (140).
 
 ---
 
@@ -201,7 +214,11 @@ El parser se escribió **tolerante al esquema** a propósito: accede a los campo
 - La ventana de movimiento del Senado **no excede un mes**. Un proyecto que pase más de 30 días sin moverse solo se reconsulta por estar en la cartera o en las semillas; si nunca entró, requiere una conciliación para ser descubierto.
 - El servicio del Senado no expone un campo de comisión actual estable, por lo que la comisión se infiere de la descripción del último trámite y puede quedar vacía.
 - Los proyectos **refundidos** conservan boletines separados en la fuente. El motor guarda el campo `refundidos` cuando el servicio lo entrega, pero no unifica automáticamente las fichas.
-- La clasificación no lee el **texto del articulado**, solo título, materias, comisiones y tramitación. Un proyecto cuyo título no revele su contenido ALA/CFT puede quedar en nivel sectorial o descartado; para esos casos están las semillas.
+- La clasificación **no lee el texto del articulado**, solo título, materias, comisiones y tramitación. Esta es la limitación de fondo y no tiene solución automática: los servicios del Congreso no exponen el articulado en formato estructurado.
+
+  Para acotarla, los proyectos con título genérico que no alcanzan a clasificarse quedan retenidos con la marca **"Revisión de analista"** en lugar de descartarse. Aparecen en el tablero con el filtro *Solo pendientes de revisión* y en el indicador del encabezado. El motor está diciendo ahí, explícitamente, que no tiene material para pronunciarse — no que el proyecto sea irrelevante.
+
+  Cuando confirmes que uno de esos proyectos sí toca a la UAF, agrégalo a `boletines_semilla.json` con una nota. Así queda en seguimiento permanente y con el criterio registrado.
 
 ---
 

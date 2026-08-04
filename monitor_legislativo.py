@@ -1479,6 +1479,15 @@ def construye_registro(proy: dict[str, Any]) -> dict[str, Any]:
     reg["ejes_legibles"] = [ETIQUETAS_EJES.get(e, e) for e in reg["ejes"]]
     reg["impacto_legible"] = ETIQUETAS_IMPACTO.get(pert["nivel"], pert["nivel"])
 
+    # El motor lee título, materias, comisiones y tramitación, no el articulado.
+    # En un proyecto ómnibus eso no alcanza: una norma que alcanza a la UAF puede
+    # viajar en el artículo 31 sin dejar rastro en ninguno de esos campos. En vez
+    # de fingir una clasificación, el registro se marca para revisión de analista.
+    reg["requiere_revision_manual"] = bool(
+        titulo_generico(reg.get("titulo", ""))
+        and pert["nivel"] in ("descartado", "seguimiento", "sectorial")
+    )
+
     reg["urgencia_clave"] = normaliza_urgencia(reg.get("urgencia"))
     reg["urgencia_legible"] = ETIQUETAS_URGENCIA.get(reg["urgencia_clave"], "Sin urgencia")
     reg["etapa_ordinal"] = etapa_ordinal(reg.get("etapa"), reg.get("subetapa"))
@@ -1707,33 +1716,105 @@ def descubre(modo: str, estado: dict[str, Any]) -> tuple[dict[str, dict[str, Any
     return candidatos, resumen
 
 
+# Títulos que no describen el contenido, sino el continente. Los proyectos
+# ómnibus del Ejecutivo agrupan decenas de materias heterogéneas bajo un
+# encabezado genérico: el boletín 18216-05 ("Para la reconstrucción nacional y
+# el desarrollo económico y social") reúne 38 artículos permanentes de materia
+# tributaria, ambiental, laboral y municipal. Descartarlos por título sería
+# perder justamente los proyectos donde una norma que afecta a la UAF viaja
+# escondida entre otras cien.
+PATRONES_TITULO_GENERICO = [
+    r"^para la (?:reconstruccion|reactivacion|modernizacion|reforma)",
+    r"^modifica diversos cuerpos legales\s*$",
+    r"^modifica (?:los|las|diversas) (?:leyes|normas|disposiciones) que (?:indica|senala)\s*$",
+    r"^(?:establece|dicta|aprueba|fija) (?:normas|medidas|disposiciones) (?:que indica|que senala|varias|diversas)",
+    r"\bley (?:de|sobre) presupuestos\b",
+    r"\bagenda (?:economica|legislativa|de crecimiento|antidelincuencia)\b",
+    r"\b(?:miscelanea|misceláneo|misceláneas|omnibus)\b",
+    r"^(?:sobre|acerca de) (?:medidas|materias) (?:economicas|tributarias|varias)",
+    r"^(?:reforma|reajuste|modernizacion) (?:tributaria|del estado|institucional)",
+    r"\bcrecimiento economico\b",
+    r"\bdesarrollo economico y social\b",
+]
+
+# Códigos de materia del boletín con densidad histórica de normas que alcanzan
+# a la UAF: 05 Hacienda, 07 Justicia, 25 Seguridad Pública, 03 Economía,
+# 06 Gobierno Interior, 02 Defensa. No basta por sí solo para incluir, pero
+# eleva a un título genérico por sobre el resto de la cola.
+MATERIAS_SENSIBLES = {"02", "03", "05", "06", "07", "25"}
+
+MAX_GENERICOS = env_int("MONITOR_MAX_GENERICOS", 140)
+
+
+@lru_cache(maxsize=2048)
+def titulo_generico(titulo: str) -> bool:
+    """Indica si el título es un contenedor y no una descripción del contenido.
+
+    Un título muy corto también cuenta: no aporta información suficiente para
+    decidir el descarte, y el costo de equivocarse hacia la exclusión es mucho
+    mayor que el de una consulta extra al servicio.
+    """
+    plano = normaliza(titulo)
+    if not plano:
+        return True
+    if len(plano.split()) <= 6:
+        return True
+    return any(re.search(pat, plano) for pat in PATRONES_TITULO_GENERICO)
+
+
 def preselecciona(candidatos: dict[str, dict[str, Any]], modo: str) -> list[str]:
-    """Filtra por título antes de gastar una llamada de red por boletín.
+    """Decide qué boletines merecen una consulta completa a los servicios.
 
     Un año legislativo trae más de mil proyectos y solo una fracción toca el
-    perímetro de la UAF. Descargar la ficha completa de todos sería lento y
-    descortés con el servicio. Cuando ya conocemos el título por el canal de
-    descubrimiento, aplicamos el motor de pertinencia sobre él; cuando no lo
-    conocemos, el boletín pasa igual porque no hay base para descartarlo.
+    perímetro de la UAF; descargar la ficha de todos sería lento y descortés
+    con el servicio. Pero el descarte por título tiene un riesgo asimétrico:
+    un falso positivo cuesta una llamada de red, un falso negativo cuesta que
+    un proyecto relevante nunca aparezca en el tablero.
+
+    Por eso se ordena en niveles y solo se descarta el caso claro: título
+    informativo que puntúa bajo el umbral. Todo lo ambiguo pasa a consulta.
     """
-    seleccion: list[tuple[float, str]] = []
+    # nivel 0 cartera y semillas · 1 pertinente por título · 2 sin título
+    # · 3 título genérico en materia sensible · 4 título genérico
+    niveles: list[tuple[int, float, str]] = []
+    genericos = 0
+
     for boletin, datos in candidatos.items():
         if datos.get("es_semilla") or "cartera" in (datos.get("canales") or []):
-            seleccion.append((10_000.0, boletin))
+            niveles.append((0, 10_000.0, boletin))
             continue
+
         titulo = datos.get("titulo") or ""
         if not titulo:
-            seleccion.append((500.0, boletin))
+            niveles.append((2, 0.0, boletin))
             continue
+
         pert = evalua_pertinencia({"titulo": titulo,
                                    "materias": datos.get("materias") or []})
-        if pert["nivel"] == "descartado":
+        if pert["nivel"] != "descartado":
+            niveles.append((1, pert["puntaje"], boletin))
             continue
-        seleccion.append((pert["puntaje"], boletin))
 
-    seleccion.sort(reverse=True)
+        # Puntuó bajo, pero el título no describe el contenido: no se descarta.
+        if titulo_generico(titulo):
+            sensible = materia_boletin(boletin) in MATERIAS_SENSIBLES
+            niveles.append((3 if sensible else 4, pert["puntaje"], boletin))
+            genericos += 1
+
+    # Los genéricos se consultan, pero acotados: son una red de seguridad, no
+    # una puerta abierta a barrer el Congreso completo en cada corrida.
+    niveles.sort(key=lambda x: (x[0], -x[1]))
+    seleccion: list[str] = []
+    usados_genericos = 0
+    for nivel, _, boletin in niveles:
+        if nivel >= 3:
+            if usados_genericos >= MAX_GENERICOS:
+                continue
+            usados_genericos += 1
+        seleccion.append(boletin)
+
     limite = MAX_ENRIQUECER_RAPIDO if modo == "rapido" else MAX_ENRIQUECER_CONCILIACION
-    return [b for _, b in seleccion[:limite]]
+    return seleccion[:limite]
 
 
 def enriquece(boletin: str, previo: dict[str, Any]) -> dict[str, Any] | None:
@@ -1800,6 +1881,8 @@ def calcula_metricas(proyectos: list[dict[str, Any]], ahora: datetime) -> dict[s
         "prioridad_alta": sum(1 for p in vigentes if p.get("banda_prioridad") == "alta"),
         "movimiento_7d": len(movidos(7)),
         "movimiento_30d": len(movidos(30)),
+        "requieren_revision_manual": sum(1 for p in vigentes
+                                        if p.get("requiere_revision_manual")),
         "estancados_180d": sum(1 for p in vigentes
                                if (p.get("dias_sin_movimiento") or 0) > 180),
         "pipeline": [{"ordinal": k, "etapa": nombres_etapa.get(k, str(k)), "total": v}
@@ -1990,7 +2073,8 @@ def ejecutar(modo: str) -> int:
             continue
 
         es_semilla = bool(candidatos.get(reg["boletin"], {}).get("es_semilla"))
-        if reg["nivel_impacto"] == "descartado" and not es_semilla:
+        revisable = bool(reg.get("requiere_revision_manual")) and reg.get("vigente")
+        if reg["nivel_impacto"] == "descartado" and not es_semilla and not revisable:
             descartados.append({
                 "boletin": reg["boletin"], "titulo": reg.get("titulo", ""),
                 "puntaje_pertinencia": reg.get("puntaje_pertinencia", 0),
@@ -1999,8 +2083,9 @@ def ejecutar(modo: str) -> int:
             })
             huellas.pop(reg["boletin"], None)
             continue
-        if es_semilla and reg["nivel_impacto"] == "descartado":
-            # Una semilla se conserva aunque no puntúe: es decisión editorial.
+        if reg["nivel_impacto"] == "descartado" and (es_semilla or revisable):
+            # Se conserva: una semilla por decisión editorial, un ómnibus porque
+            # el motor no tiene material para pronunciarse sobre él.
             reg["nivel_impacto"] = "seguimiento"
             reg["impacto_legible"] = ETIQUETAS_IMPACTO["seguimiento"]
             reg.update(calcula_prioridad(reg))
@@ -2082,6 +2167,8 @@ def ejecutar(modo: str) -> int:
             "registros_publicados": len(registros),
             "registros_conservados_sin_revisar": conservados,
             "descartados_por_pertinencia": len(descartados),
+            "retenidos_para_revision_manual": sum(
+                1 for r in registros if r.get("requiere_revision_manual")),
             "novedades_corrida": len(novedades),
             "nuevos_en_cartera": sum(1 for n in novedades if n.get("novedad") == "nuevo"),
             "con_movimiento": sum(1 for n in novedades if n.get("novedad") == "movimiento"),

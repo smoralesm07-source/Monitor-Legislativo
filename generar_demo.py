@@ -181,6 +181,25 @@ CASOS = [
     },
 ]
 
+CASOS.append({
+    "boletin": "18216-05",
+    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+    "fecha_ingreso": dias(104), "iniciativa": "Mensaje", "camara_origen": "C.Diputados",
+    "urgencia": "Suma", "etapa": "Comisión Mixta",
+    "subetapa": "Informe de comisión mixta",
+    "materias": ["HACIENDA", "TRIBUTACION", "INVERSION"],
+    "ministerios": ["Ministerio de Hacienda"],
+    "comisiones": ["Comisión de Hacienda", "Comisión Mixta"],
+    "tramitacion": [
+        {"fecha": dias(104), "descripcion": "Ingreso de proyecto",
+         "etapa": "Primer trámite constitucional", "camara": "C.Diputados"},
+        {"fecha": dias(76), "descripcion": "Aprobado en general y particular. Pasa al Senado",
+         "etapa": "Segundo trámite constitucional", "camara": "Senado"},
+        {"fecha": dias(14), "descripcion": "Rechazo de modificaciones. Pasa a comisión mixta",
+         "etapa": "Comisión Mixta", "camara": "C.Diputados"},
+    ],
+})
+
 NOVEDADES = {"15975-25": "movimiento", "18488-07": "urgencia", "18407-25": "nuevo"}
 
 

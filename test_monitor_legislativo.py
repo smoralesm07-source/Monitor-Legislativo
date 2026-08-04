@@ -538,6 +538,74 @@ def prueba_seguridad() -> None:
 
 
 # ---------------------------------------------------------------------------
+# 13. Proyectos ómnibus: el caso 18216-05
+# ---------------------------------------------------------------------------
+
+def prueba_omnibus() -> None:
+    print("\n13. Proyectos omnibus y revision manual")
+
+    OMNIBUS = "Para la reconstruccion nacional y el desarrollo economico y social"
+
+    # El titulo no da ninguna senal: el motor NO debe pretender clasificarlo.
+    pert = m.evalua_pertinencia({"titulo": OMNIBUS})
+    check(pert["nivel"] == "descartado", "el titulo omnibus no puntua por si solo",
+          pert["nivel"])
+
+    # Pero debe reconocerse como contenedor, no como descripcion de contenido.
+    check(m.titulo_generico(OMNIBUS), "detecta el titulo omnibus")
+    check(m.titulo_generico("Modifica diversos cuerpos legales"), "detecta encabezado vacio")
+    check(m.titulo_generico("Ley de Presupuestos para el sector publico"), "detecta ley de presupuestos")
+    check(m.titulo_generico("Reforma tributaria"), "detecta titulo corto")
+    check(not m.titulo_generico(
+        "Modifica diversos cuerpos legales, con el objeto de agravar las sanciones "
+        "aplicables en materia de lavado de activos"),
+        "un titulo informativo NO es generico")
+    check(not m.titulo_generico(
+        "Declara el 8 de octubre de cada anio como el Dia Nacional de Punta Angamos"),
+        "una efemeride con titulo descriptivo NO es generica")
+
+    # Antes de la correccion, este boletin se descartaba sin consultarlo nunca.
+    candidatos = {
+        "18216-05": {"boletin": "18216-05", "canales": ["senado_movimiento"], "titulo": OMNIBUS},
+        "18437-37": {"boletin": "18437-37", "canales": ["senado_movimiento"],
+                     "titulo": "Declara el 8 de octubre de cada anio como el Dia Nacional de Punta Angamos"},
+        "15975-25": {"boletin": "15975-25", "canales": ["senado_movimiento"],
+                     "titulo": "Crea el Subsistema de Inteligencia Economica contra el lavado de activos"},
+    }
+    sel = m.preselecciona(candidatos, "rapido")
+    check("18216-05" in sel, "el omnibus llega a consulta pese a puntuar cero")
+    check("18437-37" not in sel, "la efemeride sigue descartada sin gastar red")
+    check(sel.index("15975-25") < sel.index("18216-05"),
+          "lo pertinente por titulo se consulta antes que el omnibus", str(sel))
+
+    # El registro queda marcado para revision, no clasificado a la fuerza.
+    reg = m.construye_registro({
+        "boletin": "18216-05", "titulo": OMNIBUS, "iniciativa": "Mensaje",
+        "urgencia": "Suma", "etapa": "Comision Mixta",
+        "fecha_ingreso": "22/04/2026",
+        "tramitacion": [{"fecha": "2026-07-21", "descripcion": "Pasa a comision mixta"}],
+    })
+    check(reg["requiere_revision_manual"] is True,
+          "el omnibus se marca para revision manual")
+    check(reg["etapa_ordinal"] == 4, "ordinal de comision mixta", str(reg["etapa_ordinal"]))
+
+    # Un proyecto claramente pertinente no debe quedar marcado como dudoso.
+    claro = m.construye_registro({
+        "boletin": "15975-25",
+        "titulo": "Crea el Subsistema de Inteligencia Economica y establece medidas "
+                  "contra el lavado de activos y el crimen organizado",
+        "etapa": "Segundo tramite constitucional", "urgencia": "Suma",
+    })
+    check(claro["requiere_revision_manual"] is False,
+          "un proyecto de impacto directo no requiere revision manual")
+
+    # La metrica expone cuantos quedaron pendientes de criterio humano.
+    met = m.calcula_metricas([reg, claro], m.ahora_cl())
+    check(met["requieren_revision_manual"] == 1, "metrica de revision manual",
+          str(met["requieren_revision_manual"]))
+
+
+# ---------------------------------------------------------------------------
 
 def main() -> int:
     print("=" * 72)
@@ -545,7 +613,8 @@ def main() -> int:
     print("=" * 72)
     for fn in (prueba_boletines, prueba_parser, prueba_fechas, prueba_pertinencia,
                prueba_ejes, prueba_estado_procesal, prueba_fusion, prueba_huella,
-               prueba_registro, prueba_preseleccion, prueba_urls, prueba_seguridad):
+               prueba_registro, prueba_preseleccion, prueba_urls, prueba_seguridad,
+               prueba_omnibus):
         fn()
     print("\n" + "=" * 72)
     if FALLAS:
