@@ -599,6 +599,41 @@ def prueba_omnibus() -> None:
     check(claro["requiere_revision_manual"] is False,
           "un proyecto de impacto directo no requiere revision manual")
 
+
+    # Regresion: un titulo breve pero descriptivo NO debe quedar retenido.
+    # "Ley de proteccion tarifaria electrica" (boletin 18384-08) tiene cinco
+    # palabras y describe con exactitud lo que el proyecto hace. La primera
+    # version de la regla lo confundia con un omnibus y lo dejaba en la cartera
+    # como "pendiente de revision" de forma indefinida.
+    TARIFA = "Ley de proteccion tarifaria electrica"
+    check(not m.titulo_omnibus(TARIFA), "titulo breve descriptivo NO es omnibus")
+    check(m.titulo_poco_informativo(TARIFA), "pero si es escueto: se consulta igual")
+    check("18384-08" in m.preselecciona(
+        {"18384-08": {"boletin": "18384-08", "canales": ["senado_movimiento"], "titulo": TARIFA}},
+        "rapido"), "el titulo escueto llega a consulta")
+    tarifa = m.construye_registro({"boletin": "18384-08", "titulo": TARIFA,
+                                   "etapa": "Primer tramite constitucional"})
+    check(tarifa["requiere_revision_manual"] is False,
+          "materia no sensible + titulo descriptivo: NO se retiene")
+    check(tarifa["nivel_impacto"] == "descartado", "queda descartado tras el enriquecimiento",
+          tarifa["nivel_impacto"])
+
+    # En cambio un titulo escueto en materia sensible si merece criterio humano.
+    reforma = m.construye_registro({"boletin": "18100-05", "titulo": "Reforma tributaria",
+                                    "etapa": "Primer tramite constitucional"})
+    check(reforma["requiere_revision_manual"] is True,
+          "titulo escueto en materia sensible (05) si se retiene")
+
+    # El omnibus se retiene cualquiera sea su materia.
+    check(m.titulo_omnibus(OMNIBUS), "el omnibus se reconoce como contenedor")
+
+    # Palabras vacias: "Modifica", "Ley", "de" no cuentan como contenido.
+    check(m.titulo_poco_informativo("Modifica la ley de rentas municipales"),
+          "las palabras funcionales no inflan el conteo")
+    check(not m.titulo_poco_informativo(
+        "Establece un monto maximo permitido para transacciones en dinero en efectivo"),
+        "un titulo sustantivo no se considera escueto")
+
     # La metrica expone cuantos quedaron pendientes de criterio humano.
     met = m.calcula_metricas([reg, claro], m.ahora_cl())
     check(met["requieren_revision_manual"] == 1, "metrica de revision manual",

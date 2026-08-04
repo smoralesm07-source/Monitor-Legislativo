@@ -93,7 +93,12 @@ El descarte tiene un riesgo asimétrico: un falso positivo cuesta una llamada de
 | 4 | Título genérico | Hasta el tope |
 | — | Título informativo bajo umbral | **Descartado** |
 
-Los **títulos genéricos** son el punto crítico. Un proyecto ómnibus del Ejecutivo agrupa decenas de materias heterogéneas bajo un encabezado que no describe nada: *"Para la reconstrucción nacional y el desarrollo económico y social"* (boletín 18216-05) reúne 38 artículos permanentes de materia tributaria, ambiental, laboral y municipal. Descartarlo por título sería perder justamente los casos donde una norma que afecta a la UAF viaja escondida entre otras cien. El tope de estos pases está en `MONITOR_MAX_GENERICOS` (140).
+Hay dos razones distintas para no descartar por título, y conviene no confundirlas:
+
+- **Título ómnibus** — agrupa materias que no anuncia (*"Para la reconstrucción nacional..."*, *"Modifica diversos cuerpos legales"*, una ley de presupuestos). Se consulta **y además se retiene** marcado para revisión de analista, porque ni el título ni las materias permiten concluir nada sobre 38 artículos heterogéneos.
+- **Título escueto** — tres o menos palabras sustantivas. Solo justifica **gastar la consulta** para ver materias y comisiones reales. Si con ese material completo sigue sin señales, se descarta como cualquier otro. Un título breve pero descriptivo —*"Ley de protección tarifaria eléctrica"*— no debe quedar en la cartera indefinidamente. Solo se retiene si además el código de materia es sensible.
+
+Los **títulos ómnibus** son el punto crítico. Un proyecto ómnibus del Ejecutivo agrupa decenas de materias heterogéneas bajo un encabezado que no describe nada: *"Para la reconstrucción nacional y el desarrollo económico y social"* (boletín 18216-05) reúne 38 artículos permanentes de materia tributaria, ambiental, laboral y municipal. Descartarlo por título sería perder justamente los casos donde una norma que afecta a la UAF viaja escondida entre otras cien. El tope de estos pases está en `MONITOR_MAX_GENERICOS` (140).
 
 ---
 
@@ -113,6 +118,8 @@ Cuatro capas:
 El puntaje pondera **dónde** aparece la señal: el título de un proyecto es una declaración de propósito y pesa el triple que el texto de la tramitación. La sigla "UAF" aislada solo cuenta si el entorno es financiero o penal, para no capturar homónimos.
 
 Cada registro guarda la **evidencia textual** que motivó su clasificación, visible al expandir la ficha en el tablero. Esto permite que un analista audite por qué el motor incluyó o excluyó un boletín, en lugar de confiar en un número.
+
+En el tablero esas cuatro capas se presentan agrupadas en **tres niveles**: nivel 1 corresponde a `directo`; nivel 2 reúne `estructural` y `sectorial`, más cualquier proyecto cuyos ejes toquen facultades de la UAF, delitos base o sujetos obligados; nivel 3 recoge el resto. La agrupación se calcula en el tablero, de modo que un cambio de criterio no obliga a reconstruir la cartera.
 
 Sobre esa capa va la **prioridad**:
 

@@ -1483,9 +1483,13 @@ def construye_registro(proy: dict[str, Any]) -> dict[str, Any]:
     # En un proyecto ómnibus eso no alcanza: una norma que alcanza a la UAF puede
     # viajar en el artículo 31 sin dejar rastro en ninguno de esos campos. En vez
     # de fingir una clasificación, el registro se marca para revisión de analista.
+    titulo = reg.get("titulo", "")
+    ambiguo = titulo_omnibus(titulo) or (
+        titulo_poco_informativo(titulo)
+        and materia_boletin(boletin) in MATERIAS_SENSIBLES
+    )
     reg["requiere_revision_manual"] = bool(
-        titulo_generico(reg.get("titulo", ""))
-        and pert["nivel"] in ("descartado", "seguimiento", "sectorial")
+        ambiguo and pert["nivel"] in ("descartado", "seguimiento", "sectorial")
     )
 
     reg["urgencia_clave"] = normaliza_urgencia(reg.get("urgencia"))
@@ -1747,19 +1751,43 @@ MAX_GENERICOS = env_int("MONITOR_MAX_GENERICOS", 140)
 
 
 @lru_cache(maxsize=2048)
-def titulo_generico(titulo: str) -> bool:
-    """Indica si el título es un contenedor y no una descripción del contenido.
+def titulo_omnibus(titulo: str) -> bool:
+    """El título es un contenedor: agrupa materias que no anuncia.
 
-    Un título muy corto también cuenta: no aporta información suficiente para
-    decidir el descarte, y el costo de equivocarse hacia la exclusión es mucho
-    mayor que el de una consulta extra al servicio.
+    Es la condición para retener un proyecto pendiente de criterio humano.
+    Un ómnibus reúne decenas de normas heterogéneas, así que la ausencia de
+    señales en el título, las materias y los trámites no permite concluir nada.
+    """
+    plano = normaliza(titulo)
+    return bool(plano) and any(re.search(pat, plano) for pat in PATRONES_TITULO_GENERICO)
+
+
+# Palabras que no aportan contenido al medir cuán informativo es un título.
+VACIAS_TITULO = {"ley", "de", "del", "la", "las", "el", "los", "y", "o", "en",
+                 "para", "por", "con", "sobre", "que", "un", "una", "al", "a",
+                 "sus", "su", "e", "modifica", "establece", "crea", "regula"}
+
+
+@lru_cache(maxsize=2048)
+def titulo_poco_informativo(titulo: str) -> bool:
+    """El título es demasiado escueto para descartar el boletín con confianza.
+
+    Distinto de ``titulo_omnibus``: aquí solo se justifica gastar una consulta
+    para mirar las materias y comisiones reales. Si con ese material completo
+    el proyecto sigue sin señales, se descarta como cualquier otro. Un título
+    breve pero descriptivo —"Ley de protección tarifaria eléctrica"— no debe
+    quedar retenido de forma indefinida en la cartera.
     """
     plano = normaliza(titulo)
     if not plano:
         return True
-    if len(plano.split()) <= 6:
-        return True
-    return any(re.search(pat, plano) for pat in PATRONES_TITULO_GENERICO)
+    sustantivas = [w for w in plano.split() if w not in VACIAS_TITULO]
+    return len(sustantivas) <= 3
+
+
+def titulo_generico(titulo: str) -> bool:
+    """Motivos para no descartar un boletín solo por su título."""
+    return titulo_omnibus(titulo) or titulo_poco_informativo(titulo)
 
 
 def preselecciona(candidatos: dict[str, dict[str, Any]], modo: str) -> list[str]:

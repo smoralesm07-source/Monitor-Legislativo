@@ -101,9 +101,19 @@ No hay que hacer nada: el monitor corre solo y publica en el tablero.
 - `MOVIMIENTO` — avanzó procesalmente
 - `CAMBIO DE URGENCIA` — el Ejecutivo modificó la calificación, y eso cambia el tiempo real disponible para incidir técnicamente
 
+**El tablero se organiza en tres niveles**, del más al menos crítico para el área:
+
+| Nivel | Qué agrupa |
+|---|---|
+| **1 · Impacto en la Ley 19.913** | Nombran la ley, la UAF, el reporte de operaciones sospechosas o el régimen de sujetos obligados |
+| **2 · Perímetro regulatorio** | Tocan delitos base, sujetos obligados o el sistema ALA/CFT sin modificar la ley directamente |
+| **3 · Seguimiento** | Sin señales suficientes en el material disponible; incluye los ómnibus pendientes de criterio de analista |
+
 **En el tablero:**
 
-- El encabezado muestra las **tres iniciativas que se movieron más recientemente** dentro de la vista filtrada.
+- El **panel de novedades** abre la vista: cuatro indicadores de pulso y, debajo, dos columnas. La principal muestra los movimientos recientes de **nivel 1** en tarjetas grandes; la lateral, el nivel 2 en lista compacta. Todo ordenado de más reciente a más antiguo, con distintivo cuando hay novedad respecto de la corrida anterior.
+- Si ningún proyecto de nivel 1 aparece en la vista, el panel lo dice explícitamente. Esa ausencia es información, no un hueco.
+- Las **tarjetas de composición por nivel** muestran cuántos proyectos hay en cada uno, cuántos con urgencia y cuántos se movieron en 30 días. Clic para filtrar.
 - **Clic en cualquier boletín** —en el encabezado, en el itinerario o en el listado— abre una **ficha emergente** con todo lo levantado: estado procesal, urgencia, ejes, sectores, materias, autoría, ministerios, tramitación completa, votaciones, historial de urgencias, enlaces a las fuentes y **la evidencia textual que motivó la clasificación**. Se cierra al hacer clic fuera, con la tecla `Esc` o con el botón de cierre.
 - Los **filtros que se aplican con un clic** (ejes, sectores, urgencias, cámara, trámite en el itinerario, botones del encabezado) **se anulan al volver a hacer clic** sobre el mismo elemento.
 - El itinerario legislativo muestra dónde está cada proyecto; el color del borde indica la urgencia. Clic en el nombre de un trámite filtra por esa etapa.
