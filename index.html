@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Monitor Legislativo UAF · Tramitación de proyectos de ley</title>
+<style>
+:root{
+  --uaf-950:#062f43;--uaf-900:#083d54;--uaf-800:#07566b;--uaf-700:#087985;
+  --uaf-600:#1196a1;--uaf-500:#29aab3;--uaf-300:#8fd0d5;--uaf-100:#e7f5f6;
+  --ink:#172938;--muted:#657786;--faint:#8b99a5;--paper:#f3f6f7;--surface:#fff;
+  --line:#dce5e8;--line2:#eaf0f2;--red:#b33d49;--amber:#a46918;--green:#1f7258;
+  --blue:#3e6f9f;--purple:#745f9d;--orange:#b26435;--sidebar:292px;
+  --radius:14px;--shadow:0 8px 28px rgba(11,55,75,.065);
+  --sans:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+  --mono:"Cascadia Mono","SFMono-Regular",Consolas,monospace;
+}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.45}
+button,input,select{font:inherit}button{touch-action:manipulation}.hidden{display:none!important}
+:focus-visible{outline:2px solid var(--uaf-500);outline-offset:2px}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+
+.statusbar{height:42px;position:sticky;top:0;z-index:100;background:var(--uaf-950);color:#fff;padding:0 17px;display:flex;align-items:center;gap:10px;font:11px var(--mono);box-shadow:0 2px 12px rgba(0,0,0,.16)}
+.statusbar .dot{width:8px;height:8px;border-radius:50%;background:#54d09a;box-shadow:0 0 0 4px rgba(84,208,154,.13)}
+.statusbar .grow{flex:1}.statusbar .muted{color:#a9c6d1}
+.statusbar button{border:1px solid #35697b;background:transparent;color:#fff;border-radius:7px;padding:5px 9px;cursor:pointer}
+.statusbar button:hover{background:#124e63}
+.mobile-filter{display:none}
+
+.app{display:grid;grid-template-columns:var(--sidebar) minmax(0,1fr);min-height:calc(100vh - 42px)}
+.sidebar{position:sticky;top:42px;height:calc(100vh - 42px);overflow:auto;background:linear-gradient(180deg,var(--uaf-950),#0a455a);color:#fff;border-right:1px solid rgba(255,255,255,.08);padding:21px 18px 24px;scrollbar-width:thin;scrollbar-color:#3b7382 transparent}
+.brand{display:flex;gap:12px;align-items:center;padding:0 3px 18px;border-bottom:1px solid rgba(255,255,255,.12)}
+.brand-mark{height:43px;width:43px;border-radius:11px;background:var(--uaf-500);display:grid;place-items:center;font-weight:900;font-size:15px;letter-spacing:.02em}
+.brand h1{font-size:14px;line-height:1.2;margin:0}.brand p{font:10px var(--mono);color:#b7d1d9;margin:4px 0 0}
+.side-section{padding:17px 2px 0}
+.side-title{display:flex;justify-content:space-between;align-items:center;margin-bottom:9px}
+.side-title h2{font:700 10px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:#b8d4db;margin:0}
+.side-title span{font:10px var(--mono);color:#7db3bf}
+.field{display:flex;flex-direction:column;gap:5px;margin-bottom:10px}
+.field label{font:700 9px var(--mono);letter-spacing:.075em;text-transform:uppercase;color:#a9cbd3}
+.field input,.field select{width:100%;min-width:0;border:1px solid rgba(255,255,255,.15);background:rgba(255,255,255,.075);color:#fff;border-radius:8px;padding:8px 9px;outline:none;font-size:12px}
+.field input::placeholder{color:#9ebcc5}
+.field input:focus,.field select:focus{border-color:#85d0d7;background:rgba(255,255,255,.11)}
+.field select option{background:#0b455a;color:#fff}
+.toggles{display:grid;gap:6px;margin:4px 0 2px}
+.toggle{display:flex;align-items:center;gap:8px;font-size:11px;color:#cfe4e9;cursor:pointer}
+.toggle input{width:auto;accent-color:var(--uaf-500)}
+.side-actions{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin-top:13px}
+.btn{border:1px solid rgba(255,255,255,.24);border-radius:8px;padding:9px 10px;background:transparent;color:#fff;font-weight:750;font-size:11px;cursor:pointer}
+.btn.primary{background:#fff;color:var(--uaf-900);border-color:#fff}
+.btn:hover{transform:translateY(-1px)}
+.side-result{margin-top:11px;padding:9px 10px;border-radius:9px;background:rgba(255,255,255,.07);font:10px var(--mono);color:#c3dce2}
+.side-result b{color:#fff;font-size:12px}
+.side-links{display:grid;gap:7px;margin-top:18px;padding-top:15px;border-top:1px solid rgba(255,255,255,.12)}
+.side-links a{color:#c7e0e5;text-decoration:none;font-size:11px}
+.side-links a:hover{color:#fff;text-decoration:underline}
+
+.main{min-width:0;width:100%;padding:22px 22px 65px}
+.section-title{display:flex;align-items:end;justify-content:space-between;gap:14px;margin:23px 0 10px}
+.main-wrap>.section-title:first-child{margin-top:0}
+.section-title h2{margin:0;color:var(--uaf-950);font-size:18px;letter-spacing:-.02em}
+.section-title p{margin:3px 0 0;color:var(--muted);font-size:11px}
+.eyebrow{font:700 9px var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--uaf-700)}
+.hint{font:10px var(--mono);color:var(--faint)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow)}
+.demo-banner{margin:0 0 14px;border:1px solid #e6cfa8;border-left:4px solid var(--amber);background:#fdf8ef;border-radius:11px;padding:11px 13px}
+.demo-banner b{display:block;color:#7a4d12;font-size:12.5px}
+.demo-banner span{display:block;color:#7d6b52;font-size:11px;margin-top:3px;line-height:1.5}
+
+.hero{display:grid;grid-template-columns:235px 1fr;overflow:hidden}
+.hero-score{padding:22px;background:linear-gradient(145deg,var(--uaf-100),#f8fcfc);border-right:1px solid var(--uaf-300);display:flex;flex-direction:column;justify-content:center}
+.hero-score .label{font:700 9px var(--mono);text-transform:uppercase;letter-spacing:.12em;color:var(--uaf-800)}
+.hero-score .number{font-size:58px;line-height:1;font-weight:850;color:var(--uaf-950);margin:7px 0}
+.hero-score .trend{font-size:12px;font-weight:750;color:var(--muted)}
+.hero-body{padding:18px 20px}
+.hero-kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.hero-kpi{border:1px solid var(--line2);border-radius:9px;padding:10px;background:#fbfdfd}
+.hero-kpi span{display:block;color:var(--muted);font-size:9.5px}
+.hero-kpi b{display:block;color:var(--uaf-950);font-size:17px;margin-top:2px}
+.hero-alert{margin-top:10px;border:1px solid var(--line);border-left:4px solid var(--green);border-radius:10px;padding:10px 12px;background:#f7fbf9;display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:10px;align-items:center}
+.hero-alert.hot{border-left-color:var(--red);background:#fff8f8}
+.hero-alert .alert-icon{height:32px;width:32px;border-radius:9px;display:grid;place-items:center;background:#e5f4ee;color:var(--green);font-weight:900;font-size:15px}
+.hero-alert.hot .alert-icon{background:#fae8ea;color:var(--red)}
+.hero-alert .alert-copy span{display:block;font:700 9px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.hero-alert .alert-copy b{display:block;font-size:12.5px;color:var(--uaf-950);margin-top:2px}
+.hero-alert .alert-copy small{display:block;color:var(--muted);font-size:10px;margin-top:2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.hero-alert a{color:var(--uaf-800);font-size:10px;font-weight:800;text-decoration:none;white-space:nowrap}
+.hero-alert a:hover{text-decoration:underline}
+.hero-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.hero-action{border:1px solid var(--uaf-300);background:var(--uaf-100);color:var(--uaf-900);border-radius:9px;padding:8px 11px;font-size:10.5px;font-weight:800;cursor:pointer}
+.hero-action.context{border-color:#d3dfe4;background:#f4f7f8;color:#455c69}
+.hero-action:hover{transform:translateY(-1px);box-shadow:0 4px 12px rgba(8,61,84,.10)}
+.hero-action.on{background:var(--uaf-900);color:#fff;border-color:var(--uaf-900)}
+
+.metrics{display:grid;grid-template-columns:repeat(5,1fr);gap:9px}
+.metric{padding:13px 14px;min-width:0}
+.metric span{display:block;color:var(--muted);font-size:9px;text-transform:uppercase;letter-spacing:.065em}
+.metric b{display:block;font-size:25px;color:var(--uaf-950);margin:3px 0 1px}
+.metric small{display:block;color:var(--faint);font-size:10px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+/* Itinerario legislativo: la pieza central del tablero. */
+.pipeline-card{padding:15px 16px 12px;overflow:hidden}
+.pipeline-head{display:flex;justify-content:space-between;align-items:flex-start;gap:14px;margin-bottom:12px}
+.pipeline-head h3{margin:0;color:var(--uaf-950);font-size:13.5px}
+.pipeline-head .sub{color:var(--muted);font-size:10px;margin-top:2px}
+.pipeline{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px;align-items:start}
+.stage{border:1px solid var(--line2);border-radius:11px;background:#fbfdfd;padding:9px;min-height:96px;display:flex;flex-direction:column;gap:7px}
+.stage.active{border-color:var(--uaf-500);background:var(--uaf-100)}
+.stage-head{display:flex;justify-content:space-between;align-items:baseline;gap:6px;border-bottom:1px solid var(--line2);padding-bottom:6px}
+.stage-head b{font-size:10.5px;color:var(--uaf-950);line-height:1.25}
+.stage-head i{font:800 12px var(--mono);color:var(--uaf-700);font-style:normal}
+.stage-bar{height:4px;border-radius:99px;background:#e4ecee;overflow:hidden}
+.stage-bar span{display:block;height:100%;background:var(--uaf-600);border-radius:99px}
+.chip-list{display:grid;gap:5px}
+.chip{border:1px solid var(--line);background:#fff;border-radius:8px;padding:6px 7px;text-align:left;cursor:pointer;color:inherit;display:grid;gap:3px;border-left-width:3px}
+.chip:hover{border-color:var(--uaf-500);box-shadow:0 3px 9px rgba(8,61,84,.09)}
+.chip.u-inmediata{border-left-color:var(--red)}
+.chip.u-suma{border-left-color:var(--orange)}
+.chip.u-simple{border-left-color:var(--amber)}
+.chip.u-ninguna{border-left-color:#c4d1d6}
+.chip b{font:800 9px var(--mono);color:var(--uaf-800)}
+.chip small{font-size:9.5px;color:#4d616e;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.stage-more{font:9px var(--mono);color:var(--faint);text-align:center}
+.pipeline-legend{display:flex;gap:14px;flex-wrap:wrap;margin-top:10px;padding-top:9px;border-top:1px solid var(--line2);color:var(--muted);font-size:9.5px}
+.pipeline-legend i{display:inline-block;width:9px;height:9px;border-radius:2px;margin-right:5px;vertical-align:-1px}
+
+.analytics-grid{display:grid;grid-template-columns:1.15fr .85fr;gap:10px;margin-top:10px}
+.panel{padding:15px;min-width:0}
+.panel-head{display:flex;justify-content:space-between;gap:10px;align-items:flex-start;margin-bottom:9px}
+.panel h3{margin:0;color:var(--uaf-950);font-size:13.5px}
+.panel .sub{color:var(--muted);font-size:10px;margin-top:2px}
+.rank{display:grid;gap:7px}
+.rank-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px;border:0;background:transparent;padding:0;cursor:pointer;text-align:left;color:inherit}
+.rank-row:hover .rank-name,.rank-row.active .rank-name{color:var(--uaf-700);font-weight:750}
+.rank-name{font-size:10.5px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.rank-val{font:9.5px var(--mono);color:var(--muted)}
+.rank-track{grid-column:1/-1;height:5px;background:#e9eff1;border-radius:99px;overflow:hidden}
+.rank-fill{display:block;height:100%;background:var(--uaf-600);border-radius:99px}
+.rank-row.sector .rank-fill{background:var(--blue)}
+.rank-row.urg .rank-fill{background:var(--orange)}
+.rank-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:10px}
+.rank-panel{padding:14px}.rank-panel .rank{max-height:250px;overflow:auto;padding-right:3px}
+.rank-panel h3{font-size:12.5px}
+
+.active-filters{display:flex;gap:5px;flex-wrap:wrap;margin:10px 0}
+.filter-chip{border:1px solid var(--uaf-300);background:var(--uaf-100);color:var(--uaf-900);border-radius:99px;padding:4px 8px;font-size:9.5px;cursor:pointer}
+
+.table-card{overflow:hidden}
+.table-toolbar{padding:12px 15px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:9px;flex-wrap:wrap}
+.table-toolbar h3{margin:0;color:var(--uaf-950);font-size:14px}
+.table-toolbar select{margin-left:auto;border:1px solid var(--line);background:#fff;border-radius:7px;padding:5px 8px;font-size:10px}
+.bill{border-bottom:1px solid var(--line2);padding:15px 16px;display:grid;grid-template-columns:132px minmax(0,1fr);gap:14px}
+.bill:last-child{border-bottom:0}
+.bill-side{display:grid;gap:5px;align-content:start}
+.boletin{font:800 12px var(--mono);color:var(--uaf-950)}
+.pill{display:inline-block;font:800 8.5px var(--mono);letter-spacing:.05em;text-transform:uppercase;padding:3px 6px;border-radius:99px;border:1px solid var(--line);background:#f8fbfb;color:#506270;justify-self:start}
+.pill.critica{background:#fae8ea;border-color:#eecdd2;color:var(--red)}
+.pill.alta{background:#fdf1e3;border-color:#efd9bd;color:var(--orange)}
+.pill.media{background:var(--uaf-100);border-color:var(--uaf-300);color:var(--uaf-800)}
+.pill.baja{background:#f2f5f6;color:#66798a}
+.prio{font:9.5px var(--mono);color:var(--muted)}
+.bill h4{margin:0 0 6px;font-size:14px;line-height:1.35}
+.bill h4 a{color:var(--ink);text-decoration:none}
+.bill h4 a:hover{color:var(--uaf-700);text-decoration:underline}
+.bill .sintesis{margin:0;color:#536574;font-size:11.5px}
+.tags{display:flex;gap:5px;flex-wrap:wrap;margin-top:8px}
+.tag{font-size:9px;padding:3px 6px;border-radius:99px;border:1px solid var(--line);background:#f8fbfb;color:#506270}
+.tag.impacto-directo{color:#8f2d38;background:#fdf0f1;border-color:#f0d2d6}
+.tag.impacto-estructural{color:var(--uaf-800);background:var(--uaf-100);border-color:var(--uaf-300)}
+.tag.impacto-sectorial{color:#315a7c;background:#edf4fa;border-color:#cfdeeb}
+.tag.impacto-seguimiento{color:#5c6b74;background:#f2f5f6}
+.tag.urg{color:#865018;background:#fff3e7;border-color:#efd3b8}
+.tag.nuevo{color:#1b6d54;background:#e9f6f1;border-color:#c3e4d8}
+.tag.eje{color:#5a4a80;background:#f3f0fa;border-color:#ddd5ee}
+.bill-meta{display:flex;gap:12px;flex-wrap:wrap;margin-top:8px;font:9.5px var(--mono);color:var(--muted)}
+.bill-links{display:flex;gap:10px;flex-wrap:wrap;margin-top:8px}
+.bill-links a{font-size:10px;font-weight:750;color:var(--uaf-700);text-decoration:none}
+.bill-links a:hover{text-decoration:underline}
+.expand{border:0;background:transparent;color:var(--uaf-700);font-size:10px;font-weight:750;cursor:pointer;padding:0;margin-top:8px;text-align:left}
+.timeline{margin-top:10px;border-left:2px solid var(--uaf-300);padding-left:12px;display:grid;gap:8px}
+.tl-item{display:grid;gap:2px;position:relative}
+.tl-item::before{content:"";position:absolute;left:-17px;top:5px;width:8px;height:8px;border-radius:50%;background:var(--uaf-500);border:2px solid #fff}
+.tl-item time{font:9px var(--mono);color:var(--muted)}
+.tl-item b{font-size:11px;font-weight:650;color:var(--ink)}
+.tl-item small{font:9px var(--mono);color:var(--faint)}
+.evidence{margin-top:9px;padding:9px 10px;border-radius:9px;background:#f6f9fa;font-size:10px;color:#4d616e}
+.evidence b{display:block;font:700 8.5px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+
+.pagination{display:flex;justify-content:center;align-items:center;gap:5px;padding:12px;border-top:1px solid var(--line)}
+.pagination button{border:1px solid var(--line);background:#fff;padding:5px 9px;cursor:pointer;border-radius:6px;font-size:10px}
+.pagination button.active{background:var(--uaf-900);color:#fff;border-color:var(--uaf-900)}
+.pagination button:disabled{opacity:.4;cursor:default}
+.empty{padding:32px;text-align:center;color:var(--muted);font-size:11.5px}
+.empty b{display:block;color:var(--uaf-950);font-size:13px;margin-bottom:5px}
+footer{margin-top:22px;padding-top:14px;border-top:1px solid var(--line);font:9.5px var(--mono);color:var(--faint);line-height:1.7}
+
+@media(max-width:1250px){:root{--sidebar:265px}.analytics-grid{grid-template-columns:1fr}.rank-grid{grid-template-columns:1fr 1fr}.metrics{grid-template-columns:repeat(3,1fr)}.pipeline{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:900px){.statusbar{padding-left:12px}.mobile-filter{display:inline-block}.app{display:block}.sidebar{position:fixed;z-index:90;left:0;top:42px;width:min(330px,92vw);transform:translateX(-105%);transition:.22s;box-shadow:12px 0 32px rgba(0,0,0,.25)}.sidebar.open{transform:translateX(0)}.main{padding:18px 14px 55px}.hero{grid-template-columns:1fr}.hero-score{border-right:0;border-bottom:1px solid var(--uaf-300)}}
+@media(max-width:620px){.main{padding:12px 8px 45px}.hero-kpis{grid-template-columns:1fr 1fr}.metrics{grid-template-columns:1fr 1fr}.pipeline{grid-template-columns:1fr}.rank-grid{grid-template-columns:1fr}.bill{grid-template-columns:1fr}.hero-alert{grid-template-columns:auto 1fr}.hero-alert>a{grid-column:2}}
+@media print{.statusbar,.sidebar,.pagination,.expand{display:none}.app{display:block}.main{padding:0}.card{box-shadow:none}}
+</style>
+</head>
+<body>
+<div class="statusbar">
+  <button class="mobile-filter" id="mobileFilterBtn" aria-label="Abrir filtros">☰ Filtros</button>
+  <span class="dot" id="statusDot"></span><b id="statusText">Vigilancia legislativa activa</b>
+  <span class="muted" id="statusStamp"></span><span class="grow"></span>
+  <button id="refreshBtn">Comprobar ahora</button>
+</div>
+<div class="app">
+  <aside class="sidebar" id="sidebar">
+    <div class="brand"><div class="brand-mark">UAF</div><div><h1>Monitor legislativo</h1><p>Ley N° 19.913 · Congreso Nacional</p></div></div>
+
+    <section class="side-section">
+      <div class="side-title"><h2>Filtros</h2><span id="filterCount">0 activos</span></div>
+      <div class="field"><label>Búsqueda libre</label><input type="search" id="fQuery" placeholder="Boletín, título, autor o materia"></div>
+      <div class="field"><label>Nivel de impacto</label><select id="fImpacto"><option value="">Todos los niveles</option></select></div>
+      <div class="field"><label>Eje de impacto</label><select id="fEje"><option value="">Todos los ejes</option></select></div>
+      <div class="field"><label>Sujeto obligado</label><select id="fSector"><option value="">Todos los sectores</option></select></div>
+      <div class="field"><label>Urgencia</label><select id="fUrgencia"><option value="">Todas</option></select></div>
+      <div class="field"><label>Trámite constitucional</label><select id="fEtapa"><option value="">Todos los trámites</option></select></div>
+      <div class="field"><label>Cámara actual</label><select id="fCamara"><option value="">Ambas cámaras</option></select></div>
+      <div class="field"><label>Prioridad mínima</label><select id="fBanda">
+        <option value="">Cualquiera</option><option value="critica">Solo crítica</option>
+        <option value="alta">Alta o superior</option><option value="media">Media o superior</option>
+      </select></div>
+      <div class="toggles">
+        <label class="toggle"><input type="checkbox" id="fVigente" checked> Solo en tramitación</label>
+        <label class="toggle"><input type="checkbox" id="fNovedad"> Solo con movimiento nuevo</label>
+        <label class="toggle"><input type="checkbox" id="fEstancado"> Solo estancados (+180 días)</label>
+      </div>
+      <div class="side-actions"><button class="btn primary" id="applyBtn">Aplicar</button><button class="btn" id="clearBtn">Limpiar</button></div>
+      <div class="side-result" id="resultCount"><b>0</b> proyectos visibles</div>
+    </section>
+
+    <div class="side-links">
+      <a href="#pipelineSection">Ir al itinerario legislativo →</a>
+      <a href="#billsSection">Ir al listado de proyectos →</a>
+      <a href="https://tramitacion.senado.cl/" target="_blank" rel="noopener">Tramitación · Senado →</a>
+      <a href="https://www.camara.cl/legislacion/ProyectosDeLey/proyectos_ley.aspx" target="_blank" rel="noopener">Proyectos · Cámara →</a>
+    </div>
+  </aside>
+
+  <main class="main"><div class="main-wrap">
+    <div id="demoBanner"></div>
+    <div class="section-title">
+      <div><div class="eyebrow">Foco institucional</div><h2>Cartera legislativa con impacto en la Ley N° 19.913</h2>
+      <p>Proyectos en tramitación que pueden alterar las competencias, el catálogo de delitos base o el universo de sujetos obligados de la UAF.</p></div>
+      <span class="hint">Fuente: datos abiertos del Senado y de la Cámara</span>
+    </div>
+    <section class="card hero" id="hero"></section>
+
+    <div class="section-title">
+      <div><div class="eyebrow">Resumen</div><h2>Indicadores de la cartera</h2><p>Los indicadores responden a los filtros aplicados.</p></div>
+      <span class="hint" id="metricsHint"></span>
+    </div>
+    <section class="metrics" id="metrics"></section>
+
+    <div class="section-title" id="pipelineSection">
+      <div><div class="eyebrow">Itinerario legislativo</div><h2>Dónde está cada proyecto</h2>
+      <p>Posición procesal de la cartera. El color del borde indica la urgencia vigente: es lo que define cuánto tiempo real queda para incidir técnicamente.</p></div>
+      <span class="hint">Clic en un proyecto para filtrarlo</span>
+    </div>
+    <section class="card pipeline-card">
+      <div class="pipeline-head">
+        <div><h3>Trámite constitucional de los proyectos vigentes</h3>
+        <div class="sub">Se muestran los de mayor prioridad en cada etapa. El total por etapa aparece a la derecha del encabezado.</div></div>
+      </div>
+      <div class="pipeline" id="pipeline"></div>
+      <div class="pipeline-legend">
+        <span><i style="background:var(--red)"></i>Discusión inmediata</span>
+        <span><i style="background:var(--orange)"></i>Suma urgencia</span>
+        <span><i style="background:var(--amber)"></i>Simple urgencia</span>
+        <span><i style="background:#c4d1d6"></i>Sin urgencia</span>
+      </div>
+    </section>
+
+    <div class="analytics-grid">
+      <section class="card panel">
+        <div class="panel-head"><div><h3>Ejes de impacto institucional</h3><div class="sub">Qué dimensión del régimen ALA/CFT toca cada proyecto</div></div><span class="hint">Clic para filtrar</span></div>
+        <div class="rank" id="rankEjes"></div>
+      </section>
+      <section class="card panel">
+        <div class="panel-head"><div><h3>Antigüedad sin movimiento</h3><div class="sub">Cuánto tiempo lleva detenida cada parte de la cartera</div></div></div>
+        <div class="rank" id="rankAntiguedad"></div>
+      </section>
+    </div>
+
+    <div class="rank-grid">
+      <section class="card panel rank-panel"><div class="panel-head"><div><h3>Sujetos obligados</h3><div class="sub">Sectores alcanzados</div></div></div><div class="rank" id="rankSectores"></div></section>
+      <section class="card panel rank-panel"><div class="panel-head"><div><h3>Urgencias vigentes</h3><div class="sub">Presión de agenda</div></div></div><div class="rank" id="rankUrgencia"></div></section>
+      <section class="card panel rank-panel"><div class="panel-head"><div><h3>Cámara actual</h3><div class="sub">Dónde se discute</div></div></div><div class="rank" id="rankCamara"></div></section>
+    </div>
+
+    <div class="active-filters" id="activeFilters"></div>
+
+    <section class="card table-card" id="billsSection">
+      <div class="table-toolbar">
+        <h3>Proyectos en seguimiento</h3><span class="hint" id="tableHint"></span>
+        <select id="sortBy">
+          <option value="prioridad">Ordenar por prioridad</option>
+          <option value="movimiento">Movimiento más reciente</option>
+          <option value="ingreso">Ingreso más reciente</option>
+          <option value="estancado">Más tiempo detenidos</option>
+          <option value="boletin">Número de boletín</option>
+        </select>
+        <select id="pageSize"><option value="10">10 por página</option><option value="25">25 por página</option><option value="50">50 por página</option></select>
+      </div>
+      <div id="billList"></div>
+      <div class="pagination" id="pagination"></div>
+    </section>
+    <footer id="footer"></footer>
+  </div></main>
+</div>
+
+<script>
+const FALLBACK={generado:"",generado_legible:"",metricas:{},proyectos:[],descartados:[],catalogos:{},auditoria:{}};
+const $=id=>document.getElementById(id);
+const esc=v=>String(v??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+const safeUrl=v=>{try{const u=new URL(v,location.href);return /^https?:$/.test(u.protocol)?u.href:'#'}catch{return '#'}};
+const irA=id=>{const el=$(id); if(el&&typeof el.scrollIntoView==='function') el.scrollIntoView({behavior:'smooth',block:'start'})};
+const norm=v=>String(v??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9ñ]+/g,' ').trim();
+
+let DATA=FALLBACK, VISIBLE=[], PAGE=1, EXPANDED=new Set();
+const F={q:'',impacto:'',eje:'',sector:'',urgencia:'',etapa:'',camara:'',banda:'',vigente:true,novedad:false,estancado:false,conUrgencia:false};
+const ETAPAS=[{ord:1,nombre:'Primer trámite'},{ord:2,nombre:'Segundo trámite'},{ord:3,nombre:'Tercer trámite'},{ord:4,nombre:'Comisión mixta'},{ord:7,nombre:'Despachado o cerrado'}];
+const BANDA_ORDEN={critica:3,alta:2,media:1,baja:0};
+const URG_CLASE={'discusion inmediata':'u-inmediata','suma':'u-suma','simple':'u-simple','sin urgencia':'u-ninguna'};
+
+// ---------- carga ----------
+async function cargar(){
+  try{
+    const r=await fetch('datos.json?ts='+Date.now(),{cache:'no-store'});
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    DATA=await r.json();
+    $('statusText').textContent='Vigilancia legislativa activa';
+    $('statusDot').style.background='#54d09a';
+  }catch(e){
+    DATA=FALLBACK;
+    $('statusText').textContent='No se pudo leer datos.json';
+    $('statusDot').style.background='#e0a24b';
+  }
+  $('statusStamp').textContent=DATA.generado_legible?('Actualizado '+DATA.generado_legible):'';
+  const esDemo=String(DATA.modo_ejecucion||'')==='demo';
+  $('demoBanner').innerHTML=esDemo?`<div class="demo-banner">
+    <b>Datos de demostración</b>
+    <span>Los boletines y títulos son reales, pero los estados procesales son ilustrativos y no deben citarse como información oficial. Ejecuta el workflow en modo <code>conciliacion</code> para reemplazarlos por datos vigentes del Congreso.</span>
+  </div>`:'';
+  poblarFiltros(); render();
+}
+
+function catalogo(nombre){return (DATA.catalogos&&DATA.catalogos[nombre])||{}}
+function proyectos(){return Array.isArray(DATA.proyectos)?DATA.proyectos:[]}
+
+function poblarFiltros(){
+  const ps=proyectos();
+  const opt=(sel,pares,placeholder)=>{
+    const el=$(sel); const actual=el.value;
+    el.innerHTML='<option value="">'+esc(placeholder)+'</option>'+
+      pares.map(([v,t])=>`<option value="${esc(v)}">${esc(t)}</option>`).join('');
+    if(pares.some(p=>p[0]===actual)) el.value=actual;
+  };
+  const cImp=catalogo('impacto'), cEje=catalogo('ejes'), cSec=catalogo('sectores'), cUrg=catalogo('urgencia');
+  const usados=(clave)=>{
+    const s=new Set();
+    ps.forEach(p=>{const v=p[clave]; if(Array.isArray(v)) v.forEach(x=>x&&s.add(x)); else if(v) s.add(v)});
+    return [...s];
+  };
+  opt('fImpacto',usados('nivel_impacto').map(v=>[v,cImp[v]||v]),'Todos los niveles');
+  opt('fEje',usados('ejes').map(v=>[v,cEje[v]||v]),'Todos los ejes');
+  opt('fSector',usados('sectores').map(v=>[v,cSec[v]||v]),'Todos los sectores');
+  opt('fUrgencia',usados('urgencia_clave').map(v=>[v,cUrg[v]||v]),'Todas');
+  opt('fEtapa',ETAPAS.filter(e=>ps.some(p=>etapaGrupo(p)===e.ord)).map(e=>[String(e.ord),e.nombre]),'Todos los trámites');
+  opt('fCamara',usados('camara_actual').map(v=>[v,v]),'Ambas cámaras');
+}
+
+function etapaGrupo(p){
+  const o=Number(p.etapa_ordinal||0);
+  if(o>=7||o===0) return 7;
+  if(o>=5) return 4;
+  return o||1;
+}
+
+// ---------- filtrado ----------
+function filtrar(){
+  const q=norm(F.q);
+  return proyectos().filter(p=>{
+    if(F.vigente && p.vigente===false) return false;
+    if(F.novedad && !p.novedad) return false;
+    if(F.estancado && !((p.dias_sin_movimiento??0)>180)) return false;
+    if(F.conUrgencia && (!p.urgencia_clave||p.urgencia_clave==='sin urgencia')) return false;
+    if(F.impacto && p.nivel_impacto!==F.impacto) return false;
+    if(F.eje && !(p.ejes||[]).includes(F.eje)) return false;
+    if(F.sector && !(p.sectores||[]).includes(F.sector)) return false;
+    if(F.urgencia && p.urgencia_clave!==F.urgencia) return false;
+    if(F.camara && p.camara_actual!==F.camara) return false;
+    if(F.etapa && String(etapaGrupo(p))!==F.etapa) return false;
+    if(F.banda && (BANDA_ORDEN[p.banda_prioridad]??-1)<(BANDA_ORDEN[F.banda]??0)) return false;
+    if(q){
+      const heno=norm([p.boletin,p.titulo,p.sintesis,(p.autores||[]).join(' '),
+        (p.materias||[]).join(' '),(p.ejes_legibles||[]).join(' '),
+        (p.sectores_legibles||[]).join(' '),p.etapa,p.ultimo_tramite].join(' '));
+      if(!q.split(' ').every(t=>heno.includes(t))) return false;
+    }
+    return true;
+  });
+}
+
+function ordenar(lista){
+  const modo=$('sortBy').value;
+  const c=[...lista];
+  const f=v=>v?Date.parse(v)||0:0;
+  if(modo==='movimiento') c.sort((a,b)=>f(b.ultimo_movimiento)-f(a.ultimo_movimiento));
+  else if(modo==='ingreso') c.sort((a,b)=>f(b.fecha_ingreso)-f(a.fecha_ingreso));
+  else if(modo==='estancado') c.sort((a,b)=>(b.dias_sin_movimiento??-1)-(a.dias_sin_movimiento??-1));
+  else if(modo==='boletin') c.sort((a,b)=>String(a.boletin).localeCompare(String(b.boletin),'es',{numeric:true}));
+  else c.sort((a,b)=>(b.prioridad||0)-(a.prioridad||0));
+  return c;
+}
+
+// ---------- render ----------
+function render(){
+  VISIBLE=ordenar(filtrar());
+  renderHero(); renderMetrics(); renderPipeline(); renderRankings();
+  renderChips(); renderBills(); renderFooter();
+  $('resultCount').innerHTML=`<b>${VISIBLE.length}</b> proyectos visibles`;
+  const activos=Object.entries(F).filter(([k,v])=>k==='vigente'?v===false:(v!==''&&v!==false)).length;
+  $('filterCount').textContent=activos+' activos';
+}
+
+function renderHero(){
+  const m=DATA.metricas||{};
+  const criticos=VISIBLE.filter(p=>p.banda_prioridad==='critica'||p.banda_prioridad==='alta');
+  const conMov=VISIBLE.filter(p=>p.novedad).sort((a,b)=>(b.prioridad||0)-(a.prioridad||0));
+  const top=conMov[0]||VISIBLE[0];
+  const hot=conMov.length>0;
+  const etiquetaNov={nuevo:'Nuevo en cartera',movimiento:'Movimiento registrado',urgencia:'Cambio de urgencia'};
+  $('hero').innerHTML=`
+    <div class="hero-score">
+      <span class="label">Prioridad alta o crítica</span>
+      <span class="number">${criticos.length}</span>
+      <span class="trend">de ${VISIBLE.length} proyectos en la vista</span>
+    </div>
+    <div class="hero-body">
+      <div class="hero-kpis">
+        <div class="hero-kpi"><span>Impacto directo 19.913</span><b>${VISIBLE.filter(p=>p.nivel_impacto==='directo').length}</b></div>
+        <div class="hero-kpi"><span>Con urgencia vigente</span><b>${VISIBLE.filter(p=>p.urgencia_clave&&p.urgencia_clave!=='sin urgencia').length}</b></div>
+        <div class="hero-kpi"><span>Movimiento últimos 7 días</span><b>${VISIBLE.filter(p=>(p.dias_sin_movimiento??999)<=7).length}</b></div>
+        <div class="hero-kpi"><span>Detenidos +180 días</span><b>${VISIBLE.filter(p=>(p.dias_sin_movimiento??0)>180).length}</b></div>
+      </div>
+      ${top?`<div class="hero-alert ${hot?'hot':''}">
+        <div class="alert-icon">${hot?'!':'✓'}</div>
+        <div class="alert-copy">
+          <span>${hot?esc(etiquetaNov[top.novedad]||'Movimiento'):'Mayor prioridad en la vista'}</span>
+          <b>${esc(top.boletin)} · ${esc(top.titulo||'').slice(0,110)}</b>
+          <small>${esc(top.sintesis||'Sin trámites registrados')}</small>
+        </div>
+        <a href="${safeUrl(top.link_senado)}" target="_blank" rel="noopener">Ver ficha →</a>
+      </div>`:`<div class="hero-alert"><div class="alert-icon">·</div><div class="alert-copy"><span>Sin resultados</span><b>Ningún proyecto coincide con los filtros aplicados</b></div><span></span></div>`}
+      <div class="hero-actions">
+        <button class="hero-action${F.impacto==='directo'?' on':''}" data-quick="directo">Solo impacto directo</button>
+        <button class="hero-action${F.conUrgencia?' on':''}" data-quick="urgencia">Solo con urgencia</button>
+        <button class="hero-action context${F.novedad?' on':''}" data-quick="novedad">Movimientos nuevos</button>
+        <button class="hero-action context${F.estancado?' on':''}" data-quick="estancado">Estancados</button>
+      </div>
+    </div>`;
+  $('hero').querySelectorAll('[data-quick]').forEach(b=>b.addEventListener('click',()=>{
+    const k=b.dataset.quick;
+    if(k==='directo'){F.impacto=F.impacto==='directo'?'':'directo';$('fImpacto').value=F.impacto}
+    if(k==='urgencia'){F.conUrgencia=!F.conUrgencia}
+    if(k==='novedad'){F.novedad=!F.novedad;$('fNovedad').checked=F.novedad}
+    if(k==='estancado'){F.estancado=!F.estancado;$('fEstancado').checked=F.estancado}
+    PAGE=1;render();
+  }));
+}
+
+function renderMetrics(){
+  const v=VISIBLE;
+  const prom=v.length?Math.round(v.reduce((s,p)=>s+(p.dias_sin_movimiento??0),0)/v.length):0;
+  const items=[
+    ['En la vista',v.length,'proyectos tras filtrar'],
+    ['Impacto directo',v.filter(p=>p.nivel_impacto==='directo').length,'nombran la Ley 19.913'],
+    ['Impacto estructural',v.filter(p=>p.nivel_impacto==='estructural').length,'tocan el régimen ALA/CFT'],
+    ['Discusión inmediata',v.filter(p=>p.urgencia_clave==='discusion inmediata').length,'máxima presión de agenda'],
+    ['Días sin movimiento',prom,'promedio de la vista'],
+  ];
+  $('metrics').innerHTML=items.map(([t,n,s])=>
+    `<div class="card metric"><span>${esc(t)}</span><b>${esc(n)}</b><small>${esc(s)}</small></div>`).join('');
+  $('metricsHint').textContent=DATA.auditoria?.modo?('Última corrida: modo '+DATA.auditoria.modo):'';
+}
+
+function renderPipeline(){
+  const vig=VISIBLE.filter(p=>p.vigente!==false);
+  const max=Math.max(1,...ETAPAS.map(e=>vig.filter(p=>etapaGrupo(p)===e.ord).length));
+  $('pipeline').innerHTML=ETAPAS.map(e=>{
+    const enEtapa=vig.filter(p=>etapaGrupo(p)===e.ord).sort((a,b)=>(b.prioridad||0)-(a.prioridad||0));
+    const muestra=enEtapa.slice(0,4);
+    const resto=enEtapa.length-muestra.length;
+    return `<div class="stage ${F.etapa===String(e.ord)?'active':''}">
+      <div class="stage-head"><b>${esc(e.nombre)}</b><i>${enEtapa.length}</i></div>
+      <div class="stage-bar"><span style="width:${Math.round(enEtapa.length/max*100)}%"></span></div>
+      <div class="chip-list">
+        ${muestra.map(p=>`<button class="chip ${URG_CLASE[p.urgencia_clave]||'u-ninguna'}" data-boletin="${esc(p.boletin)}">
+          <b>${esc(p.boletin)}</b><small>${esc(p.titulo||'')}</small></button>`).join('')||
+          '<div class="stage-more">Sin proyectos</div>'}
+        ${resto>0?`<div class="stage-more">+${resto} más</div>`:''}
+      </div></div>`;
+  }).join('');
+  $('pipeline').querySelectorAll('[data-boletin]').forEach(b=>b.addEventListener('click',()=>{
+    F.q=b.dataset.boletin; $('fQuery').value=b.dataset.boletin; PAGE=1; render();
+    irA('billsSection');
+  }));
+}
+
+function rankear(lista,clave,etiquetas){
+  const c=new Map();
+  lista.forEach(p=>{const v=p[clave];
+    (Array.isArray(v)?v:[v]).filter(Boolean).forEach(x=>c.set(x,(c.get(x)||0)+1))});
+  return [...c.entries()].sort((a,b)=>b[1]-a[1]).slice(0,12)
+    .map(([k,n])=>({clave:k,etiqueta:(etiquetas||{})[k]||k,total:n}));
+}
+
+function pintarRank(destino,filas,clase,onClick){
+  const max=Math.max(1,...filas.map(f=>f.total));
+  const el=$(destino);
+  el.innerHTML=filas.length?filas.map(f=>
+    `<button class="rank-row ${clase}" data-k="${esc(f.clave)}">
+      <span class="rank-name">${esc(f.etiqueta)}</span><span class="rank-val">${f.total}</span>
+      <span class="rank-track"><span class="rank-fill" style="width:${Math.round(f.total/max*100)}%"></span></span>
+    </button>`).join(''):'<div class="empty">Sin datos en la vista</div>';
+  if(onClick) el.querySelectorAll('[data-k]').forEach(b=>
+    b.addEventListener('click',()=>{onClick(b.dataset.k);PAGE=1;render()}));
+}
+
+function renderRankings(){
+  pintarRank('rankEjes',rankear(VISIBLE,'ejes',catalogo('ejes')),'',k=>{F.eje=F.eje===k?'':k;$('fEje').value=F.eje});
+  pintarRank('rankSectores',rankear(VISIBLE,'sectores',catalogo('sectores')),'sector',k=>{F.sector=F.sector===k?'':k;$('fSector').value=F.sector});
+  pintarRank('rankUrgencia',rankear(VISIBLE.filter(p=>p.vigente!==false),'urgencia_clave',catalogo('urgencia')),'urg',k=>{F.urgencia=F.urgencia===k?'':k;$('fUrgencia').value=F.urgencia});
+  pintarRank('rankCamara',rankear(VISIBLE.filter(p=>p.vigente!==false),'camara_actual'),'',k=>{F.camara=F.camara===k?'':k;$('fCamara').value=F.camara});
+
+  const tramos=[['Menos de 7 días',0,7],['7 a 30 días',8,30],['1 a 3 meses',31,90],['3 a 6 meses',91,180],['Más de 6 meses',181,99999]];
+  const filas=tramos.map(([t,a,b])=>({clave:t,etiqueta:t,
+    total:VISIBLE.filter(p=>{const d=p.dias_sin_movimiento;return d!=null&&d>=a&&d<=b}).length})).filter(f=>f.total>0);
+  pintarRank('rankAntiguedad',filas,'',null);
+}
+
+function renderChips(){
+  const cImp=catalogo('impacto'),cEje=catalogo('ejes'),cSec=catalogo('sectores'),cUrg=catalogo('urgencia');
+  const chips=[];
+  if(F.q) chips.push(['q','Búsqueda: '+F.q]);
+  if(F.impacto) chips.push(['impacto',cImp[F.impacto]||F.impacto]);
+  if(F.eje) chips.push(['eje',cEje[F.eje]||F.eje]);
+  if(F.sector) chips.push(['sector',cSec[F.sector]||F.sector]);
+  if(F.urgencia) chips.push(['urgencia',cUrg[F.urgencia]||F.urgencia]);
+  if(F.etapa) chips.push(['etapa',(ETAPAS.find(e=>String(e.ord)===F.etapa)||{}).nombre||F.etapa]);
+  if(F.camara) chips.push(['camara',F.camara]);
+  if(F.banda) chips.push(['banda','Prioridad '+F.banda]);
+  if(F.novedad) chips.push(['novedad','Con movimiento nuevo']);
+  if(F.estancado) chips.push(['estancado','Estancados']);
+  if(F.conUrgencia) chips.push(['conUrgencia','Con urgencia vigente']);
+  if(!F.vigente) chips.push(['vigente','Incluye cerrados']);
+  $('activeFilters').innerHTML=chips.map(([k,t])=>
+    `<button class="filter-chip" data-clear="${k}">${esc(t)} ✕</button>`).join('');
+  $('activeFilters').querySelectorAll('[data-clear]').forEach(b=>b.addEventListener('click',()=>{
+    const k=b.dataset.clear;
+    if(k==='vigente'){F.vigente=true;$('fVigente').checked=true}
+    else if(k==='conUrgencia'){F.conUrgencia=false}
+    else if(k==='novedad'||k==='estancado'){F[k]=false;$(k==='novedad'?'fNovedad':'fEstancado').checked=false}
+    else{F[k]='';const map={q:'fQuery',impacto:'fImpacto',eje:'fEje',sector:'fSector',urgencia:'fUrgencia',etapa:'fEtapa',camara:'fCamara',banda:'fBanda'};
+      if(map[k])$(map[k]).value=''}
+    PAGE=1;render();
+  }));
+}
+
+function tarjeta(p){
+  const abierto=EXPANDED.has(p.boletin);
+  const cImp=catalogo('impacto'),cEje=catalogo('ejes'),cSec=catalogo('sectores');
+  const tags=[];
+  tags.push(`<span class="tag impacto-${esc(p.nivel_impacto)}">${esc(cImp[p.nivel_impacto]||p.nivel_impacto||'')}</span>`);
+  if(p.urgencia_clave&&p.urgencia_clave!=='sin urgencia') tags.push(`<span class="tag urg">${esc(p.urgencia_legible||'')}</span>`);
+  if(p.novedad) tags.push(`<span class="tag nuevo">${esc({nuevo:'Nuevo',movimiento:'Movimiento',urgencia:'Cambió urgencia'}[p.novedad]||'Actualizado')}</span>`);
+  (p.ejes||[]).slice(0,3).forEach(e=>tags.push(`<span class="tag eje">${esc(cEje[e]||e)}</span>`));
+  (p.sectores||[]).slice(0,2).forEach(s=>tags.push(`<span class="tag">${esc(cSec[s]||s)}</span>`));
+
+  const tramites=(p.tramitacion||[]).slice(-8).reverse();
+  const ev=p.evidencia||{};
+  const senales=[...(ev.directas||[]),...(ev.nucleo||[]),...(ev.estructurales||[])].slice(0,10);
+
+  return `<article class="bill">
+    <div class="bill-side">
+      <span class="boletin">${esc(p.boletin)}</span>
+      <span class="pill ${esc(p.banda_prioridad||'baja')}">${esc(p.banda_prioridad||'baja')}</span>
+      <span class="prio">Prioridad ${esc(p.prioridad??0)}</span>
+      <span class="prio">${esc(p.iniciativa||'')}</span>
+    </div>
+    <div>
+      <h4><a href="${safeUrl(p.link_senado)}" target="_blank" rel="noopener">${esc(p.titulo||'(sin título)')}</a></h4>
+      <p class="sintesis">${esc(p.sintesis||'Sin trámites registrados en la fuente.')}</p>
+      <div class="tags">${tags.join('')}</div>
+      <div class="bill-meta">
+        <span>Ingreso ${esc(p.fecha_ingreso_legible||'—')}</span>
+        <span>Último movimiento ${esc(p.ultimo_movimiento_legible||'—')}</span>
+        <span>${p.dias_sin_movimiento!=null?esc(p.dias_sin_movimiento)+' días sin avanzar':'sin registro'}</span>
+        <span>${esc(p.total_tramites||0)} trámites</span>
+        ${p.camara_actual?`<span>${esc(p.camara_actual)}</span>`:''}
+      </div>
+      <div class="bill-links">
+        <a href="${safeUrl(p.link_senado)}" target="_blank" rel="noopener">Ficha Senado</a>
+        ${p.link_camara?`<a href="${safeUrl(p.link_camara)}" target="_blank" rel="noopener">Ficha Cámara</a>`:''}
+        ${p.link_texto_original?`<a href="${safeUrl(p.link_texto_original)}" target="_blank" rel="noopener">Texto original</a>`:''}
+      </div>
+      <button class="expand" data-expand="${esc(p.boletin)}">${abierto?'Ocultar detalle ▲':'Ver tramitación y evidencia ▼'}</button>
+      ${abierto?`
+        ${tramites.length?`<div class="timeline">${tramites.map(t=>`
+          <div class="tl-item"><time>${esc(t.fecha_legible||t.fecha||'')}</time>
+          <b>${esc(t.descripcion||'')}</b>
+          <small>${esc([t.etapa,t.camara].filter(Boolean).join(' · '))}</small></div>`).join('')}</div>`:''}
+        ${senales.length?`<div class="evidence"><b>Señales que motivaron la clasificación</b>${esc(senales.join(' · '))}</div>`:''}
+        ${(p.materias||[]).length?`<div class="evidence"><b>Materias registradas</b>${esc((p.materias||[]).slice(0,12).join(' · '))}</div>`:''}
+        ${(p.autores||[]).length?`<div class="evidence"><b>Autoría</b>${esc((p.autores||[]).slice(0,10).join(' · '))}</div>`:''}
+      `:''}
+    </div></article>`;
+}
+
+function renderBills(){
+  const tam=parseInt($('pageSize').value,10)||10;
+  const total=Math.max(1,Math.ceil(VISIBLE.length/tam));
+  PAGE=Math.min(PAGE,total);
+  const pagina=VISIBLE.slice((PAGE-1)*tam,PAGE*tam);
+  $('billList').innerHTML=pagina.length?pagina.map(tarjeta).join(''):
+    `<div class="empty"><b>Ningún proyecto coincide con los filtros</b>Quita algún filtro o desmarca “Solo en tramitación” para incluir proyectos ya despachados.</div>`;
+  $('billList').querySelectorAll('[data-expand]').forEach(b=>b.addEventListener('click',()=>{
+    const k=b.dataset.expand;
+    EXPANDED.has(k)?EXPANDED.delete(k):EXPANDED.add(k);
+    renderBills();
+  }));
+  $('tableHint').textContent=VISIBLE.length?`${(PAGE-1)*tam+1}–${Math.min(PAGE*tam,VISIBLE.length)} de ${VISIBLE.length}`:'';
+
+  const botones=[];
+  botones.push(`<button ${PAGE<=1?'disabled':''} data-p="${PAGE-1}">‹</button>`);
+  for(let i=1;i<=total;i++){
+    if(i===1||i===total||Math.abs(i-PAGE)<=2)
+      botones.push(`<button class="${i===PAGE?'active':''}" data-p="${i}">${i}</button>`);
+    else if(Math.abs(i-PAGE)===3) botones.push('<span class="hint">…</span>');
+  }
+  botones.push(`<button ${PAGE>=total?'disabled':''} data-p="${PAGE+1}">›</button>`);
+  $('pagination').innerHTML=total>1?botones.join(''):'';
+  $('pagination').querySelectorAll('[data-p]').forEach(b=>b.addEventListener('click',()=>{
+    PAGE=parseInt(b.dataset.p,10);renderBills();
+    irA('billsSection');
+  }));
+}
+
+function renderFooter(){
+  const a=DATA.auditoria||{};
+  $('footer').innerHTML=[
+    `Motor ${esc(DATA.version_motor||'—')} · generado ${esc(DATA.generado_legible||'—')} · modo ${esc(a.modo||'—')}`,
+    `Candidatos ${esc(a.candidatos_descubiertos??0)} · consultados ${esc(a.boletines_consultados??0)} · fichas ${esc(a.fichas_obtenidas??0)} · descartados por pertinencia ${esc(a.descartados_por_pertinencia??0)}`,
+    `Novedades ${esc(a.novedades_corrida??0)} (nuevos ${esc(a.nuevos_en_cartera??0)} · movimientos ${esc(a.con_movimiento??0)} · urgencias ${esc(a.cambios_urgencia??0)}) · corrida ${esc(a.segundos_corrida??0)}s`,
+    `Fuentes: servicios de datos abiertos del Senado (tramitacion.senado.cl) y de la Cámara de Diputadas y Diputados (opendata.camara.cl). La clasificación de impacto es una estimación automática y requiere validación del analista antes de cualquier uso institucional.`
+  ].join('<br>');
+}
+
+// ---------- eventos ----------
+function enlazar(){
+  const sync=()=>{
+    F.q=$('fQuery').value.trim(); F.impacto=$('fImpacto').value; F.eje=$('fEje').value;
+    F.sector=$('fSector').value; F.urgencia=$('fUrgencia').value; F.etapa=$('fEtapa').value;
+    F.camara=$('fCamara').value; F.banda=$('fBanda').value;
+    F.vigente=$('fVigente').checked; F.novedad=$('fNovedad').checked; F.estancado=$('fEstancado').checked;
+    PAGE=1; render();
+  };
+  ['fImpacto','fEje','fSector','fUrgencia','fEtapa','fCamara','fBanda','fVigente','fNovedad','fEstancado']
+    .forEach(id=>$(id).addEventListener('change',sync));
+  let t; $('fQuery').addEventListener('input',()=>{clearTimeout(t);t=setTimeout(sync,220)});
+  $('applyBtn').addEventListener('click',sync);
+  $('clearBtn').addEventListener('click',()=>{
+    Object.assign(F,{q:'',impacto:'',eje:'',sector:'',urgencia:'',etapa:'',camara:'',banda:'',vigente:true,novedad:false,estancado:false,conUrgencia:false});
+    ['fQuery','fImpacto','fEje','fSector','fUrgencia','fEtapa','fCamara','fBanda'].forEach(id=>$(id).value='');
+    $('fVigente').checked=true; $('fNovedad').checked=false; $('fEstancado').checked=false;
+    PAGE=1; render();
+  });
+  $('sortBy').addEventListener('change',()=>{PAGE=1;render()});
+  $('pageSize').addEventListener('change',()=>{PAGE=1;renderBills()});
+  $('refreshBtn').addEventListener('click',cargar);
+  $('mobileFilterBtn').addEventListener('click',()=>$('sidebar').classList.toggle('open'));
+}
+
+enlazar(); cargar();
+</script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+{
+  "descripcion": "Ampliaciones del léxico de pertinencia. Es aditivo: lo que se escriba aquí se SUMA al léxico incorporado en monitor_legislativo.py, no lo reemplaza. Escribe las frases en minúsculas y sin tildes; el motor normaliza el texto antes de comparar y exige coincidencia de palabra completa.",
+  "directas": [],
+  "nucleo": [],
+  "estructurales": [],
+  "sectoriales": {},
+  "negativas": []
+}

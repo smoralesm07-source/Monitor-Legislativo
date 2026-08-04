@@ -1,0 +1,16 @@
+{
+  "descripcion": "Cartera de seguimiento permanente. Estos boletines se consultan en cada corrida aunque no registren movimiento y aunque el motor de pertinencia no los puntúe. Edita este archivo para incorporar o retirar proyectos sin tocar el código.",
+  "boletines": [
+    {"boletin": "15975-25", "nota": "Crea el Subsistema de Inteligencia Económica contra el crimen organizado"},
+    {"boletin": "18407-25", "nota": "Agrava las sanciones aplicables en materia de lavado de activos"},
+    {"boletin": "18373-07", "nota": "Levantamiento del secreto bancario con control judicial previo"},
+    {"boletin": "16808-25", "nota": "Lavado de activos asociado al comercio ilegal"},
+    {"boletin": "16764-03", "nota": "Límites a las transacciones en dinero efectivo"},
+    {"boletin": "18080-03", "nota": "Transparencia y trazabilidad financiera en operaciones prendarias"},
+    {"boletin": "18488-07", "nota": "Persecución penal y patrimonial del crimen organizado"},
+    {"boletin": "18217-07", "nota": "Criminalidad organizada y terrorismo"},
+    {"boletin": "18420-25", "nota": "Seguridad portuaria frente al crimen organizado"},
+    {"boletin": "18369-07", "nota": "Contrabando de tabaco y sus derivados"},
+    {"boletin": "12234-02", "nota": "Sistema de inteligencia del Estado · Ley N° 21.821"}
+  ]
+}

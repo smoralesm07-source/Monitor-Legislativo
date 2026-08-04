@@ -1,0 +1,1064 @@
+{
+ "generado": "2026-08-03T16:34:37.145855-04:00",
+ "generado_legible": "03/08/2026 16:34",
+ "version_motor": "1.0.0-tramitacion-legislativa · DEMOSTRACIÓN",
+ "modo_ejecucion": "demo",
+ "metricas": {
+  "total": 10,
+  "vigentes": 9,
+  "impacto_directo": 3,
+  "impacto_estructural": 4,
+  "impacto_sectorial": 2,
+  "con_urgencia": 4,
+  "discusion_inmediata": 1,
+  "prioridad_critica": 3,
+  "prioridad_alta": 0,
+  "movimiento_7d": 2,
+  "movimiento_30d": 4,
+  "estancados_180d": 3,
+  "pipeline": [
+   {
+    "ordinal": 1,
+    "etapa": "Primer trámite",
+    "total": 7
+   },
+   {
+    "ordinal": 2,
+    "etapa": "Segundo trámite",
+    "total": 1
+   },
+   {
+    "ordinal": 3,
+    "etapa": "Tercer trámite",
+    "total": 1
+   }
+  ],
+  "por_eje": [
+   {
+    "clave": "delitos_base",
+    "etiqueta": "Catálogo de delitos base",
+    "total": 6
+   },
+   {
+    "clave": "facultades_uaf",
+    "etiqueta": "Facultades y competencias UAF",
+    "total": 3
+   },
+   {
+    "clave": "secreto_bancario",
+    "etiqueta": "Secreto y reserva bancaria",
+    "total": 2
+   },
+   {
+    "clave": "crimen_organizado",
+    "etiqueta": "Crimen organizado y persecución penal",
+    "total": 2
+   },
+   {
+    "clave": "sujetos_obligados",
+    "etiqueta": "Régimen de sujetos obligados",
+    "total": 1
+   },
+   {
+    "clave": "activos_virtuales",
+    "etiqueta": "Activos virtuales",
+    "total": 1
+   },
+   {
+    "clave": "decomiso_activos",
+    "etiqueta": "Decomiso y recuperación de activos",
+    "total": 1
+   },
+   {
+    "clave": "efectivo_bancarizacion",
+    "etiqueta": "Efectivo y bancarización",
+    "total": 1
+   }
+  ],
+  "por_sector": [
+   {
+    "clave": "credito_no_bancario",
+    "etiqueta": "Crédito no bancario",
+    "total": 1
+   }
+  ],
+  "por_urgencia": [
+   {
+    "clave": "sin urgencia",
+    "etiqueta": "Sin urgencia",
+    "total": 5
+   },
+   {
+    "clave": "suma",
+    "etiqueta": "Suma urgencia",
+    "total": 2
+   },
+   {
+    "clave": "discusion inmediata",
+    "etiqueta": "Discusión inmediata",
+    "total": 1
+   },
+   {
+    "clave": "simple",
+    "etiqueta": "Simple urgencia",
+    "total": 1
+   }
+  ],
+  "por_camara": [
+   {
+    "clave": "Senado",
+    "etiqueta": "Senado",
+    "total": 5
+   },
+   {
+    "clave": "C.Diputados",
+    "etiqueta": "C.Diputados",
+    "total": 4
+   }
+  ],
+  "por_iniciativa": [
+   {
+    "clave": "Moción",
+    "etiqueta": "Moción",
+    "total": 6
+   },
+   {
+    "clave": "Mensaje",
+    "etiqueta": "Mensaje",
+    "total": 4
+   }
+  ],
+  "generado": "2026-08-03T16:34:37.145855-04:00"
+ },
+ "proyectos": [
+  {
+   "boletin": "17700-05",
+   "titulo": "Regula a los proveedores de servicios de activos virtuales e incorpora obligaciones de debida diligencia y reporte de operaciones sospechosas",
+   "fecha_ingreso": "2025-09-07T16:34:37.145855-03:00",
+   "iniciativa": "Mensaje",
+   "camara_origen": "C.Diputados",
+   "urgencia": "Suma",
+   "etapa": "Tercer trámite constitucional",
+   "subetapa": "Discusión de modificaciones",
+   "materias": [
+    "ACTIVOS VIRTUALES",
+    "CRIPTOACTIVOS",
+    "SUJETOS OBLIGADOS"
+   ],
+   "ministerios": [
+    "Ministerio de Hacienda"
+   ],
+   "tramitacion": [
+    {
+     "fecha": "2025-09-07T16:34:37.145855-03:00",
+     "descripcion": "Ingreso de proyecto",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados",
+     "fecha_legible": "07/09/2025"
+    },
+    {
+     "fecha": "2026-04-05T16:34:37.145855-04:00",
+     "descripcion": "Aprobado. Pasa al Senado",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado",
+     "fecha_legible": "05/04/2026"
+    },
+    {
+     "fecha": "2026-07-25T16:34:37.145855-04:00",
+     "descripcion": "Oficio con modificaciones a Cámara de origen",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "C.Diputados",
+     "fecha_legible": "25/07/2026"
+    }
+   ],
+   "autores": [],
+   "fuentes": [
+    "senado",
+    "camara"
+   ],
+   "id": "904901ade0265d2d",
+   "puntaje_pertinencia": 403.0,
+   "nivel_impacto": "directo",
+   "evidencia": {
+    "directas": [
+     "operaciones sospechosas",
+     "reporte de operaciones sospechosas",
+     "sujetos obligados"
+    ],
+    "nucleo": [
+     "debida diligencia"
+    ],
+    "estructurales": [
+     "activos virtuales",
+     "criptoactivos",
+     "proveedores de servicios de activos virtuales"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "facultades_uaf",
+    "sujetos_obligados",
+    "activos_virtuales"
+   ],
+   "ejes_legibles": [
+    "Facultades y competencias UAF",
+    "Régimen de sujetos obligados",
+    "Activos virtuales"
+   ],
+   "impacto_legible": "Impacto directo en la Ley 19.913",
+   "urgencia_clave": "suma",
+   "urgencia_legible": "Suma urgencia",
+   "etapa_ordinal": 3,
+   "vigente": true,
+   "ultimo_movimiento": "2026-07-25T16:34:37-04:00",
+   "ultimo_movimiento_legible": "25/07/2026",
+   "dias_sin_movimiento": 9,
+   "ultimo_tramite": "Oficio con modificaciones a Cámara de origen",
+   "camara_actual": "C.Diputados",
+   "total_tramites": 3,
+   "fecha_ingreso_legible": "07/09/2025",
+   "antiguedad_dias": 330,
+   "prioridad": 379.5,
+   "banda_prioridad": "critica",
+   "factor_urgencia": 2.2,
+   "factor_proximidad": 1.5,
+   "factor_frescura": 1.15,
+   "huella": "26b014e68ae5ddd46195",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17700-05",
+   "link_camara": "",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17700",
+   "sintesis": "Suma urgencia · Tercer trámite constitucional · Oficio con modificaciones a Cámara de origen",
+   "novedad": ""
+  },
+  {
+   "boletin": "15975-25",
+   "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
+   "fecha_ingreso": "2023-05-31T16:34:37.145855-04:00",
+   "iniciativa": "Mensaje",
+   "camara_origen": "C.Diputados",
+   "urgencia": "Suma",
+   "etapa": "Segundo trámite constitucional",
+   "subetapa": "Discusión particular",
+   "camara_id": "16123",
+   "materias": [
+    "LAVADO DE ACTIVOS",
+    "SECRETO BANCARIO",
+    "CRIMEN ORGANIZADO",
+    "UNIDAD DE ANALISIS FINANCIERO"
+   ],
+   "ministerios": [
+    "Ministerio de Hacienda",
+    "Ministerio del Interior y Seguridad Pública"
+   ],
+   "comisiones": [
+    "Comisión de Hacienda",
+    "Comisión de Seguridad Pública"
+   ],
+   "tramitacion": [
+    {
+     "fecha": "2023-05-31T16:34:37.145855-04:00",
+     "descripcion": "Ingreso de proyecto",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados",
+     "fecha_legible": "31/05/2023"
+    },
+    {
+     "fecha": "2026-01-05T16:34:37.145855-03:00",
+     "descripcion": "Aprobado en general y particular. Pasa al Senado",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados",
+     "fecha_legible": "05/01/2026"
+    },
+    {
+     "fecha": "2026-07-30T16:34:37.145855-04:00",
+     "descripcion": "Primer informe de Comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado",
+     "fecha_legible": "30/07/2026"
+    }
+   ],
+   "votaciones": [
+    {
+     "fecha": "2026-01-05T16:34:37.145855-03:00",
+     "tema": "En general",
+     "si": "112",
+     "no": "8",
+     "abstencion": "3",
+     "fecha_legible": "05/01/2026"
+    }
+   ],
+   "autores": [],
+   "fuentes": [
+    "senado",
+    "camara"
+   ],
+   "id": "d91f40e7b4657b1d",
+   "puntaje_pertinencia": 310.0,
+   "nivel_impacto": "directo",
+   "evidencia": {
+    "directas": [
+     "unidad de analisis financiero"
+    ],
+    "nucleo": [
+     "inteligencia economica",
+     "lavado de activos",
+     "secreto bancario",
+     "subsistema de inteligencia economica"
+    ],
+    "estructurales": [
+     "crimen organizado"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "facultades_uaf",
+    "delitos_base",
+    "secreto_bancario",
+    "crimen_organizado"
+   ],
+   "ejes_legibles": [
+    "Facultades y competencias UAF",
+    "Catálogo de delitos base",
+    "Secreto y reserva bancaria",
+    "Crimen organizado y persecución penal"
+   ],
+   "impacto_legible": "Impacto directo en la Ley 19.913",
+   "urgencia_clave": "suma",
+   "urgencia_legible": "Suma urgencia",
+   "etapa_ordinal": 2,
+   "vigente": true,
+   "ultimo_movimiento": "2026-07-30T16:34:37-04:00",
+   "ultimo_movimiento_legible": "30/07/2026",
+   "dias_sin_movimiento": 4,
+   "ultimo_tramite": "Primer informe de Comisión de Hacienda",
+   "camara_actual": "Senado",
+   "total_tramites": 3,
+   "fecha_ingreso_legible": "31/05/2023",
+   "antiguedad_dias": 1160,
+   "prioridad": 357.5,
+   "banda_prioridad": "critica",
+   "factor_urgencia": 2.2,
+   "factor_proximidad": 1.25,
+   "factor_frescura": 1.3,
+   "huella": "1a51dc732a0c48ff70f2",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=16123&prmBOLETIN=15975-25",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15975",
+   "sintesis": "Suma urgencia · Segundo trámite constitucional · Primer informe de Comisión de Hacienda",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-03T16:34:37.145855-04:00"
+  },
+  {
+   "boletin": "18488-07",
+   "titulo": "Modifica diversos cuerpos legales en materia de persecución penal y patrimonial, y tipifica nuevos delitos para combatir el crimen organizado",
+   "fecha_ingreso": "2026-07-21T16:34:37.145855-04:00",
+   "iniciativa": "Mensaje",
+   "camara_origen": "C.Diputados",
+   "urgencia": "Discusión inmediata",
+   "etapa": "Primer trámite constitucional",
+   "subetapa": "Comisión de Seguridad Ciudadana",
+   "materias": [
+    "CRIMEN ORGANIZADO",
+    "DECOMISO",
+    "LAVADO DE ACTIVOS"
+   ],
+   "ministerios": [
+    "Ministerio del Interior y Seguridad Pública"
+   ],
+   "tramitacion": [
+    {
+     "fecha": "2026-07-21T16:34:37.145855-04:00",
+     "descripcion": "Ingreso de proyecto. Pasa a Comisión de Seguridad Ciudadana",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados",
+     "fecha_legible": "21/07/2026"
+    },
+    {
+     "fecha": "2026-08-01T16:34:37.145855-04:00",
+     "descripcion": "Hace presente la urgencia calificada de discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados",
+     "fecha_legible": "01/08/2026"
+    }
+   ],
+   "autores": [],
+   "fuentes": [
+    "senado",
+    "camara"
+   ],
+   "id": "dd8debf4ea849c38",
+   "puntaje_pertinencia": 104.0,
+   "nivel_impacto": "estructural",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [
+     "decomiso",
+     "lavado de activos"
+    ],
+    "estructurales": [
+     "crimen organizado"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "delitos_base",
+    "decomiso_activos",
+    "crimen_organizado"
+   ],
+   "ejes_legibles": [
+    "Catálogo de delitos base",
+    "Decomiso y recuperación de activos",
+    "Crimen organizado y persecución penal"
+   ],
+   "impacto_legible": "Impacto estructural en el sistema ALA/CFT",
+   "urgencia_clave": "discusion inmediata",
+   "urgencia_legible": "Discusión inmediata",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2026-08-01T16:34:37-04:00",
+   "ultimo_movimiento_legible": "01/08/2026",
+   "dias_sin_movimiento": 2,
+   "ultimo_tramite": "Hace presente la urgencia calificada de discusión inmediata",
+   "camara_actual": "C.Diputados",
+   "total_tramites": 2,
+   "fecha_ingreso_legible": "21/07/2026",
+   "antiguedad_dias": 13,
+   "prioridad": 241.8,
+   "banda_prioridad": "critica",
+   "factor_urgencia": 3.0,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 1.3,
+   "huella": "0eebfb583131ec636ad2",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18488-07",
+   "link_camara": "",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18488",
+   "sintesis": "Discusión inmediata · Primer trámite constitucional · Hace presente la urgencia calificada de discusión inmediata",
+   "novedad": "urgencia",
+   "novedad_detectada": "2026-08-03T16:34:37.145855-04:00"
+  },
+  {
+   "boletin": "18373-07",
+   "titulo": "Modifica la legislación para agilizar el levantamiento del secreto bancario con control judicial previo en investigaciones por lavado de dinero",
+   "fecha_ingreso": "2026-04-30T16:34:37.145855-04:00",
+   "iniciativa": "Moción",
+   "camara_origen": "C.Diputados",
+   "urgencia": "Simple",
+   "etapa": "Primer trámite constitucional",
+   "subetapa": "Comisión de Constitución",
+   "materias": [
+    "SECRETO BANCARIO",
+    "LAVADO DE ACTIVOS"
+   ],
+   "comisiones": [
+    "Comisión de Constitución, Legislación y Justicia"
+   ],
+   "tramitacion": [
+    {
+     "fecha": "2026-04-30T16:34:37.145855-04:00",
+     "descripcion": "Ingreso de proyecto",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados",
+     "fecha_legible": "30/04/2026"
+    },
+    {
+     "fecha": "2026-07-22T16:34:37.145855-04:00",
+     "descripcion": "Informe de Comisión de Constitución",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados",
+     "fecha_legible": "22/07/2026"
+    }
+   ],
+   "autores": [],
+   "fuentes": [
+    "senado",
+    "camara"
+   ],
+   "id": "bf99bac3167f7b32",
+   "puntaje_pertinencia": 208.0,
+   "nivel_impacto": "estructural",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [
+     "lavado de activos",
+     "lavado de dinero",
+     "levantamiento del secreto bancario",
+     "secreto bancario"
+    ],
+    "estructurales": [],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "delitos_base",
+    "secreto_bancario"
+   ],
+   "ejes_legibles": [
+    "Catálogo de delitos base",
+    "Secreto y reserva bancaria"
+   ],
+   "impacto_legible": "Impacto estructural en el sistema ALA/CFT",
+   "urgencia_clave": "simple",
+   "urgencia_legible": "Simple urgencia",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2026-07-22T16:34:37-04:00",
+   "ultimo_movimiento_legible": "22/07/2026",
+   "dias_sin_movimiento": 12,
+   "ultimo_tramite": "Informe de Comisión de Constitución",
+   "camara_actual": "C.Diputados",
+   "total_tramites": 2,
+   "fecha_ingreso_legible": "30/04/2026",
+   "antiguedad_dias": 95,
+   "prioridad": 114.1,
+   "banda_prioridad": "media",
+   "factor_urgencia": 1.6,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 1.15,
+   "huella": "4dd56db377108b9ad869",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18373-07",
+   "link_camara": "",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18373",
+   "sintesis": "Simple urgencia · Primer trámite constitucional · Informe de Comisión de Constitución",
+   "novedad": ""
+  },
+  {
+   "boletin": "16764-03",
+   "titulo": "Establece un monto máximo permitido para las transacciones en dinero en efectivo y modifica la ley N° 19.913",
+   "fecha_ingreso": "2025-06-09T16:34:37.145855-04:00",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia": "",
+   "etapa": "Primer trámite constitucional",
+   "subetapa": "Comisión de Economía",
+   "materias": [
+    "DINERO EN EFECTIVO",
+    "BANCARIZACION",
+    "LAVADO DE ACTIVOS"
+   ],
+   "comisiones": [
+    "Comisión de Economía"
+   ],
+   "tramitacion": [
+    {
+     "fecha": "2025-06-09T16:34:37.145855-04:00",
+     "descripcion": "Ingreso de proyecto",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado",
+     "fecha_legible": "09/06/2025"
+    },
+    {
+     "fecha": "2025-12-01T16:34:37.145855-03:00",
+     "descripcion": "Refundido con boletín 15462-03",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado",
+     "fecha_legible": "01/12/2025"
+    }
+   ],
+   "autores": [],
+   "fuentes": [
+    "senado",
+    "camara"
+   ],
+   "id": "02863b4593c9c21a",
+   "puntaje_pertinencia": 253.0,
+   "nivel_impacto": "directo",
+   "evidencia": {
+    "directas": [
+     "19.913"
+    ],
+    "nucleo": [
+     "lavado de activos"
+    ],
+    "estructurales": [
+     "bancarizacion",
+     "dinero en efectivo"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "facultades_uaf",
+    "delitos_base",
+    "efectivo_bancarizacion"
+   ],
+   "ejes_legibles": [
+    "Facultades y competencias UAF",
+    "Catálogo de delitos base",
+    "Efectivo y bancarización"
+   ],
+   "impacto_legible": "Impacto directo en la Ley 19.913",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2025-12-01T16:34:37-03:00",
+   "ultimo_movimiento_legible": "01/12/2025",
+   "dias_sin_movimiento": 245,
+   "ultimo_tramite": "Refundido con boletín 15462-03",
+   "camara_actual": "Senado",
+   "total_tramites": 2,
+   "fecha_ingreso_legible": "09/06/2025",
+   "antiguedad_dias": 420,
+   "prioridad": 80.0,
+   "banda_prioridad": "media",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 0.8,
+   "huella": "c76e0be362af80214424",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16764-03",
+   "link_camara": "",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16764",
+   "sintesis": "Primer trámite constitucional · Refundido con boletín 15462-03",
+   "novedad": ""
+  },
+  {
+   "boletin": "18407-25",
+   "titulo": "Modifica diversos cuerpos legales, con el objeto de agravar las sanciones aplicables en materia de lavado de activos",
+   "fecha_ingreso": "2026-06-24T16:34:37.145855-04:00",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia": "",
+   "etapa": "Primer trámite constitucional",
+   "subetapa": "Primer informe de comisión",
+   "materias": [
+    "LAVADO DE ACTIVOS",
+    "DELITOS BASE"
+   ],
+   "comisiones": [
+    "Comisión de Seguridad Pública"
+   ],
+   "tramitacion": [
+    {
+     "fecha": "2026-06-24T16:34:37.145855-04:00",
+     "descripcion": "Cuenta de proyecto. Pasa a Comisión de Seguridad Pública",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado",
+     "fecha_legible": "24/06/2026"
+    }
+   ],
+   "autores": [],
+   "fuentes": [
+    "senado",
+    "camara"
+   ],
+   "id": "a2afa16efcdd8cf0",
+   "puntaje_pertinencia": 112.0,
+   "nivel_impacto": "estructural",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [
+     "delitos base",
+     "lavado de activos"
+    ],
+    "estructurales": [],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "delitos_base"
+   ],
+   "ejes_legibles": [
+    "Catálogo de delitos base"
+   ],
+   "impacto_legible": "Impacto estructural en el sistema ALA/CFT",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2026-06-24T16:34:37-04:00",
+   "ultimo_movimiento_legible": "24/06/2026",
+   "dias_sin_movimiento": 40,
+   "ultimo_tramite": "Cuenta de proyecto. Pasa a Comisión de Seguridad Pública",
+   "camara_actual": "Senado",
+   "total_tramites": 1,
+   "fecha_ingreso_legible": "24/06/2026",
+   "antiguedad_dias": 40,
+   "prioridad": 62.0,
+   "banda_prioridad": "media",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 1.0,
+   "huella": "83b7506aa5ed7f1046cb",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18407-25",
+   "link_camara": "",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18407",
+   "sintesis": "Primer trámite constitucional · Cuenta de proyecto. Pasa a Comisión de Seguridad Pública",
+   "novedad": "nuevo",
+   "novedad_detectada": "2026-08-03T16:34:37.145855-04:00"
+  },
+  {
+   "boletin": "16808-25",
+   "titulo": "Introduce reformas para perseguir el lavado de activos asociado al comercio ilegal y al contrabando urbano",
+   "fecha_ingreso": "2025-01-20T16:34:37.145855-03:00",
+   "iniciativa": "Moción",
+   "camara_origen": "C.Diputados",
+   "urgencia": "",
+   "etapa": "Primer trámite constitucional",
+   "subetapa": "Comisión de Gobierno Interior",
+   "materias": [
+    "LAVADO DE ACTIVOS",
+    "COMERCIO ILEGAL"
+   ],
+   "tramitacion": [
+    {
+     "fecha": "2025-01-20T16:34:37.145855-03:00",
+     "descripcion": "Ingreso de proyecto",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados",
+     "fecha_legible": "20/01/2025"
+    },
+    {
+     "fecha": "2025-05-30T16:34:37.145855-04:00",
+     "descripcion": "Cuenta de proyecto. Pasa a Comisión de Gobierno Interior",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados",
+     "fecha_legible": "30/05/2025"
+    }
+   ],
+   "autores": [],
+   "fuentes": [
+    "senado",
+    "camara"
+   ],
+   "id": "fa5ca40fa3da378b",
+   "puntaje_pertinencia": 144.0,
+   "nivel_impacto": "estructural",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [
+     "lavado de activos"
+    ],
+    "estructurales": [
+     "comercio ilegal",
+     "contrabando"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "delitos_base"
+   ],
+   "ejes_legibles": [
+    "Catálogo de delitos base"
+   ],
+   "impacto_legible": "Impacto estructural en el sistema ALA/CFT",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2025-05-30T16:34:37-04:00",
+   "ultimo_movimiento_legible": "30/05/2025",
+   "dias_sin_movimiento": 430,
+   "ultimo_tramite": "Cuenta de proyecto. Pasa a Comisión de Gobierno Interior",
+   "camara_actual": "C.Diputados",
+   "total_tramites": 2,
+   "fecha_ingreso_legible": "20/01/2025",
+   "antiguedad_dias": 560,
+   "prioridad": 34.1,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 0.55,
+   "huella": "b1a1c3cfee7c4d108057",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16808-25",
+   "link_camara": "",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16808",
+   "sintesis": "Primer trámite constitucional · Cuenta de proyecto. Pasa a Comisión de Gobierno Interior",
+   "novedad": ""
+  },
+  {
+   "boletin": "18369-07",
+   "titulo": "Modifica la Ordenanza de Aduanas, con el objeto de aumentar las penas asignadas al delito de contrabando de tabaco y sus derivados",
+   "fecha_ingreso": "2026-06-16T16:34:37.145855-04:00",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia": "",
+   "etapa": "Primer trámite constitucional",
+   "materias": [
+    "CONTRABANDO",
+    "DELITOS ADUANEROS"
+   ],
+   "tramitacion": [
+    {
+     "fecha": "2026-06-16T16:34:37.145855-04:00",
+     "descripcion": "Ingreso de proyecto",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado",
+     "fecha_legible": "16/06/2026"
+    }
+   ],
+   "autores": [],
+   "fuentes": [
+    "senado",
+    "camara"
+   ],
+   "id": "022f13e1bf19d971",
+   "puntaje_pertinencia": 56.0,
+   "nivel_impacto": "sectorial",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [],
+    "estructurales": [
+     "contrabando",
+     "delitos aduaneros"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [],
+   "ejes_legibles": [],
+   "impacto_legible": "Impacto sectorial en sujetos obligados",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2026-06-16T16:34:37-04:00",
+   "ultimo_movimiento_legible": "16/06/2026",
+   "dias_sin_movimiento": 48,
+   "ultimo_tramite": "Ingreso de proyecto",
+   "camara_actual": "Senado",
+   "total_tramites": 1,
+   "fecha_ingreso_legible": "16/06/2026",
+   "antiguedad_dias": 48,
+   "prioridad": 34.0,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 1.0,
+   "huella": "13d28809b68eb72eda8f",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18369-07",
+   "link_camara": "",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18369",
+   "sintesis": "Primer trámite constitucional · Ingreso de proyecto",
+   "novedad": ""
+  },
+  {
+   "boletin": "18080-03",
+   "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la transparencia y trazabilidad financiera en las operaciones prendarias",
+   "fecha_ingreso": "2026-01-26T16:34:37.145855-03:00",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia": "",
+   "etapa": "Primer trámite constitucional",
+   "materias": [
+    "OPERACIONES PRENDARIAS",
+    "TRAZABILIDAD FINANCIERA"
+   ],
+   "tramitacion": [
+    {
+     "fecha": "2026-01-26T16:34:37.145855-03:00",
+     "descripcion": "Ingreso de proyecto",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado",
+     "fecha_legible": "26/01/2026"
+    }
+   ],
+   "autores": [],
+   "fuentes": [
+    "senado",
+    "camara"
+   ],
+   "id": "549f2c9d43daf111",
+   "puntaje_pertinencia": 80.0,
+   "nivel_impacto": "sectorial",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [],
+    "estructurales": [
+     "trazabilidad financiera"
+    ],
+    "sectoriales": [
+     "operaciones prendarias",
+     "prendarias"
+    ]
+   },
+   "sectores": [
+    "credito_no_bancario"
+   ],
+   "sectores_legibles": [
+    "Crédito no bancario"
+   ],
+   "ejes": [],
+   "ejes_legibles": [],
+   "impacto_legible": "Impacto sectorial en sujetos obligados",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2026-01-26T16:34:37-03:00",
+   "ultimo_movimiento_legible": "26/01/2026",
+   "dias_sin_movimiento": 189,
+   "ultimo_tramite": "Ingreso de proyecto",
+   "camara_actual": "Senado",
+   "total_tramites": 1,
+   "fecha_ingreso_legible": "26/01/2026",
+   "antiguedad_dias": 189,
+   "prioridad": 27.2,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 0.8,
+   "huella": "8c084582721285b20549",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18080-03",
+   "link_camara": "",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18080",
+   "sintesis": "Primer trámite constitucional · Ingreso de proyecto",
+   "novedad": ""
+  },
+  {
+   "boletin": "12234-02",
+   "titulo": "Fortalece y moderniza el sistema de inteligencia del Estado",
+   "fecha_ingreso": "2018-11-13T16:34:37.145855-03:00",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Senado",
+   "urgencia": "",
+   "etapa": "Tramitación terminada",
+   "subetapa": "Publicado",
+   "ley_numero": "21.821",
+   "estado": "Publicado",
+   "materias": [
+    "INTELIGENCIA DEL ESTADO"
+   ],
+   "tramitacion": [
+    {
+     "fecha": "2018-11-13T16:34:37.145855-03:00",
+     "descripcion": "Ingreso de proyecto",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado",
+     "fecha_legible": "13/11/2018"
+    },
+    {
+     "fecha": "2025-10-07T16:34:37.145855-03:00",
+     "descripcion": "Publicada la Ley N° 21.821",
+     "etapa": "Tramitación terminada",
+     "camara": "",
+     "fecha_legible": "07/10/2025"
+    }
+   ],
+   "autores": [],
+   "fuentes": [
+    "senado",
+    "camara"
+   ],
+   "id": "279d383a148f5857",
+   "puntaje_pertinencia": 0.0,
+   "nivel_impacto": "descartado",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [],
+    "estructurales": [],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [],
+   "ejes_legibles": [],
+   "impacto_legible": "descartado",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 7,
+   "vigente": false,
+   "ultimo_movimiento": "2025-10-07T16:34:37-03:00",
+   "ultimo_movimiento_legible": "07/10/2025",
+   "dias_sin_movimiento": 300,
+   "ultimo_tramite": "Publicada la Ley N° 21.821",
+   "camara_actual": "Senado",
+   "total_tramites": 2,
+   "fecha_ingreso_legible": "13/11/2018",
+   "antiguedad_dias": 2820,
+   "prioridad": 0.0,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 0.6,
+   "factor_frescura": 0.8,
+   "huella": "c2db8ff46cb0849fe12c",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=12234-02",
+   "link_camara": "",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=12234",
+   "sintesis": "Tramitación terminada · Publicada la Ley N° 21.821",
+   "novedad": ""
+  }
+ ],
+ "descartados": [
+  {
+   "boletin": "18437-37",
+   "titulo": "Declara el 8 de octubre como el Día Nacional de Punta Angamos",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia"
+  },
+  {
+   "boletin": "18272-37",
+   "titulo": "Declara el trabajo de las mujeres descoladoras como patrimonio cultural",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia"
+  }
+ ],
+ "novedades": 3,
+ "catalogos": {
+  "ejes": {
+   "facultades_uaf": "Facultades y competencias UAF",
+   "delitos_base": "Catálogo de delitos base",
+   "sujetos_obligados": "Régimen de sujetos obligados",
+   "secreto_bancario": "Secreto y reserva bancaria",
+   "decomiso_activos": "Decomiso y recuperación de activos",
+   "beneficiario_final": "Beneficiario final y transparencia societaria",
+   "activos_virtuales": "Activos virtuales",
+   "efectivo_bancarizacion": "Efectivo y bancarización",
+   "financiamiento_terrorismo": "Financiamiento del terrorismo",
+   "responsabilidad_penal_pj": "Responsabilidad penal de personas jurídicas",
+   "crimen_organizado": "Crimen organizado y persecución penal",
+   "cooperacion_institucional": "Cooperación e intercambio de información"
+  },
+  "sectores": {
+   "banca_financiero": "Banca y sistema financiero",
+   "valores_seguros": "Valores y seguros",
+   "notarial_registral": "Notarial y registral",
+   "juegos_azar": "Juegos de azar",
+   "cambio_remesas": "Cambio de divisas y remesas",
+   "credito_no_bancario": "Crédito no bancario",
+   "bienes_alto_valor": "Bienes de alto valor",
+   "inmobiliario": "Inmobiliario",
+   "comercio_exterior": "Comercio exterior y aduanas",
+   "sin_fines_de_lucro": "Organizaciones sin fines de lucro",
+   "profesiones_liberales": "Profesiones liberales",
+   "otros_obligados": "Otros sujetos obligados"
+  },
+  "impacto": {
+   "directo": "Impacto directo en la Ley 19.913",
+   "estructural": "Impacto estructural en el sistema ALA/CFT",
+   "sectorial": "Impacto sectorial en sujetos obligados",
+   "seguimiento": "Seguimiento preventivo"
+  },
+  "urgencia": {
+   "discusion inmediata": "Discusión inmediata",
+   "suma": "Suma urgencia",
+   "simple": "Simple urgencia",
+   "sin urgencia": "Sin urgencia"
+  }
+ },
+ "auditoria": {
+  "modo": "demo (datos ilustrativos, sin consulta a los servicios)",
+  "candidatos_descubiertos": 10,
+  "boletines_consultados": 10,
+  "fichas_obtenidas": 10,
+  "consultas_fallidas": 0,
+  "registros_publicados": 10,
+  "descartados_por_pertinencia": 2,
+  "novedades_corrida": 3,
+  "nuevos_en_cartera": 1,
+  "con_movimiento": 1,
+  "cambios_urgencia": 1,
+  "segundos_corrida": 0.0
+ }
+}

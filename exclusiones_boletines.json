@@ -1,0 +1,4 @@
+{
+  "descripcion": "Boletines revisados por un analista y confirmados como falsos positivos. Quedan fuera de la cartera de forma auditable, sin tocar el motor. Registra el motivo para que la decisión sea revisable.",
+  "exclusiones": []
+}
