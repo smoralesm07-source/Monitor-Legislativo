@@ -476,6 +476,9 @@ const NIVELES={
      desc:'Sin señales suficientes en el material disponible. Incluye los ómnibus que esperan criterio de analista.'}
 };
 function nivelDe(p){
+  // El motor ya publica nivel_cartera. El cálculo local queda como respaldo
+  // para datos.json generados antes de esa versión.
+  if(p.nivel_cartera) return Number(p.nivel_cartera);
   if(p.nivel_impacto==='directo') return 1;
   if(p.nivel_impacto==='estructural'||p.nivel_impacto==='sectorial') return 2;
   if((p.ejes||[]).some(e=>EJES_PERIMETRO.includes(e))) return 2;

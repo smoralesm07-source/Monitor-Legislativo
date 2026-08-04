@@ -71,25 +71,57 @@ Mientras no hayas hecho el paso 5, el tablero muestra datos de demostración con
 
 ---
 
-## Avisos por correo (opcional)
+## Avisos por correo con tu cuenta Gmail
 
-El monitor funciona sin esto; simplemente no notifica.
+El monitor avisa **solo cuando se mueve un proyecto de nivel 1** — los que impactan directamente la Ley N° 19.913. Nivel 2 y 3 quedan en el tablero, sin correo. Es deliberado: con una corrida cada dos horas, un aviso que llega por todo deja de leerse en una semana.
 
-**Settings → Secrets and variables → Actions → New repository secret**, uno por cada uno:
+### 1. Crear una clave de aplicación en Google
 
-| Secret | Valor |
+Gmail no acepta la contraseña de tu cuenta desde un programa. Necesitas una clave de aplicación, y para eso la verificación en dos pasos debe estar activa.
+
+1. Entra a `myaccount.google.com` → **Seguridad**
+2. Activa **Verificación en dos pasos** si no la tienes
+3. En la misma página, busca **Contraseñas de aplicaciones** (o entra directo a `myaccount.google.com/apppasswords`)
+4. Crea una con el nombre que quieras, por ejemplo `Monitor UAF`
+5. Google te muestra **16 letras en cuatro bloques**. Cópiala ahora: no vuelve a mostrarse
+
+Da lo mismo si la pegas con espacios o sin ellos; el monitor los quita.
+
+### 2. Cargar los secrets en GitHub
+
+**Settings → Secrets and variables → Actions → New repository secret**, uno por cada fila:
+
+| Nombre del secret | Valor |
 |---|---|
 | `MONITOR_SMTP_SERVIDOR` | `smtp.gmail.com` |
 | `MONITOR_SMTP_PUERTO` | `587` |
-| `MONITOR_SMTP_USUARIO` | tu dirección de correo |
-| `MONITOR_SMTP_CLAVE` | clave de aplicación (no la contraseña de la cuenta) |
-| `MONITOR_DESTINATARIOS` | `correo1@uaf.cl,correo2@uaf.cl` |
+| `MONITOR_SMTP_USUARIO` | tu dirección Gmail completa |
+| `MONITOR_SMTP_CLAVE` | la clave de aplicación de 16 letras |
+| `MONITOR_DESTINATARIOS` | destinatarios separados por coma |
 
-Con Gmail necesitas verificación en dos pasos activada y generar una clave de aplicación en la configuración de tu cuenta Google.
+Los secrets nunca aparecen en los registros del workflow ni en el repositorio. En `MONITOR_DESTINATARIOS` puedes poner varias direcciones: `seba@uaf.cl,otro@uaf.cl`.
 
-Para probar: **Run workflow** → modo **`probar_correo`**.
+### 3. Probar
 
----
+**Actions → Run workflow → modo `probar_correo`**. Envía un mensaje de ejemplo y no toca los datos. Si no llega, revisa la carpeta de spam y luego el registro del job.
+
+### Qué llega
+
+Un correo por corrida, no uno por proyecto. Trae asunto identificable —`Ley 19.913 · 2 movimientos legislativos (1 con urgencia)`— y en el cuerpo una tarjeta por boletín con el tipo de novedad, la urgencia, el estado procesal, el último movimiento y un botón directo a la ficha del Senado. Va en HTML y en texto plano, así que se lee bien en cualquier cliente.
+
+Los tres tipos de novedad que gatillan aviso:
+
+- **Nuevo en cartera** — un proyecto entró al perímetro
+- **Movimiento** — avanzó procesalmente
+- **Cambio de urgencia** — el Ejecutivo modificó la calificación, y eso cambia el tiempo real disponible para incidir
+
+### Ajustar el alcance
+
+En `.github/workflows/monitor.yml`, la variable `MONITOR_NIVEL_AVISO` controla hasta qué nivel se avisa: `1` solo la Ley 19.913 (por omisión), `2` suma el perímetro regulatorio, `3` todo. Está en el archivo y no en los secrets a propósito, para que se vea de un vistazo.
+
+Si el volumen igual resulta alto, `MONITOR_SOLO_URGENCIA=true` limita el aviso a los proyectos con urgencia vigente.
+
+> La primera corrida en modo `conciliacion` **no envía correos**: toda la cartera sería "nueva". Desde la segunda en adelante solo avisa de movimientos reales.
 
 ## Uso diario
 

@@ -118,7 +118,7 @@ CONFIG_EJEMPLO = {
         "destinatarios": ["tu.correo@gmail.com"],
         "minimo_para_avisar": 1,
         "silencio_minutos": 0,
-        "solo_impacto_directo": False,
+        "nivel_maximo_aviso": 1,
         "avisar_solo_con_urgencia": False,
     }
 }
@@ -739,6 +739,29 @@ ETIQUETAS_SECTORES = {
     "profesiones_liberales": "Profesiones liberales",
     "otros_obligados": "Otros sujetos obligados",
 }
+
+# Agrupación operativa que usan el tablero y el aviso por correo. Vive en el
+# motor y no en la interfaz para que ambas no puedan divergir: si el criterio
+# cambia, cambia en un solo lugar.
+EJES_PERIMETRO = {"facultades_uaf", "delitos_base", "sujetos_obligados"}
+
+ETIQUETAS_NIVEL = {
+    1: "Nivel 1 · Impacto en la Ley 19.913",
+    2: "Nivel 2 · Perímetro regulatorio",
+    3: "Nivel 3 · Seguimiento",
+}
+
+
+def nivel_cartera(reg: dict[str, Any]) -> int:
+    """1 modifica la Ley 19.913 · 2 perímetro ALA/CFT · 3 sin señales suficientes."""
+    if reg.get("nivel_impacto") == "directo":
+        return 1
+    if reg.get("nivel_impacto") in ("estructural", "sectorial"):
+        return 2
+    if set(reg.get("ejes") or []) & EJES_PERIMETRO:
+        return 2
+    return 3
+
 
 ETIQUETAS_IMPACTO = {
     "directo": "Impacto directo en la Ley 19.913",
@@ -1492,6 +1515,9 @@ def construye_registro(proy: dict[str, Any]) -> dict[str, Any]:
         ambiguo and pert["nivel"] in ("descartado", "seguimiento", "sectorial")
     )
 
+    reg["nivel_cartera"] = nivel_cartera(reg)
+    reg["nivel_legible"] = ETIQUETAS_NIVEL[reg["nivel_cartera"]]
+
     reg["urgencia_clave"] = normaliza_urgencia(reg.get("urgencia"))
     reg["urgencia_legible"] = ETIQUETAS_URGENCIA.get(reg["urgencia_clave"], "Sin urgencia")
     reg["etapa_ordinal"] = etapa_ordinal(reg.get("etapa"), reg.get("subetapa"))
@@ -1909,6 +1935,9 @@ def calcula_metricas(proyectos: list[dict[str, Any]], ahora: datetime) -> dict[s
         "prioridad_alta": sum(1 for p in vigentes if p.get("banda_prioridad") == "alta"),
         "movimiento_7d": len(movidos(7)),
         "movimiento_30d": len(movidos(30)),
+        "nivel_1": sum(1 for p in vigentes if p.get("nivel_cartera") == 1),
+        "nivel_2": sum(1 for p in vigentes if p.get("nivel_cartera") == 2),
+        "nivel_3": sum(1 for p in vigentes if p.get("nivel_cartera") == 3),
         "requieren_revision_manual": sum(1 for p in vigentes
                                         if p.get("requiere_revision_manual")),
         "estancados_180d": sum(1 for p in vigentes
@@ -1948,6 +1977,7 @@ def carga_config() -> dict[str, Any]:
         "remitente_nombre": ("MONITOR_REMITENTE_NOMBRE", str),
         "minimo_para_avisar": ("MONITOR_MINIMO_AVISO", int),
         "silencio_minutos": ("MONITOR_SILENCIO_MINUTOS", int),
+        "nivel_maximo_aviso": ("MONITOR_NIVEL_AVISO", int),
         "solo_impacto_directo": ("MONITOR_SOLO_DIRECTO", env_bool),
         "avisar_solo_con_urgencia": ("MONITOR_SOLO_URGENCIA", env_bool),
     }
@@ -1964,65 +1994,171 @@ def carga_config() -> dict[str, Any]:
     return cfg
 
 
+def _cuerpo_correo_texto(avisos: list[dict[str, Any]], modo: str) -> str:
+    """Versión en texto plano, que es la que sobrevive a cualquier cliente."""
+    lineas = ["Movimientos en proyectos de ley con impacto en la Ley N° 19.913.", ""]
+    for a in avisos:
+        etiqueta = {"nuevo": "NUEVO EN CARTERA", "movimiento": "MOVIMIENTO",
+                    "urgencia": "CAMBIO DE URGENCIA"}.get(a.get("novedad", ""), "ACTUALIZACIÓN")
+        lineas += [
+            f"[{etiqueta}] Boletín {a.get('boletin')}",
+            f"{ETIQUETAS_NIVEL.get(a.get('nivel_cartera', 3), '')} · {a.get('urgencia_legible', '')}",
+            a.get("titulo", ""),
+            f"Estado: {a.get('sintesis') or 'sin trámites registrados'}",
+            f"Último movimiento: {a.get('ultimo_movimiento_legible') or 'sin registro'}",
+            a.get("link_senado", ""),
+            "",
+        ]
+    lineas += ["--",
+               f"Monitor Legislativo UAF · motor {VERSION_MONITOR} · modo {modo}",
+               "Fuentes: datos abiertos del Senado y de la Cámara de Diputadas y Diputados.",
+               "La clasificación es automática y requiere validación de analista."]
+    return "\n".join(lineas)
+
+
+def _escapa_html(valor: Any) -> str:
+    return html_mod.escape(str(valor or ""), quote=True)
+
+
+def _cuerpo_correo_html(avisos: list[dict[str, Any]], modo: str) -> str:
+    """Versión HTML: mismo contenido, legible de un vistazo en el teléfono."""
+    colores = {"nuevo": "#1b6d54", "movimiento": "#07566b", "urgencia": "#b33d49"}
+    etiquetas = {"nuevo": "Nuevo en cartera", "movimiento": "Movimiento",
+                 "urgencia": "Cambio de urgencia"}
+    filas = []
+    for a in avisos:
+        nov = a.get("novedad", "")
+        color = colores.get(nov, "#657786")
+        urgencia = a.get("urgencia_legible", "")
+        chip_urg = ""
+        if a.get("urgencia_clave") and a.get("urgencia_clave") != "sin urgencia":
+            chip_urg = (f'<span style="background:#fff3e7;color:#865018;border:1px solid #efd3b8;'
+                        f'border-radius:99px;padding:2px 8px;font-size:11px;margin-left:6px;">'
+                        f'{_escapa_html(urgencia)}</span>')
+        filas.append(f"""
+      <tr><td style="padding:0 0 14px;">
+        <table width="100%" cellpadding="0" cellspacing="0"
+               style="border:1px solid #dce5e8;border-left:4px solid {color};border-radius:10px;">
+          <tr><td style="padding:13px 15px;">
+            <div style="font:600 11px -apple-system,Segoe UI,Roboto,Arial,sans-serif;
+                        letter-spacing:.06em;text-transform:uppercase;color:{color};">
+              {_escapa_html(etiquetas.get(nov, 'Actualización'))}{chip_urg}
+            </div>
+            <div style="font:700 13px monospace;color:#062f43;margin-top:6px;">
+              Boletín {_escapa_html(a.get('boletin'))}
+            </div>
+            <div style="font:600 15px -apple-system,Segoe UI,Roboto,Arial,sans-serif;
+                        color:#172938;line-height:1.35;margin-top:4px;">
+              {_escapa_html(a.get('titulo'))}
+            </div>
+            <div style="font:13px -apple-system,Segoe UI,Roboto,Arial,sans-serif;
+                        color:#536574;line-height:1.5;margin-top:7px;">
+              {_escapa_html(a.get('sintesis') or 'Sin trámites registrados')}
+            </div>
+            <div style="font:12px monospace;color:#8b99a5;margin-top:6px;">
+              Último movimiento: {_escapa_html(a.get('ultimo_movimiento_legible') or 'sin registro')}
+            </div>
+            <div style="margin-top:11px;">
+              <a href="{_escapa_html(a.get('link_senado'))}"
+                 style="background:#083d54;color:#ffffff;text-decoration:none;border-radius:8px;
+                        padding:8px 13px;font:700 12px -apple-system,Segoe UI,Roboto,Arial,sans-serif;
+                        display:inline-block;">Ver ficha en el Senado</a>
+            </div>
+          </td></tr>
+        </table>
+      </td></tr>""")
+
+    return f"""<!DOCTYPE html><html lang="es"><body style="margin:0;padding:0;background:#f3f6f7;">
+<table width="100%" cellpadding="0" cellspacing="0" style="background:#f3f6f7;padding:22px 12px;">
+  <tr><td align="center">
+    <table width="100%" cellpadding="0" cellspacing="0" style="max-width:620px;">
+      <tr><td style="padding:0 0 16px;">
+        <div style="font:700 11px monospace;letter-spacing:.12em;text-transform:uppercase;color:#087985;">
+          Monitor Legislativo UAF
+        </div>
+        <div style="font:700 20px -apple-system,Segoe UI,Roboto,Arial,sans-serif;color:#062f43;margin-top:4px;">
+          {len(avisos)} movimiento{'s' if len(avisos) != 1 else ''} en proyectos que impactan la Ley N° 19.913
+        </div>
+      </td></tr>
+      {''.join(filas)}
+      <tr><td style="padding:6px 2px 0;border-top:1px solid #dce5e8;
+                     font:11px monospace;color:#8b99a5;line-height:1.7;">
+        Motor {_escapa_html(VERSION_MONITOR)} · modo {_escapa_html(modo)}<br>
+        Fuentes: datos abiertos del Senado y de la Cámara de Diputadas y Diputados.<br>
+        La clasificación de impacto es automática y requiere validación de analista.
+      </td></tr>
+    </table>
+  </td></tr>
+</table></body></html>"""
+
+
 def envia_correo(novedades: list[dict[str, Any]], estado: dict[str, Any], modo: str) -> None:
-    """Aviso por SMTP de movimientos legislativos relevantes."""
+    """Aviso por SMTP, acotado por nivel de cartera.
+
+    Por omisión solo avisa del nivel 1: los proyectos que modifican la Ley
+    19.913 de forma directa. Un aviso que llega por todo deja de leerse, y con
+    una corrida cada dos horas eso ocurre rápido.
+    """
     cfg = carga_config().get("correo", {})
     if not cfg.get("activo"):
         return
+
     silencio = max(0, int(cfg.get("silencio_minutos", 0) or 0))
     ultimo = parsea_fecha(estado.get("ultimo_correo"))
     if silencio and ultimo and ultimo > ahora_cl() - timedelta(minutes=silencio):
         log(f"Correo omitido por silencio de {silencio} minutos.")
         return
 
-    avisos = list(novedades)
-    if cfg.get("solo_impacto_directo"):
-        avisos = [a for a in avisos if a.get("nivel_impacto") == "directo"]
+    try:
+        nivel_max = int(cfg.get("nivel_maximo_aviso", 1) or 1)
+    except (TypeError, ValueError):
+        nivel_max = 1
+    nivel_max = min(3, max(1, nivel_max))
+    if cfg.get("solo_impacto_directo"):  # compatibilidad con la configuración previa
+        nivel_max = 1
+
+    avisos = [a for a in novedades if int(a.get("nivel_cartera", 3) or 3) <= nivel_max]
     if cfg.get("avisar_solo_con_urgencia"):
         avisos = [a for a in avisos if a.get("urgencia_clave") != "sin urgencia"]
     if not avisos or len(avisos) < int(cfg.get("minimo_para_avisar", 1)):
-        return
-    destinatarios = cfg.get("destinatarios") or []
-    if not destinatarios:
+        log(f"Sin novedades de nivel <= {nivel_max}: no se envía correo.")
         return
 
-    avisos.sort(key=lambda a: a.get("prioridad", 0), reverse=True)
-    criticos = sum(1 for a in avisos if a.get("banda_prioridad") in ("critica", "alta"))
+    destinatarios = [d for d in (cfg.get("destinatarios") or []) if d]
+    if not destinatarios:
+        log("! Aviso configurado pero sin destinatarios.")
+        return
+
+    # Lo más urgente primero: el asunto y las primeras tarjetas son lo que se lee.
+    avisos.sort(key=lambda a: (a.get("nivel_cartera", 3), -(a.get("prioridad") or 0)))
+    avisos = avisos[:30]
+    con_urgencia = sum(1 for a in avisos
+                       if a.get("urgencia_clave") not in (None, "", "sin urgencia"))
+
+    if len(avisos) == 1:
+        asunto = f"Ley 19.913 · {avisos[0].get('boletin')}: {(avisos[0].get('titulo') or '')[:70]}"
+    else:
+        asunto = f"Ley 19.913 · {len(avisos)} movimientos legislativos"
+    if con_urgencia:
+        asunto += f" ({con_urgencia} con urgencia)"
 
     msg = EmailMessage()
-    asunto = f"Monitor Legislativo UAF: {len(avisos)} movimiento(s)"
-    if criticos:
-        asunto += f" · {criticos} de prioridad alta"
     msg["Subject"] = asunto
     msg["From"] = formataddr((cfg.get("remitente_nombre", "Monitor Legislativo UAF"),
                               cfg.get("usuario", "")))
     msg["To"] = ", ".join(destinatarios)
     msg["Date"] = formatdate(localtime=True)
     msg["Message-ID"] = make_msgid()
+    msg.set_content(_cuerpo_correo_texto(avisos, modo))
+    msg.add_alternative(_cuerpo_correo_html(avisos, modo), subtype="html")
 
-    lineas = ["Movimientos en proyectos de ley con impacto potencial en la Ley N° 19.913:", ""]
-    for a in avisos[:30]:
-        etiqueta = {"nuevo": "NUEVO EN CARTERA", "movimiento": "MOVIMIENTO",
-                    "urgencia": "CAMBIO DE URGENCIA"}.get(a.get("novedad", ""), "ACTUALIZACIÓN")
-        lineas += [
-            f"[{etiqueta}] Boletín {a.get('boletin')} · {a.get('impacto_legible')}"
-            f" · prioridad {a.get('banda_prioridad', '').upper()}",
-            a.get("titulo", ""),
-            a.get("sintesis", ""),
-            f"Último movimiento: {a.get('ultimo_movimiento_legible') or 'sin registro'}",
-            a.get("link_senado", ""),
-            "",
-        ]
-    lineas += ["--", f"Motor {VERSION_MONITOR} · modo {modo}",
-               "Fuente: servicios de datos abiertos del Senado y de la Cámara de Diputadas y Diputados."]
-    msg.set_content("\n".join(lineas))
-
-    servidor = cfg.get("servidor")
-    puerto = int(cfg.get("puerto", 587))
+    servidor = cfg.get("servidor") or "smtp.gmail.com"
+    puerto = int(cfg.get("puerto", 587) or 587)
     seguridad = str(cfg.get("seguridad", "starttls")).lower()
     usuario = cfg.get("usuario", "")
-    clave = cfg.get("clave", "")
+    clave = str(cfg.get("clave", "") or "").replace(" ", "")  # Gmail muestra la clave en bloques
     contexto = ssl.create_default_context()
+
     if seguridad == "ssl":
         with smtplib.SMTP_SSL(servidor, puerto, context=contexto, timeout=30) as smtp:
             if usuario:
@@ -2037,7 +2173,10 @@ def envia_correo(novedades: list[dict[str, Any]], estado: dict[str, Any], modo: 
             if usuario:
                 smtp.login(usuario, clave)
             smtp.send_message(msg)
+
     estado["ultimo_correo"] = ahora_cl().isoformat()
+    log(f"Correo enviado a {len(destinatarios)} destinatario(s) con {len(avisos)} novedad(es) "
+        f"de nivel <= {nivel_max}.")
 
 
 # ---------------------------------------------------------------------------
@@ -2116,6 +2255,8 @@ def ejecutar(modo: str) -> int:
             # el motor no tiene material para pronunciarse sobre él.
             reg["nivel_impacto"] = "seguimiento"
             reg["impacto_legible"] = ETIQUETAS_IMPACTO["seguimiento"]
+            reg["nivel_cartera"] = nivel_cartera(reg)
+            reg["nivel_legible"] = ETIQUETAS_NIVEL[reg["nivel_cartera"]]
             reg.update(calcula_prioridad(reg))
 
         previo_huella = (huellas.get(reg["boletin"]) or {}).get("huella")
@@ -2185,6 +2326,7 @@ def ejecutar(modo: str) -> int:
             "sectores": ETIQUETAS_SECTORES,
             "impacto": ETIQUETAS_IMPACTO,
             "urgencia": ETIQUETAS_URGENCIA,
+            "nivel": {str(k): v for k, v in ETIQUETAS_NIVEL.items()},
         },
         "auditoria": {
             "modo": modo,
@@ -2382,6 +2524,7 @@ def prueba_correo() -> None:
     demo = [{
         "boletin": "00000-00", "titulo": "Prueba de envío del Monitor Legislativo UAF",
         "impacto_legible": ETIQUETAS_IMPACTO["directo"], "nivel_impacto": "directo",
+        "nivel_cartera": 1, "urgencia_legible": "Simple urgencia",
         "banda_prioridad": "alta", "prioridad": 150.0, "novedad": "nuevo",
         "sintesis": "Mensaje de prueba, sin contenido legislativo real.",
         "ultimo_movimiento_legible": fecha_legible(ahora_cl()),

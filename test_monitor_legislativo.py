@@ -641,6 +641,108 @@ def prueba_omnibus() -> None:
 
 
 # ---------------------------------------------------------------------------
+# 14. Nivel de cartera y filtro del aviso por correo
+# ---------------------------------------------------------------------------
+
+def prueba_aviso() -> None:
+    print("\n14. Nivel de cartera y aviso por correo")
+
+    n1 = m.construye_registro({
+        "boletin": "15975-25",
+        "titulo": "Modifica la ley N 19.913 que crea la Unidad de Analisis Financiero",
+        "etapa": "Segundo tramite constitucional", "urgencia": "Suma"})
+    n2 = m.construye_registro({
+        "boletin": "18407-25",
+        "titulo": "Modifica diversos cuerpos legales para agravar las sanciones "
+                  "en materia de lavado de activos",
+        "etapa": "Primer tramite constitucional"})
+    n3 = m.construye_registro({
+        "boletin": "18216-05",
+        "titulo": "Para la reconstruccion nacional y el desarrollo economico y social",
+        "etapa": "Comision Mixta"})
+
+    check(n1["nivel_cartera"] == 1, "impacto directo es nivel 1", str(n1["nivel_cartera"]))
+    check(n2["nivel_cartera"] == 2, "impacto estructural es nivel 2", str(n2["nivel_cartera"]))
+    check(n3["nivel_cartera"] == 3, "omnibus sin senales es nivel 3", str(n3["nivel_cartera"]))
+    check(n1["nivel_legible"].startswith("Nivel 1"), "etiqueta legible del nivel",
+          n1["nivel_legible"])
+
+    # Un proyecto sin clasificacion pero con eje de perimetro sube a nivel 2.
+    perimetro = m.nivel_cartera({"nivel_impacto": "seguimiento", "ejes": ["delitos_base"]})
+    check(perimetro == 2, "un eje de perimetro eleva a nivel 2", str(perimetro))
+    check(m.nivel_cartera({"nivel_impacto": "seguimiento", "ejes": []}) == 3,
+          "sin ejes de perimetro queda en nivel 3")
+
+    # El filtro del correo: se capturan los envios sin tocar la red.
+    enviados: list[dict] = []
+
+    def captura(cfg, novedades):
+        enviados.clear()
+        original_cfg = m.carga_config
+        original_smtp = m.smtplib.SMTP
+
+        class SMTPFalso:
+            def __init__(self, *a, **k): pass
+            def __enter__(self): return self
+            def __exit__(self, *a): return False
+            def ehlo(self): pass
+            def starttls(self, **k): pass
+            def login(self, u, c): pass
+            def send_message(self, msg):
+                enviados.append({"asunto": msg["Subject"], "para": msg["To"],
+                                 "cuerpo": msg.get_body(("plain",)).get_content()})
+
+        m.carga_config = lambda: {"correo": cfg}
+        m.smtplib.SMTP = SMTPFalso
+        try:
+            estado = {}
+            m.envia_correo(novedades, estado, "rapido")
+        finally:
+            m.carga_config = original_cfg
+            m.smtplib.SMTP = original_smtp
+
+    base_cfg = {"activo": True, "servidor": "smtp.gmail.com", "puerto": 587,
+                "seguridad": "starttls", "usuario": "x@gmail.com", "clave": "abcd efgh ijkl mnop",
+                "destinatarios": ["seba@uaf.cl"], "minimo_para_avisar": 1,
+                "nivel_maximo_aviso": 1}
+
+    captura(base_cfg, [dict(n2, novedad="movimiento"), dict(n3, novedad="nuevo")])
+    check(not enviados, "sin novedades de nivel 1 no se envia correo", str(len(enviados)))
+
+    captura(base_cfg, [dict(n1, novedad="movimiento"), dict(n2, novedad="nuevo")])
+    check(len(enviados) == 1, "una novedad de nivel 1 dispara el aviso", str(len(enviados)))
+    if enviados:
+        cuerpo = enviados[0]["cuerpo"]
+        check("15975-25" in cuerpo, "el cuerpo trae el boletin de nivel 1")
+        check("18407-25" not in cuerpo, "el nivel 2 no se cuela en el aviso")
+        check("19.913" in enviados[0]["asunto"], "el asunto identifica la ley",
+              enviados[0]["asunto"])
+        check(enviados[0]["para"] == "seba@uaf.cl", "destinatario correcto")
+
+    # Ampliar el umbral incorpora el nivel 2.
+    captura({**base_cfg, "nivel_maximo_aviso": 2},
+            [dict(n1, novedad="movimiento"), dict(n2, novedad="nuevo"), dict(n3, novedad="nuevo")])
+    check(len(enviados) == 1 and "18407-25" in enviados[0]["cuerpo"],
+          "con nivel 2 el aviso incluye el perimetro")
+    check("18216-05" not in enviados[0]["cuerpo"], "pero no el nivel 3")
+
+    # Sin destinatarios no se intenta enviar.
+    captura({**base_cfg, "destinatarios": []}, [dict(n1, novedad="movimiento")])
+    check(not enviados, "sin destinatarios no se envia")
+
+    # Desactivado no envia aunque haya nivel 1.
+    captura({**base_cfg, "activo": False}, [dict(n1, novedad="movimiento")])
+    check(not enviados, "con el aviso desactivado no se envia")
+
+    # El correo debe llevar version en texto y en HTML.
+    html = m._cuerpo_correo_html([dict(n1, novedad="urgencia")], "rapido")
+    check("15975-25" in html and "<html" in html.lower(), "se genera cuerpo HTML")
+    check("&lt;" in m._cuerpo_correo_html(
+        [dict(n1, novedad="nuevo", titulo="<script>alert(1)</script>")], "rapido"),
+        "el HTML escapa el contenido de la fuente")
+
+
+# ---------------------------------------------------------------------------
 
 def main() -> int:
     print("=" * 72)
@@ -649,7 +751,7 @@ def main() -> int:
     for fn in (prueba_boletines, prueba_parser, prueba_fechas, prueba_pertinencia,
                prueba_ejes, prueba_estado_procesal, prueba_fusion, prueba_huella,
                prueba_registro, prueba_preseleccion, prueba_urls, prueba_seguridad,
-               prueba_omnibus):
+               prueba_omnibus, prueba_aviso):
         fn()
     print("\n" + "=" * 72)
     if FALLAS:
