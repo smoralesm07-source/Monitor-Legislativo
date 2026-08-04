@@ -1,0 +1,14 @@
+# Nunca subir credenciales: config.json se autogenera con los datos SMTP.
+config.json
+
+# Artefactos locales
+__pycache__/
+*.pyc
+node_modules/
+package-lock.json
+package.json
+monitor.log
+*.tmp
+
+# El estado SÍ se versiona: lo publica el workflow y es lo que permite
+# detectar movimientos entre corridas. No lo agregues aquí.
