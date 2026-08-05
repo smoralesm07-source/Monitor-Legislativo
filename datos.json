@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-04T19:07:10.507830-04:00",
- "generado_legible": "04/08/2026 19:07",
+ "generado": "2026-08-04T22:53:49.901542-04:00",
+ "generado_legible": "04/08/2026 22:53",
  "version_motor": "1.0.0-tramitacion-legislativa",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -122,12 +122,12 @@
    {
     "clave": "C.Diputados",
     "etiqueta": "C.Diputados",
-    "total": 14
+    "total": 15
    },
    {
     "clave": "Senado",
     "etiqueta": "Senado",
-    "total": 14
+    "total": 13
    }
   ],
   "por_iniciativa": [
@@ -142,7 +142,7 @@
     "total": 5
    }
   ],
-  "generado": "2026-08-04T19:07:10.507830-04:00"
+  "generado": "2026-08-04T22:53:49.901542-04:00"
  },
  "proyectos": [
   {
@@ -2447,8 +2447,8 @@
    "boletin": "18216-05",
    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
    "fecha_ingreso": "2026-04-22T00:00:00-04:00",
-   "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora (Senado)",
-   "subetapa": "Discusión informe de Comisión Mixta",
+   "etapa": "Trámite finalización en Cámara de Origen (C.Diputados)",
+   "subetapa": "Cuenta oficio aprobación de informe de Comisión Mixta",
    "iniciativa": "Mensaje",
    "camara_origen": "C.Diputados",
    "urgencia": "Discusión inmediata",
@@ -3096,6 +3096,38 @@
      "descripcion": "Cuenta del Mensaje 222-374 que retira la urgencia Discusión inmediata",
      "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
      "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04T00:00:00-04:00",
+     "fecha_legible": "04/08/2026",
+     "sesion": "47/374",
+     "descripcion": "La Honorable Senadora señora Pascual hace reserva de constitucionalidad",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04T00:00:00-04:00",
+     "fecha_legible": "04/08/2026",
+     "sesion": "47/374",
+     "descripcion": "Discusión informe de Comisión Mixta . Aprobado",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04T00:00:00-04:00",
+     "fecha_legible": "04/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio aprobación de informe de Comisión Mixta a C.de Origen .",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04T00:00:00-04:00",
+     "fecha_legible": "04/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio de ley al Ejecutivo .",
+     "etapa": "Trámite finalización en Cámara de Origen",
+     "camara": "C.Diputados"
     }
    ],
    "urgencias": [
@@ -3240,9 +3272,9 @@
    "ultimo_movimiento": "2026-08-04T00:00:00-04:00",
    "ultimo_movimiento_legible": "04/08/2026",
    "dias_sin_movimiento": 0,
-   "ultimo_tramite": "Cuenta del Mensaje 222-374 que retira la urgencia Discusión inmediata",
-   "camara_actual": "Senado",
-   "total_tramites": 80,
+   "ultimo_tramite": "Oficio de ley al Ejecutivo .",
+   "camara_actual": "C.Diputados",
+   "total_tramites": 84,
    "fecha_ingreso_legible": "22/04/2026",
    "antiguedad_dias": 104,
    "prioridad": 99.8,
@@ -3250,13 +3282,13 @@
    "factor_urgencia": 3.0,
    "factor_proximidad": 1.6,
    "factor_frescura": 1.3,
-   "huella": "f495f5a8c5df8d905620",
+   "huella": "7685a0454637438f0e57",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
-   "sintesis": "Discusión inmediata · Disc. informe C.Mixta por rechazo de modif. C. Revisora (Senado) · Cuenta del Mensaje 222-374 que retira la urgencia Discusión inmediata",
-   "novedad": "",
-   "novedad_detectada": "2026-08-04T16:25:51.256113-04:00"
+   "sintesis": "Discusión inmediata · Trámite finalización en Cámara de Origen (C.Diputados) · Oficio de ley al Ejecutivo .",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-04T22:53:49.901542-04:00"
   },
   {
    "boletin": "17943-25",
@@ -8832,24 +8864,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-04T19:07:10.507830-04:00"
+   "revisado": "2026-08-04T22:53:49.901542-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-04T19:07:10.507830-04:00"
+   "revisado": "2026-08-04T22:53:49.901542-04:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-04T19:07:10.507830-04:00"
+   "revisado": "2026-08-04T22:53:49.901542-04:00"
   }
  ],
- "novedades": 0,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -8899,7 +8931,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 140,
+  "candidatos_descubiertos": 144,
   "boletines_consultados": 33,
   "fichas_obtenidas": 33,
   "consultas_fallidas": 0,
@@ -8907,21 +8939,21 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 0,
+  "con_movimiento": 1,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 12,
    "cartera": 31,
-   "senado_movimiento": 110,
+   "senado_movimiento": 114,
    "camara_anno": 0
   },
   "cobertura_canales": [
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 110,
+    "resultados": 114,
     "errores": [],
     "consultado": true
    },
@@ -8957,6 +8989,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 12,
   "boletines_excluidos": 0,
-  "segundos_corrida": 54.1
+  "segundos_corrida": 54.4
  }
 }

@@ -2,20 +2,20 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-04T19:07:10.507830-04:00",
-  "generado_legible": "04/08/2026 19:07",
+  "generado": "2026-08-04T22:53:49.901542-04:00",
+  "generado_legible": "04/08/2026 22:53",
   "proyectos_total": 31,
   "vigentes": 28,
   "movimientos_recientes": 1,
   "movimientos_30d": 7,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 9,
   "con_urgencia": 5,
   "prioridad_alta": 3,
   "estancados_180d": 15,
   "ultimo": {
     "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-    "detalle": "Boletín 18216-05 · 04/08/2026 · Disc. informe C.Mixta por rechazo de modif. C. Revisora (Senado)",
+    "detalle": "Boletín 18216-05 · 04/08/2026 · Trámite finalización en Cámara de Origen (C.Diputados)",
     "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
     "fecha": "2026-08-04T00:00:00-04:00"
   },
@@ -86,7 +86,7 @@
   "actividad": [
     {
       "fecha": "2026-08-04T00:00:00-04:00",
-      "texto": "Boletín 18216-05: Cuenta del Mensaje 222-374 que retira la urgencia Discusión inmediata"
+      "texto": "Boletín 18216-05: Oficio de ley al Ejecutivo ."
     },
     {
       "fecha": "2026-07-26T13:32:08-04:00",
