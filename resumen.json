@@ -2,13 +2,13 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-05T17:17:30.264723-04:00",
-  "generado_legible": "05/08/2026 17:17",
+  "generado": "2026-08-05T19:05:48.594087-04:00",
+  "generado_legible": "05/08/2026 19:05",
   "proyectos_total": 31,
   "vigentes": 28,
   "movimientos_recientes": 2,
   "movimientos_30d": 7,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 9,
   "con_urgencia": 5,
   "prioridad_alta": 4,
@@ -86,7 +86,7 @@
   "actividad": [
     {
       "fecha": "2026-08-05T00:00:00-04:00",
-      "texto": "Boletín 15975-25: Oficio integrantes de Comisión Mixta ."
+      "texto": "Boletín 15975-25: Cuenta oficio integrantes de Comisión Mixta ."
     },
     {
       "fecha": "2026-08-05T00:00:00-04:00",
