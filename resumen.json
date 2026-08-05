@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-05T10:21:39.428674-04:00",
-  "generado_legible": "05/08/2026 10:21",
+  "generado": "2026-08-05T13:46:21.963110-04:00",
+  "generado_legible": "05/08/2026 13:46",
   "proyectos_total": 31,
   "vigentes": 28,
-  "movimientos_recientes": 1,
+  "movimientos_recientes": 2,
   "movimientos_30d": 7,
-  "novedades_corrida": 0,
+  "novedades_corrida": 2,
   "impacto_directo": 9,
   "con_urgencia": 5,
-  "prioridad_alta": 3,
+  "prioridad_alta": 4,
   "estancados_180d": 15,
   "ultimo": {
-    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-    "detalle": "Boletín 18216-05 · 04/08/2026 · Trámite finalización en Cámara de Origen (C.Diputados)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
-    "fecha": "2026-08-04T00:00:00-04:00"
+    "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
+    "detalle": "Boletín 15975-25 · 05/08/2026 · Comisión Mixta por rechazo de modificaciones (Senado)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
+    "fecha": "2026-08-05T00:00:00-04:00"
   },
   "serie_7d": [
     {
@@ -42,19 +42,27 @@
     },
     {
       "fecha": "2026-08-04",
-      "n": 1
+      "n": 0
     },
     {
       "fecha": "2026-08-05",
-      "n": 0
+      "n": 2
     }
   ],
   "alertas": [
     {
+      "severidad": "alta",
+      "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
+      "detalle": "Boletín 15975-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-08-05T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
+      "fuente": "LEGISLATIVO"
+    },
+    {
       "severidad": "media",
       "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
       "detalle": "Boletín 18216-05 · Nivel 3 · Seguimiento · Discusión inmediata",
-      "fecha": "2026-08-04T00:00:00-04:00",
+      "fecha": "2026-08-05T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
       "fuente": "LEGISLATIVO"
     },
@@ -68,14 +76,6 @@
     },
     {
       "severidad": "info",
-      "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
-      "detalle": "Boletín 15975-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-07-07T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
       "titulo": "Modifica diversos cuerpos legales, con el objeto de agravar las sanciones aplicables en materia de lavado de activos",
       "detalle": "Boletín 18407-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
       "fecha": "2026-06-24T00:00:00-04:00",
@@ -85,8 +85,12 @@
   ],
   "actividad": [
     {
-      "fecha": "2026-08-04T00:00:00-04:00",
-      "texto": "Boletín 18216-05: Oficio de ley al Ejecutivo ."
+      "fecha": "2026-08-05T00:00:00-04:00",
+      "texto": "Boletín 15975-25: Oficio integrantes de Comisión Mixta ."
+    },
+    {
+      "fecha": "2026-08-05T00:00:00-04:00",
+      "texto": "Boletín 18216-05: Cuenta de observaciones . Pasa a Comisión de Hacienda"
     },
     {
       "fecha": "2026-07-26T13:32:08-04:00",
@@ -95,10 +99,6 @@
     {
       "fecha": "2026-07-22T00:00:00-04:00",
       "texto": "Boletín 18488-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
-    },
-    {
-      "fecha": "2026-07-21T00:00:00-04:00",
-      "texto": "Boletín 16808-25: Cuenta del Mensaje 215-374 que retira y hace presente la urgencia Simple"
     }
   ]
 }
