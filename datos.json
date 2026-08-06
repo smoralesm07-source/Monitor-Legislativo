@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-05T19:05:48.594087-04:00",
- "generado_legible": "05/08/2026 19:05",
+ "generado": "2026-08-05T22:57:35.316434-04:00",
+ "generado_legible": "05/08/2026 22:57",
  "version_motor": "1.0.0-tramitacion-legislativa",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -142,7 +142,7 @@
     "total": 5
    }
   ],
-  "generado": "2026-08-05T19:05:48.594087-04:00"
+  "generado": "2026-08-05T22:57:35.316434-04:00"
  },
  "proyectos": [
   {
@@ -2331,7 +2331,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=16514&prmBOLETIN=15975-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15975",
    "sintesis": "Comisión Mixta por rechazo de modificaciones (Senado) · Cuenta oficio integrantes de Comisión Mixta .",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-05T19:05:48.594087-04:00"
   },
   {
@@ -8913,24 +8913,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-05T19:05:48.594087-04:00"
+   "revisado": "2026-08-05T22:57:35.316434-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-05T19:05:48.594087-04:00"
+   "revisado": "2026-08-05T22:57:35.316434-04:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-05T19:05:48.594087-04:00"
+   "revisado": "2026-08-05T22:57:35.316434-04:00"
   }
  ],
- "novedades": 1,
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -8980,7 +8980,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 170,
+  "candidatos_descubiertos": 172,
   "boletines_consultados": 33,
   "fichas_obtenidas": 33,
   "consultas_fallidas": 0,
@@ -8988,21 +8988,21 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 1,
+  "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 1,
+  "con_movimiento": 0,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 12,
    "cartera": 31,
-   "senado_movimiento": 141,
+   "senado_movimiento": 143,
    "camara_anno": 0
   },
   "cobertura_canales": [
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 141,
+    "resultados": 143,
     "errores": [],
     "consultado": true
    },
@@ -9038,6 +9038,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 12,
   "boletines_excluidos": 0,
-  "segundos_corrida": 57.1
+  "segundos_corrida": 59.1
  }
 }
