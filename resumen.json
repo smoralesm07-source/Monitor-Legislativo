@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-06T16:47:18.000483-04:00",
-  "generado_legible": "06/08/2026 16:47",
+  "generado": "2026-08-06T19:16:34.585646-04:00",
+  "generado_legible": "06/08/2026 19:16",
   "proyectos_total": 31,
   "vigentes": 28,
-  "movimientos_recientes": 2,
+  "movimientos_recientes": 3,
   "movimientos_30d": 7,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 9,
   "con_urgencia": 5,
   "prioridad_alta": 4,
   "estancados_180d": 15,
   "ultimo": {
-    "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
-    "detalle": "Boletín 15975-25 · 05/08/2026 · Comisión Mixta por rechazo de modificaciones (Senado)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
-    "fecha": "2026-08-05T00:00:00-04:00"
+    "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
+    "detalle": "Boletín 18420-25 · 06/08/2026 · Primer trámite constitucional (Senado)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
+    "fecha": "2026-08-06T00:00:00-04:00"
   },
   "serie_7d": [
     {
@@ -46,10 +46,18 @@
     },
     {
       "fecha": "2026-08-06",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
+    {
+      "severidad": "info",
+      "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
+      "detalle": "Boletín 18420-25 · Nivel 3 · Seguimiento · Sin urgencia",
+      "fecha": "2026-08-06T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "alta",
       "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
@@ -73,17 +81,13 @@
       "fecha": "2026-07-22T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18488-07",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Modifica diversos cuerpos legales, con el objeto de agravar las sanciones aplicables en materia de lavado de activos",
-      "detalle": "Boletín 18407-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-06-24T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18407-25",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
+    {
+      "fecha": "2026-08-06T00:00:00-04:00",
+      "texto": "Boletín 18420-25: Primer informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales."
+    },
     {
       "fecha": "2026-08-05T00:00:00-04:00",
       "texto": "Boletín 15975-25: Cuenta oficio integrantes de Comisión Mixta ."
@@ -95,10 +99,6 @@
     {
       "fecha": "2026-07-26T13:32:08-04:00",
       "texto": "Boletín 17700-05: Oficio con modificaciones a Cámara de origen"
-    },
-    {
-      "fecha": "2026-07-22T00:00:00-04:00",
-      "texto": "Boletín 18488-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
     }
   ]
 }

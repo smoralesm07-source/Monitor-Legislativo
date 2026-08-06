@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-06T16:47:18.000483-04:00",
- "generado_legible": "06/08/2026 16:47",
+ "generado": "2026-08-06T19:16:34.585646-04:00",
+ "generado_legible": "06/08/2026 19:16",
  "version_motor": "1.0.0-tramitacion-legislativa",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -13,7 +13,7 @@
   "discusion_inmediata": 1,
   "prioridad_critica": 2,
   "prioridad_alta": 2,
-  "movimiento_7d": 2,
+  "movimiento_7d": 3,
   "movimiento_30d": 7,
   "nivel_1": 9,
   "nivel_2": 12,
@@ -142,7 +142,7 @@
     "total": 5
    }
   ],
-  "generado": "2026-08-06T16:47:18.000483-04:00"
+  "generado": "2026-08-06T19:16:34.585646-04:00"
  },
  "proyectos": [
   {
@@ -4774,6 +4774,142 @@
    "novedad_detectada": ""
   },
   {
+   "boletin": "18420-25",
+   "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
+   "fecha_ingreso": "2026-06-24T00:00:00-04:00",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Cuenta de primer informe de comisión",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia": "Sin urgencia",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "En tramitación",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19092&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2026-06-24T00:00:00-04:00",
+     "fecha_legible": "24/06/2026",
+     "sesion": "/",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-07T00:00:00-04:00",
+     "fecha_legible": "07/07/2026",
+     "sesion": "40/374",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-08T00:00:00-04:00",
+     "fecha_legible": "08/07/2026",
+     "sesion": "41/374",
+     "descripcion": "La Sala acuerda autorizar a la Comisión de Intereses Marítimos, Pesca y Acuicultura para discutir en general y en particular el proyecto de ley, con ocasión del trámite reglamentario de primer informe",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-08T00:00:00-04:00",
+     "fecha_legible": "08/07/2026",
+     "sesion": "41/374",
+     "descripcion": "La Sala acuerda que el proyecto de ley sea conocido por la Comisión de Intereses Marítimos, Pesca y Acuicultura, en lugar de la Comisión de Seguridad Pública",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-06T00:00:00-04:00",
+     "fecha_legible": "06/08/2026",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [
+    "Carlos Ignacio Kuschel Silva",
+    "Cristian Vial Maceratta",
+    "Flores García, Iván",
+    "Iván Flores García",
+    "Iván Moreira Barros",
+    "Kuschel Silva, Carlos Ignacio",
+    "Moreira Barros, Iván",
+    "Núñez Urrutia, Paulina",
+    "Paulina Núñez Urrutia",
+    "Vial Maceratta, Cristian"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [],
+   "ministerios": [],
+   "camara_id": "19092",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara",
+    "senado"
+   ],
+   "nota_semilla": "Seguridad portuaria frente al crimen organizado",
+   "es_semilla": true,
+   "admisible": "true",
+   "canales_descubrimiento": [
+    "semilla",
+    "cartera",
+    "senado_movimiento"
+   ],
+   "id": "9ea5d77fee565cf7",
+   "puntaje_pertinencia": 24.0,
+   "nivel_impacto": "seguimiento",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [],
+    "estructurales": [
+     "crimen organizado"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "crimen_organizado"
+   ],
+   "ejes_legibles": [
+    "Crimen organizado y persecución penal"
+   ],
+   "impacto_legible": "Seguimiento preventivo",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 3,
+   "nivel_legible": "Nivel 3 · Seguimiento",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2026-08-06T00:00:00-04:00",
+   "ultimo_movimiento_legible": "06/08/2026",
+   "dias_sin_movimiento": 0,
+   "ultimo_tramite": "Primer informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales.",
+   "camara_actual": "Senado",
+   "total_tramites": 5,
+   "fecha_ingreso_legible": "24/06/2026",
+   "antiguedad_dias": 43,
+   "prioridad": 20.8,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 1.3,
+   "huella": "14ad1459f75a351ff31f",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19092&prmBOLETIN=18420-25",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18420",
+   "sintesis": "Primer trámite constitucional (Senado) · Primer informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales.",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-06T19:16:34.585646-04:00"
+  },
+  {
    "boletin": "17432-07",
    "titulo": "Modifica el Código Penal y el Código Procesal Penal en materia de comiso sin condena previa",
    "fecha_ingreso": "2025-03-24T00:00:00-03:00",
@@ -5227,133 +5363,6 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18160&prmBOLETIN=17520-17",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17520",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Oficio N° 20406. Deriva a la Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa; Protección de los Consumidores y Turismo, el proyecto de ley asignado inicialmente a la Comisión de Derechos Humanos.",
-   "novedad": "",
-   "novedad_detectada": ""
-  },
-  {
-   "boletin": "18420-25",
-   "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
-   "fecha_ingreso": "2026-06-24T00:00:00-04:00",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Seguridad Pública",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia": "Sin urgencia",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19092&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2026-06-24T00:00:00-04:00",
-     "fecha_legible": "24/06/2026",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-07T00:00:00-04:00",
-     "fecha_legible": "07/07/2026",
-     "sesion": "40/374",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-08T00:00:00-04:00",
-     "fecha_legible": "08/07/2026",
-     "sesion": "41/374",
-     "descripcion": "La Sala acuerda autorizar a la Comisión de Intereses Marítimos, Pesca y Acuicultura para discutir en general y en particular el proyecto de ley, con ocasión del trámite reglamentario de primer informe",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-08T00:00:00-04:00",
-     "fecha_legible": "08/07/2026",
-     "sesion": "41/374",
-     "descripcion": "La Sala acuerda que el proyecto de ley sea conocido por la Comisión de Intereses Marítimos, Pesca y Acuicultura, en lugar de la Comisión de Seguridad Pública",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "urgencias": [],
-   "votaciones": [],
-   "autores": [
-    "Carlos Ignacio Kuschel Silva",
-    "Cristian Vial Maceratta",
-    "Flores García, Iván",
-    "Iván Flores García",
-    "Iván Moreira Barros",
-    "Kuschel Silva, Carlos Ignacio",
-    "Moreira Barros, Iván",
-    "Núñez Urrutia, Paulina",
-    "Paulina Núñez Urrutia",
-    "Vial Maceratta, Cristian"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [],
-   "ministerios": [],
-   "camara_id": "19092",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "nota_semilla": "Seguridad portuaria frente al crimen organizado",
-   "es_semilla": true,
-   "admisible": "true",
-   "canales_descubrimiento": [
-    "semilla",
-    "cartera"
-   ],
-   "id": "9ea5d77fee565cf7",
-   "puntaje_pertinencia": 24.0,
-   "nivel_impacto": "seguimiento",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [],
-    "estructurales": [
-     "crimen organizado"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [
-    "crimen_organizado"
-   ],
-   "ejes_legibles": [
-    "Crimen organizado y persecución penal"
-   ],
-   "impacto_legible": "Seguimiento preventivo",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 3,
-   "nivel_legible": "Nivel 3 · Seguimiento",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 1,
-   "vigente": true,
-   "ultimo_movimiento": "2026-07-08T00:00:00-04:00",
-   "ultimo_movimiento_legible": "08/07/2026",
-   "dias_sin_movimiento": 29,
-   "ultimo_tramite": "La Sala acuerda que el proyecto de ley sea conocido por la Comisión de Intereses Marítimos, Pesca y Acuicultura, en lugar de la Comisión de Seguridad Pública",
-   "camara_actual": "Senado",
-   "total_tramites": 4,
-   "fecha_ingreso_legible": "24/06/2026",
-   "antiguedad_dias": 43,
-   "prioridad": 18.4,
-   "banda_prioridad": "baja",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 1.0,
-   "factor_frescura": 1.15,
-   "huella": "54f084658d62a9d95344",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19092&prmBOLETIN=18420-25",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18420",
-   "sintesis": "Primer trámite constitucional (Senado) · La Sala acuerda que el proyecto de ley sea conocido por la Comisión de Intereses Marítimos, Pesca y Acuicultura, en lugar de la Comisión de Seguridad Pública",
    "novedad": "",
    "novedad_detectada": ""
   },
@@ -8913,24 +8922,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-06T16:47:18.000483-04:00"
+   "revisado": "2026-08-06T19:16:34.585646-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-06T16:47:18.000483-04:00"
+   "revisado": "2026-08-06T19:16:34.585646-04:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-06T16:47:18.000483-04:00"
+   "revisado": "2026-08-06T19:16:34.585646-04:00"
   }
  ],
- "novedades": 0,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -8980,7 +8989,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 171,
+  "candidatos_descubiertos": 172,
   "boletines_consultados": 33,
   "fichas_obtenidas": 33,
   "consultas_fallidas": 0,
@@ -8988,21 +8997,21 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 0,
+  "con_movimiento": 1,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 12,
    "cartera": 31,
-   "senado_movimiento": 142,
+   "senado_movimiento": 144,
    "camara_anno": 0
   },
   "cobertura_canales": [
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 142,
+    "resultados": 144,
     "errores": [],
     "consultado": true
    },
