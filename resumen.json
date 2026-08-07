@@ -2,13 +2,13 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-07T15:04:20.652821-04:00",
-  "generado_legible": "07/08/2026 15:04",
+  "generado": "2026-08-07T16:47:56.565127-04:00",
+  "generado_legible": "07/08/2026 16:47",
   "proyectos_total": 31,
   "vigentes": 28,
   "movimientos_recientes": 3,
   "movimientos_30d": 7,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 9,
   "con_urgencia": 5,
   "prioridad_alta": 4,
@@ -86,7 +86,7 @@
   "actividad": [
     {
       "fecha": "2026-08-06T00:00:00-04:00",
-      "texto": "Boletín 18420-25: Primer informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales."
+      "texto": "Boletín 18420-25: Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura."
     },
     {
       "fecha": "2026-08-05T00:00:00-04:00",

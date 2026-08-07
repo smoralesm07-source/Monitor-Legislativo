@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-07T15:04:20.652821-04:00",
- "generado_legible": "07/08/2026 15:04",
+ "generado": "2026-08-07T16:47:56.565127-04:00",
+ "generado_legible": "07/08/2026 16:47",
  "version_motor": "1.0.0-tramitacion-legislativa",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -142,7 +142,7 @@
     "total": 5
    }
   ],
-  "generado": "2026-08-07T15:04:20.652821-04:00"
+  "generado": "2026-08-07T16:47:56.565127-04:00"
  },
  "proyectos": [
   {
@@ -4823,7 +4823,7 @@
      "fecha": "2026-08-06T00:00:00-04:00",
      "fecha_legible": "06/08/2026",
      "sesion": "/",
-     "descripcion": "Primer informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales.",
+     "descripcion": "Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura.",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
     }
@@ -4891,7 +4891,7 @@
    "ultimo_movimiento": "2026-08-06T00:00:00-04:00",
    "ultimo_movimiento_legible": "06/08/2026",
    "dias_sin_movimiento": 1,
-   "ultimo_tramite": "Primer informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales.",
+   "ultimo_tramite": "Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura.",
    "camara_actual": "Senado",
    "total_tramites": 5,
    "fecha_ingreso_legible": "24/06/2026",
@@ -4901,13 +4901,13 @@
    "factor_urgencia": 1.0,
    "factor_proximidad": 1.0,
    "factor_frescura": 1.3,
-   "huella": "14ad1459f75a351ff31f",
+   "huella": "649a38adec7cd6898de9",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19092&prmBOLETIN=18420-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18420",
-   "sintesis": "Primer trámite constitucional (Senado) · Primer informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales.",
-   "novedad": "",
-   "novedad_detectada": "2026-08-06T19:16:34.585646-04:00"
+   "sintesis": "Primer trámite constitucional (Senado) · Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura.",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-07T16:47:56.565127-04:00"
   },
   {
    "boletin": "17432-07",
@@ -8922,24 +8922,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-07T15:04:20.652821-04:00"
+   "revisado": "2026-08-07T16:47:56.565127-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-07T15:04:20.652821-04:00"
+   "revisado": "2026-08-07T16:47:56.565127-04:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-07T15:04:20.652821-04:00"
+   "revisado": "2026-08-07T16:47:56.565127-04:00"
   }
  ],
- "novedades": 0,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -8997,9 +8997,9 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 0,
+  "con_movimiento": 1,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 12,
@@ -9047,6 +9047,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 12,
   "boletines_excluidos": 0,
-  "segundos_corrida": 59.3
+  "segundos_corrida": 58.3
  }
 }
