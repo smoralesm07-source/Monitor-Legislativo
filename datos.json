@@ -1,8 +1,8 @@
 {
- "generado": "2026-08-08T12:32:12.671745-04:00",
- "generado_legible": "08/08/2026 12:32",
+ "generado": "2026-08-09T03:06:48.607502-04:00",
+ "generado_legible": "09/08/2026 03:06",
  "version_motor": "1.0.0-tramitacion-legislativa",
- "modo_ejecucion": "rapido",
+ "modo_ejecucion": "conciliacion",
  "metricas": {
   "total": 31,
   "vigentes": 28,
@@ -142,7 +142,7 @@
     "total": 5
    }
   ],
-  "generado": "2026-08-08T12:32:12.671745-04:00"
+  "generado": "2026-08-09T03:06:48.607502-04:00"
  },
  "proyectos": [
   {
@@ -484,7 +484,8 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "fa5ca40fa3da378b",
    "puntaje_pertinencia": 237.0,
@@ -521,12 +522,12 @@
    "vigente": true,
    "ultimo_movimiento": "2026-07-21T00:00:00-04:00",
    "ultimo_movimiento_legible": "21/07/2026",
-   "dias_sin_movimiento": 18,
+   "dias_sin_movimiento": 19,
    "ultimo_tramite": "Cuenta del Mensaje 215-374 que retira y hace presente la urgencia Simple",
    "camara_actual": "Senado",
    "total_tramites": 17,
    "fecha_ingreso_legible": "25/04/2024",
-   "antiguedad_dias": 835,
+   "antiguedad_dias": 836,
    "prioridad": 230.0,
    "banda_prioridad": "critica",
    "factor_urgencia": 1.6,
@@ -671,7 +672,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "80d2ea7de230a503",
    "puntaje_pertinencia": 237.0,
@@ -708,12 +710,12 @@
    "vigente": true,
    "ultimo_movimiento": "2026-07-20T00:00:00-04:00",
    "ultimo_movimiento_legible": "20/07/2026",
-   "dias_sin_movimiento": 19,
+   "dias_sin_movimiento": 20,
    "ultimo_tramite": "Cuenta de primer informe de comisión .",
    "camara_actual": "C.Diputados",
    "total_tramites": 7,
    "fecha_ingreso_legible": "10/10/2025",
-   "antiguedad_dias": 302,
+   "antiguedad_dias": 303,
    "prioridad": 184.0,
    "banda_prioridad": "alta",
    "factor_urgencia": 1.6,
@@ -2278,8 +2280,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "senado_movimiento"
+    "cartera"
    ],
    "id": "d91f40e7b4657b1d",
    "puntaje_pertinencia": 120.0,
@@ -2315,12 +2316,12 @@
    "vigente": true,
    "ultimo_movimiento": "2026-08-05T00:00:00-04:00",
    "ultimo_movimiento_legible": "05/08/2026",
-   "dias_sin_movimiento": 3,
+   "dias_sin_movimiento": 4,
    "ultimo_tramite": "Cuenta oficio integrantes de Comisión Mixta .",
    "camara_actual": "Senado",
    "total_tramites": 171,
    "fecha_ingreso_legible": "31/05/2023",
-   "antiguedad_dias": 1165,
+   "antiguedad_dias": 1166,
    "prioridad": 129.0,
    "banda_prioridad": "alta",
    "factor_urgencia": 1.0,
@@ -2399,7 +2400,8 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "bf99bac3167f7b32",
    "puntaje_pertinencia": 225.0,
@@ -2441,12 +2443,12 @@
    "vigente": true,
    "ultimo_movimiento": "2026-06-22T00:00:00-04:00",
    "ultimo_movimiento_legible": "22/06/2026",
-   "dias_sin_movimiento": 47,
+   "dias_sin_movimiento": 48,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "camara_actual": "C.Diputados",
    "total_tramites": 2,
    "fecha_ingreso_legible": "15/06/2026",
-   "antiguedad_dias": 54,
+   "antiguedad_dias": 55,
    "prioridad": 100.0,
    "banda_prioridad": "media",
    "factor_urgencia": 1.0,
@@ -2550,7 +2552,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "8cff1dd109fe79cc",
    "puntaje_pertinencia": 177.0,
@@ -2587,12 +2590,12 @@
    "vigente": true,
    "ultimo_movimiento": "2025-11-04T00:00:00-03:00",
    "ultimo_movimiento_legible": "04/11/2025",
-   "dias_sin_movimiento": 277,
+   "dias_sin_movimiento": 278,
    "ultimo_tramite": "Oficio N° 20884. Comunica a la Comisión de Constitución, Legislación, Justicia y Reglamento el acuerdo de la Sala, en orden a remitirle el proyecto de ley, asignado originalmente a la Comisión de Seguridad Ciudadana.",
    "camara_actual": "C.Diputados",
    "total_tramites": 5,
    "fecha_ingreso_legible": "19/05/2025",
-   "antiguedad_dias": 446,
+   "antiguedad_dias": 447,
    "prioridad": 80.0,
    "banda_prioridad": "media",
    "factor_urgencia": 1.0,
@@ -3441,7 +3444,7 @@
    "canales_descubrimiento": [
     "semilla",
     "cartera",
-    "senado_movimiento"
+    "camara_anno"
    ],
    "id": "9b68e4e65b2ab18e",
    "puntaje_pertinencia": 0.0,
@@ -3466,12 +3469,12 @@
    "vigente": true,
    "ultimo_movimiento": "2026-08-05T00:00:00-04:00",
    "ultimo_movimiento_legible": "05/08/2026",
-   "dias_sin_movimiento": 3,
+   "dias_sin_movimiento": 4,
    "ultimo_tramite": "Cuenta de observaciones . Pasa a Comisión de Hacienda",
    "camara_actual": "C.Diputados",
    "total_tramites": 88,
    "fecha_ingreso_legible": "22/04/2026",
-   "antiguedad_dias": 108,
+   "antiguedad_dias": 109,
    "prioridad": 62.4,
    "banda_prioridad": "media",
    "factor_urgencia": 3.0,
@@ -3604,7 +3607,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "c58afe1ec6c52f81",
    "puntaje_pertinencia": 60.0,
@@ -3641,12 +3645,12 @@
    "vigente": true,
    "ultimo_movimiento": "2026-03-03T00:00:00-03:00",
    "ultimo_movimiento_legible": "03/03/2026",
-   "dias_sin_movimiento": 158,
+   "dias_sin_movimiento": 159,
    "ultimo_tramite": "Cuenta del Mensaje 1605-373 que hace presente la urgencia Suma",
    "camara_actual": "Senado",
    "total_tramites": 8,
    "fecha_ingreso_legible": "07/08/2024",
-   "antiguedad_dias": 731,
+   "antiguedad_dias": 732,
    "prioridad": 59.8,
    "banda_prioridad": "media",
    "factor_urgencia": 2.2,
@@ -3727,7 +3731,8 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "02863b4593c9c21a",
    "puntaje_pertinencia": 165.0,
@@ -3759,12 +3764,12 @@
    "vigente": true,
    "ultimo_movimiento": "2024-06-04T00:00:00-04:00",
    "ultimo_movimiento_legible": "04/06/2024",
-   "dias_sin_movimiento": 795,
+   "dias_sin_movimiento": 796,
    "ultimo_tramite": "La Sala acuerda refundir los proyectos de ley correspondientes a los boletines números 15.462-03, 16.764-03 y 16.783-03.",
    "camara_actual": "Senado",
    "total_tramites": 3,
    "fecha_ingreso_legible": "17/04/2024",
-   "antiguedad_dias": 843,
+   "antiguedad_dias": 844,
    "prioridad": 55.0,
    "banda_prioridad": "media",
    "factor_urgencia": 1.0,
@@ -3844,7 +3849,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "90f135122e7e4520",
    "puntaje_pertinencia": 177.0,
@@ -3884,12 +3890,12 @@
    "vigente": true,
    "ultimo_movimiento": "2024-06-17T00:00:00-04:00",
    "ultimo_movimiento_legible": "17/06/2024",
-   "dias_sin_movimiento": 782,
+   "dias_sin_movimiento": 783,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento.",
    "camara_actual": "C.Diputados",
    "total_tramites": 2,
    "fecha_ingreso_legible": "11/06/2024",
-   "antiguedad_dias": 788,
+   "antiguedad_dias": 789,
    "prioridad": 55.0,
    "banda_prioridad": "media",
    "factor_urgencia": 1.0,
@@ -3961,7 +3967,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "4a9ed10c241cbf73",
    "puntaje_pertinencia": 165.0,
@@ -3992,12 +3999,12 @@
    "vigente": true,
    "ultimo_movimiento": "2024-06-19T00:00:00-04:00",
    "ultimo_movimiento_legible": "19/06/2024",
-   "dias_sin_movimiento": 780,
+   "dias_sin_movimiento": 781,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Gobierno, Descentralización y Regionalización",
    "camara_actual": "Senado",
    "total_tramites": 2,
    "fecha_ingreso_legible": "19/06/2024",
-   "antiguedad_dias": 780,
+   "antiguedad_dias": 781,
    "prioridad": 55.0,
    "banda_prioridad": "media",
    "factor_urgencia": 1.0,
@@ -4061,7 +4068,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "fe916a091ea2d344",
    "puntaje_pertinencia": 165.0,
@@ -4092,12 +4100,12 @@
    "vigente": true,
    "ultimo_movimiento": "2024-10-08T00:00:00-03:00",
    "ultimo_movimiento_legible": "08/10/2024",
-   "dias_sin_movimiento": 669,
+   "dias_sin_movimiento": 670,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
    "camara_actual": "C.Diputados",
    "total_tramites": 2,
    "fecha_ingreso_legible": "07/10/2024",
-   "antiguedad_dias": 670,
+   "antiguedad_dias": 671,
    "prioridad": 55.0,
    "banda_prioridad": "media",
    "factor_urgencia": 1.0,
@@ -4171,7 +4179,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "b29ab9627e21671f",
    "puntaje_pertinencia": 72.0,
@@ -4209,12 +4218,12 @@
    "vigente": true,
    "ultimo_movimiento": "2024-04-02T00:00:00-03:00",
    "ultimo_movimiento_legible": "02/04/2024",
-   "dias_sin_movimiento": 858,
+   "dias_sin_movimiento": 859,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "camara_actual": "C.Diputados",
    "total_tramites": 2,
    "fecha_ingreso_legible": "01/04/2024",
-   "antiguedad_dias": 859,
+   "antiguedad_dias": 860,
    "prioridad": 34.1,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -4283,7 +4292,8 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "a2afa16efcdd8cf0",
    "puntaje_pertinencia": 48.0,
@@ -4314,12 +4324,12 @@
    "vigente": true,
    "ultimo_movimiento": "2026-06-24T00:00:00-04:00",
    "ultimo_movimiento_legible": "24/06/2026",
-   "dias_sin_movimiento": 45,
+   "dias_sin_movimiento": 46,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
    "camara_actual": "Senado",
    "total_tramites": 2,
    "fecha_ingreso_legible": "24/06/2026",
-   "antiguedad_dias": 45,
+   "antiguedad_dias": 46,
    "prioridad": 34.0,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -4409,7 +4419,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "688ee3f1969d92eb",
    "puntaje_pertinencia": 48.0,
@@ -4440,12 +4451,12 @@
    "vigente": true,
    "ultimo_movimiento": "2025-11-19T00:00:00-03:00",
    "ultimo_movimiento_legible": "19/11/2025",
-   "dias_sin_movimiento": 262,
+   "dias_sin_movimiento": 263,
    "ultimo_tramite": "Cuenta oficio N° 264-2025 de la Corte Suprema",
    "camara_actual": "Senado",
    "total_tramites": 5,
    "fecha_ingreso_legible": "10/09/2025",
-   "antiguedad_dias": 332,
+   "antiguedad_dias": 333,
    "prioridad": 27.2,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -4511,7 +4522,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "207716662ac2d29b",
    "puntaje_pertinencia": 36.0,
@@ -4548,12 +4560,12 @@
    "vigente": true,
    "ultimo_movimiento": "2025-10-06T00:00:00-03:00",
    "ultimo_movimiento_legible": "06/10/2025",
-   "dias_sin_movimiento": 306,
+   "dias_sin_movimiento": 307,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
    "camara_actual": "C.Diputados",
    "total_tramites": 2,
    "fecha_ingreso_legible": "26/09/2025",
-   "antiguedad_dias": 316,
+   "antiguedad_dias": 317,
    "prioridad": 27.2,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -4617,7 +4629,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "54783418c224bc68",
    "puntaje_pertinencia": 48.0,
@@ -4648,12 +4661,12 @@
    "vigente": true,
    "ultimo_movimiento": "2026-01-14T00:00:00-03:00",
    "ultimo_movimiento_legible": "14/01/2026",
-   "dias_sin_movimiento": 206,
+   "dias_sin_movimiento": 207,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "camara_actual": "C.Diputados",
    "total_tramites": 2,
    "fecha_ingreso_legible": "12/01/2026",
-   "antiguedad_dias": 208,
+   "antiguedad_dias": 209,
    "prioridad": 27.2,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -4720,7 +4733,8 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "549f2c9d43daf111",
    "puntaje_pertinencia": 48.0,
@@ -4754,12 +4768,12 @@
    "vigente": true,
    "ultimo_movimiento": "2026-01-27T00:00:00-03:00",
    "ultimo_movimiento_legible": "27/01/2026",
-   "dias_sin_movimiento": 193,
+   "dias_sin_movimiento": 194,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Economía",
    "camara_actual": "Senado",
    "total_tramites": 2,
    "fecha_ingreso_legible": "26/01/2026",
-   "antiguedad_dias": 194,
+   "antiguedad_dias": 195,
    "prioridad": 27.2,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -4859,7 +4873,7 @@
    "canales_descubrimiento": [
     "semilla",
     "cartera",
-    "senado_movimiento"
+    "camara_anno"
    ],
    "id": "9ea5d77fee565cf7",
    "puntaje_pertinencia": 24.0,
@@ -4890,12 +4904,12 @@
    "vigente": true,
    "ultimo_movimiento": "2026-08-06T00:00:00-04:00",
    "ultimo_movimiento_legible": "06/08/2026",
-   "dias_sin_movimiento": 2,
+   "dias_sin_movimiento": 3,
    "ultimo_tramite": "Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura.",
    "camara_actual": "Senado",
    "total_tramites": 5,
    "fecha_ingreso_legible": "24/06/2026",
-   "antiguedad_dias": 45,
+   "antiguedad_dias": 46,
    "prioridad": 20.8,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -4967,7 +4981,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "24d58c518528ba31",
    "puntaje_pertinencia": 48.0,
@@ -4998,12 +5013,12 @@
    "vigente": true,
    "ultimo_movimiento": "2025-03-26T00:00:00-03:00",
    "ultimo_movimiento_legible": "26/03/2025",
-   "dias_sin_movimiento": 500,
+   "dias_sin_movimiento": 501,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "camara_actual": "C.Diputados",
    "total_tramites": 2,
    "fecha_ingreso_legible": "24/03/2025",
-   "antiguedad_dias": 502,
+   "antiguedad_dias": 503,
    "prioridad": 18.7,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -5067,7 +5082,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "c208c749e4d5d678",
    "puntaje_pertinencia": 48.0,
@@ -5098,12 +5114,12 @@
    "vigente": true,
    "ultimo_movimiento": "2025-04-08T00:00:00-04:00",
    "ultimo_movimiento_legible": "08/04/2025",
-   "dias_sin_movimiento": 487,
+   "dias_sin_movimiento": 488,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
    "camara_actual": "Senado",
    "total_tramites": 2,
    "fecha_ingreso_legible": "03/04/2025",
-   "antiguedad_dias": 492,
+   "antiguedad_dias": 493,
    "prioridad": 18.7,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -5185,7 +5201,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "bc332ed625b5da38",
    "puntaje_pertinencia": 48.0,
@@ -5213,12 +5230,12 @@
    "vigente": true,
    "ultimo_movimiento": "2025-05-06T00:00:00-04:00",
    "ultimo_movimiento_legible": "06/05/2025",
-   "dias_sin_movimiento": 459,
+   "dias_sin_movimiento": 460,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "camara_actual": "C.Diputados",
    "total_tramites": 2,
    "fecha_ingreso_legible": "22/04/2025",
-   "antiguedad_dias": 473,
+   "antiguedad_dias": 474,
    "prioridad": 18.7,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -5316,7 +5333,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "07dec5631b5fcdbf",
    "puntaje_pertinencia": 48.0,
@@ -5347,12 +5365,12 @@
    "vigente": true,
    "ultimo_movimiento": "2025-05-07T00:00:00-04:00",
    "ultimo_movimiento_legible": "07/05/2025",
-   "dias_sin_movimiento": 458,
+   "dias_sin_movimiento": 459,
    "ultimo_tramite": "Oficio N° 20406. Deriva a la Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa; Protección de los Consumidores y Turismo, el proyecto de ley asignado inicialmente a la Comisión de Derechos Humanos.",
    "camara_actual": "C.Diputados",
    "total_tramites": 4,
    "fecha_ingreso_legible": "05/05/2025",
-   "antiguedad_dias": 460,
+   "antiguedad_dias": 461,
    "prioridad": 18.7,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -5427,7 +5445,8 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "dd8debf4ea849c38",
    "puntaje_pertinencia": 24.0,
@@ -5458,12 +5477,12 @@
    "vigente": true,
    "ultimo_movimiento": "2026-07-22T00:00:00-04:00",
    "ultimo_movimiento_legible": "22/07/2026",
-   "dias_sin_movimiento": 17,
+   "dias_sin_movimiento": 18,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "camara_actual": "Senado",
    "total_tramites": 2,
    "fecha_ingreso_legible": "21/07/2026",
-   "antiguedad_dias": 18,
+   "antiguedad_dias": 19,
    "prioridad": 18.4,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -5570,7 +5589,8 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "d28816cac6bf9370",
    "puntaje_pertinencia": 24.0,
@@ -5601,12 +5621,12 @@
    "vigente": true,
    "ultimo_movimiento": "2026-05-18T00:00:00-04:00",
    "ultimo_movimiento_legible": "18/05/2026",
-   "dias_sin_movimiento": 82,
+   "dias_sin_movimiento": 83,
    "ultimo_tramite": "El Honorable Senador señor Vial adhiere al proyecto de ley",
    "camara_actual": "Senado",
    "total_tramites": 6,
    "fecha_ingreso_legible": "22/04/2026",
-   "antiguedad_dias": 108,
+   "antiguedad_dias": 109,
    "prioridad": 16.0,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -5684,7 +5704,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "da4e6c909fdc000c",
    "puntaje_pertinencia": 0.0,
@@ -5709,12 +5730,12 @@
    "vigente": true,
    "ultimo_movimiento": "2026-06-16T00:00:00-04:00",
    "ultimo_movimiento_legible": "16/06/2026",
-   "dias_sin_movimiento": 53,
+   "dias_sin_movimiento": 54,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "camara_actual": "C.Diputados",
    "total_tramites": 2,
    "fecha_ingreso_legible": "09/06/2026",
-   "antiguedad_dias": 60,
+   "antiguedad_dias": 61,
    "prioridad": 16.0,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -5789,7 +5810,8 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "022f13e1bf19d971",
    "puntaje_pertinencia": 24.0,
@@ -5816,12 +5838,12 @@
    "vigente": true,
    "ultimo_movimiento": "2026-06-17T00:00:00-04:00",
    "ultimo_movimiento_legible": "17/06/2026",
-   "dias_sin_movimiento": 52,
+   "dias_sin_movimiento": 53,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "camara_actual": "Senado",
    "total_tramites": 2,
    "fecha_ingreso_legible": "16/06/2026",
-   "antiguedad_dias": 53,
+   "antiguedad_dias": 54,
    "prioridad": 16.0,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -7910,12 +7932,12 @@
    "vigente": false,
    "ultimo_movimiento": "2026-05-13T00:00:00-04:00",
    "ultimo_movimiento_legible": "13/05/2026",
-   "dias_sin_movimiento": 87,
+   "dias_sin_movimiento": 88,
    "ultimo_tramite": "Oficio de ley al Ejecutivo .",
    "camara_actual": "Senado",
    "total_tramites": 227,
    "fecha_ingreso_legible": "13/11/2018",
-   "antiguedad_dias": 2825,
+   "antiguedad_dias": 2826,
    "prioridad": 10.1,
    "banda_prioridad": "baja",
    "factor_urgencia": 3.0,
@@ -7979,7 +8001,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "7e24cf4e15a6e48a",
    "puntaje_pertinencia": 0.0,
@@ -8004,12 +8027,12 @@
    "vigente": true,
    "ultimo_movimiento": "2024-08-27T00:00:00-04:00",
    "ultimo_movimiento_legible": "27/08/2024",
-   "dias_sin_movimiento": 711,
+   "dias_sin_movimiento": 712,
    "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "camara_actual": "Senado",
    "total_tramites": 2,
    "fecha_ingreso_legible": "16/08/2024",
-   "antiguedad_dias": 722,
+   "antiguedad_dias": 723,
    "prioridad": 8.8,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -8727,7 +8750,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "555ea9a190f0134e",
    "puntaje_pertinencia": 60.0,
@@ -8767,12 +8791,12 @@
    "vigente": false,
    "ultimo_movimiento": "2024-10-28T00:00:00-03:00",
    "ultimo_movimiento_legible": "28/10/2024",
-   "dias_sin_movimiento": 649,
+   "dias_sin_movimiento": 650,
    "ultimo_tramite": "Cuenta fallo del Tribunal Constitucional .",
    "camara_actual": "C.Diputados",
    "total_tramites": 66,
    "fecha_ingreso_legible": "29/01/2024",
-   "antiguedad_dias": 922,
+   "antiguedad_dias": 923,
    "prioridad": 3.9,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -8868,7 +8892,8 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "camara_anno"
    ],
    "id": "e693c21c1373b494",
    "puntaje_pertinencia": 48.0,
@@ -8896,12 +8921,12 @@
    "vigente": false,
    "ultimo_movimiento": "2026-01-21T00:00:00-03:00",
    "ultimo_movimiento_legible": "21/01/2026",
-   "dias_sin_movimiento": 199,
+   "dias_sin_movimiento": 200,
    "ultimo_tramite": "Archivado",
    "camara_actual": "C.Diputados",
    "total_tramites": 4,
    "fecha_ingreso_legible": "01/07/2024",
-   "antiguedad_dias": 768,
+   "antiguedad_dias": 769,
    "prioridad": 2.9,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
@@ -8922,21 +8947,49 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-08T12:32:12.671745-04:00"
+   "revisado": "2026-08-09T03:06:48.607502-04:00"
   },
   {
-   "boletin": "12712-24",
-   "titulo": "Ley de Patrimonio Cultural",
+   "boletin": "18384-08",
+   "titulo": "Ley de protección tarifaria eléctrica",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-08T12:32:12.671745-04:00"
+   "revisado": "2026-08-09T03:06:48.607502-04:00"
+  },
+  {
+   "boletin": "18031-24",
+   "titulo": "Ley sobre fomento a las artes de la visualidad",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia",
+   "revisado": "2026-08-09T03:06:48.607502-04:00"
+  },
+  {
+   "boletin": "17142-05",
+   "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2025",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia",
+   "revisado": "2026-08-09T03:06:48.607502-04:00"
+  },
+  {
+   "boletin": "17870-05",
+   "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia",
+   "revisado": "2026-08-09T03:06:48.607502-04:00"
+  },
+  {
+   "boletin": "17611-15",
+   "titulo": "Regula el uso del espacio público",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia",
+   "revisado": "2026-08-09T03:06:48.607502-04:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-08T12:32:12.671745-04:00"
+   "revisado": "2026-08-09T03:06:48.607502-04:00"
   }
  ],
  "novedades": 0,
@@ -8988,14 +9041,14 @@
   }
  },
  "auditoria": {
-  "modo": "rapido",
-  "candidatos_descubiertos": 172,
-  "boletines_consultados": 33,
-  "fichas_obtenidas": 33,
+  "modo": "conciliacion",
+  "candidatos_descubiertos": 2023,
+  "boletines_consultados": 37,
+  "fichas_obtenidas": 37,
   "consultas_fallidas": 0,
   "registros_publicados": 31,
   "registros_conservados_sin_revisar": 1,
-  "descartados_por_pertinencia": 3,
+  "descartados_por_pertinencia": 7,
   "retenidos_para_revision_manual": 4,
   "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
@@ -9004,49 +9057,49 @@
   "canales": {
    "semillas": 12,
    "cartera": 31,
-   "senado_movimiento": 144,
-   "camara_anno": 0
+   "senado_movimiento": 0,
+   "camara_anno": 2020
   },
   "cobertura_canales": [
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 144,
-    "errores": [],
+    "resultados": 0,
+    "errores": [
+     "10/07/2026: TimeoutError: The read operation timed out"
+    ],
     "consultado": true
    },
    {
     "canal": "senado_boletin",
-    "llamadas": 33,
-    "resultados": 33,
+    "llamadas": 37,
+    "resultados": 37,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_boletin",
-    "llamadas": 33,
-    "resultados": 33,
+    "llamadas": 37,
+    "resultados": 37,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_anno",
-    "llamadas": 0,
-    "resultados": 0,
-    "errores": [
-     "no consultado en esta corrida"
-    ],
-    "consultado": false
+    "llamadas": 6,
+    "resultados": 2020,
+    "errores": [],
+    "consultado": true
    }
   ],
-  "ultima_conciliacion": "2026-08-04T13:38:33.503927-04:00",
+  "ultima_conciliacion": "2026-08-09T03:06:48.607502-04:00",
   "migracion_estado": false,
   "umbral_pertinencia": 30,
   "consulta_camara": true,
   "respeta_robots": true,
-  "ventana_movimiento_dias": 7,
+  "ventana_movimiento_dias": 30,
   "semillas_configuradas": 12,
   "boletines_excluidos": 0,
-  "segundos_corrida": 67.6
+  "segundos_corrida": 98.8
  }
 }
