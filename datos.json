@@ -1,8 +1,8 @@
 {
- "generado": "2026-08-09T03:06:48.607502-04:00",
- "generado_legible": "09/08/2026 03:06",
+ "generado": "2026-08-09T22:10:25.285314-04:00",
+ "generado_legible": "09/08/2026 22:10",
  "version_motor": "1.0.0-tramitacion-legislativa",
- "modo_ejecucion": "conciliacion",
+ "modo_ejecucion": "rapido",
  "metricas": {
   "total": 31,
   "vigentes": 28,
@@ -142,7 +142,7 @@
     "total": 5
    }
   ],
-  "generado": "2026-08-09T03:06:48.607502-04:00"
+  "generado": "2026-08-09T22:10:25.285314-04:00"
  },
  "proyectos": [
   {
@@ -484,8 +484,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "fa5ca40fa3da378b",
    "puntaje_pertinencia": 237.0,
@@ -672,8 +671,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "80d2ea7de230a503",
    "puntaje_pertinencia": 237.0,
@@ -2280,7 +2278,8 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "d91f40e7b4657b1d",
    "puntaje_pertinencia": 120.0,
@@ -2400,8 +2399,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "bf99bac3167f7b32",
    "puntaje_pertinencia": 225.0,
@@ -2552,8 +2550,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "8cff1dd109fe79cc",
    "puntaje_pertinencia": 177.0,
@@ -3444,7 +3441,7 @@
    "canales_descubrimiento": [
     "semilla",
     "cartera",
-    "camara_anno"
+    "senado_movimiento"
    ],
    "id": "9b68e4e65b2ab18e",
    "puntaje_pertinencia": 0.0,
@@ -3607,8 +3604,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "c58afe1ec6c52f81",
    "puntaje_pertinencia": 60.0,
@@ -3731,8 +3727,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "02863b4593c9c21a",
    "puntaje_pertinencia": 165.0,
@@ -3849,8 +3844,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "90f135122e7e4520",
    "puntaje_pertinencia": 177.0,
@@ -3967,8 +3961,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "4a9ed10c241cbf73",
    "puntaje_pertinencia": 165.0,
@@ -4068,8 +4061,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "fe916a091ea2d344",
    "puntaje_pertinencia": 165.0,
@@ -4179,8 +4171,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "b29ab9627e21671f",
    "puntaje_pertinencia": 72.0,
@@ -4292,8 +4283,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "a2afa16efcdd8cf0",
    "puntaje_pertinencia": 48.0,
@@ -4419,8 +4409,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "688ee3f1969d92eb",
    "puntaje_pertinencia": 48.0,
@@ -4522,8 +4511,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "207716662ac2d29b",
    "puntaje_pertinencia": 36.0,
@@ -4629,8 +4617,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "54783418c224bc68",
    "puntaje_pertinencia": 48.0,
@@ -4733,8 +4720,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "549f2c9d43daf111",
    "puntaje_pertinencia": 48.0,
@@ -4873,7 +4859,7 @@
    "canales_descubrimiento": [
     "semilla",
     "cartera",
-    "camara_anno"
+    "senado_movimiento"
    ],
    "id": "9ea5d77fee565cf7",
    "puntaje_pertinencia": 24.0,
@@ -4981,8 +4967,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "24d58c518528ba31",
    "puntaje_pertinencia": 48.0,
@@ -5082,8 +5067,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "c208c749e4d5d678",
    "puntaje_pertinencia": 48.0,
@@ -5201,8 +5185,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "bc332ed625b5da38",
    "puntaje_pertinencia": 48.0,
@@ -5333,8 +5316,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "07dec5631b5fcdbf",
    "puntaje_pertinencia": 48.0,
@@ -5445,8 +5427,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "dd8debf4ea849c38",
    "puntaje_pertinencia": 24.0,
@@ -5589,8 +5570,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "d28816cac6bf9370",
    "puntaje_pertinencia": 24.0,
@@ -5704,8 +5684,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "da4e6c909fdc000c",
    "puntaje_pertinencia": 0.0,
@@ -5810,8 +5789,7 @@
    "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "022f13e1bf19d971",
    "puntaje_pertinencia": 24.0,
@@ -8001,8 +7979,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "7e24cf4e15a6e48a",
    "puntaje_pertinencia": 0.0,
@@ -8750,8 +8727,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "555ea9a190f0134e",
    "puntaje_pertinencia": 60.0,
@@ -8892,8 +8868,7 @@
    ],
    "admisible": "true",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "e693c21c1373b494",
    "puntaje_pertinencia": 48.0,
@@ -8947,49 +8922,21 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-09T03:06:48.607502-04:00"
+   "revisado": "2026-08-09T22:10:25.285314-04:00"
   },
   {
-   "boletin": "18384-08",
-   "titulo": "Ley de protección tarifaria eléctrica",
+   "boletin": "12712-24",
+   "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-09T03:06:48.607502-04:00"
-  },
-  {
-   "boletin": "18031-24",
-   "titulo": "Ley sobre fomento a las artes de la visualidad",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-09T03:06:48.607502-04:00"
-  },
-  {
-   "boletin": "17142-05",
-   "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2025",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-09T03:06:48.607502-04:00"
-  },
-  {
-   "boletin": "17870-05",
-   "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-09T03:06:48.607502-04:00"
-  },
-  {
-   "boletin": "17611-15",
-   "titulo": "Regula el uso del espacio público",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-09T03:06:48.607502-04:00"
+   "revisado": "2026-08-09T22:10:25.285314-04:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-09T03:06:48.607502-04:00"
+   "revisado": "2026-08-09T22:10:25.285314-04:00"
   }
  ],
  "novedades": 0,
@@ -9041,14 +8988,14 @@
   }
  },
  "auditoria": {
-  "modo": "conciliacion",
-  "candidatos_descubiertos": 2023,
-  "boletines_consultados": 37,
-  "fichas_obtenidas": 37,
+  "modo": "rapido",
+  "candidatos_descubiertos": 172,
+  "boletines_consultados": 33,
+  "fichas_obtenidas": 33,
   "consultas_fallidas": 0,
   "registros_publicados": 31,
   "registros_conservados_sin_revisar": 1,
-  "descartados_por_pertinencia": 7,
+  "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 4,
   "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
@@ -9057,39 +9004,39 @@
   "canales": {
    "semillas": 12,
    "cartera": 31,
-   "senado_movimiento": 0,
-   "camara_anno": 2020
+   "senado_movimiento": 144,
+   "camara_anno": 0
   },
   "cobertura_canales": [
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 0,
-    "errores": [
-     "10/07/2026: TimeoutError: The read operation timed out"
-    ],
+    "resultados": 144,
+    "errores": [],
     "consultado": true
    },
    {
     "canal": "senado_boletin",
-    "llamadas": 37,
-    "resultados": 37,
+    "llamadas": 33,
+    "resultados": 33,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_boletin",
-    "llamadas": 37,
-    "resultados": 37,
+    "llamadas": 33,
+    "resultados": 33,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_anno",
-    "llamadas": 6,
-    "resultados": 2020,
-    "errores": [],
-    "consultado": true
+    "llamadas": 0,
+    "resultados": 0,
+    "errores": [
+     "no consultado en esta corrida"
+    ],
+    "consultado": false
    }
   ],
   "ultima_conciliacion": "2026-08-09T03:06:48.607502-04:00",
@@ -9097,9 +9044,9 @@
   "umbral_pertinencia": 30,
   "consulta_camara": true,
   "respeta_robots": true,
-  "ventana_movimiento_dias": 30,
+  "ventana_movimiento_dias": 7,
   "semillas_configuradas": 12,
   "boletines_excluidos": 0,
-  "segundos_corrida": 98.8
+  "segundos_corrida": 68.0
  }
 }
