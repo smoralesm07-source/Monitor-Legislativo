@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-10T16:50:00.795127-04:00",
- "generado_legible": "10/08/2026 16:50",
+ "generado": "2026-08-10T18:43:14.298750-04:00",
+ "generado_legible": "10/08/2026 18:43",
  "version_motor": "1.0.0-tramitacion-legislativa",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -24,7 +24,7 @@
    {
     "ordinal": 1,
     "etapa": "Primer trámite",
-    "total": 25
+    "total": 24
    },
    {
     "ordinal": 2,
@@ -39,6 +39,11 @@
    {
     "ordinal": 4,
     "etapa": "Comisión mixta",
+    "total": 1
+   },
+   {
+    "ordinal": 5,
+    "etapa": "Veto",
     "total": 1
    }
   ],
@@ -142,7 +147,7 @@
     "total": 5
    }
   ],
-  "generado": "2026-08-10T16:50:00.795127-04:00"
+  "generado": "2026-08-10T18:43:14.298750-04:00"
  },
  "proyectos": [
   {
@@ -2461,157 +2466,11 @@
    "novedad_detectada": ""
   },
   {
-   "boletin": "17943-25",
-   "titulo": "Modifica cuerpos legales que indica para permitir, a la Unidad de Análisis Financiero, acceder a información bancaria de ciertas autoridades sin orden judicial previa",
-   "fecha_ingreso": "2025-05-19T00:00:00-04:00",
-   "etapa": "Primer trámite constitucional (C.Diputados)",
-   "subetapa": "Primer informe de comisión de Seguridad Ciudadana",
-   "iniciativa": "Moción",
-   "camara_origen": "C.Diputados",
-   "urgencia": "Sin urgencia",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18599&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2025-05-19T00:00:00-04:00",
-     "fecha_legible": "19/05/2025",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-11-03T00:00:00-03:00",
-     "fecha_legible": "03/11/2025",
-     "sesion": "/",
-     "descripcion": "Declaración de inadmisibilidad basada en informe técnico N° 31/373/2025, revertida por la Sala en sesión 86-373.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-11-04T00:00:00-03:00",
-     "fecha_legible": "04/11/2025",
-     "sesion": "87/373",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-11-04T00:00:00-03:00",
-     "fecha_legible": "04/11/2025",
-     "sesion": "87/373",
-     "descripcion": "A petición del diputado señor Manouchehri, la Sala acordó radicar el proyecto en la Comisión de Constitución, Legislación, Justicia y Reglamento.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-11-04T00:00:00-03:00",
-     "fecha_legible": "04/11/2025",
-     "sesion": "/",
-     "descripcion": "Oficio N° 20884. Comunica a la Comisión de Constitución, Legislación, Justicia y Reglamento el acuerdo de la Sala, en orden a remitirle el proyecto de ley, asignado originalmente a la Comisión de Seguridad Ciudadana.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    }
-   ],
-   "urgencias": [],
-   "votaciones": [],
-   "autores": [
-    "Arturo Barrios Oteíza",
-    "Astudillo Peiretti, Danisa",
-    "Barrios Oteíza, Arturo",
-    "Cicardini Milla, Daniella",
-    "Daniel Manouchehri Lobos",
-    "Daniel Melo Contreras",
-    "Daniella Cicardini Milla",
-    "Danisa Astudillo Peiretti",
-    "Ilabaca Cerda, Marcos",
-    "Juan Santana Castillo",
-    "Leiva Carvajal, Raúl",
-    "Manouchehri Lobos, Daniel",
-    "Marcos Ilabaca Cerda",
-    "Melo Contreras, Daniel",
-    "Nelson Venegas Salazar",
-    "Raúl Leiva Carvajal",
-    "Santana Castillo, Juan",
-    "Venegas Salazar, Nelson"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [],
-   "ministerios": [],
-   "camara_id": "18599",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "admisible": "true",
-   "canales_descubrimiento": [
-    "cartera"
-   ],
-   "id": "8cff1dd109fe79cc",
-   "puntaje_pertinencia": 177.0,
-   "nivel_impacto": "directo",
-   "evidencia": {
-    "directas": [
-     "unidad de analisis financiero"
-    ],
-    "nucleo": [],
-    "estructurales": [],
-    "sectoriales": [
-     "bancaria"
-    ]
-   },
-   "sectores": [
-    "banca_financiero"
-   ],
-   "sectores_legibles": [
-    "Banca y sistema financiero"
-   ],
-   "ejes": [
-    "facultades_uaf"
-   ],
-   "ejes_legibles": [
-    "Facultades y competencias UAF"
-   ],
-   "impacto_legible": "Impacto directo en la Ley 19.913",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 1,
-   "nivel_legible": "Nivel 1 · Impacto en la Ley 19.913",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 1,
-   "vigente": true,
-   "ultimo_movimiento": "2025-11-04T00:00:00-03:00",
-   "ultimo_movimiento_legible": "04/11/2025",
-   "dias_sin_movimiento": 279,
-   "ultimo_tramite": "Oficio N° 20884. Comunica a la Comisión de Constitución, Legislación, Justicia y Reglamento el acuerdo de la Sala, en orden a remitirle el proyecto de ley, asignado originalmente a la Comisión de Seguridad Ciudadana.",
-   "camara_actual": "C.Diputados",
-   "total_tramites": 5,
-   "fecha_ingreso_legible": "19/05/2025",
-   "antiguedad_dias": 448,
-   "prioridad": 80.0,
-   "banda_prioridad": "media",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 1.0,
-   "factor_frescura": 0.8,
-   "huella": "454d1757c449fc98d7bd",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17943-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18599&prmBOLETIN=17943-25",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17943",
-   "sintesis": "Primer trámite constitucional (C.Diputados) · Oficio N° 20884. Comunica a la Comisión de Constitución, Legislación, Justicia y Reglamento el acuerdo de la Sala, en orden a remitirle el proyecto de ley, asignado originalmente a la Comisión de Seguridad Ciudadana.",
-   "novedad": "",
-   "novedad_detectada": ""
-  },
-  {
    "boletin": "18216-05",
    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
    "fecha_ingreso": "2026-04-22T00:00:00-04:00",
-   "etapa": "Trámite finalización en Cámara de Origen (C.Diputados)",
-   "subetapa": "Oficio de ley al Ejecutivo",
+   "etapa": "Discusión veto en Cámara de Origen (C.Diputados)",
+   "subetapa": "Discusión veto",
    "iniciativa": "Mensaje",
    "camara_origen": "C.Diputados",
    "urgencia": "Discusión inmediata",
@@ -3323,6 +3182,14 @@
      "descripcion": "Cuenta de observaciones . Pasa a Comisión de Hacienda",
      "etapa": "Discusión veto en Cámara de Origen",
      "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-10T00:00:00-04:00",
+     "fecha_legible": "10/08/2026",
+     "sesion": "53/374",
+     "descripcion": "Cuenta informe de comisión .",
+     "etapa": "Discusión veto en Cámara de Origen",
+     "camara": "C.Diputados"
     }
    ],
    "urgencias": [
@@ -3462,28 +3329,174 @@
    "nivel_legible": "Nivel 3 · Seguimiento",
    "urgencia_clave": "discusion inmediata",
    "urgencia_legible": "Discusión inmediata",
-   "etapa_ordinal": 1,
+   "etapa_ordinal": 5,
    "vigente": true,
-   "ultimo_movimiento": "2026-08-05T00:00:00-04:00",
-   "ultimo_movimiento_legible": "05/08/2026",
-   "dias_sin_movimiento": 5,
-   "ultimo_tramite": "Cuenta de observaciones . Pasa a Comisión de Hacienda",
+   "ultimo_movimiento": "2026-08-10T00:00:00-04:00",
+   "ultimo_movimiento_legible": "10/08/2026",
+   "dias_sin_movimiento": 0,
+   "ultimo_tramite": "Cuenta informe de comisión .",
    "camara_actual": "C.Diputados",
-   "total_tramites": 88,
+   "total_tramites": 89,
    "fecha_ingreso_legible": "22/04/2026",
    "antiguedad_dias": 110,
-   "prioridad": 62.4,
+   "prioridad": 87.4,
    "banda_prioridad": "media",
    "factor_urgencia": 3.0,
-   "factor_proximidad": 1.0,
+   "factor_proximidad": 1.4,
    "factor_frescura": 1.3,
-   "huella": "b67748cae32b3cacc55d",
+   "huella": "fc1293a5aaa33ed4c27e",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
-   "sintesis": "Discusión inmediata · Trámite finalización en Cámara de Origen (C.Diputados) · Cuenta de observaciones . Pasa a Comisión de Hacienda",
+   "sintesis": "Discusión inmediata · Discusión veto en Cámara de Origen (C.Diputados) · Cuenta informe de comisión .",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-10T18:43:14.298750-04:00"
+  },
+  {
+   "boletin": "17943-25",
+   "titulo": "Modifica cuerpos legales que indica para permitir, a la Unidad de Análisis Financiero, acceder a información bancaria de ciertas autoridades sin orden judicial previa",
+   "fecha_ingreso": "2025-05-19T00:00:00-04:00",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Primer informe de comisión de Seguridad Ciudadana",
+   "iniciativa": "Moción",
+   "camara_origen": "C.Diputados",
+   "urgencia": "Sin urgencia",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "En tramitación",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18599&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2025-05-19T00:00:00-04:00",
+     "fecha_legible": "19/05/2025",
+     "sesion": "/",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-11-03T00:00:00-03:00",
+     "fecha_legible": "03/11/2025",
+     "sesion": "/",
+     "descripcion": "Declaración de inadmisibilidad basada en informe técnico N° 31/373/2025, revertida por la Sala en sesión 86-373.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-11-04T00:00:00-03:00",
+     "fecha_legible": "04/11/2025",
+     "sesion": "87/373",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-11-04T00:00:00-03:00",
+     "fecha_legible": "04/11/2025",
+     "sesion": "87/373",
+     "descripcion": "A petición del diputado señor Manouchehri, la Sala acordó radicar el proyecto en la Comisión de Constitución, Legislación, Justicia y Reglamento.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-11-04T00:00:00-03:00",
+     "fecha_legible": "04/11/2025",
+     "sesion": "/",
+     "descripcion": "Oficio N° 20884. Comunica a la Comisión de Constitución, Legislación, Justicia y Reglamento el acuerdo de la Sala, en orden a remitirle el proyecto de ley, asignado originalmente a la Comisión de Seguridad Ciudadana.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    }
+   ],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [
+    "Arturo Barrios Oteíza",
+    "Astudillo Peiretti, Danisa",
+    "Barrios Oteíza, Arturo",
+    "Cicardini Milla, Daniella",
+    "Daniel Manouchehri Lobos",
+    "Daniel Melo Contreras",
+    "Daniella Cicardini Milla",
+    "Danisa Astudillo Peiretti",
+    "Ilabaca Cerda, Marcos",
+    "Juan Santana Castillo",
+    "Leiva Carvajal, Raúl",
+    "Manouchehri Lobos, Daniel",
+    "Marcos Ilabaca Cerda",
+    "Melo Contreras, Daniel",
+    "Nelson Venegas Salazar",
+    "Raúl Leiva Carvajal",
+    "Santana Castillo, Juan",
+    "Venegas Salazar, Nelson"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [],
+   "ministerios": [],
+   "camara_id": "18599",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara",
+    "senado"
+   ],
+   "admisible": "true",
+   "canales_descubrimiento": [
+    "cartera"
+   ],
+   "id": "8cff1dd109fe79cc",
+   "puntaje_pertinencia": 177.0,
+   "nivel_impacto": "directo",
+   "evidencia": {
+    "directas": [
+     "unidad de analisis financiero"
+    ],
+    "nucleo": [],
+    "estructurales": [],
+    "sectoriales": [
+     "bancaria"
+    ]
+   },
+   "sectores": [
+    "banca_financiero"
+   ],
+   "sectores_legibles": [
+    "Banca y sistema financiero"
+   ],
+   "ejes": [
+    "facultades_uaf"
+   ],
+   "ejes_legibles": [
+    "Facultades y competencias UAF"
+   ],
+   "impacto_legible": "Impacto directo en la Ley 19.913",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 1,
+   "nivel_legible": "Nivel 1 · Impacto en la Ley 19.913",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2025-11-04T00:00:00-03:00",
+   "ultimo_movimiento_legible": "04/11/2025",
+   "dias_sin_movimiento": 279,
+   "ultimo_tramite": "Oficio N° 20884. Comunica a la Comisión de Constitución, Legislación, Justicia y Reglamento el acuerdo de la Sala, en orden a remitirle el proyecto de ley, asignado originalmente a la Comisión de Seguridad Ciudadana.",
+   "camara_actual": "C.Diputados",
+   "total_tramites": 5,
+   "fecha_ingreso_legible": "19/05/2025",
+   "antiguedad_dias": 448,
+   "prioridad": 80.0,
+   "banda_prioridad": "media",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 0.8,
+   "huella": "454d1757c449fc98d7bd",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17943-25",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18599&prmBOLETIN=17943-25",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17943",
+   "sintesis": "Primer trámite constitucional (C.Diputados) · Oficio N° 20884. Comunica a la Comisión de Constitución, Legislación, Justicia y Reglamento el acuerdo de la Sala, en orden a remitirle el proyecto de ley, asignado originalmente a la Comisión de Seguridad Ciudadana.",
    "novedad": "",
-   "novedad_detectada": "2026-08-05T13:46:21.963110-04:00"
+   "novedad_detectada": ""
   },
   {
    "boletin": "17038-03",
@@ -8922,24 +8935,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-10T16:50:00.795127-04:00"
+   "revisado": "2026-08-10T18:43:14.298750-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-10T16:50:00.795127-04:00"
+   "revisado": "2026-08-10T18:43:14.298750-04:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-10T16:50:00.795127-04:00"
+   "revisado": "2026-08-10T18:43:14.298750-04:00"
   }
  ],
- "novedades": 0,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -8989,7 +9002,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 174,
+  "candidatos_descubiertos": 188,
   "boletines_consultados": 33,
   "fichas_obtenidas": 33,
   "consultas_fallidas": 0,
@@ -8997,21 +9010,21 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 0,
+  "con_movimiento": 1,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 12,
    "cartera": 31,
-   "senado_movimiento": 146,
+   "senado_movimiento": 160,
    "camara_anno": 0
   },
   "cobertura_canales": [
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 146,
+    "resultados": 160,
     "errores": [],
     "consultado": true
    },
@@ -9047,6 +9060,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 12,
   "boletines_excluidos": 0,
-  "segundos_corrida": 59.9
+  "segundos_corrida": 61.4
  }
 }

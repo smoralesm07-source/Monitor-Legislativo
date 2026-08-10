@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-10T16:50:00.795127-04:00",
-  "generado_legible": "10/08/2026 16:50",
+  "generado": "2026-08-10T18:43:14.298750-04:00",
+  "generado_legible": "10/08/2026 18:43",
   "proyectos_total": 31,
   "vigentes": 28,
   "movimientos_recientes": 3,
   "movimientos_30d": 7,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 9,
   "con_urgencia": 5,
   "prioridad_alta": 4,
   "estancados_180d": 15,
   "ultimo": {
-    "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
-    "detalle": "Boletín 18420-25 · 06/08/2026 · Primer trámite constitucional (Senado)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
-    "fecha": "2026-08-06T00:00:00-04:00"
+    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+    "detalle": "Boletín 18216-05 · 10/08/2026 · Discusión veto en Cámara de Origen (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+    "fecha": "2026-08-10T00:00:00-04:00"
   },
   "serie_7d": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "fecha": "2026-08-05",
-      "n": 2
+      "n": 1
     },
     {
       "fecha": "2026-08-06",
@@ -46,10 +46,18 @@
     },
     {
       "fecha": "2026-08-10",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
+    {
+      "severidad": "media",
+      "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+      "detalle": "Boletín 18216-05 · Nivel 3 · Seguimiento · Discusión inmediata",
+      "fecha": "2026-08-10T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "info",
       "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
@@ -67,14 +75,6 @@
       "fuente": "LEGISLATIVO"
     },
     {
-      "severidad": "media",
-      "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-      "detalle": "Boletín 18216-05 · Nivel 3 · Seguimiento · Discusión inmediata",
-      "fecha": "2026-08-05T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
-      "fuente": "LEGISLATIVO"
-    },
-    {
       "severidad": "info",
       "titulo": "Modifica diversos cuerpos legales en materia de persecución penal y patrimonial, y tipifica nuevos delitos para combatir el crimen organizado",
       "detalle": "Boletín 18488-07 · Nivel 3 · Seguimiento · Sin urgencia",
@@ -85,16 +85,16 @@
   ],
   "actividad": [
     {
+      "fecha": "2026-08-10T00:00:00-04:00",
+      "texto": "Boletín 18216-05: Cuenta informe de comisión ."
+    },
+    {
       "fecha": "2026-08-06T00:00:00-04:00",
       "texto": "Boletín 18420-25: Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura."
     },
     {
       "fecha": "2026-08-05T00:00:00-04:00",
       "texto": "Boletín 15975-25: Cuenta oficio integrantes de Comisión Mixta ."
-    },
-    {
-      "fecha": "2026-08-05T00:00:00-04:00",
-      "texto": "Boletín 18216-05: Cuenta de observaciones . Pasa a Comisión de Hacienda"
     },
     {
       "fecha": "2026-07-26T13:32:08-04:00",
