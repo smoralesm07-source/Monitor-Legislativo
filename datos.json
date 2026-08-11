@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-11T05:04:18.288566-04:00",
- "generado_legible": "11/08/2026 05:04",
+ "generado": "2026-08-11T06:54:36.906805-04:00",
+ "generado_legible": "11/08/2026 06:54",
  "version_motor": "1.0.0-tramitacion-legislativa",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -147,7 +147,7 @@
     "total": 5
    }
   ],
-  "generado": "2026-08-11T05:04:18.288566-04:00"
+  "generado": "2026-08-11T06:54:36.906805-04:00"
  },
  "proyectos": [
   {
@@ -5180,39 +5180,27 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Ana María Bravo Castro",
     "Astudillo Peiretti, Danisa",
     "Bravo Castro, Ana María",
-    "Daniel Melo Contreras",
-    "Danisa Astudillo Peiretti",
     "De Rementería Venegas, Tomás",
-    "Emilia Nuyado Ancapichun",
     "Ilabaca Cerda, Marcos",
-    "Jaime Naranjo Ortiz",
-    "Juan Santana Castillo",
     "Leiva Carvajal, Raúl",
-    "Marcos Ilabaca Cerda",
     "Melo Contreras, Daniel",
     "Naranjo Ortíz, Jaime",
-    "Nelson Venegas Salazar",
     "Nuyado Ancapichún, Emilia",
-    "Raúl Leiva Carvajal",
     "Santana Castillo, Juan",
-    "Tomás De Rementería Venegas",
     "Venegas Salazar, Nelson"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "18152",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -5255,7 +5243,7 @@
    "factor_frescura": 0.55,
    "huella": "9a80211f35e8fd8d5063",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17515-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18152&prmBOLETIN=17515-07",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17515",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -8951,21 +8939,21 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-11T05:04:18.288566-04:00"
+   "revisado": "2026-08-11T06:54:36.906805-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-11T05:04:18.288566-04:00"
+   "revisado": "2026-08-11T06:54:36.906805-04:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-11T05:04:18.288566-04:00"
+   "revisado": "2026-08-11T06:54:36.906805-04:00"
   }
  ],
  "novedades": 0,
@@ -9054,8 +9042,10 @@
    {
     "canal": "camara_boletin",
     "llamadas": 33,
-    "resultados": 33,
-    "errores": [],
+    "resultados": 32,
+    "errores": [
+     "17515-07: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    ],
     "consultado": true
    },
    {
@@ -9076,6 +9066,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 12,
   "boletines_excluidos": 0,
-  "segundos_corrida": 70.8
+  "segundos_corrida": 84.5
  }
 }
