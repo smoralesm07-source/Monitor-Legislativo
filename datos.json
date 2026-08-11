@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-11T09:17:42.380849-04:00",
- "generado_legible": "11/08/2026 09:17",
+ "generado": "2026-08-11T11:03:38.939733-04:00",
+ "generado_legible": "11/08/2026 11:03",
  "version_motor": "1.0.0-tramitacion-legislativa",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -147,7 +147,7 @@
     "total": 5
    }
   ],
-  "generado": "2026-08-11T09:17:42.380849-04:00"
+  "generado": "2026-08-11T11:03:38.939733-04:00"
  },
  "proyectos": [
   {
@@ -445,14 +445,24 @@
    ],
    "votaciones": [],
    "autores": [
+    "Agustín Romero Leiva",
     "Araya Lerdo de Tejada, Cristián",
     "Barchiesi Chávez, Chiara",
+    "Benjamín Moreno Bascur",
+    "Catalina Del Real Mihovilovic",
+    "Chiara Barchiesi Chávez",
+    "Cristián Araya Lerdo de Tejada",
     "Del Real Mihovilovic, Catalina",
     "Irarrázaval Rossel, Juan",
+    "José Carlos Meza Pereira",
+    "Juan Irarrázaval Rossel",
+    "Luis Sánchez Ossa",
     "Meza Pereira, José Carlos",
     "Moreno Bascur, Benjamín",
+    "Renzo Trisotti Martínez",
     "Romero Leiva, Agustín",
     "Schubert Rubio, Stephan",
+    "Stephan Schubert Rubio",
     "Sánchez Ossa, Luis",
     "Trisotti Martínez, Renzo"
    ],
@@ -467,14 +477,16 @@
     }
    ],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "17412",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Lavado de activos asociado al comercio ilegal",
    "es_semilla": true,
+   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -527,7 +539,7 @@
    "factor_frescura": 1.15,
    "huella": "3a0eab11ec41e6a6b92b",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16808-25",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17412&prmBOLETIN=16808-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16808",
    "sintesis": "Simple urgencia · Segundo trámite constitucional (Senado) · Cuenta del Mensaje 215-374 que retira y hace presente la urgencia Simple",
    "novedad": "",
@@ -624,13 +636,23 @@
    "votaciones": [],
    "autores": [
     "Alessandri Vergara, Jorge",
+    "Andrés Jouannet Valderrama",
+    "Andrés Longton Herrera",
     "Araya Guerrero, Jaime",
     "Araya Lerdo de Tejada, Cristián",
     "Castro Bascuñán, José Miguel",
+    "Cristián Araya Lerdo de Tejada",
+    "Diego Schalper Sepúlveda",
+    "Gloria Naveillan Arriagada",
+    "Hugo Rey Martínez",
+    "Jaime Araya Guerrero",
+    "Jorge Alessandri Vergara",
+    "José Miguel Castro Bascuñán",
     "Jouannet Valderrama, Andrés",
     "Leiva Carvajal, Raúl",
     "Longton Herrera, Andrés",
     "Naveillan Arriagada, Gloria",
+    "Raúl Leiva Carvajal",
     "Rey Martínez, Hugo",
     "Schalper Sepúlveda, Diego"
    ],
@@ -645,12 +667,14 @@
     }
    ],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "18569",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -702,7 +726,7 @@
    "factor_frescura": 1.15,
    "huella": "5ce99795d60dcd45139a",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18569&prmBOLETIN=17912-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17912",
    "sintesis": "Simple urgencia · Primer trámite constitucional (C.Diputados) · Cuenta de primer informe de comisión .",
    "novedad": "",
@@ -2243,15 +2267,20 @@
      "link": ""
     }
    ],
-   "ministerios": [],
-   "camara_id": "",
+   "ministerios": [
+    "Ministerio de Hacienda",
+    "Ministerio de Justicia y de Derechos Humanos"
+   ],
+   "camara_id": "16514",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Crea el Subsistema de Inteligencia Económica contra el crimen organizado",
    "es_semilla": true,
+   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera",
@@ -2304,7 +2333,7 @@
    "factor_frescura": 1.3,
    "huella": "7cce8d5ce2ace14882f1",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=16514&prmBOLETIN=15975-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15975",
    "sintesis": "Comisión Mixta por rechazo de modificaciones (Senado) · Cuenta oficio integrantes de Comisión Mixta .",
    "novedad": "",
@@ -2345,25 +2374,34 @@
    "votaciones": [],
    "autores": [
     "Beltrán Silva, Juan Carlos",
+    "Claudia Mora Vega",
+    "Diego Schalper Sepúlveda",
     "Durán Salinas, Eduardo",
+    "Eduardo Durán Salinas",
     "García García, René Manuel",
+    "Juan Carlos Beltrán Silva",
     "Mora Vega, Claudia",
     "Ossandón Irarrázabal, Ximena",
     "Ramírez Parra, Rodrigo",
-    "Schalper Sepúlveda, Diego"
+    "René Manuel García García",
+    "Rodrigo Ramírez Parra",
+    "Schalper Sepúlveda, Diego",
+    "Ximena Ossandón Irarrázabal"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "19055",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Levantamiento del secreto bancario con control judicial previo",
    "es_semilla": true,
+   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -2421,7 +2459,7 @@
    "factor_frescura": 1.0,
    "huella": "b32de72acffa66d8aff3",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18373-07",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19055&prmBOLETIN=18373-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18373",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -3270,15 +3308,19 @@
      "link": ""
     }
    ],
-   "ministerios": [],
-   "camara_id": "",
+   "ministerios": [
+    "Ministerio de Hacienda"
+   ],
+   "camara_id": "18872",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Reconstrucción nacional y desarrollo económico y social · ómnibus de Hacienda, 38 artículos permanentes. Contenido relevante detectado por analista, no por el motor.",
    "es_semilla": true,
+   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera",
@@ -3320,7 +3362,7 @@
    "factor_frescura": 1.3,
    "huella": "0331a14be5db452057cd",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
    "sintesis": "Discusión inmediata · Discusión veto en Cámara de Origen (C.Diputados) · Oficio aprobación veto a Cámara Revisora .",
    "novedad": "",
@@ -3384,13 +3426,22 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
+    "Arturo Barrios Oteíza",
     "Astudillo Peiretti, Danisa",
     "Barrios Oteíza, Arturo",
     "Cicardini Milla, Daniella",
+    "Daniel Manouchehri Lobos",
+    "Daniel Melo Contreras",
+    "Daniella Cicardini Milla",
+    "Danisa Astudillo Peiretti",
     "Ilabaca Cerda, Marcos",
+    "Juan Santana Castillo",
     "Leiva Carvajal, Raúl",
     "Manouchehri Lobos, Daniel",
+    "Marcos Ilabaca Cerda",
     "Melo Contreras, Daniel",
+    "Nelson Venegas Salazar",
+    "Raúl Leiva Carvajal",
     "Santana Castillo, Juan",
     "Venegas Salazar, Nelson"
    ],
@@ -3398,12 +3449,14 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "18599",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -3455,7 +3508,7 @@
    "factor_frescura": 0.8,
    "huella": "454d1757c449fc98d7bd",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17943-25",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18599&prmBOLETIN=17943-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17943",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Oficio N° 20884. Comunica a la Comisión de Constitución, Legislación, Justicia y Reglamento el acuerdo de la Sala, en orden a remitirle el proyecto de ley, asignado originalmente a la Comisión de Seguridad Ciudadana.",
    "novedad": "",
@@ -3564,18 +3617,21 @@
    ],
    "votaciones": [],
    "autores": [
+    "Francisco Huenchumilla Jaramillo",
     "Huenchumilla Jaramillo, Francisco"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "17652",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -3627,7 +3683,7 @@
    "factor_frescura": 0.8,
    "huella": "0eefea6168fe1deca6ab",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17038-03",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17652&prmBOLETIN=17038-03",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17038",
    "sintesis": "Suma urgencia · Primer trámite constitucional (Senado) · Cuenta del Mensaje 1605-373 que hace presente la urgencia Suma",
    "novedad": "",
@@ -3675,7 +3731,11 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
+    "Gastón Saavedra Chandía",
     "Gatica Bertin, María José",
+    "Gustavo Sanhueza Dueñas",
+    "Kenneth Pugh Olavarría",
+    "María José Gatica Bertin",
     "Pugh Olavarría, Kenneth",
     "Saavedra Chandía, Gastón",
     "Sanhueza Dueñas, Gustavo"
@@ -3684,14 +3744,16 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "17365",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Límites a las transacciones en dinero efectivo",
    "es_semilla": true,
+   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -3739,7 +3801,7 @@
    "factor_frescura": 0.55,
    "huella": "3846c084b6cd7f74c882",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16764-03",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17365&prmBOLETIN=16764-03",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16764",
    "sintesis": "Primer trámite constitucional (Senado) · La Sala acuerda refundir los proyectos de ley correspondientes a los boletines números 15.462-03, 16.764-03 y 16.783-03.",
    "novedad": "",
@@ -3781,24 +3843,35 @@
    "autores": [
     "Ahumada Palma, Yovana",
     "Calisto Águila, Miguel Ángel",
+    "Carla Morales Maldonado",
+    "Carolina Marzán Pinto",
     "Jiles Moreno, Pamela",
+    "Jorge Saffirio Espinoza",
+    "Luis Malla Valenzuela",
     "Malla Valenzuela, Luis",
     "Marzán Pinto, Carolina",
+    "Miguel Ángel Calisto Águila",
     "Morales Maldonado, Carla",
+    "Pamela Jiles Moreno",
     "Pino Fuentes, Víctor Alejandro",
+    "Raúl Soto Mardones",
     "Saffirio Espinoza, Jorge",
-    "Soto Mardones, Raúl"
+    "Soto Mardones, Raúl",
+    "Víctor Alejandro Pino Fuentes",
+    "Yovana Ahumada Palma"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "17540",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -3853,7 +3926,7 @@
    "factor_frescura": 0.55,
    "huella": "a17372f81a8b11165fd6",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16928-07",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17540&prmBOLETIN=16928-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16928",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento.",
    "novedad": "",
@@ -3893,9 +3966,14 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
+    "Alfonso De Urresti Longton",
     "Chahuán Chahuán, Francisco",
     "De Urresti Longton, Alfonso",
     "Ebensperger Orrego, Luz Eliana",
+    "Esteban Velásquez Núñez",
+    "Francisco Chahuán Chahuán",
+    "Luz Eliana Ebensperger Orrego",
+    "Paulina Vodanovic Rojas",
     "Velásquez Núñez, Esteban",
     "Vodanovic Rojas, Paulina"
    ],
@@ -3903,12 +3981,14 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "17553",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -3954,7 +4034,7 @@
    "factor_frescura": 0.55,
    "huella": "d36ce1a87c6575a3642d",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16939-06",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17553&prmBOLETIN=16939-06",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16939",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Gobierno, Descentralización y Regionalización",
    "novedad": "",
@@ -3994,18 +4074,21 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
+    "Gaspar Rivas Sánchez",
     "Rivas Sánchez, Gaspar"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "17784",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -4051,7 +4134,7 @@
    "factor_frescura": 0.55,
    "huella": "9f7827714a824e7a2b12",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17161-06",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17784&prmBOLETIN=17161-06",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17161",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
    "novedad": "",
@@ -4096,18 +4179,26 @@
     "Arce Castro, Mónica",
     "Arroyo Muñoz, Roberto",
     "Barría Angulo, Héctor",
-    "Jiles Moreno, Pamela"
+    "Héctor Barría Angulo",
+    "Jaime Araya Guerrero",
+    "Jiles Moreno, Pamela",
+    "Mónica Arce Castro",
+    "Pamela Jiles Moreno",
+    "René Alinco Bustos",
+    "Roberto Arroyo Muñoz"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "17266",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -4160,7 +4251,7 @@
    "factor_frescura": 0.55,
    "huella": "1b1523812d836d08fe4f",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16696-07",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17266&prmBOLETIN=16696-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16696",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -4200,6 +4291,8 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
+    "Alejandra Sepúlveda Orbenes",
+    "Esteban Velásquez Núñez",
     "Sepúlveda Orbenes, Alejandra",
     "Velásquez Núñez, Esteban"
    ],
@@ -4207,14 +4300,16 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "19090",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Agrava las sanciones aplicables en materia de lavado de activos",
    "es_semilla": true,
+   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -4261,7 +4356,7 @@
    "factor_frescura": 1.0,
    "huella": "4c3496185ed2c186f40c",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18407-25",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19090&prmBOLETIN=18407-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18407",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
    "novedad": "",
@@ -4325,6 +4420,8 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
+    "Alejandra Sepúlveda Orbenes",
+    "Esteban Velásquez Núñez",
     "Sepúlveda Orbenes, Alejandra",
     "Velásquez Núñez, Esteban"
    ],
@@ -4332,12 +4429,14 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "18489",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -4383,7 +4482,7 @@
    "factor_frescura": 0.8,
    "huella": "ff331aa92e7ea684cbf4",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17835-06",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18489&prmBOLETIN=17835-06",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17835",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta oficio N° 264-2025 de la Corte Suprema",
    "novedad": "",
@@ -4424,18 +4523,22 @@
    "votaciones": [],
    "autores": [
     "Castro Bascuñán, José Miguel",
-    "Ossandón Irarrázabal, Ximena"
+    "José Miguel Castro Bascuñán",
+    "Ossandón Irarrázabal, Ximena",
+    "Ximena Ossandón Irarrázabal"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "18535",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -4487,7 +4590,7 @@
    "factor_frescura": 0.8,
    "huella": "0c57f6bf5d6abbd02218",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17881-25",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18535&prmBOLETIN=17881-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17881",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
    "novedad": "",
@@ -4527,18 +4630,21 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
+    "Gloria Naveillan Arriagada",
     "Naveillan Arriagada, Gloria"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "18715",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -4584,7 +4690,7 @@
    "factor_frescura": 0.8,
    "huella": "ffbff79b09ad073633e0",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18053-07",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18715&prmBOLETIN=18053-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18053",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -4624,20 +4730,23 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Bianchi Retamales, Karim"
+    "Bianchi Retamales, Karim",
+    "Karim Bianchi Retamales"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "18742",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Transparencia y trazabilidad financiera en operaciones prendarias",
    "es_semilla": true,
+   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -4687,7 +4796,7 @@
    "factor_frescura": 0.8,
    "huella": "a547283cb8111fe3775b",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18080-03",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18742&prmBOLETIN=18080-03",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18080",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Economía",
    "novedad": "",
@@ -4751,24 +4860,31 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
+    "Carlos Ignacio Kuschel Silva",
+    "Cristian Vial Maceratta",
     "Flores García, Iván",
+    "Iván Flores García",
+    "Iván Moreira Barros",
     "Kuschel Silva, Carlos Ignacio",
     "Moreira Barros, Iván",
     "Núñez Urrutia, Paulina",
+    "Paulina Núñez Urrutia",
     "Vial Maceratta, Cristian"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "19092",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Seguridad portuaria frente al crimen organizado",
    "es_semilla": true,
+   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera",
@@ -4816,7 +4932,7 @@
    "factor_frescura": 1.3,
    "huella": "649a38adec7cd6898de9",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19092&prmBOLETIN=18420-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18420",
    "sintesis": "Primer trámite constitucional (Senado) · Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura.",
    "novedad": "",
@@ -4856,22 +4972,29 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
+    "Andrés Jouannet Valderrama",
     "Cariola Oliva, Karol",
     "Ilabaca Cerda, Marcos",
+    "Jaime Mulet Martínez",
     "Jouannet Valderrama, Andrés",
+    "Karol Cariola Oliva",
+    "Marcos Ilabaca Cerda",
     "Mulet Martínez, Jaime",
-    "Oyarzo Figueroa, Rubén Dario"
+    "Oyarzo Figueroa, Rubén Dario",
+    "Rubén Darío Oyarzo Figueroa"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "18068",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -4917,7 +5040,7 @@
    "factor_frescura": 0.55,
    "huella": "1e32fe20a127d52b5b14",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17432-07",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18068&prmBOLETIN=17432-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17432",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -4957,18 +5080,21 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Allende Bussi, Isabel"
+    "Allende Bussi, Isabel",
+    "Isabel Allende Bussi"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "18078",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -5014,7 +5140,7 @@
    "factor_frescura": 0.55,
    "huella": "658c6da49d91a3a9a4d4",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17446-17",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18078&prmBOLETIN=17446-17",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17446",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
    "novedad": "",
@@ -5054,27 +5180,39 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
+    "Ana María Bravo Castro",
     "Astudillo Peiretti, Danisa",
     "Bravo Castro, Ana María",
+    "Daniel Melo Contreras",
+    "Danisa Astudillo Peiretti",
     "De Rementería Venegas, Tomás",
+    "Emilia Nuyado Ancapichun",
     "Ilabaca Cerda, Marcos",
+    "Jaime Naranjo Ortiz",
+    "Juan Santana Castillo",
     "Leiva Carvajal, Raúl",
+    "Marcos Ilabaca Cerda",
     "Melo Contreras, Daniel",
     "Naranjo Ortíz, Jaime",
+    "Nelson Venegas Salazar",
     "Nuyado Ancapichún, Emilia",
+    "Raúl Leiva Carvajal",
     "Santana Castillo, Juan",
+    "Tomás De Rementería Venegas",
     "Venegas Salazar, Nelson"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "18152",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -5117,7 +5255,7 @@
    "factor_frescura": 0.55,
    "huella": "9a80211f35e8fd8d5063",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17515-07",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18152&prmBOLETIN=17515-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17515",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -5173,11 +5311,21 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
+    "Andrés Giordano Salazar",
     "Bello Campos, María Francisca",
+    "Camila Rojas Valderrama",
+    "Carolina Tello Rojas",
     "Celedón Fernández, Roberto",
+    "Clara Sagardía Cabezas",
+    "Diego Ibáñez Cotroneo",
     "Fries Monleón, Lorena",
+    "Gael Yeomans Araya",
     "Giordano Salazar, Andrés",
     "Ibáñez Cotroneo, Diego",
+    "Jaime Sáez Quiroz",
+    "Lorena Fries Monleón",
+    "María Francisca Bello Campos",
+    "Roberto Celedón Fernández",
     "Rojas Valderrama, Camila",
     "Sagardia Cabezas, Clara",
     "Sáez Quiroz, Jaime",
@@ -5188,12 +5336,14 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "18160",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -5239,7 +5389,7 @@
    "factor_frescura": 0.55,
    "huella": "de753848b61d7c962220",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17520-17",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18160&prmBOLETIN=17520-17",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17520",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Oficio N° 20406. Deriva a la Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa; Protección de los Consumidores y Turismo, el proyecto de ley asignado inicialmente a la Comisión de Derechos Humanos.",
    "novedad": "",
@@ -5279,24 +5429,31 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
+    "Andrés Longton Herrera",
     "Araya Guerrero, Pedro",
+    "Arturo Squella Ovalle",
+    "Iván Moreira Barros",
     "Longton Herrera, Andrés",
     "Moreira Barros, Iván",
     "Núñez Urrutia, Paulina",
+    "Paulina Núñez Urrutia",
+    "Pedro Araya Guerrero",
     "Squella Ovalle, Arturo"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "19173",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Persecución penal y patrimonial del crimen organizado",
    "es_semilla": true,
+   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -5343,7 +5500,7 @@
    "factor_frescura": 1.15,
    "huella": "58f4ee0ba31f792de7bf",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18488-07",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19173&prmBOLETIN=18488-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18488",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -5416,23 +5573,30 @@
    "votaciones": [],
    "autores": [
     "Bianchi Retamales, Karim",
+    "Camila Flores Oporto",
     "Flores García, Iván",
     "Flores Oporto, Camila",
+    "Iván Flores García",
+    "Iván Moreira Barros",
+    "Karim Bianchi Retamales",
     "Moreira Barros, Iván",
-    "Núñez Urrutia, Paulina"
+    "Núñez Urrutia, Paulina",
+    "Paulina Núñez Urrutia"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "18879",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Criminalidad organizada y terrorismo",
    "es_semilla": true,
+   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -5479,7 +5643,7 @@
    "factor_frescura": 1.0,
    "huella": "0a65231eab5672f76fc7",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18217-07",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18879&prmBOLETIN=18217-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18217",
    "sintesis": "Primer trámite constitucional (Senado) · El Honorable Senador señor Vial adhiere al proyecto de ley",
    "novedad": "",
@@ -5522,22 +5686,32 @@
     "Barchiesi Chávez, Chiara",
     "Bassaletti Riess, Enrique",
     "Briones Moller, Patricio",
+    "Chiara Barchiesi Chávez",
+    "Enrique Bassaletti Riess",
+    "Gloria Naveillan Arriagada",
     "Karlezi Hazleby, Pier",
     "Kast Sommerhoff, Tomás",
+    "Luis Pardo Sáinz",
+    "Mario Olavarría Rodríguez",
     "Naveillan Arriagada, Gloria",
     "Olavarría Rodríguez, Mario",
-    "Pardo Sáinz, Luis"
+    "Pardo Sáinz, Luis",
+    "Patricio Briones Moller",
+    "Pier Karlezi Hazleby",
+    "Tomás Kast Sommerhoff"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "19030",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -5577,7 +5751,7 @@
    "factor_frescura": 1.0,
    "huella": "7ddd16f1aeaf6c416f06",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18353-07",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19030&prmBOLETIN=18353-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18353",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -5620,6 +5794,11 @@
     "Astudillo Peiretti, Danisa",
     "Becker Alvear, Miguel Ángel",
     "Carter Fernández, Rodolfo",
+    "Cristian Vial Maceratta",
+    "Danisa Astudillo Peiretti",
+    "Gustavo Sanhueza Dueñas",
+    "Miguel Ángel Becker Alvear",
+    "Rodolfo Carter Fernández",
     "Sanhueza Dueñas, Gustavo",
     "Vial Maceratta, Cristian"
    ],
@@ -5627,14 +5806,16 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "19037",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Contrabando de tabaco y sus derivados",
    "es_semilla": true,
+   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -5677,7 +5858,7 @@
    "factor_frescura": 1.0,
    "huella": "c5e97e04b5e9daf0b8f7",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18369-07",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19037&prmBOLETIN=18369-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18369",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -5717,18 +5898,21 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Campillai Rojas, Fabiola"
+    "Campillai Rojas, Fabiola",
+    "Fabiola Campillai Rojas"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "17676",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -5768,7 +5952,7 @@
    "factor_frescura": 0.55,
    "huella": "8f2ec22c9ab64a4c45e8",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17060-07",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17676&prmBOLETIN=17060-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17060",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -6466,13 +6650,17 @@
      "link": ""
     }
    ],
-   "ministerios": [],
-   "camara_id": "",
+   "ministerios": [
+    "Ministerio de Hacienda"
+   ],
+   "camara_id": "17191",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -6527,7 +6715,7 @@
    "factor_frescura": 0.55,
    "huella": "9b2938a917726916d877",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16621-05",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17191&prmBOLETIN=16621-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16621",
    "sintesis": "Tramitación terminada · Cuenta fallo del Tribunal Constitucional .",
    "novedad": "",
@@ -8566,15 +8754,21 @@
      "link": ""
     }
    ],
-   "ministerios": [],
-   "camara_id": "",
+   "ministerios": [
+    "Ministerio de Defensa Nacional",
+    "Ministerio de Hacienda",
+    "Ministerio de Justicia y de Derechos Humanos"
+   ],
+   "camara_id": "12757",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Sistema de inteligencia del Estado · Ley N° 21.821",
    "es_semilla": true,
+   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -8615,10 +8809,10 @@
    "factor_frescura": 1.0,
    "huella": "1420ad76e82d0fe00363",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=12234-02",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=12757&prmBOLETIN=12234-02",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=12234",
    "sintesis": "Tramitación terminada · Oficio de ley al Ejecutivo .",
-   "novedad": "urgencia",
+   "novedad": "",
    "novedad_detectada": "2026-08-11T09:17:42.380849-04:00"
   },
   {
@@ -8672,25 +8866,36 @@
    "votaciones": [],
    "autores": [
     "Acevedo Sáez, María Candelaria",
+    "Carmen Hertz Cádiz",
     "Castillo Rojas, Nathalie",
+    "Hernán Palma Pérez",
     "Hertz Cádiz, Carmen",
     "Hirsch Goldschmidt, Tomás",
+    "Jaime Naranjo Ortiz",
+    "Lorena Pizarro Sierra",
+    "Marcela Riquelme Aliaga",
+    "María Candelaria Acevedo Sáez",
+    "Matías Ramírez Pascal",
     "Naranjo Ortíz, Jaime",
+    "Nathalie Castillo Rojas",
     "Palma Pérez, Hernán",
     "Pizarro Sierra, Lorena",
     "Ramírez Pascal, Matías",
-    "Riquelme Aliaga, Marcela"
+    "Riquelme Aliaga, Marcela",
+    "Tomás Hirsch Goldschmidt"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "17573",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -8733,7 +8938,7 @@
    "factor_frescura": 0.8,
    "huella": "340f3c257189ba3b6600",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16960-02",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17573&prmBOLETIN=16960-02",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16960",
    "sintesis": "Archivado · Archivado",
    "novedad": "",
@@ -8746,24 +8951,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-11T09:17:42.380849-04:00"
+   "revisado": "2026-08-11T11:03:38.939733-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-11T09:17:42.380849-04:00"
+   "revisado": "2026-08-11T11:03:38.939733-04:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-11T09:17:42.380849-04:00"
+   "revisado": "2026-08-11T11:03:38.939733-04:00"
   }
  ],
- "novedades": 1,
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -8813,7 +9018,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 165,
+  "candidatos_descubiertos": 166,
   "boletines_consultados": 33,
   "fichas_obtenidas": 33,
   "consultas_fallidas": 0,
@@ -8821,21 +9026,21 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 1,
+  "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
   "con_movimiento": 0,
-  "cambios_urgencia": 1,
+  "cambios_urgencia": 0,
   "canales": {
    "semillas": 12,
    "cartera": 31,
-   "senado_movimiento": 137,
+   "senado_movimiento": 138,
    "camara_anno": 0
   },
   "cobertura_canales": [
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 137,
+    "resultados": 138,
     "errores": [],
     "consultado": true
    },
@@ -8849,15 +9054,8 @@
    {
     "canal": "camara_boletin",
     "llamadas": 33,
-    "resultados": 0,
-    "errores": [
-     "15975-25: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
-     "18407-25: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
-     "16808-25: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
-     "18373-07: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
-     "16764-03: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
-     "18080-03: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
-    ],
+    "resultados": 33,
+    "errores": [],
     "consultado": true
    },
    {
@@ -8878,6 +9076,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 12,
   "boletines_excluidos": 0,
-  "segundos_corrida": 273.9
+  "segundos_corrida": 58.7
  }
 }
