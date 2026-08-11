@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-11T13:02:01.272960-04:00",
-  "generado_legible": "11/08/2026 13:02",
+  "generado": "2026-08-11T15:09:02.902375-04:00",
+  "generado_legible": "11/08/2026 15:09",
   "proyectos_total": 31,
   "vigentes": 28,
   "movimientos_recientes": 3,
   "movimientos_30d": 7,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 9,
   "con_urgencia": 5,
   "prioridad_alta": 4,
   "estancados_180d": 15,
   "ultimo": {
     "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-    "detalle": "Boletín 18216-05 · 10/08/2026 · Discusión veto en Cámara de Origen (C.Diputados)",
+    "detalle": "Boletín 18216-05 · 11/08/2026 · Discusión veto en Cámara de Origen (C.Diputados)",
     "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
-    "fecha": "2026-08-10T00:00:00-04:00"
+    "fecha": "2026-08-11T00:00:00-04:00"
   },
   "serie_7d": [
     {
@@ -42,11 +42,11 @@
     },
     {
       "fecha": "2026-08-10",
-      "n": 1
+      "n": 0
     },
     {
       "fecha": "2026-08-11",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
@@ -54,7 +54,7 @@
       "severidad": "media",
       "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
       "detalle": "Boletín 18216-05 · Nivel 3 · Seguimiento · Discusión inmediata",
-      "fecha": "2026-08-10T00:00:00-04:00",
+      "fecha": "2026-08-11T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
       "fuente": "LEGISLATIVO"
     },
@@ -85,8 +85,8 @@
   ],
   "actividad": [
     {
-      "fecha": "2026-08-10T00:00:00-04:00",
-      "texto": "Boletín 18216-05: Oficio aprobación veto a Cámara Revisora ."
+      "fecha": "2026-08-11T00:00:00-04:00",
+      "texto": "Boletín 18216-05: Cuenta, Copia autorizada de una resolución del Tribunal Constitucional recaída en requerimientos de inconstitucionalidad presentados por un grupo de senadoras y senadores, y por un grupo de diputadas y diputados, respecto de ciertas normas del proyecto. Roles acumulados N°s 17828-26-CPT, 17829-26-CPT y N° 17832-26-CPT. CITA A AUDIENCIA PÚBLICA."
     },
     {
       "fecha": "2026-08-06T00:00:00-04:00",
