@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-11T06:54:36.906805-04:00",
- "generado_legible": "11/08/2026 06:54",
+ "generado": "2026-08-11T09:17:42.380849-04:00",
+ "generado_legible": "11/08/2026 09:17",
  "version_motor": "1.0.0-tramitacion-legislativa",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -147,7 +147,7 @@
     "total": 5
    }
   ],
-  "generado": "2026-08-11T06:54:36.906805-04:00"
+  "generado": "2026-08-11T09:17:42.380849-04:00"
  },
  "proyectos": [
   {
@@ -445,24 +445,14 @@
    ],
    "votaciones": [],
    "autores": [
-    "Agustín Romero Leiva",
     "Araya Lerdo de Tejada, Cristián",
     "Barchiesi Chávez, Chiara",
-    "Benjamín Moreno Bascur",
-    "Catalina Del Real Mihovilovic",
-    "Chiara Barchiesi Chávez",
-    "Cristián Araya Lerdo de Tejada",
     "Del Real Mihovilovic, Catalina",
     "Irarrázaval Rossel, Juan",
-    "José Carlos Meza Pereira",
-    "Juan Irarrázaval Rossel",
-    "Luis Sánchez Ossa",
     "Meza Pereira, José Carlos",
     "Moreno Bascur, Benjamín",
-    "Renzo Trisotti Martínez",
     "Romero Leiva, Agustín",
     "Schubert Rubio, Stephan",
-    "Stephan Schubert Rubio",
     "Sánchez Ossa, Luis",
     "Trisotti Martínez, Renzo"
    ],
@@ -477,16 +467,14 @@
     }
    ],
    "ministerios": [],
-   "camara_id": "17412",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
    "nota_semilla": "Lavado de activos asociado al comercio ilegal",
    "es_semilla": true,
-   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -539,7 +527,7 @@
    "factor_frescura": 1.15,
    "huella": "3a0eab11ec41e6a6b92b",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16808-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17412&prmBOLETIN=16808-25",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16808",
    "sintesis": "Simple urgencia · Segundo trámite constitucional (Senado) · Cuenta del Mensaje 215-374 que retira y hace presente la urgencia Simple",
    "novedad": "",
@@ -636,23 +624,13 @@
    "votaciones": [],
    "autores": [
     "Alessandri Vergara, Jorge",
-    "Andrés Jouannet Valderrama",
-    "Andrés Longton Herrera",
     "Araya Guerrero, Jaime",
     "Araya Lerdo de Tejada, Cristián",
     "Castro Bascuñán, José Miguel",
-    "Cristián Araya Lerdo de Tejada",
-    "Diego Schalper Sepúlveda",
-    "Gloria Naveillan Arriagada",
-    "Hugo Rey Martínez",
-    "Jaime Araya Guerrero",
-    "Jorge Alessandri Vergara",
-    "José Miguel Castro Bascuñán",
     "Jouannet Valderrama, Andrés",
     "Leiva Carvajal, Raúl",
     "Longton Herrera, Andrés",
     "Naveillan Arriagada, Gloria",
-    "Raúl Leiva Carvajal",
     "Rey Martínez, Hugo",
     "Schalper Sepúlveda, Diego"
    ],
@@ -667,14 +645,12 @@
     }
    ],
    "ministerios": [],
-   "camara_id": "18569",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -726,7 +702,7 @@
    "factor_frescura": 1.15,
    "huella": "5ce99795d60dcd45139a",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18569&prmBOLETIN=17912-25",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17912",
    "sintesis": "Simple urgencia · Primer trámite constitucional (C.Diputados) · Cuenta de primer informe de comisión .",
    "novedad": "",
@@ -2267,20 +2243,15 @@
      "link": ""
     }
    ],
-   "ministerios": [
-    "Ministerio de Hacienda",
-    "Ministerio de Justicia y de Derechos Humanos"
-   ],
-   "camara_id": "16514",
+   "ministerios": [],
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
    "nota_semilla": "Crea el Subsistema de Inteligencia Económica contra el crimen organizado",
    "es_semilla": true,
-   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera",
@@ -2333,7 +2304,7 @@
    "factor_frescura": 1.3,
    "huella": "7cce8d5ce2ace14882f1",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=16514&prmBOLETIN=15975-25",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15975",
    "sintesis": "Comisión Mixta por rechazo de modificaciones (Senado) · Cuenta oficio integrantes de Comisión Mixta .",
    "novedad": "",
@@ -2374,34 +2345,25 @@
    "votaciones": [],
    "autores": [
     "Beltrán Silva, Juan Carlos",
-    "Claudia Mora Vega",
-    "Diego Schalper Sepúlveda",
     "Durán Salinas, Eduardo",
-    "Eduardo Durán Salinas",
     "García García, René Manuel",
-    "Juan Carlos Beltrán Silva",
     "Mora Vega, Claudia",
     "Ossandón Irarrázabal, Ximena",
     "Ramírez Parra, Rodrigo",
-    "René Manuel García García",
-    "Rodrigo Ramírez Parra",
-    "Schalper Sepúlveda, Diego",
-    "Ximena Ossandón Irarrázabal"
+    "Schalper Sepúlveda, Diego"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "19055",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
    "nota_semilla": "Levantamiento del secreto bancario con control judicial previo",
    "es_semilla": true,
-   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -2459,7 +2421,7 @@
    "factor_frescura": 1.0,
    "huella": "b32de72acffa66d8aff3",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18373-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19055&prmBOLETIN=18373-07",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18373",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -3308,19 +3270,15 @@
      "link": ""
     }
    ],
-   "ministerios": [
-    "Ministerio de Hacienda"
-   ],
-   "camara_id": "18872",
+   "ministerios": [],
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
    "nota_semilla": "Reconstrucción nacional y desarrollo económico y social · ómnibus de Hacienda, 38 artículos permanentes. Contenido relevante detectado por analista, no por el motor.",
    "es_semilla": true,
-   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera",
@@ -3362,7 +3320,7 @@
    "factor_frescura": 1.3,
    "huella": "0331a14be5db452057cd",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
    "sintesis": "Discusión inmediata · Discusión veto en Cámara de Origen (C.Diputados) · Oficio aprobación veto a Cámara Revisora .",
    "novedad": "",
@@ -3426,22 +3384,13 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Arturo Barrios Oteíza",
     "Astudillo Peiretti, Danisa",
     "Barrios Oteíza, Arturo",
     "Cicardini Milla, Daniella",
-    "Daniel Manouchehri Lobos",
-    "Daniel Melo Contreras",
-    "Daniella Cicardini Milla",
-    "Danisa Astudillo Peiretti",
     "Ilabaca Cerda, Marcos",
-    "Juan Santana Castillo",
     "Leiva Carvajal, Raúl",
     "Manouchehri Lobos, Daniel",
-    "Marcos Ilabaca Cerda",
     "Melo Contreras, Daniel",
-    "Nelson Venegas Salazar",
-    "Raúl Leiva Carvajal",
     "Santana Castillo, Juan",
     "Venegas Salazar, Nelson"
    ],
@@ -3449,14 +3398,12 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "18599",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -3508,7 +3455,7 @@
    "factor_frescura": 0.8,
    "huella": "454d1757c449fc98d7bd",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17943-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18599&prmBOLETIN=17943-25",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17943",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Oficio N° 20884. Comunica a la Comisión de Constitución, Legislación, Justicia y Reglamento el acuerdo de la Sala, en orden a remitirle el proyecto de ley, asignado originalmente a la Comisión de Seguridad Ciudadana.",
    "novedad": "",
@@ -3617,21 +3564,18 @@
    ],
    "votaciones": [],
    "autores": [
-    "Francisco Huenchumilla Jaramillo",
     "Huenchumilla Jaramillo, Francisco"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "17652",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -3683,7 +3627,7 @@
    "factor_frescura": 0.8,
    "huella": "0eefea6168fe1deca6ab",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17038-03",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17652&prmBOLETIN=17038-03",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17038",
    "sintesis": "Suma urgencia · Primer trámite constitucional (Senado) · Cuenta del Mensaje 1605-373 que hace presente la urgencia Suma",
    "novedad": "",
@@ -3731,11 +3675,7 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Gastón Saavedra Chandía",
     "Gatica Bertin, María José",
-    "Gustavo Sanhueza Dueñas",
-    "Kenneth Pugh Olavarría",
-    "María José Gatica Bertin",
     "Pugh Olavarría, Kenneth",
     "Saavedra Chandía, Gastón",
     "Sanhueza Dueñas, Gustavo"
@@ -3744,16 +3684,14 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "17365",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
    "nota_semilla": "Límites a las transacciones en dinero efectivo",
    "es_semilla": true,
-   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -3801,7 +3739,7 @@
    "factor_frescura": 0.55,
    "huella": "3846c084b6cd7f74c882",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16764-03",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17365&prmBOLETIN=16764-03",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16764",
    "sintesis": "Primer trámite constitucional (Senado) · La Sala acuerda refundir los proyectos de ley correspondientes a los boletines números 15.462-03, 16.764-03 y 16.783-03.",
    "novedad": "",
@@ -3843,35 +3781,24 @@
    "autores": [
     "Ahumada Palma, Yovana",
     "Calisto Águila, Miguel Ángel",
-    "Carla Morales Maldonado",
-    "Carolina Marzán Pinto",
     "Jiles Moreno, Pamela",
-    "Jorge Saffirio Espinoza",
-    "Luis Malla Valenzuela",
     "Malla Valenzuela, Luis",
     "Marzán Pinto, Carolina",
-    "Miguel Ángel Calisto Águila",
     "Morales Maldonado, Carla",
-    "Pamela Jiles Moreno",
     "Pino Fuentes, Víctor Alejandro",
-    "Raúl Soto Mardones",
     "Saffirio Espinoza, Jorge",
-    "Soto Mardones, Raúl",
-    "Víctor Alejandro Pino Fuentes",
-    "Yovana Ahumada Palma"
+    "Soto Mardones, Raúl"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "17540",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -3926,7 +3853,7 @@
    "factor_frescura": 0.55,
    "huella": "a17372f81a8b11165fd6",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16928-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17540&prmBOLETIN=16928-07",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16928",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento.",
    "novedad": "",
@@ -3966,14 +3893,9 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Alfonso De Urresti Longton",
     "Chahuán Chahuán, Francisco",
     "De Urresti Longton, Alfonso",
     "Ebensperger Orrego, Luz Eliana",
-    "Esteban Velásquez Núñez",
-    "Francisco Chahuán Chahuán",
-    "Luz Eliana Ebensperger Orrego",
-    "Paulina Vodanovic Rojas",
     "Velásquez Núñez, Esteban",
     "Vodanovic Rojas, Paulina"
    ],
@@ -3981,14 +3903,12 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "17553",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -4034,7 +3954,7 @@
    "factor_frescura": 0.55,
    "huella": "d36ce1a87c6575a3642d",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16939-06",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17553&prmBOLETIN=16939-06",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16939",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Gobierno, Descentralización y Regionalización",
    "novedad": "",
@@ -4074,21 +3994,18 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Gaspar Rivas Sánchez",
     "Rivas Sánchez, Gaspar"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "17784",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -4134,7 +4051,7 @@
    "factor_frescura": 0.55,
    "huella": "9f7827714a824e7a2b12",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17161-06",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17784&prmBOLETIN=17161-06",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17161",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
    "novedad": "",
@@ -4179,26 +4096,18 @@
     "Arce Castro, Mónica",
     "Arroyo Muñoz, Roberto",
     "Barría Angulo, Héctor",
-    "Héctor Barría Angulo",
-    "Jaime Araya Guerrero",
-    "Jiles Moreno, Pamela",
-    "Mónica Arce Castro",
-    "Pamela Jiles Moreno",
-    "René Alinco Bustos",
-    "Roberto Arroyo Muñoz"
+    "Jiles Moreno, Pamela"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "17266",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -4251,7 +4160,7 @@
    "factor_frescura": 0.55,
    "huella": "1b1523812d836d08fe4f",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16696-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17266&prmBOLETIN=16696-07",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16696",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -4291,8 +4200,6 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Alejandra Sepúlveda Orbenes",
-    "Esteban Velásquez Núñez",
     "Sepúlveda Orbenes, Alejandra",
     "Velásquez Núñez, Esteban"
    ],
@@ -4300,16 +4207,14 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "19090",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
    "nota_semilla": "Agrava las sanciones aplicables en materia de lavado de activos",
    "es_semilla": true,
-   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -4356,7 +4261,7 @@
    "factor_frescura": 1.0,
    "huella": "4c3496185ed2c186f40c",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18407-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19090&prmBOLETIN=18407-25",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18407",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
    "novedad": "",
@@ -4420,8 +4325,6 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Alejandra Sepúlveda Orbenes",
-    "Esteban Velásquez Núñez",
     "Sepúlveda Orbenes, Alejandra",
     "Velásquez Núñez, Esteban"
    ],
@@ -4429,14 +4332,12 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "18489",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -4482,7 +4383,7 @@
    "factor_frescura": 0.8,
    "huella": "ff331aa92e7ea684cbf4",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17835-06",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18489&prmBOLETIN=17835-06",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17835",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta oficio N° 264-2025 de la Corte Suprema",
    "novedad": "",
@@ -4523,22 +4424,18 @@
    "votaciones": [],
    "autores": [
     "Castro Bascuñán, José Miguel",
-    "José Miguel Castro Bascuñán",
-    "Ossandón Irarrázabal, Ximena",
-    "Ximena Ossandón Irarrázabal"
+    "Ossandón Irarrázabal, Ximena"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "18535",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -4590,7 +4487,7 @@
    "factor_frescura": 0.8,
    "huella": "0c57f6bf5d6abbd02218",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17881-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18535&prmBOLETIN=17881-25",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17881",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
    "novedad": "",
@@ -4630,21 +4527,18 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Gloria Naveillan Arriagada",
     "Naveillan Arriagada, Gloria"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "18715",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -4690,7 +4584,7 @@
    "factor_frescura": 0.8,
    "huella": "ffbff79b09ad073633e0",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18053-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18715&prmBOLETIN=18053-07",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18053",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -4730,23 +4624,20 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Bianchi Retamales, Karim",
-    "Karim Bianchi Retamales"
+    "Bianchi Retamales, Karim"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "18742",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
    "nota_semilla": "Transparencia y trazabilidad financiera en operaciones prendarias",
    "es_semilla": true,
-   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -4796,7 +4687,7 @@
    "factor_frescura": 0.8,
    "huella": "a547283cb8111fe3775b",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18080-03",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18742&prmBOLETIN=18080-03",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18080",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Economía",
    "novedad": "",
@@ -4860,31 +4751,24 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Carlos Ignacio Kuschel Silva",
-    "Cristian Vial Maceratta",
     "Flores García, Iván",
-    "Iván Flores García",
-    "Iván Moreira Barros",
     "Kuschel Silva, Carlos Ignacio",
     "Moreira Barros, Iván",
     "Núñez Urrutia, Paulina",
-    "Paulina Núñez Urrutia",
     "Vial Maceratta, Cristian"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "19092",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
    "nota_semilla": "Seguridad portuaria frente al crimen organizado",
    "es_semilla": true,
-   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera",
@@ -4932,7 +4816,7 @@
    "factor_frescura": 1.3,
    "huella": "649a38adec7cd6898de9",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19092&prmBOLETIN=18420-25",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18420",
    "sintesis": "Primer trámite constitucional (Senado) · Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura.",
    "novedad": "",
@@ -4972,29 +4856,22 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Andrés Jouannet Valderrama",
     "Cariola Oliva, Karol",
     "Ilabaca Cerda, Marcos",
-    "Jaime Mulet Martínez",
     "Jouannet Valderrama, Andrés",
-    "Karol Cariola Oliva",
-    "Marcos Ilabaca Cerda",
     "Mulet Martínez, Jaime",
-    "Oyarzo Figueroa, Rubén Dario",
-    "Rubén Darío Oyarzo Figueroa"
+    "Oyarzo Figueroa, Rubén Dario"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "18068",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -5040,7 +4917,7 @@
    "factor_frescura": 0.55,
    "huella": "1e32fe20a127d52b5b14",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17432-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18068&prmBOLETIN=17432-07",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17432",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -5080,21 +4957,18 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Allende Bussi, Isabel",
-    "Isabel Allende Bussi"
+    "Allende Bussi, Isabel"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "18078",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -5140,7 +5014,7 @@
    "factor_frescura": 0.55,
    "huella": "658c6da49d91a3a9a4d4",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17446-17",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18078&prmBOLETIN=17446-17",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17446",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
    "novedad": "",
@@ -5299,21 +5173,11 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Andrés Giordano Salazar",
     "Bello Campos, María Francisca",
-    "Camila Rojas Valderrama",
-    "Carolina Tello Rojas",
     "Celedón Fernández, Roberto",
-    "Clara Sagardía Cabezas",
-    "Diego Ibáñez Cotroneo",
     "Fries Monleón, Lorena",
-    "Gael Yeomans Araya",
     "Giordano Salazar, Andrés",
     "Ibáñez Cotroneo, Diego",
-    "Jaime Sáez Quiroz",
-    "Lorena Fries Monleón",
-    "María Francisca Bello Campos",
-    "Roberto Celedón Fernández",
     "Rojas Valderrama, Camila",
     "Sagardia Cabezas, Clara",
     "Sáez Quiroz, Jaime",
@@ -5324,14 +5188,12 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "18160",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -5377,7 +5239,7 @@
    "factor_frescura": 0.55,
    "huella": "de753848b61d7c962220",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17520-17",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18160&prmBOLETIN=17520-17",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17520",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Oficio N° 20406. Deriva a la Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa; Protección de los Consumidores y Turismo, el proyecto de ley asignado inicialmente a la Comisión de Derechos Humanos.",
    "novedad": "",
@@ -5417,31 +5279,24 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
-    "Andrés Longton Herrera",
     "Araya Guerrero, Pedro",
-    "Arturo Squella Ovalle",
-    "Iván Moreira Barros",
     "Longton Herrera, Andrés",
     "Moreira Barros, Iván",
     "Núñez Urrutia, Paulina",
-    "Paulina Núñez Urrutia",
-    "Pedro Araya Guerrero",
     "Squella Ovalle, Arturo"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "19173",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
    "nota_semilla": "Persecución penal y patrimonial del crimen organizado",
    "es_semilla": true,
-   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -5488,7 +5343,7 @@
    "factor_frescura": 1.15,
    "huella": "58f4ee0ba31f792de7bf",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18488-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19173&prmBOLETIN=18488-07",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18488",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -5561,30 +5416,23 @@
    "votaciones": [],
    "autores": [
     "Bianchi Retamales, Karim",
-    "Camila Flores Oporto",
     "Flores García, Iván",
     "Flores Oporto, Camila",
-    "Iván Flores García",
-    "Iván Moreira Barros",
-    "Karim Bianchi Retamales",
     "Moreira Barros, Iván",
-    "Núñez Urrutia, Paulina",
-    "Paulina Núñez Urrutia"
+    "Núñez Urrutia, Paulina"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "18879",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
    "nota_semilla": "Criminalidad organizada y terrorismo",
    "es_semilla": true,
-   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -5631,7 +5479,7 @@
    "factor_frescura": 1.0,
    "huella": "0a65231eab5672f76fc7",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18217-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18879&prmBOLETIN=18217-07",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18217",
    "sintesis": "Primer trámite constitucional (Senado) · El Honorable Senador señor Vial adhiere al proyecto de ley",
    "novedad": "",
@@ -5674,32 +5522,22 @@
     "Barchiesi Chávez, Chiara",
     "Bassaletti Riess, Enrique",
     "Briones Moller, Patricio",
-    "Chiara Barchiesi Chávez",
-    "Enrique Bassaletti Riess",
-    "Gloria Naveillan Arriagada",
     "Karlezi Hazleby, Pier",
     "Kast Sommerhoff, Tomás",
-    "Luis Pardo Sáinz",
-    "Mario Olavarría Rodríguez",
     "Naveillan Arriagada, Gloria",
     "Olavarría Rodríguez, Mario",
-    "Pardo Sáinz, Luis",
-    "Patricio Briones Moller",
-    "Pier Karlezi Hazleby",
-    "Tomás Kast Sommerhoff"
+    "Pardo Sáinz, Luis"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "19030",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -5739,7 +5577,7 @@
    "factor_frescura": 1.0,
    "huella": "7ddd16f1aeaf6c416f06",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18353-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19030&prmBOLETIN=18353-07",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18353",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -5782,11 +5620,6 @@
     "Astudillo Peiretti, Danisa",
     "Becker Alvear, Miguel Ángel",
     "Carter Fernández, Rodolfo",
-    "Cristian Vial Maceratta",
-    "Danisa Astudillo Peiretti",
-    "Gustavo Sanhueza Dueñas",
-    "Miguel Ángel Becker Alvear",
-    "Rodolfo Carter Fernández",
     "Sanhueza Dueñas, Gustavo",
     "Vial Maceratta, Cristian"
    ],
@@ -5794,16 +5627,14 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "19037",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
    "nota_semilla": "Contrabando de tabaco y sus derivados",
    "es_semilla": true,
-   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -5846,9 +5677,859 @@
    "factor_frescura": 1.0,
    "huella": "c5e97e04b5e9daf0b8f7",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18369-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19037&prmBOLETIN=18369-07",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18369",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+   "novedad": "",
+   "novedad_detectada": ""
+  },
+  {
+   "boletin": "17060-07",
+   "titulo": "Regula el ejercicio del derecho a reunión",
+   "fecha_ingreso": "2024-08-16T00:00:00-04:00",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia": "Sin urgencia",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "En tramitación",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17676&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2024-08-16T00:00:00-04:00",
+     "fecha_legible": "16/08/2024",
+     "sesion": "/",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-27T00:00:00-04:00",
+     "fecha_legible": "27/08/2024",
+     "sesion": "47/372",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [
+    "Campillai Rojas, Fabiola"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [],
+   "ministerios": [],
+   "camara_id": "",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "senado"
+   ],
+   "canales_descubrimiento": [
+    "cartera"
+   ],
+   "id": "7e24cf4e15a6e48a",
+   "puntaje_pertinencia": 0.0,
+   "nivel_impacto": "seguimiento",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [],
+    "estructurales": [],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [],
+   "ejes_legibles": [],
+   "impacto_legible": "Seguimiento preventivo",
+   "requiere_revision_manual": true,
+   "nivel_cartera": 3,
+   "nivel_legible": "Nivel 3 · Seguimiento",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2024-08-27T00:00:00-04:00",
+   "ultimo_movimiento_legible": "27/08/2024",
+   "dias_sin_movimiento": 714,
+   "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+   "camara_actual": "Senado",
+   "total_tramites": 2,
+   "fecha_ingreso_legible": "16/08/2024",
+   "antiguedad_dias": 725,
+   "prioridad": 8.8,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 0.55,
+   "huella": "8f2ec22c9ab64a4c45e8",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17060-07",
+   "link_camara": "",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17060",
+   "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+   "novedad": "",
+   "novedad_detectada": ""
+  },
+  {
+   "boletin": "16621-05",
+   "titulo": "Dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal",
+   "fecha_ingreso": "2024-01-29T00:00:00-03:00",
+   "etapa": "Tramitación terminada",
+   "subetapa": "/",
+   "iniciativa": "Mensaje",
+   "camara_origen": "C.Diputados",
+   "urgencia": "Sin urgencia",
+   "ley_numero": "Ley N° 21.713",
+   "refundidos": "",
+   "estado": "Publicado",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17191&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2024-01-29T00:00:00-03:00",
+     "fecha_legible": "29/01/2024",
+     "sesion": "/",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-01-29T00:00:00-03:00",
+     "fecha_legible": "29/01/2024",
+     "sesion": "/",
+     "descripcion": "Informe financiero N° 43/29.01.2024, acompañado al mensaje 326-371.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-01-29T00:00:00-03:00",
+     "fecha_legible": "29/01/2024",
+     "sesion": "138/371",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-03-04T00:00:00-03:00",
+     "fecha_legible": "04/03/2024",
+     "sesion": "140/371",
+     "descripcion": "Cuenta del Mensaje 1988-371 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-03-11T00:00:00-03:00",
+     "fecha_legible": "11/03/2024",
+     "sesion": "1/372",
+     "descripcion": "Cuenta del Mensaje 38-372 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-03-20T00:00:00-03:00",
+     "fecha_legible": "20/03/2024",
+     "sesion": "8/372",
+     "descripcion": "Cuenta del Mensaje 132-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-04-01T00:00:00-03:00",
+     "fecha_legible": "01/04/2024",
+     "sesion": "/",
+     "descripcion": "Oficio N° 23-372. Oficio del Presidente de la Republica (N°23-372), por el cual formula indicaciones al proyecto. Se acompaña informe financiero complementario N°74/01.04.2024.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-04-01T00:00:00-03:00",
+     "fecha_legible": "01/04/2024",
+     "sesion": "10/372",
+     "descripcion": "Cuenta del Mensaje 170-372 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-04-08T00:00:00-04:00",
+     "fecha_legible": "08/04/2024",
+     "sesion": "/",
+     "descripcion": "Oficio del Presidente de la República (N°36-372), por el cual formula indicaciones al proyecto. Se adjunta informe financiero complementario N°86/08.04.2024.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-04-08T00:00:00-04:00",
+     "fecha_legible": "08/04/2024",
+     "sesion": "14/372",
+     "descripcion": "Cuenta del Mensaje 228-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-04-10T00:00:00-04:00",
+     "fecha_legible": "10/04/2024",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Hacienda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-04-10T00:00:00-04:00",
+     "fecha_legible": "10/04/2024",
+     "sesion": "17/372",
+     "descripcion": "Cuenta de primer informe de comisión . Queda para tabla.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-04-10T00:00:00-04:00",
+     "fecha_legible": "10/04/2024",
+     "sesion": "17/372",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-04-10T00:00:00-04:00",
+     "fecha_legible": "10/04/2024",
+     "sesion": "/",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-04-16T00:00:00-04:00",
+     "fecha_legible": "16/04/2024",
+     "sesion": "9/372",
+     "descripcion": "Cuenta del Mensaje 294-372 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-04-16T00:00:00-04:00",
+     "fecha_legible": "16/04/2024",
+     "sesion": "9/372",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-04-24T00:00:00-04:00",
+     "fecha_legible": "24/04/2024",
+     "sesion": "15/372",
+     "descripcion": "Cuenta del Mensaje 400-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-05-03T00:00:00-04:00",
+     "fecha_legible": "03/05/2024",
+     "sesion": "24/372",
+     "descripcion": "Cuenta de oficio N° 98-2024, de la Corte Suprema, por el cual remite opinión respecto del proyecto (informe N° 18-2024).",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-05-08T00:00:00-04:00",
+     "fecha_legible": "08/05/2024",
+     "sesion": "18/372",
+     "descripcion": "Cuenta del Mensaje 488-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-05-15T00:00:00-04:00",
+     "fecha_legible": "15/05/2024",
+     "sesion": "22/372",
+     "descripcion": "Cuenta del Mensaje 565-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-05-30T00:00:00-04:00",
+     "fecha_legible": "30/05/2024",
+     "sesion": "23/372",
+     "descripcion": "Cuenta del Mensaje 637-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-06-12T00:00:00-04:00",
+     "fecha_legible": "12/06/2024",
+     "sesion": "28/372",
+     "descripcion": "Cuenta del Mensaje 765-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-06-19T00:00:00-04:00",
+     "fecha_legible": "19/06/2024",
+     "sesion": "30/372",
+     "descripcion": "Cuenta del Mensaje 835-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-07-03T00:00:00-04:00",
+     "fecha_legible": "03/07/2024",
+     "sesion": "32/372",
+     "descripcion": "Cuenta del Mensaje 933-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-07-10T00:00:00-04:00",
+     "fecha_legible": "10/07/2024",
+     "sesion": "35/372",
+     "descripcion": "Cuenta del Mensaje 1016-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-07-24T00:00:00-04:00",
+     "fecha_legible": "24/07/2024",
+     "sesion": "38/372",
+     "descripcion": "Cuenta del Mensaje 1089-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-07-26T00:00:00-04:00",
+     "fecha_legible": "26/07/2024",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Hacienda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-07-30T00:00:00-04:00",
+     "fecha_legible": "30/07/2024",
+     "sesion": "39/372",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-07-30T00:00:00-04:00",
+     "fecha_legible": "30/07/2024",
+     "sesion": "39/372",
+     "descripcion": "Discusión general . Aprobado en general",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-07-31T00:00:00-04:00",
+     "fecha_legible": "31/07/2024",
+     "sesion": "40/372",
+     "descripcion": "Se fija plazo para presentar indicaciones hasta el 12/08/2024 a las 12:00 en Secretaría.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-07T00:00:00-04:00",
+     "fecha_legible": "07/08/2024",
+     "sesion": "44/372",
+     "descripcion": "Cuenta del Mensaje 1221-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-12T00:00:00-04:00",
+     "fecha_legible": "12/08/2024",
+     "sesion": "/",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-12T00:00:00-04:00",
+     "fecha_legible": "12/08/2024",
+     "sesion": "/",
+     "descripcion": "Oficio N°I.F.. I.F. N° 217 de 12 de agosto de 2024",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-14T00:00:00-04:00",
+     "fecha_legible": "14/08/2024",
+     "sesion": "46/372",
+     "descripcion": "Cuenta del Mensaje 1300-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-27T00:00:00-04:00",
+     "fecha_legible": "27/08/2024",
+     "sesion": "47/372",
+     "descripcion": "La Sala acuerda fijar un nuevo plazo para presentar indicaciones a este proyecto de ley, hasta las 17:30 horas del día de hoy, en la Secretaría de la Comisión de Hacienda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-27T00:00:00-04:00",
+     "fecha_legible": "27/08/2024",
+     "sesion": "/",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-28T00:00:00-04:00",
+     "fecha_legible": "28/08/2024",
+     "sesion": "48/372",
+     "descripcion": "Cuenta del Mensaje 1397-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-28T00:00:00-04:00",
+     "fecha_legible": "28/08/2024",
+     "sesion": "/",
+     "descripcion": "Oficio N° H-6 (2024). A la Señora Presidenta del Banco Central de Chile.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-28T00:00:00-04:00",
+     "fecha_legible": "28/08/2024",
+     "sesion": "/",
+     "descripcion": "Oficio N° H-7 (2024). Al Señor Presidente de la Confederación Nacional de la Micro, Pequeña y Mediana Empresa (CONAPYME)",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-29T00:00:00-04:00",
+     "fecha_legible": "29/08/2024",
+     "sesion": "/",
+     "descripcion": "Oficio N° Carta. Carta. Respuesta al Oficio H-7 (2024)",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-29T00:00:00-04:00",
+     "fecha_legible": "29/08/2024",
+     "sesion": "/",
+     "descripcion": "Oficio N° H-10(2024). Al Señor Presidente Multigremial Nacional.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-29T00:00:00-04:00",
+     "fecha_legible": "29/08/2024",
+     "sesion": "/",
+     "descripcion": "Oficio N° Carta. Respuesta al Oficio H-10 (2024)",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-02T00:00:00-04:00",
+     "fecha_legible": "02/09/2024",
+     "sesion": "/",
+     "descripcion": "Oficio N° H-11 a la Corte Suprema",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-03T00:00:00-04:00",
+     "fecha_legible": "03/09/2024",
+     "sesion": "/",
+     "descripcion": "Oficio N° 221. Respuesta al Oficio H-6 (2024)",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-11T00:00:00-03:00",
+     "fecha_legible": "11/09/2024",
+     "sesion": "/",
+     "descripcion": "Segundo informe de comisión de Hacienda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-11T00:00:00-03:00",
+     "fecha_legible": "11/09/2024",
+     "sesion": "56/372",
+     "descripcion": "Cuenta de segundo informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-11T00:00:00-03:00",
+     "fecha_legible": "11/09/2024",
+     "sesion": "56/372",
+     "descripcion": "La Sala acuerda fijar los siguientes plazos respecto de la tramitación de este proyecto de ley: hasta las 12:00 horas del día 24 de septiembre de 2024, para renovar indicaciones y formular nuevas propuestas de enmienda, de conformidad con lo dispuesto en el Reglamento del Senado, y hasta las 14:00 horas de ese mismo día, para solicitar la votación separada de alguna de sus disposiciones",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-11T00:00:00-03:00",
+     "fecha_legible": "11/09/2024",
+     "sesion": "56/372",
+     "descripcion": "Discusión particular . Queda pendiente",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-17T00:00:00-03:00",
+     "fecha_legible": "17/09/2024",
+     "sesion": "/",
+     "descripcion": "Cuenta oficio N° 327-2024 de la Corte Suprema",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-17T00:00:00-03:00",
+     "fecha_legible": "17/09/2024",
+     "sesion": "/",
+     "descripcion": "Cuenta oficio N° 17DDI de la Corte Suprema",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-17T00:00:00-03:00",
+     "fecha_legible": "17/09/2024",
+     "sesion": "/",
+     "descripcion": "Cuenta oficio N° Anexo de la Corte Suprema",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-24T00:00:00-03:00",
+     "fecha_legible": "24/09/2024",
+     "sesion": "57/372",
+     "descripcion": "Cuenta del Mensaje 1568-372 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-24T00:00:00-03:00",
+     "fecha_legible": "24/09/2024",
+     "sesion": "57/372",
+     "descripcion": "Discusión particular . Aprobado con modificaciones",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-25T00:00:00-03:00",
+     "fecha_legible": "25/09/2024",
+     "sesion": "/",
+     "descripcion": "Oficio modificaciones a Cámara de Origen .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-25T00:00:00-03:00",
+     "fecha_legible": "25/09/2024",
+     "sesion": "79/372",
+     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Pasa a Comisión de Hacienda (art. 120 del Reglamento).",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-09-25T00:00:00-03:00",
+     "fecha_legible": "25/09/2024",
+     "sesion": "79/372",
+     "descripcion": "Cuenta del Mensaje 1656-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-09-25T00:00:00-03:00",
+     "fecha_legible": "25/09/2024",
+     "sesion": "/",
+     "descripcion": "Informe de comisión de Hacienda.",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-09-25T00:00:00-03:00",
+     "fecha_legible": "25/09/2024",
+     "sesion": "79/372",
+     "descripcion": "Cuenta informe de comisión .",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-09-25T00:00:00-03:00",
+     "fecha_legible": "25/09/2024",
+     "sesion": "79/372",
+     "descripcion": "Aprobadas las modificaciones del Senado. Se remite oficio a S.E. el Presidente de la República (art. 73 CPR)",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-09-25T00:00:00-03:00",
+     "fecha_legible": "25/09/2024",
+     "sesion": "/",
+     "descripcion": "Oficio N° 19869. Comunica al Senado que la Cámara aprobó las enmiendas propuestas por ese H. Senado al proyecto de ley.",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-09-26T00:00:00-03:00",
+     "fecha_legible": "26/09/2024",
+     "sesion": "/",
+     "descripcion": "Oficio de ley al Ejecutivo .",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-09-30T00:00:00-03:00",
+     "fecha_legible": "30/09/2024",
+     "sesion": "80/372",
+     "descripcion": "Cuenta de Oficio de S. E. el Presidente de la República (N° 011-372), por el cual comunica que ha resuelto no hacer uso de la facultad de veto, que le confiere el inciso primero del artículo 73 de la Constitución Política de la República, respecto del proyecto.",
+     "etapa": "Trámite de aprobacion presidencial",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-09-30T00:00:00-03:00",
+     "fecha_legible": "30/09/2024",
+     "sesion": "/",
+     "descripcion": "Oficio N° 19871 al Tribunal Constitucional",
+     "etapa": "Trámite en Tribunal Constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-10-01T00:00:00-03:00",
+     "fecha_legible": "01/10/2024",
+     "sesion": "59/372",
+     "descripcion": "Cuenta de Oficio N° 19.869, de la Cámara de Diputados.",
+     "etapa": "Trámite en Tribunal Constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-10-28T00:00:00-03:00",
+     "fecha_legible": "28/10/2024",
+     "sesion": "92/372",
+     "descripcion": "Ingreso fallo del Tribunal Constitucional .",
+     "etapa": "Trámite en Tribunal Constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-10-28T00:00:00-03:00",
+     "fecha_legible": "28/10/2024",
+     "sesion": "92/372",
+     "descripcion": "Cuenta fallo del Tribunal Constitucional .",
+     "etapa": "Trámite en Tribunal Constitucional",
+     "camara": "C.Diputados"
+    }
+   ],
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2024-05-15T00:00:00-04:00",
+     "fecha_retiro": "2024-05-30T00:00:00-04:00"
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2024-05-30T00:00:00-04:00",
+     "fecha_retiro": "2024-06-12T00:00:00-04:00"
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2024-06-12T00:00:00-04:00",
+     "fecha_retiro": "2024-06-19T00:00:00-04:00"
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2024-06-19T00:00:00-04:00",
+     "fecha_retiro": "2024-07-03T00:00:00-04:00"
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2024-07-03T00:00:00-04:00",
+     "fecha_retiro": "2024-07-10T00:00:00-04:00"
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2024-07-10T00:00:00-04:00",
+     "fecha_retiro": "2024-07-24T00:00:00-04:00"
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2024-07-24T00:00:00-04:00",
+     "fecha_retiro": "2024-08-07T00:00:00-04:00"
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2024-08-07T00:00:00-04:00",
+     "fecha_retiro": "2024-08-14T00:00:00-04:00"
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2024-08-14T00:00:00-04:00",
+     "fecha_retiro": "2024-08-28T00:00:00-04:00"
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2024-08-28T00:00:00-04:00",
+     "fecha_retiro": "2024-09-24T00:00:00-03:00"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "fecha_ingreso": "2024-09-24T00:00:00-03:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "fecha_ingreso": "2024-09-25T00:00:00-03:00",
+     "fecha_retiro": ""
+    }
+   ],
+   "votaciones": [
+    {
+     "fecha": "2024-07-30T00:00:00-04:00",
+     "fecha_legible": "30/07/2024",
+     "tema": "Proyecto de ley, en segundo trámite constitucional, que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del pacto por el crecimiento económico, el progreso social y la responsabilidad fiscal, (Boletín N° 16.621-05). APROBADO.",
+     "si": "33",
+     "no": "4",
+     "abstencion": "0",
+     "camara": ""
+    }
+   ],
+   "autores": [
+    "Allende B., Isabel",
+    "Araya G., Pedro",
+    "Bianchi R., Karim",
+    "Campillai R., Fabiola",
+    "Castro G., Juan Luis",
+    "Castro P., Juan",
+    "Coloma C., Juan Antonio",
+    "Cruz-Coke C., Luciano",
+    "Durana S., José Miguel",
+    "Ebensperger O., Luz Eliana",
+    "Edwards S., Rojo",
+    "Espinoza S., Fidel",
+    "Flores G., Iván",
+    "Galilea V., Rodrigo",
+    "García R., José",
+    "Gatica B., María José",
+    "Kast S., Felipe",
+    "Kusanovic G., Alejandro",
+    "Kuschel S., Carlos Ignacio",
+    "Lagos W., Ricardo",
+    "Latorre R., Juan Ignacio",
+    "Macaya D., Javier",
+    "Núñez A., Daniel",
+    "Ordenes N., Ximena",
+    "Ossandón I., Manuel José",
+    "Pascual G., Claudia",
+    "Prohens E., Rafael",
+    "Pugh O., Kenneth",
+    "Quintana L., Jaime",
+    "Saavedra C., Gastón",
+    "Sandoval P., David",
+    "Sanhueza D., Gustavo",
+    "Sepúlveda O., Alejandra",
+    "Van Rysselberghe H., Enrique",
+    "Velásquez N., Esteban",
+    "Vodanovic R., Paulina",
+    "Walker P., Matías"
+   ],
+   "materias": [
+    "ABONOS BANCARIOS",
+    "BANCOS",
+    "COMERCIO ILEGAL",
+    "CONTRIBUYENTES",
+    "CÓDIGO TRIBUTARIO",
+    "ELUSIÓN TRIBUTARIA",
+    "EVASIÓN DE IMPUESTOS",
+    "SECRETO BANCARIO"
+   ],
+   "comisiones": [],
+   "informes": [
+    {
+     "fecha": "2024-04-10T00:00:00-04:00",
+     "tramite": "Primer informe de comisión de Hacienda",
+     "etapa": "Primer trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2024-07-26T00:00:00-04:00",
+     "tramite": "Primer informe de comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2024-09-11T00:00:00-03:00",
+     "tramite": "Segundo informe de comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2024-09-25T00:00:00-03:00",
+     "tramite": "Informe de comisión de Hacienda",
+     "etapa": "Tercer trámite constitucional",
+     "link": ""
+    }
+   ],
+   "ministerios": [],
+   "camara_id": "",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "senado"
+   ],
+   "canales_descubrimiento": [
+    "cartera"
+   ],
+   "id": "555ea9a190f0134e",
+   "puntaje_pertinencia": 60.0,
+   "nivel_impacto": "sectorial",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [
+     "secreto bancario"
+    ],
+    "estructurales": [
+     "comercio ilegal"
+    ],
+    "sectoriales": [
+     "banco",
+     "bancos"
+    ]
+   },
+   "sectores": [
+    "banca_financiero"
+   ],
+   "sectores_legibles": [
+    "Banca y sistema financiero"
+   ],
+   "ejes": [
+    "secreto_bancario"
+   ],
+   "ejes_legibles": [
+    "Secreto y reserva bancaria"
+   ],
+   "impacto_legible": "Impacto sectorial en sujetos obligados",
+   "requiere_revision_manual": true,
+   "nivel_cartera": 2,
+   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 7,
+   "vigente": false,
+   "ultimo_movimiento": "2024-10-28T00:00:00-03:00",
+   "ultimo_movimiento_legible": "28/10/2024",
+   "dias_sin_movimiento": 652,
+   "ultimo_tramite": "Cuenta fallo del Tribunal Constitucional .",
+   "camara_actual": "C.Diputados",
+   "total_tramites": 66,
+   "fecha_ingreso_legible": "29/01/2024",
+   "antiguedad_dias": 925,
+   "prioridad": 3.9,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 0.6,
+   "factor_frescura": 0.55,
+   "huella": "9b2938a917726916d877",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16621-05",
+   "link_camara": "",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16621",
+   "sintesis": "Tramitación terminada · Cuenta fallo del Tribunal Constitucional .",
    "novedad": "",
    "novedad_detectada": ""
   },
@@ -5860,7 +6541,7 @@
    "subetapa": "/",
    "iniciativa": "Mensaje",
    "camara_origen": "Senado",
-   "urgencia": "Discusión inmediata",
+   "urgencia": "Sin urgencia",
    "ley_numero": "Ley N° 21.821",
    "refundidos": "",
    "estado": "Publicado",
@@ -7885,21 +8566,15 @@
      "link": ""
     }
    ],
-   "ministerios": [
-    "Ministerio de Defensa Nacional",
-    "Ministerio de Hacienda",
-    "Ministerio de Justicia y de Derechos Humanos"
-   ],
-   "camara_id": "12757",
+   "ministerios": [],
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
    "nota_semilla": "Sistema de inteligencia del Estado · Ley N° 21.821",
    "es_semilla": true,
-   "admisible": "true",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
@@ -7921,8 +8596,8 @@
    "requiere_revision_manual": false,
    "nivel_cartera": 3,
    "nivel_legible": "Nivel 3 · Seguimiento",
-   "urgencia_clave": "discusion inmediata",
-   "urgencia_legible": "Discusión inmediata",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
    "etapa_ordinal": 7,
    "vigente": false,
    "ultimo_movimiento": "2026-05-13T00:00:00-04:00",
@@ -7933,875 +8608,18 @@
    "total_tramites": 227,
    "fecha_ingreso_legible": "13/11/2018",
    "antiguedad_dias": 2828,
-   "prioridad": 10.1,
+   "prioridad": 3.4,
    "banda_prioridad": "baja",
-   "factor_urgencia": 3.0,
+   "factor_urgencia": 1.0,
    "factor_proximidad": 0.6,
    "factor_frescura": 1.0,
-   "huella": "a4f63782aa7e58e20dbc",
+   "huella": "1420ad76e82d0fe00363",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=12234-02",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=12757&prmBOLETIN=12234-02",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=12234",
-   "sintesis": "Discusión inmediata · Tramitación terminada · Oficio de ley al Ejecutivo .",
-   "novedad": "",
-   "novedad_detectada": ""
-  },
-  {
-   "boletin": "17060-07",
-   "titulo": "Regula el ejercicio del derecho a reunión",
-   "fecha_ingreso": "2024-08-16T00:00:00-04:00",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia": "Sin urgencia",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17676&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2024-08-16T00:00:00-04:00",
-     "fecha_legible": "16/08/2024",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-27T00:00:00-04:00",
-     "fecha_legible": "27/08/2024",
-     "sesion": "47/372",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "urgencias": [],
-   "votaciones": [],
-   "autores": [
-    "Campillai Rojas, Fabiola",
-    "Fabiola Campillai Rojas"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [],
-   "ministerios": [],
-   "camara_id": "17676",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "admisible": "true",
-   "canales_descubrimiento": [
-    "cartera"
-   ],
-   "id": "7e24cf4e15a6e48a",
-   "puntaje_pertinencia": 0.0,
-   "nivel_impacto": "seguimiento",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [],
-    "estructurales": [],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [],
-   "ejes_legibles": [],
-   "impacto_legible": "Seguimiento preventivo",
-   "requiere_revision_manual": true,
-   "nivel_cartera": 3,
-   "nivel_legible": "Nivel 3 · Seguimiento",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 1,
-   "vigente": true,
-   "ultimo_movimiento": "2024-08-27T00:00:00-04:00",
-   "ultimo_movimiento_legible": "27/08/2024",
-   "dias_sin_movimiento": 714,
-   "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "camara_actual": "Senado",
-   "total_tramites": 2,
-   "fecha_ingreso_legible": "16/08/2024",
-   "antiguedad_dias": 725,
-   "prioridad": 8.8,
-   "banda_prioridad": "baja",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 1.0,
-   "factor_frescura": 0.55,
-   "huella": "8f2ec22c9ab64a4c45e8",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17060-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17676&prmBOLETIN=17060-07",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17060",
-   "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "",
-   "novedad_detectada": ""
-  },
-  {
-   "boletin": "16621-05",
-   "titulo": "Dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal",
-   "fecha_ingreso": "2024-01-29T00:00:00-03:00",
-   "etapa": "Tramitación terminada",
-   "subetapa": "/",
-   "iniciativa": "Mensaje",
-   "camara_origen": "C.Diputados",
-   "urgencia": "Sin urgencia",
-   "ley_numero": "Ley N° 21.713",
-   "refundidos": "",
-   "estado": "Publicado",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17191&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2024-01-29T00:00:00-03:00",
-     "fecha_legible": "29/01/2024",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-01-29T00:00:00-03:00",
-     "fecha_legible": "29/01/2024",
-     "sesion": "/",
-     "descripcion": "Informe financiero N° 43/29.01.2024, acompañado al mensaje 326-371.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-01-29T00:00:00-03:00",
-     "fecha_legible": "29/01/2024",
-     "sesion": "138/371",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-03-04T00:00:00-03:00",
-     "fecha_legible": "04/03/2024",
-     "sesion": "140/371",
-     "descripcion": "Cuenta del Mensaje 1988-371 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-03-11T00:00:00-03:00",
-     "fecha_legible": "11/03/2024",
-     "sesion": "1/372",
-     "descripcion": "Cuenta del Mensaje 38-372 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-03-20T00:00:00-03:00",
-     "fecha_legible": "20/03/2024",
-     "sesion": "8/372",
-     "descripcion": "Cuenta del Mensaje 132-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-01T00:00:00-03:00",
-     "fecha_legible": "01/04/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° 23-372. Oficio del Presidente de la Republica (N°23-372), por el cual formula indicaciones al proyecto. Se acompaña informe financiero complementario N°74/01.04.2024.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-01T00:00:00-03:00",
-     "fecha_legible": "01/04/2024",
-     "sesion": "10/372",
-     "descripcion": "Cuenta del Mensaje 170-372 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-08T00:00:00-04:00",
-     "fecha_legible": "08/04/2024",
-     "sesion": "/",
-     "descripcion": "Oficio del Presidente de la República (N°36-372), por el cual formula indicaciones al proyecto. Se adjunta informe financiero complementario N°86/08.04.2024.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-08T00:00:00-04:00",
-     "fecha_legible": "08/04/2024",
-     "sesion": "14/372",
-     "descripcion": "Cuenta del Mensaje 228-372 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-10T00:00:00-04:00",
-     "fecha_legible": "10/04/2024",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión de Hacienda.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-10T00:00:00-04:00",
-     "fecha_legible": "10/04/2024",
-     "sesion": "17/372",
-     "descripcion": "Cuenta de primer informe de comisión . Queda para tabla.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-10T00:00:00-04:00",
-     "fecha_legible": "10/04/2024",
-     "sesion": "17/372",
-     "descripcion": "Discusión general . Aprobado en general y particular a la vez",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-10T00:00:00-04:00",
-     "fecha_legible": "10/04/2024",
-     "sesion": "/",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-16T00:00:00-04:00",
-     "fecha_legible": "16/04/2024",
-     "sesion": "9/372",
-     "descripcion": "Cuenta del Mensaje 294-372 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-04-16T00:00:00-04:00",
-     "fecha_legible": "16/04/2024",
-     "sesion": "9/372",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-04-24T00:00:00-04:00",
-     "fecha_legible": "24/04/2024",
-     "sesion": "15/372",
-     "descripcion": "Cuenta del Mensaje 400-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-05-03T00:00:00-04:00",
-     "fecha_legible": "03/05/2024",
-     "sesion": "24/372",
-     "descripcion": "Cuenta de oficio N° 98-2024, de la Corte Suprema, por el cual remite opinión respecto del proyecto (informe N° 18-2024).",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-05-08T00:00:00-04:00",
-     "fecha_legible": "08/05/2024",
-     "sesion": "18/372",
-     "descripcion": "Cuenta del Mensaje 488-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-05-15T00:00:00-04:00",
-     "fecha_legible": "15/05/2024",
-     "sesion": "22/372",
-     "descripcion": "Cuenta del Mensaje 565-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-05-30T00:00:00-04:00",
-     "fecha_legible": "30/05/2024",
-     "sesion": "23/372",
-     "descripcion": "Cuenta del Mensaje 637-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-06-12T00:00:00-04:00",
-     "fecha_legible": "12/06/2024",
-     "sesion": "28/372",
-     "descripcion": "Cuenta del Mensaje 765-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-06-19T00:00:00-04:00",
-     "fecha_legible": "19/06/2024",
-     "sesion": "30/372",
-     "descripcion": "Cuenta del Mensaje 835-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-07-03T00:00:00-04:00",
-     "fecha_legible": "03/07/2024",
-     "sesion": "32/372",
-     "descripcion": "Cuenta del Mensaje 933-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-07-10T00:00:00-04:00",
-     "fecha_legible": "10/07/2024",
-     "sesion": "35/372",
-     "descripcion": "Cuenta del Mensaje 1016-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-07-24T00:00:00-04:00",
-     "fecha_legible": "24/07/2024",
-     "sesion": "38/372",
-     "descripcion": "Cuenta del Mensaje 1089-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-07-26T00:00:00-04:00",
-     "fecha_legible": "26/07/2024",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión de Hacienda.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-07-30T00:00:00-04:00",
-     "fecha_legible": "30/07/2024",
-     "sesion": "39/372",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-07-30T00:00:00-04:00",
-     "fecha_legible": "30/07/2024",
-     "sesion": "39/372",
-     "descripcion": "Discusión general . Aprobado en general",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-07-31T00:00:00-04:00",
-     "fecha_legible": "31/07/2024",
-     "sesion": "40/372",
-     "descripcion": "Se fija plazo para presentar indicaciones hasta el 12/08/2024 a las 12:00 en Secretaría.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-07T00:00:00-04:00",
-     "fecha_legible": "07/08/2024",
-     "sesion": "44/372",
-     "descripcion": "Cuenta del Mensaje 1221-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-12T00:00:00-04:00",
-     "fecha_legible": "12/08/2024",
-     "sesion": "/",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-12T00:00:00-04:00",
-     "fecha_legible": "12/08/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N°I.F.. I.F. N° 217 de 12 de agosto de 2024",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-14T00:00:00-04:00",
-     "fecha_legible": "14/08/2024",
-     "sesion": "46/372",
-     "descripcion": "Cuenta del Mensaje 1300-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-27T00:00:00-04:00",
-     "fecha_legible": "27/08/2024",
-     "sesion": "47/372",
-     "descripcion": "La Sala acuerda fijar un nuevo plazo para presentar indicaciones a este proyecto de ley, hasta las 17:30 horas del día de hoy, en la Secretaría de la Comisión de Hacienda.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-27T00:00:00-04:00",
-     "fecha_legible": "27/08/2024",
-     "sesion": "/",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-28T00:00:00-04:00",
-     "fecha_legible": "28/08/2024",
-     "sesion": "48/372",
-     "descripcion": "Cuenta del Mensaje 1397-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-28T00:00:00-04:00",
-     "fecha_legible": "28/08/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° H-6 (2024). A la Señora Presidenta del Banco Central de Chile.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-28T00:00:00-04:00",
-     "fecha_legible": "28/08/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° H-7 (2024). Al Señor Presidente de la Confederación Nacional de la Micro, Pequeña y Mediana Empresa (CONAPYME)",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-29T00:00:00-04:00",
-     "fecha_legible": "29/08/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° Carta. Carta. Respuesta al Oficio H-7 (2024)",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-29T00:00:00-04:00",
-     "fecha_legible": "29/08/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° H-10(2024). Al Señor Presidente Multigremial Nacional.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-29T00:00:00-04:00",
-     "fecha_legible": "29/08/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° Carta. Respuesta al Oficio H-10 (2024)",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-02T00:00:00-04:00",
-     "fecha_legible": "02/09/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° H-11 a la Corte Suprema",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-03T00:00:00-04:00",
-     "fecha_legible": "03/09/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° 221. Respuesta al Oficio H-6 (2024)",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-11T00:00:00-03:00",
-     "fecha_legible": "11/09/2024",
-     "sesion": "/",
-     "descripcion": "Segundo informe de comisión de Hacienda.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-11T00:00:00-03:00",
-     "fecha_legible": "11/09/2024",
-     "sesion": "56/372",
-     "descripcion": "Cuenta de segundo informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-11T00:00:00-03:00",
-     "fecha_legible": "11/09/2024",
-     "sesion": "56/372",
-     "descripcion": "La Sala acuerda fijar los siguientes plazos respecto de la tramitación de este proyecto de ley: hasta las 12:00 horas del día 24 de septiembre de 2024, para renovar indicaciones y formular nuevas propuestas de enmienda, de conformidad con lo dispuesto en el Reglamento del Senado, y hasta las 14:00 horas de ese mismo día, para solicitar la votación separada de alguna de sus disposiciones",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-11T00:00:00-03:00",
-     "fecha_legible": "11/09/2024",
-     "sesion": "56/372",
-     "descripcion": "Discusión particular . Queda pendiente",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-17T00:00:00-03:00",
-     "fecha_legible": "17/09/2024",
-     "sesion": "/",
-     "descripcion": "Cuenta oficio N° 327-2024 de la Corte Suprema",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-17T00:00:00-03:00",
-     "fecha_legible": "17/09/2024",
-     "sesion": "/",
-     "descripcion": "Cuenta oficio N° 17DDI de la Corte Suprema",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-17T00:00:00-03:00",
-     "fecha_legible": "17/09/2024",
-     "sesion": "/",
-     "descripcion": "Cuenta oficio N° Anexo de la Corte Suprema",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-24T00:00:00-03:00",
-     "fecha_legible": "24/09/2024",
-     "sesion": "57/372",
-     "descripcion": "Cuenta del Mensaje 1568-372 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-24T00:00:00-03:00",
-     "fecha_legible": "24/09/2024",
-     "sesion": "57/372",
-     "descripcion": "Discusión particular . Aprobado con modificaciones",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "fecha_legible": "25/09/2024",
-     "sesion": "/",
-     "descripcion": "Oficio modificaciones a Cámara de Origen .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "fecha_legible": "25/09/2024",
-     "sesion": "79/372",
-     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Pasa a Comisión de Hacienda (art. 120 del Reglamento).",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "fecha_legible": "25/09/2024",
-     "sesion": "79/372",
-     "descripcion": "Cuenta del Mensaje 1656-372 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "fecha_legible": "25/09/2024",
-     "sesion": "/",
-     "descripcion": "Informe de comisión de Hacienda.",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "fecha_legible": "25/09/2024",
-     "sesion": "79/372",
-     "descripcion": "Cuenta informe de comisión .",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "fecha_legible": "25/09/2024",
-     "sesion": "79/372",
-     "descripcion": "Aprobadas las modificaciones del Senado. Se remite oficio a S.E. el Presidente de la República (art. 73 CPR)",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "fecha_legible": "25/09/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° 19869. Comunica al Senado que la Cámara aprobó las enmiendas propuestas por ese H. Senado al proyecto de ley.",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-26T00:00:00-03:00",
-     "fecha_legible": "26/09/2024",
-     "sesion": "/",
-     "descripcion": "Oficio de ley al Ejecutivo .",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-30T00:00:00-03:00",
-     "fecha_legible": "30/09/2024",
-     "sesion": "80/372",
-     "descripcion": "Cuenta de Oficio de S. E. el Presidente de la República (N° 011-372), por el cual comunica que ha resuelto no hacer uso de la facultad de veto, que le confiere el inciso primero del artículo 73 de la Constitución Política de la República, respecto del proyecto.",
-     "etapa": "Trámite de aprobacion presidencial",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-30T00:00:00-03:00",
-     "fecha_legible": "30/09/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° 19871 al Tribunal Constitucional",
-     "etapa": "Trámite en Tribunal Constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-10-01T00:00:00-03:00",
-     "fecha_legible": "01/10/2024",
-     "sesion": "59/372",
-     "descripcion": "Cuenta de Oficio N° 19.869, de la Cámara de Diputados.",
-     "etapa": "Trámite en Tribunal Constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-10-28T00:00:00-03:00",
-     "fecha_legible": "28/10/2024",
-     "sesion": "92/372",
-     "descripcion": "Ingreso fallo del Tribunal Constitucional .",
-     "etapa": "Trámite en Tribunal Constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-10-28T00:00:00-03:00",
-     "fecha_legible": "28/10/2024",
-     "sesion": "92/372",
-     "descripcion": "Cuenta fallo del Tribunal Constitucional .",
-     "etapa": "Trámite en Tribunal Constitucional",
-     "camara": "C.Diputados"
-    }
-   ],
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-05-15T00:00:00-04:00",
-     "fecha_retiro": "2024-05-30T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-05-30T00:00:00-04:00",
-     "fecha_retiro": "2024-06-12T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-06-12T00:00:00-04:00",
-     "fecha_retiro": "2024-06-19T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-06-19T00:00:00-04:00",
-     "fecha_retiro": "2024-07-03T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-07-03T00:00:00-04:00",
-     "fecha_retiro": "2024-07-10T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-07-10T00:00:00-04:00",
-     "fecha_retiro": "2024-07-24T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-07-24T00:00:00-04:00",
-     "fecha_retiro": "2024-08-07T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-08-07T00:00:00-04:00",
-     "fecha_retiro": "2024-08-14T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-08-14T00:00:00-04:00",
-     "fecha_retiro": "2024-08-28T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-08-28T00:00:00-04:00",
-     "fecha_retiro": "2024-09-24T00:00:00-03:00"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "fecha_ingreso": "2024-09-24T00:00:00-03:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "fecha_ingreso": "2024-09-25T00:00:00-03:00",
-     "fecha_retiro": ""
-    }
-   ],
-   "votaciones": [
-    {
-     "fecha": "2024-07-30T00:00:00-04:00",
-     "fecha_legible": "30/07/2024",
-     "tema": "Proyecto de ley, en segundo trámite constitucional, que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del pacto por el crecimiento económico, el progreso social y la responsabilidad fiscal, (Boletín N° 16.621-05). APROBADO.",
-     "si": "33",
-     "no": "4",
-     "abstencion": "0",
-     "camara": ""
-    }
-   ],
-   "autores": [
-    "Allende B., Isabel",
-    "Araya G., Pedro",
-    "Bianchi R., Karim",
-    "Campillai R., Fabiola",
-    "Castro G., Juan Luis",
-    "Castro P., Juan",
-    "Coloma C., Juan Antonio",
-    "Cruz-Coke C., Luciano",
-    "Durana S., José Miguel",
-    "Ebensperger O., Luz Eliana",
-    "Edwards S., Rojo",
-    "Espinoza S., Fidel",
-    "Flores G., Iván",
-    "Galilea V., Rodrigo",
-    "García R., José",
-    "Gatica B., María José",
-    "Kast S., Felipe",
-    "Kusanovic G., Alejandro",
-    "Kuschel S., Carlos Ignacio",
-    "Lagos W., Ricardo",
-    "Latorre R., Juan Ignacio",
-    "Macaya D., Javier",
-    "Núñez A., Daniel",
-    "Ordenes N., Ximena",
-    "Ossandón I., Manuel José",
-    "Pascual G., Claudia",
-    "Prohens E., Rafael",
-    "Pugh O., Kenneth",
-    "Quintana L., Jaime",
-    "Saavedra C., Gastón",
-    "Sandoval P., David",
-    "Sanhueza D., Gustavo",
-    "Sepúlveda O., Alejandra",
-    "Van Rysselberghe H., Enrique",
-    "Velásquez N., Esteban",
-    "Vodanovic R., Paulina",
-    "Walker P., Matías"
-   ],
-   "materias": [
-    "ABONOS BANCARIOS",
-    "BANCOS",
-    "COMERCIO ILEGAL",
-    "CONTRIBUYENTES",
-    "CÓDIGO TRIBUTARIO",
-    "ELUSIÓN TRIBUTARIA",
-    "EVASIÓN DE IMPUESTOS",
-    "SECRETO BANCARIO"
-   ],
-   "comisiones": [],
-   "informes": [
-    {
-     "fecha": "2024-04-10T00:00:00-04:00",
-     "tramite": "Primer informe de comisión de Hacienda",
-     "etapa": "Primer trámite constitucional",
-     "link": ""
-    },
-    {
-     "fecha": "2024-07-26T00:00:00-04:00",
-     "tramite": "Primer informe de comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "link": ""
-    },
-    {
-     "fecha": "2024-09-11T00:00:00-03:00",
-     "tramite": "Segundo informe de comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "link": ""
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "tramite": "Informe de comisión de Hacienda",
-     "etapa": "Tercer trámite constitucional",
-     "link": ""
-    }
-   ],
-   "ministerios": [
-    "Ministerio de Hacienda"
-   ],
-   "camara_id": "17191",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "admisible": "true",
-   "canales_descubrimiento": [
-    "cartera"
-   ],
-   "id": "555ea9a190f0134e",
-   "puntaje_pertinencia": 60.0,
-   "nivel_impacto": "sectorial",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [
-     "secreto bancario"
-    ],
-    "estructurales": [
-     "comercio ilegal"
-    ],
-    "sectoriales": [
-     "banco",
-     "bancos"
-    ]
-   },
-   "sectores": [
-    "banca_financiero"
-   ],
-   "sectores_legibles": [
-    "Banca y sistema financiero"
-   ],
-   "ejes": [
-    "secreto_bancario"
-   ],
-   "ejes_legibles": [
-    "Secreto y reserva bancaria"
-   ],
-   "impacto_legible": "Impacto sectorial en sujetos obligados",
-   "requiere_revision_manual": true,
-   "nivel_cartera": 2,
-   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 7,
-   "vigente": false,
-   "ultimo_movimiento": "2024-10-28T00:00:00-03:00",
-   "ultimo_movimiento_legible": "28/10/2024",
-   "dias_sin_movimiento": 652,
-   "ultimo_tramite": "Cuenta fallo del Tribunal Constitucional .",
-   "camara_actual": "C.Diputados",
-   "total_tramites": 66,
-   "fecha_ingreso_legible": "29/01/2024",
-   "antiguedad_dias": 925,
-   "prioridad": 3.9,
-   "banda_prioridad": "baja",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 0.6,
-   "factor_frescura": 0.55,
-   "huella": "9b2938a917726916d877",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16621-05",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17191&prmBOLETIN=16621-05",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16621",
-   "sintesis": "Tramitación terminada · Cuenta fallo del Tribunal Constitucional .",
-   "novedad": "",
-   "novedad_detectada": ""
+   "sintesis": "Tramitación terminada · Oficio de ley al Ejecutivo .",
+   "novedad": "urgencia",
+   "novedad_detectada": "2026-08-11T09:17:42.380849-04:00"
   },
   {
    "boletin": "16960-02",
@@ -8854,36 +8672,25 @@
    "votaciones": [],
    "autores": [
     "Acevedo Sáez, María Candelaria",
-    "Carmen Hertz Cádiz",
     "Castillo Rojas, Nathalie",
-    "Hernán Palma Pérez",
     "Hertz Cádiz, Carmen",
     "Hirsch Goldschmidt, Tomás",
-    "Jaime Naranjo Ortiz",
-    "Lorena Pizarro Sierra",
-    "Marcela Riquelme Aliaga",
-    "María Candelaria Acevedo Sáez",
-    "Matías Ramírez Pascal",
     "Naranjo Ortíz, Jaime",
-    "Nathalie Castillo Rojas",
     "Palma Pérez, Hernán",
     "Pizarro Sierra, Lorena",
     "Ramírez Pascal, Matías",
-    "Riquelme Aliaga, Marcela",
-    "Tomás Hirsch Goldschmidt"
+    "Riquelme Aliaga, Marcela"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "17573",
+   "camara_id": "",
    "resumen": "",
    "fuentes": [
     "semilla",
-    "camara",
     "senado"
    ],
-   "admisible": "true",
    "canales_descubrimiento": [
     "cartera"
    ],
@@ -8926,7 +8733,7 @@
    "factor_frescura": 0.8,
    "huella": "340f3c257189ba3b6600",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16960-02",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17573&prmBOLETIN=16960-02",
+   "link_camara": "",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16960",
    "sintesis": "Archivado · Archivado",
    "novedad": "",
@@ -8939,24 +8746,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-11T06:54:36.906805-04:00"
+   "revisado": "2026-08-11T09:17:42.380849-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-11T06:54:36.906805-04:00"
+   "revisado": "2026-08-11T09:17:42.380849-04:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-11T06:54:36.906805-04:00"
+   "revisado": "2026-08-11T09:17:42.380849-04:00"
   }
  ],
- "novedades": 0,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -9014,10 +8821,10 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "nuevos_en_cartera": 0,
   "con_movimiento": 0,
-  "cambios_urgencia": 0,
+  "cambios_urgencia": 1,
   "canales": {
    "semillas": 12,
    "cartera": 31,
@@ -9042,9 +8849,14 @@
    {
     "canal": "camara_boletin",
     "llamadas": 33,
-    "resultados": 32,
+    "resultados": 0,
     "errores": [
-     "17515-07: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+     "15975-25: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
+     "18407-25: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
+     "16808-25: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
+     "18373-07: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
+     "16764-03: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
+     "18080-03: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
     ],
     "consultado": true
    },
@@ -9066,6 +8878,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 12,
   "boletines_excluidos": 0,
-  "segundos_corrida": 84.5
+  "segundos_corrida": 273.9
  }
 }
