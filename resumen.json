@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-12T13:01:34.869249-04:00",
-  "generado_legible": "12/08/2026 13:01",
+  "generado": "2026-08-12T15:07:53.477740-04:00",
+  "generado_legible": "12/08/2026 15:07",
   "proyectos_total": 42,
   "vigentes": 39,
-  "movimientos_recientes": 4,
-  "movimientos_30d": 10,
-  "novedades_corrida": 1,
+  "movimientos_recientes": 5,
+  "movimientos_30d": 11,
+  "novedades_corrida": 2,
   "impacto_directo": 9,
   "con_urgencia": 7,
-  "prioridad_alta": 5,
+  "prioridad_alta": 6,
   "estancados_180d": 17,
   "ultimo": {
     "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-    "detalle": "Boletín 18216-05 · 11/08/2026 · Discusión veto en Cámara Revisora (Senado)",
+    "detalle": "Boletín 18216-05 · 12/08/2026 · Discusión veto en Cámara Revisora (Senado)",
     "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
-    "fecha": "2026-08-11T00:00:00-04:00"
+    "fecha": "2026-08-12T00:00:00-04:00"
   },
   "serie_7d": [
     {
@@ -42,11 +42,11 @@
     },
     {
       "fecha": "2026-08-11",
-      "n": 3
+      "n": 2
     },
     {
       "fecha": "2026-08-12",
-      "n": 0
+      "n": 2
     }
   ],
   "alertas": [
@@ -54,8 +54,16 @@
       "severidad": "alta",
       "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
       "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Discusión inmediata",
-      "fecha": "2026-08-11T00:00:00-04:00",
+      "fecha": "2026-08-12T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "alta",
+      "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
+      "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
+      "fecha": "2026-08-12T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
       "fuente": "LEGISLATIVO"
     },
     {
@@ -73,20 +81,16 @@
       "fecha": "2026-08-11T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18573-25",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "alta",
-      "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
-      "detalle": "Boletín 15975-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-08-05T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
     {
-      "fecha": "2026-08-11T00:00:00-04:00",
-      "texto": "Boletín 18216-05: Cuenta oficio aprobación veto . Pasa a Comisión de Hacienda"
+      "fecha": "2026-08-12T00:00:00-04:00",
+      "texto": "Boletín 18216-05: Informe de comisión de Hacienda."
+    },
+    {
+      "fecha": "2026-08-12T00:00:00-04:00",
+      "texto": "Boletín 14773-02: Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA"
     },
     {
       "fecha": "2026-08-11T00:00:00-04:00",
@@ -95,10 +99,6 @@
     {
       "fecha": "2026-08-11T00:00:00-04:00",
       "texto": "Boletín 18573-25: Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana"
-    },
-    {
-      "fecha": "2026-08-05T00:00:00-04:00",
-      "texto": "Boletín 15975-25: Cuenta oficio integrantes de Comisión Mixta ."
     }
   ]
 }
