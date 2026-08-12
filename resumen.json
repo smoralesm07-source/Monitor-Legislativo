@@ -2,16 +2,16 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-12T11:02:42.961783-04:00",
-  "generado_legible": "12/08/2026 11:02",
-  "proyectos_total": 31,
-  "vigentes": 28,
-  "movimientos_recientes": 3,
-  "movimientos_30d": 7,
-  "novedades_corrida": 0,
+  "generado": "2026-08-12T11:26:26.278009-04:00",
+  "generado_legible": "12/08/2026 11:26",
+  "proyectos_total": 39,
+  "vigentes": 36,
+  "movimientos_recientes": 4,
+  "movimientos_30d": 10,
+  "novedades_corrida": 8,
   "impacto_directo": 9,
   "con_urgencia": 6,
-  "prioridad_alta": 4,
+  "prioridad_alta": 5,
   "estancados_180d": 15,
   "ultimo": {
     "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
@@ -42,7 +42,7 @@
     },
     {
       "fecha": "2026-08-11",
-      "n": 2
+      "n": 3
     },
     {
       "fecha": "2026-08-12",
@@ -51,9 +51,9 @@
   ],
   "alertas": [
     {
-      "severidad": "media",
+      "severidad": "alta",
       "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-      "detalle": "Boletín 18216-05 · Nivel 3 · Seguimiento · Discusión inmediata",
+      "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Discusión inmediata",
       "fecha": "2026-08-11T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
       "fuente": "LEGISLATIVO"
@@ -61,9 +61,17 @@
     {
       "severidad": "media",
       "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
-      "detalle": "Boletín 18420-25 · Nivel 3 · Seguimiento · Simple urgencia",
+      "detalle": "Boletín 18420-25 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
       "fecha": "2026-08-11T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
+      "titulo": "Autoriza al Presidente de la República para recompensar a quienes aporten antecedentes útiles para la investigación y sanción de delitos vinculados al crimen organizado",
+      "detalle": "Boletín 18573-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-08-11T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18573-25",
       "fuente": "LEGISLATIVO"
     },
     {
@@ -72,14 +80,6 @@
       "detalle": "Boletín 15975-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
       "fecha": "2026-08-05T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Modifica diversos cuerpos legales en materia de persecución penal y patrimonial, y tipifica nuevos delitos para combatir el crimen organizado",
-      "detalle": "Boletín 18488-07 · Nivel 3 · Seguimiento · Sin urgencia",
-      "fecha": "2026-07-22T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18488-07",
       "fuente": "LEGISLATIVO"
     }
   ],
@@ -93,12 +93,12 @@
       "texto": "Boletín 18420-25: Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 11/08/2026 a las 19:23"
     },
     {
-      "fecha": "2026-08-05T00:00:00-04:00",
-      "texto": "Boletín 15975-25: Cuenta oficio integrantes de Comisión Mixta ."
+      "fecha": "2026-08-11T00:00:00-04:00",
+      "texto": "Boletín 18573-25: Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana"
     },
     {
-      "fecha": "2026-07-26T13:32:08-04:00",
-      "texto": "Boletín 17700-05: Oficio con modificaciones a Cámara de origen"
+      "fecha": "2026-08-05T00:00:00-04:00",
+      "texto": "Boletín 15975-25: Cuenta oficio integrantes de Comisión Mixta ."
     }
   ]
 }
