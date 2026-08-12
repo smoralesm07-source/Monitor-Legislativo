@@ -46,6 +46,7 @@ def prueba_uso_dual() -> None:
         "Establece controles para prevenir el financiamiento de la proliferacion de armas de destruccion masiva",
         "Crea un sistema de control del comercio estrategico de bienes de doble uso",
         "Fortalece las sanciones financieras dirigidas relativas a la proliferacion",
+        "Crea la Comision de Comercio Estrategico y regula la exportacion de material de uso dual y de defensa",
     ]
     for texto in casos:
         pert = m.evalua_pertinencia({"titulo": texto})
@@ -87,11 +88,34 @@ def prueba_conciliacion_diaria() -> None:
 
 def prueba_reglas_correo_intactas() -> None:
     print("\n5. Correo")
-    # La extensión no redefine envia_correo ni nivel_cartera.
     check(m.envia_correo.__module__ == "monitor_legislativo",
           "la función de correo sigue siendo la original", m.envia_correo.__module__)
     check(m.nivel_cartera.__module__ == "monitor_legislativo",
           "las reglas de nivel de cartera siguen siendo las originales", m.nivel_cartera.__module__)
+
+
+def prueba_casos_control_descubrimiento() -> None:
+    print("\n6. Casos de control temático")
+    semillas = {s.get("boletin"): s for s in m.carga_semillas()}
+    check("14773-02" in semillas,
+          "14773-02 queda en seguimiento permanente para uso dual", str(sorted(semillas)))
+    check("16135-07" in semillas,
+          "16135-07 queda en seguimiento permanente para beneficiario final", str(sorted(semillas)))
+
+    uso_dual = {
+        "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa"
+    }
+    bf = {
+        "titulo": "Modifica la Carta Fundamental, con el objeto de crear el Registro de Beneficiarios Finales de Fondos Públicos"
+    }
+    check("proliferacion_uso_dual" in m.clasifica_ejes(uso_dual),
+          "14773-02 activa el eje de proliferación y uso dual")
+    check(m.evalua_pertinencia(uso_dual)["nivel"] != "descartado",
+          "14773-02 supera el umbral de pertinencia")
+    check("beneficiario_final" in m.clasifica_ejes(bf),
+          "16135-07 activa el eje de beneficiario final")
+    check(m.evalua_pertinencia(bf)["nivel"] != "descartado",
+          "16135-07 supera el umbral de pertinencia")
 
 
 if __name__ == "__main__":
@@ -100,6 +124,7 @@ if __name__ == "__main__":
     prueba_texto_camara_oculto()
     prueba_conciliacion_diaria()
     prueba_reglas_correo_intactas()
+    prueba_casos_control_descubrimiento()
     print(f"\n{PRUEBAS} comprobaciones · {len(FALLAS)} fallas")
     if FALLAS:
         raise SystemExit(1)
