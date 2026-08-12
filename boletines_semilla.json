@@ -1,6 +1,14 @@
 {
-  "descripcion": "Cartera de seguimiento permanente. Estos boletines se consultan en cada corrida aunque no registren movimiento y aunque el motor de pertinencia no los puntúe. Edita este archivo para incorporar o retirar proyectos sin tocar el código.",
+  "descripcion": "Cartera de seguimiento permanente. Estos boletines se consultan en cada corrida aunque no registren movimiento y aunque el motor de pertinencia no los puntúe. Incluye casos de control temático para evitar que iniciativas relevantes y antiguas, pero aún en seguimiento legislativo, queden fuera por la ventana temporal de descubrimiento.",
   "boletines": [
+    {
+      "boletin": "14773-02",
+      "nota": "Caso de control temático · crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa. Debe clasificar en financiamiento de la proliferación y bienes de uso dual."
+    },
+    {
+      "boletin": "16135-07",
+      "nota": "Caso de control temático · crea el Registro de Beneficiarios Finales de Fondos Públicos. Debe clasificar en beneficiario final y transparencia societaria."
+    },
     {
       "boletin": "18216-05",
       "nota": "Reconstrucción nacional y desarrollo económico y social · ómnibus de Hacienda, 38 artículos permanentes. Contenido relevante detectado por analista, no por el motor."
