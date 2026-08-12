@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-11T18:50:05.333059-04:00",
- "generado_legible": "11/08/2026 18:50",
+ "generado": "2026-08-11T22:22:02.452434-04:00",
+ "generado_legible": "11/08/2026 22:22",
  "version_motor": "1.0.0-tramitacion-legislativa",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -147,7 +147,7 @@
     "total": 5
    }
   ],
-  "generado": "2026-08-11T18:50:05.333059-04:00"
+  "generado": "2026-08-11T22:22:02.452434-04:00"
  },
  "proyectos": [
   {
@@ -3381,7 +3381,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
    "sintesis": "Discusión inmediata · Discusión veto en Cámara Revisora (Senado) · Cuenta oficio aprobación veto . Pasa a Comisión de Hacienda",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-11T18:50:05.333059-04:00"
   },
   {
@@ -4383,7 +4383,7 @@
    "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
    "fecha_ingreso": "2026-06-24T00:00:00-04:00",
    "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Discusión general",
+   "subetapa": "Boletín de indicaciones de Intereses Marítimos, Pesca y Acuicultura",
    "iniciativa": "Moción",
    "camara_origen": "Senado",
    "urgencia": "Simple",
@@ -4445,6 +4445,14 @@
      "fecha_legible": "11/08/2026",
      "sesion": "49/374",
      "descripcion": "Cuenta del Mensaje 256-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-11T00:00:00-04:00",
+     "fecha_legible": "11/08/2026",
+     "sesion": "49/374",
+     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 11/08/2026 a las 19:23",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
     }
@@ -4525,9 +4533,9 @@
    "ultimo_movimiento": "2026-08-11T00:00:00-04:00",
    "ultimo_movimiento_legible": "11/08/2026",
    "dias_sin_movimiento": 0,
-   "ultimo_tramite": "Cuenta del Mensaje 256-374 que hace presente la urgencia Simple",
+   "ultimo_tramite": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 11/08/2026 a las 19:23",
    "camara_actual": "Senado",
-   "total_tramites": 7,
+   "total_tramites": 8,
    "fecha_ingreso_legible": "24/06/2026",
    "antiguedad_dias": 48,
    "prioridad": 33.3,
@@ -4535,13 +4543,13 @@
    "factor_urgencia": 1.6,
    "factor_proximidad": 1.0,
    "factor_frescura": 1.3,
-   "huella": "ebf2adc57aae8d23f206",
+   "huella": "0404ad1819eba17709b5",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19092&prmBOLETIN=18420-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18420",
-   "sintesis": "Simple urgencia · Primer trámite constitucional (Senado) · Cuenta del Mensaje 256-374 que hace presente la urgencia Simple",
+   "sintesis": "Simple urgencia · Primer trámite constitucional (Senado) · Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 11/08/2026 a las 19:23",
    "novedad": "movimiento",
-   "novedad_detectada": "2026-08-11T18:50:05.333059-04:00"
+   "novedad_detectada": "2026-08-11T22:22:02.452434-04:00"
   },
   {
    "boletin": "17835-06",
@@ -8996,24 +9004,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-11T18:50:05.333059-04:00"
+   "revisado": "2026-08-11T22:22:02.452434-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-11T18:50:05.333059-04:00"
+   "revisado": "2026-08-11T22:22:02.452434-04:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-11T18:50:05.333059-04:00"
+   "revisado": "2026-08-11T22:22:02.452434-04:00"
   }
  ],
- "novedades": 2,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -9063,7 +9071,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 192,
+  "candidatos_descubiertos": 199,
   "boletines_consultados": 33,
   "fichas_obtenidas": 33,
   "consultas_fallidas": 0,
@@ -9071,21 +9079,21 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 2,
+  "novedades_corrida": 1,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 2,
+  "con_movimiento": 1,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 12,
    "cartera": 31,
-   "senado_movimiento": 164,
+   "senado_movimiento": 171,
    "camara_anno": 0
   },
   "cobertura_canales": [
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 164,
+    "resultados": 171,
     "errores": [],
     "consultado": true
    },
@@ -9121,6 +9129,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 12,
   "boletines_excluidos": 0,
-  "segundos_corrida": 62.4
+  "segundos_corrida": 64.3
  }
 }
