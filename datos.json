@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-12T15:07:53.477740-04:00",
- "generado_legible": "12/08/2026 15:07",
+ "generado": "2026-08-12T16:52:03.990341-04:00",
+ "generado_legible": "12/08/2026 16:52",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 7
    }
   ],
-  "generado": "2026-08-12T15:07:53.477740-04:00"
+  "generado": "2026-08-12T16:52:03.990341-04:00"
  },
  "proyectos": [
   {
@@ -571,7 +571,7 @@
    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
    "fecha_ingreso": "2026-04-22T00:00:00-04:00",
    "etapa": "Discusión veto en Cámara Revisora (Senado)",
-   "subetapa": "Cuenta informe de comisión",
+   "subetapa": "Discusión veto",
    "iniciativa": "Mensaje",
    "camara_origen": "C.Diputados",
    "urgencia": "Discusión inmediata",
@@ -1331,6 +1331,14 @@
      "descripcion": "Informe de comisión de Hacienda.",
      "etapa": "Discusión veto en Cámara Revisora",
      "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-12T00:00:00-04:00",
+     "fecha_legible": "12/08/2026",
+     "sesion": "50/374",
+     "descripcion": "Cuenta informe de comisión .",
+     "etapa": "Discusión veto en Cámara Revisora",
+     "camara": "Senado"
     }
    ],
    "urgencias": [
@@ -1431,6 +1439,12 @@
      "tramite": "Informe de Comisión Mixta Comisión Mixta para Boletín Nº 18216-05",
      "etapa": "Comisión Mixta por rechazo de modificaciones",
      "link": ""
+    },
+    {
+     "fecha": "2026-08-12T00:00:00-04:00",
+     "tramite": "Informe de comisión de Hacienda",
+     "etapa": "Discusión veto en Cámara Revisora",
+     "link": ""
     }
    ],
    "ministerios": [
@@ -1493,9 +1507,9 @@
    "ultimo_movimiento": "2026-08-12T00:00:00-04:00",
    "ultimo_movimiento_legible": "12/08/2026",
    "dias_sin_movimiento": 0,
-   "ultimo_tramite": "Informe de comisión de Hacienda.",
+   "ultimo_tramite": "Cuenta informe de comisión .",
    "camara_actual": "Senado",
-   "total_tramites": 94,
+   "total_tramites": 95,
    "fecha_ingreso_legible": "22/04/2026",
    "antiguedad_dias": 112,
    "prioridad": 185.6,
@@ -1503,13 +1517,13 @@
    "factor_urgencia": 3.0,
    "factor_proximidad": 1.4,
    "factor_frescura": 1.3,
-   "huella": "0b61ba58ea99c23f8884",
+   "huella": "c4132e93d2157fdb4cfa",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
-   "sintesis": "Discusión inmediata · Discusión veto en Cámara Revisora (Senado) · Informe de comisión de Hacienda.",
+   "sintesis": "Discusión inmediata · Discusión veto en Cámara Revisora (Senado) · Cuenta informe de comisión .",
    "novedad": "movimiento",
-   "novedad_detectada": "2026-08-12T15:07:53.477740-04:00"
+   "novedad_detectada": "2026-08-12T16:52:03.990341-04:00"
   },
   {
    "boletin": "17912-25",
@@ -2243,7 +2257,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=15272&prmBOLETIN=14773-02",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14773",
    "sintesis": "Simple urgencia · Segundo trámite constitucional (C.Diputados) · Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-12T15:07:53.477740-04:00"
   },
   {
@@ -4382,7 +4396,7 @@
      "fecha": "2026-08-11T00:00:00-04:00",
      "fecha_legible": "11/08/2026",
      "sesion": "49/374",
-     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 11/08/2026 a las 19:23",
+     "descripcion": "Discusión general . Aprobado en general",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
     }
@@ -4465,7 +4479,7 @@
    "ultimo_movimiento": "2026-08-11T00:00:00-04:00",
    "ultimo_movimiento_legible": "11/08/2026",
    "dias_sin_movimiento": 1,
-   "ultimo_tramite": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 11/08/2026 a las 19:23",
+   "ultimo_tramite": "Discusión general . Aprobado en general",
    "camara_actual": "Senado",
    "total_tramites": 8,
    "fecha_ingreso_legible": "24/06/2026",
@@ -4475,13 +4489,13 @@
    "factor_urgencia": 1.6,
    "factor_proximidad": 1.0,
    "factor_frescura": 1.3,
-   "huella": "0404ad1819eba17709b5",
+   "huella": "e3683f60c6e1121ab4c5",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19092&prmBOLETIN=18420-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18420",
-   "sintesis": "Simple urgencia · Primer trámite constitucional (Senado) · Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 11/08/2026 a las 19:23",
-   "novedad": "",
-   "novedad_detectada": "2026-08-11T22:22:02.452434-04:00"
+   "sintesis": "Simple urgencia · Primer trámite constitucional (Senado) · Discusión general . Aprobado en general",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-12T16:52:03.990341-04:00"
   },
   {
    "boletin": "16764-03",
@@ -11108,7 +11122,7 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-12T15:07:53.477740-04:00"
+   "revisado": "2026-08-12T16:52:03.990341-04:00"
   }
  ],
  "novedades": 2,
@@ -11162,7 +11176,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 158,
+  "candidatos_descubiertos": 163,
   "boletines_consultados": 42,
   "fichas_obtenidas": 42,
   "consultas_fallidas": 0,
@@ -11177,7 +11191,7 @@
   "canales": {
    "semillas": 15,
    "cartera": 42,
-   "senado_movimiento": 121,
+   "senado_movimiento": 126,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -11185,7 +11199,7 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 121,
+    "resultados": 126,
     "errores": [],
     "consultado": true
    },
@@ -11221,6 +11235,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 68.8
+  "segundos_corrida": 68.4
  }
 }
