@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-12T16:52:03.990341-04:00",
- "generado_legible": "12/08/2026 16:52",
+ "generado": "2026-08-12T18:47:43.165772-04:00",
+ "generado_legible": "12/08/2026 18:47",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 7
    }
   ],
-  "generado": "2026-08-12T16:52:03.990341-04:00"
+  "generado": "2026-08-12T18:47:43.165772-04:00"
  },
  "proyectos": [
   {
@@ -1522,7 +1522,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
    "sintesis": "Discusión inmediata · Discusión veto en Cámara Revisora (Senado) · Cuenta informe de comisión .",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-12T16:52:03.990341-04:00"
   },
   {
@@ -4399,6 +4399,14 @@
      "descripcion": "Discusión general . Aprobado en general",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-12T00:00:00-04:00",
+     "fecha_legible": "12/08/2026",
+     "sesion": "50/374",
+     "descripcion": "La Sala acuerda abrir un plazo para presentar indicaciones a este proyecto hasta las 12.00 horas del día 4 de septiembre de 2026, en la Secretaría del Senado",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
     }
    ],
    "urgencias": [
@@ -4476,12 +4484,12 @@
    "urgencia_legible": "Simple urgencia",
    "etapa_ordinal": 1,
    "vigente": true,
-   "ultimo_movimiento": "2026-08-11T00:00:00-04:00",
-   "ultimo_movimiento_legible": "11/08/2026",
-   "dias_sin_movimiento": 1,
-   "ultimo_tramite": "Discusión general . Aprobado en general",
+   "ultimo_movimiento": "2026-08-12T00:00:00-04:00",
+   "ultimo_movimiento_legible": "12/08/2026",
+   "dias_sin_movimiento": 0,
+   "ultimo_tramite": "La Sala acuerda abrir un plazo para presentar indicaciones a este proyecto hasta las 12.00 horas del día 4 de septiembre de 2026, en la Secretaría del Senado",
    "camara_actual": "Senado",
-   "total_tramites": 8,
+   "total_tramites": 9,
    "fecha_ingreso_legible": "24/06/2026",
    "antiguedad_dias": 49,
    "prioridad": 70.7,
@@ -4489,13 +4497,13 @@
    "factor_urgencia": 1.6,
    "factor_proximidad": 1.0,
    "factor_frescura": 1.3,
-   "huella": "e3683f60c6e1121ab4c5",
+   "huella": "b049fead3c5c50949fc2",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19092&prmBOLETIN=18420-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18420",
-   "sintesis": "Simple urgencia · Primer trámite constitucional (Senado) · Discusión general . Aprobado en general",
+   "sintesis": "Simple urgencia · Primer trámite constitucional (Senado) · La Sala acuerda abrir un plazo para presentar indicaciones a este proyecto hasta las 12.00 horas del día 4 de septiembre de 2026, en la Secretaría del Senado",
    "novedad": "movimiento",
-   "novedad_detectada": "2026-08-12T16:52:03.990341-04:00"
+   "novedad_detectada": "2026-08-12T18:47:43.165772-04:00"
   },
   {
    "boletin": "16764-03",
@@ -11122,10 +11130,10 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-12T16:52:03.990341-04:00"
+   "revisado": "2026-08-12T18:47:43.165772-04:00"
   }
  ],
- "novedades": 2,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11176,7 +11184,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 163,
+  "candidatos_descubiertos": 166,
   "boletines_consultados": 42,
   "fichas_obtenidas": 42,
   "consultas_fallidas": 0,
@@ -11184,14 +11192,14 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 1,
   "retenidos_para_revision_manual": 3,
-  "novedades_corrida": 2,
+  "novedades_corrida": 1,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 2,
+  "con_movimiento": 1,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
    "cartera": 42,
-   "senado_movimiento": 126,
+   "senado_movimiento": 129,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -11199,7 +11207,7 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 126,
+    "resultados": 129,
     "errores": [],
     "consultado": true
    },
@@ -11235,6 +11243,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 68.4
+  "segundos_corrida": 70.4
  }
 }

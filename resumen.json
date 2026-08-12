@@ -2,13 +2,13 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-12T16:52:03.990341-04:00",
-  "generado_legible": "12/08/2026 16:52",
+  "generado": "2026-08-12T18:47:43.165772-04:00",
+  "generado_legible": "12/08/2026 18:47",
   "proyectos_total": 42,
   "vigentes": 39,
   "movimientos_recientes": 5,
   "movimientos_30d": 11,
-  "novedades_corrida": 2,
+  "novedades_corrida": 1,
   "impacto_directo": 9,
   "con_urgencia": 7,
   "prioridad_alta": 6,
@@ -42,11 +42,11 @@
     },
     {
       "fecha": "2026-08-11",
-      "n": 2
+      "n": 1
     },
     {
       "fecha": "2026-08-12",
-      "n": 2
+      "n": 3
     }
   ],
   "alertas": [
@@ -70,7 +70,7 @@
       "severidad": "media",
       "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
       "detalle": "Boletín 18420-25 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
-      "fecha": "2026-08-11T00:00:00-04:00",
+      "fecha": "2026-08-12T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
       "fuente": "LEGISLATIVO"
     },
@@ -93,8 +93,8 @@
       "texto": "Boletín 14773-02: Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA"
     },
     {
-      "fecha": "2026-08-11T00:00:00-04:00",
-      "texto": "Boletín 18420-25: Discusión general . Aprobado en general"
+      "fecha": "2026-08-12T00:00:00-04:00",
+      "texto": "Boletín 18420-25: La Sala acuerda abrir un plazo para presentar indicaciones a este proyecto hasta las 12.00 horas del día 4 de septiembre de 2026, en la Secretaría del Senado"
     },
     {
       "fecha": "2026-08-11T00:00:00-04:00",
