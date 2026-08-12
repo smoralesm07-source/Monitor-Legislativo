@@ -4,6 +4,8 @@ on:
   schedule:
     # Barrido incremental cada 2 horas en días hábiles (UTC).
     - cron: "0 */2 * * 1-5"
+    # Barrido rápido adicional los sábados para mantener conciliación diaria.
+    - cron: "17 10 * * 6"
     # Conciliación profunda los domingos.
     - cron: "0 6 * * 0"
   workflow_dispatch:
@@ -67,24 +69,26 @@ jobs:
           echo "**Modo:** \`$MODO\`" >> "$GITHUB_STEP_SUMMARY"
 
       # ------------------------------------------------------------------
-      # Pruebas offline. Si el parser se rompe por un cambio de esquema, el
-      # workflow falla aquí en lugar de sobrescribir datos.json con basura.
+      # Pruebas offline. Si el parser o las extensiones de pertinencia se
+      # rompen, el workflow falla antes de sobrescribir datos.json.
       # ------------------------------------------------------------------
-      - name: Pruebas del motor (118 comprobaciones offline)
+      - name: Pruebas del motor base y extensiones
         run: |
           set -o pipefail
-          python test_monitor_legislativo.py | tee /tmp/pruebas.txt
+          python test_monitor_legislativo.py | tee /tmp/pruebas_base.txt
+          python test_monitor_extendido.py | tee /tmp/pruebas_ext.txt
           {
             echo ""
             echo "#### Pruebas del motor"
             echo '```'
-            tail -5 /tmp/pruebas.txt
+            tail -5 /tmp/pruebas_base.txt
+            tail -5 /tmp/pruebas_ext.txt
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 
       # ------------------------------------------------------------------
-      # Comprobación de los servicios del Congreso. Reemplaza al comando
-      # local que no puedes ejecutar: el resultado queda en el resumen del job.
+      # Comprobación de los servicios del Congreso. La capa extendida mantiene
+      # las mismas fuentes y suma conciliación diaria de Cámara.
       # ------------------------------------------------------------------
       - name: Comprobar servicios del Congreso
         if: steps.cfg.outputs.modo != 'probar_correo'
@@ -92,7 +96,7 @@ jobs:
         id: fuentes
         run: |
           set -o pipefail
-          python monitor_legislativo.py --validar-fuentes | tee /tmp/fuentes.json || true
+          python monitor_extendido.py --validar-fuentes | tee /tmp/fuentes.json || true
           {
             echo ""
             echo "#### Servicios del Congreso"
@@ -106,7 +110,7 @@ jobs:
         continue-on-error: true
         run: |
           set -o pipefail
-          python monitor_legislativo.py --probar-boletin 15975-25 | tee /tmp/ficha.json || true
+          python monitor_extendido.py --probar-boletin 15975-25 | tee /tmp/ficha.json || true
           {
             echo ""
             echo "#### Lectura y clasificación de un boletín real"
@@ -145,10 +149,13 @@ jobs:
           MONITOR_SMTP_USUARIO: ${{ secrets.MONITOR_SMTP_USUARIO }}
           MONITOR_SMTP_CLAVE: ${{ secrets.MONITOR_SMTP_CLAVE }}
           MONITOR_DESTINATARIOS: ${{ secrets.MONITOR_DESTINATARIOS }}
-          # Nivel máximo que dispara aviso: 1 solo la Ley 19.913, 2 suma el
-          # perímetro (delitos base y sujetos obligados), 3 todo.
+          # Reglas de correo SIN CAMBIOS: 1 solo la Ley 19.913.
           MONITOR_NIVEL_AVISO: "1"
-        run: python monitor_legislativo.py --modo "${{ steps.cfg.outputs.modo }}"
+          # Conciliación de Cámara: una vez por día, dos años de descubrimiento.
+          MONITOR_ANNOS_CAMARA_DIARIO: "2"
+          MONITOR_CAMARA_REVISION_NUEVOS_DIAS: "60"
+          MONITOR_CAMARA_REVISION_CONCILIACION_DIAS: "540"
+        run: python monitor_extendido.py --modo "${{ steps.cfg.outputs.modo }}"
 
       - name: Generar resumen ejecutivo para Centro-Monitoreo
         if: steps.cfg.outputs.modo == 'rapido' || steps.cfg.outputs.modo == 'conciliacion'
@@ -191,6 +198,10 @@ jobs:
               ("Segundos", a.get("segundos_corrida", 0)),
           ]:
               print(f"| {k} | {v} |")
+          canales = a.get("canales", {})
+          if canales:
+              print(f"| Conciliación Cámara | {canales.get('camara_conciliacion_diaria','')} |")
+              print(f"| Registros Cámara diarios | {canales.get('camara_diaria_resultados', 0)} |")
           top = sorted(d.get("proyectos", []), key=lambda p: -(p.get("prioridad") or 0))[:10]
           if top:
               print("\n#### Diez proyectos de mayor prioridad\n")
