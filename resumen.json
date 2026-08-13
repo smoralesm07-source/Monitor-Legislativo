@@ -2,21 +2,21 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-13T15:09:08.682133-04:00",
-  "generado_legible": "13/08/2026 15:09",
+  "generado": "2026-08-13T16:49:48.045863-04:00",
+  "generado_legible": "13/08/2026 16:49",
   "proyectos_total": 42,
   "vigentes": 39,
   "movimientos_recientes": 4,
   "movimientos_30d": 10,
-  "novedades_corrida": 0,
+  "novedades_corrida": 8,
   "impacto_directo": 9,
   "con_urgencia": 7,
-  "prioridad_alta": 4,
+  "prioridad_alta": 5,
   "estancados_180d": 17,
   "ultimo": {
-    "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-    "detalle": "Boletín 14773-02 · 12/08/2026 · Segundo trámite constitucional (C.Diputados)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
+    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+    "detalle": "Boletín 18216-05 · 12/08/2026 · Trámite finalización en Cámara de Origen (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
     "fecha": "2026-08-12T00:00:00-04:00"
   },
   "serie_7d": [
@@ -52,6 +52,14 @@
   "alertas": [
     {
       "severidad": "alta",
+      "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+      "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Discusión inmediata",
+      "fecha": "2026-08-12T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "alta",
       "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
       "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
       "fecha": "2026-08-12T00:00:00-04:00",
@@ -60,16 +68,8 @@
     },
     {
       "severidad": "media",
-      "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-      "detalle": "Boletín 18216-05 · Nivel 3 · Seguimiento · Discusión inmediata",
-      "fecha": "2026-08-12T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "media",
       "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
-      "detalle": "Boletín 18420-25 · Nivel 3 · Seguimiento · Simple urgencia",
+      "detalle": "Boletín 18420-25 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
       "fecha": "2026-08-12T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
       "fuente": "LEGISLATIVO"
@@ -86,11 +86,11 @@
   "actividad": [
     {
       "fecha": "2026-08-12T00:00:00-04:00",
-      "texto": "Boletín 14773-02: Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA"
+      "texto": "Boletín 18216-05: Oficio aprobación veto a Cámara de Origen ."
     },
     {
       "fecha": "2026-08-12T00:00:00-04:00",
-      "texto": "Boletín 18216-05: Oficio aprobación veto a Cámara de Origen ."
+      "texto": "Boletín 14773-02: Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA"
     },
     {
       "fecha": "2026-08-12T00:00:00-04:00",
