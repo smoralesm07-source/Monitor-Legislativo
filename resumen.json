@@ -2,8 +2,8 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-12T18:47:43.165772-04:00",
-  "generado_legible": "12/08/2026 18:47",
+  "generado": "2026-08-12T22:24:17.627629-04:00",
+  "generado_legible": "12/08/2026 22:24",
   "proyectos_total": 42,
   "vigentes": 39,
   "movimientos_recientes": 5,
@@ -15,7 +15,7 @@
   "estancados_180d": 17,
   "ultimo": {
     "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-    "detalle": "Boletín 18216-05 · 12/08/2026 · Discusión veto en Cámara Revisora (Senado)",
+    "detalle": "Boletín 18216-05 · 12/08/2026 · Trámite finalización en Cámara de Origen (C.Diputados)",
     "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
     "fecha": "2026-08-12T00:00:00-04:00"
   },
@@ -86,7 +86,7 @@
   "actividad": [
     {
       "fecha": "2026-08-12T00:00:00-04:00",
-      "texto": "Boletín 18216-05: Cuenta informe de comisión ."
+      "texto": "Boletín 18216-05: Oficio aprobación veto a Cámara de Origen ."
     },
     {
       "fecha": "2026-08-12T00:00:00-04:00",

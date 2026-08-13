@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-12T18:47:43.165772-04:00",
- "generado_legible": "12/08/2026 18:47",
+ "generado": "2026-08-12T22:24:17.627629-04:00",
+ "generado_legible": "12/08/2026 22:24",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 7
    }
   ],
-  "generado": "2026-08-12T18:47:43.165772-04:00"
+  "generado": "2026-08-12T22:24:17.627629-04:00"
  },
  "proyectos": [
   {
@@ -570,8 +570,8 @@
    "boletin": "18216-05",
    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
    "fecha_ingreso": "2026-04-22T00:00:00-04:00",
-   "etapa": "Discusión veto en Cámara Revisora (Senado)",
-   "subetapa": "Discusión veto",
+   "etapa": "Trámite finalización en Cámara de Origen (C.Diputados)",
+   "subetapa": "Cuenta oficio aprobación veto",
    "iniciativa": "Mensaje",
    "camara_origen": "C.Diputados",
    "urgencia": "Discusión inmediata",
@@ -1339,6 +1339,22 @@
      "descripcion": "Cuenta informe de comisión .",
      "etapa": "Discusión veto en Cámara Revisora",
      "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-12T00:00:00-04:00",
+     "fecha_legible": "12/08/2026",
+     "sesion": "50/374",
+     "descripcion": "Discusión veto . Aprobado",
+     "etapa": "Discusión veto en Cámara Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-12T00:00:00-04:00",
+     "fecha_legible": "12/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio aprobación veto a Cámara de Origen .",
+     "etapa": "Discusión veto en Cámara Revisora",
+     "camara": "Senado"
     }
    ],
    "urgencias": [
@@ -1507,9 +1523,9 @@
    "ultimo_movimiento": "2026-08-12T00:00:00-04:00",
    "ultimo_movimiento_legible": "12/08/2026",
    "dias_sin_movimiento": 0,
-   "ultimo_tramite": "Cuenta informe de comisión .",
+   "ultimo_tramite": "Oficio aprobación veto a Cámara de Origen .",
    "camara_actual": "Senado",
-   "total_tramites": 95,
+   "total_tramites": 97,
    "fecha_ingreso_legible": "22/04/2026",
    "antiguedad_dias": 112,
    "prioridad": 185.6,
@@ -1517,13 +1533,13 @@
    "factor_urgencia": 3.0,
    "factor_proximidad": 1.4,
    "factor_frescura": 1.3,
-   "huella": "c4132e93d2157fdb4cfa",
+   "huella": "fe88c573eba0f1e07979",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
-   "sintesis": "Discusión inmediata · Discusión veto en Cámara Revisora (Senado) · Cuenta informe de comisión .",
-   "novedad": "",
-   "novedad_detectada": "2026-08-12T16:52:03.990341-04:00"
+   "sintesis": "Discusión inmediata · Trámite finalización en Cámara de Origen (C.Diputados) · Oficio aprobación veto a Cámara de Origen .",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-12T22:24:17.627629-04:00"
   },
   {
    "boletin": "17912-25",
@@ -4502,7 +4518,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19092&prmBOLETIN=18420-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18420",
    "sintesis": "Simple urgencia · Primer trámite constitucional (Senado) · La Sala acuerda abrir un plazo para presentar indicaciones a este proyecto hasta las 12.00 horas del día 4 de septiembre de 2026, en la Secretaría del Senado",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-12T18:47:43.165772-04:00"
   },
   {
@@ -11130,7 +11146,7 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-12T18:47:43.165772-04:00"
+   "revisado": "2026-08-12T22:24:17.627629-04:00"
   }
  ],
  "novedades": 1,
@@ -11243,6 +11259,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 70.4
+  "segundos_corrida": 71.3
  }
 }
