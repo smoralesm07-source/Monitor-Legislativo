@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-13T01:44:11.158787-04:00",
- "generado_legible": "13/08/2026 01:44",
+ "generado": "2026-08-13T03:41:42.956849-04:00",
+ "generado_legible": "13/08/2026 03:41",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 7
    }
   ],
-  "generado": "2026-08-13T01:44:11.158787-04:00"
+  "generado": "2026-08-13T03:41:42.956849-04:00"
  },
  "proyectos": [
   {
@@ -1481,8 +1481,7 @@
    "canales_descubrimiento": [
     "semilla",
     "cartera",
-    "senado_movimiento",
-    "camara_anno"
+    "senado_movimiento"
    ],
    "id": "9b68e4e65b2ab18e",
    "puntaje_pertinencia": 28.0,
@@ -1675,8 +1674,7 @@
    "texto_camara_completo": "18569 17912-25 Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos 2025-10-10T00:00:00 Moción Cámara de Diputados 0 1009 Jorge Alessandri Vergara 0 1044 Raúl Leiva Carvajal 0 1046 Andrés Longton Herrera 0 1067 Hugo Rey Martínez 0 1075 Diego Schalper Sepúlveda 0 1019 José Miguel Castro Bascuñán 0 1099 Jaime Araya Guerrero 0 1134 Andrés Jouannet Valderrama 0 1152 Gloria Naveillan Arriagada 0 1100 Cristián Araya Lerdo de Tejada true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17912-25",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "80d2ea7de230a503",
    "puntaje_pertinencia": 316.0,
@@ -4130,8 +4128,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18373-07",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "bf99bac3167f7b32",
    "puntaje_pertinencia": 300.0,
@@ -4284,8 +4281,7 @@
    "texto_camara_completo": "18599 17943-25 Modifica cuerpos legales que indica para permitir, a la Unidad de Análisis Financiero, acceder a información bancaria de ciertas autoridades sin orden judicial previa 2025-05-19T00:00:00 Moción Cámara de Diputados 0 990 Daniel Melo Contreras 0 1044 Raúl Leiva Carvajal 0 1073 Juan Santana Castillo 0 975 Daniella Cicardini Milla 0 1038 Marcos Ilabaca Cerda 0 1181 Nelson Venegas Salazar 0 1142 Daniel Manouchehri Lobos 0 1103 Danisa Astudillo Peiretti 0 1185 Arturo Barrios Oteíza true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17943-25",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "8cff1dd109fe79cc",
    "puntaje_pertinencia": 236.0,
@@ -4474,8 +4470,7 @@
    "canales_descubrimiento": [
     "semilla",
     "cartera",
-    "senado_movimiento",
-    "camara_anno"
+    "senado_movimiento"
    ],
    "id": "9ea5d77fee565cf7",
    "puntaje_pertinencia": 32.0,
@@ -5055,8 +5050,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18573-25",
    "canales_descubrimiento": [
     "cartera",
-    "senado_movimiento",
-    "camara_anno"
+    "senado_movimiento"
    ],
    "id": "e9b6238012169647",
    "puntaje_pertinencia": 32.0,
@@ -5176,8 +5170,7 @@
    "texto_camara_completo": "19135 18460-07 Modifica la Constitución Política para establecer un régimen transitorio de apoyo de las fuerzas armadas a las policías en labores de seguridad pública y combate al crimen organizado 2026-07-06T19:30:57 Moción Cámara de Diputados 0 843 René Manuel García García 0 1021 Andrés Celis Montt 0 1059 Ximena Ossandón Irarrázabal 0 1060 Luis Pardo Sáinz 0 1028 Eduardo Durán Salinas 0 1075 Diego Schalper Sepúlveda 0 1108 Juan Carlos Beltrán Silva 0 1131 Mauro González Villarroel 0 1237 Francisco Orrego Gutiérrez 0 1219 Tomás Kast Sommerhoff true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18460-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "3ddaed3c685fa827",
    "puntaje_pertinencia": 32.0,
@@ -5290,8 +5283,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18488-07",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "dd8debf4ea849c38",
    "puntaje_pertinencia": 32.0,
@@ -5662,8 +5654,7 @@
    "texto_camara_completo": "18807 18144-07 Modifica el Código Procesal Penal, para fortalecer la persecución penal del crimen organizado y regular el juicio oral en ausencia del imputado 2026-03-25T00:00:00 Moción Senado 0 911 Carlos Ignacio Kuschel Silva 0 1117 Iván Moreira Barros 0 1330 Iván Flores García 0 1337 Paulina Núñez Urrutia 0 1339 Gastón Saavedra Chandía true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18144-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "7c87f3be4f08b415",
    "puntaje_pertinencia": 32.0,
@@ -5808,8 +5799,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18217-07",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "d28816cac6bf9370",
    "puntaje_pertinencia": 32.0,
@@ -5935,8 +5925,7 @@
    "texto_camara_completo": "19011 18333-07 Modifica diversos cuerpos legales, con el objeto de sancionar penalmente el reclutamiento de personas por parte de una asociación delictiva o criminal 2026-06-10T00:00:00 Moción Senado 0 1117 Iván Moreira Barros 0 1324 Karim Bianchi Retamales 0 1337 Paulina Núñez Urrutia 0 1339 Gastón Saavedra Chandía 0 1450 Paulina Vodanovic Rojas true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18333-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "5141da866ef863d2",
    "puntaje_pertinencia": 32.0,
@@ -6049,8 +6038,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18369-07",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "022f13e1bf19d971",
    "puntaje_pertinencia": 32.0,
@@ -6166,8 +6154,7 @@
    "texto_camara_completo": "19080 18395-07 Sanciona penalmente la usura y la obtención de lucro en las contrataciones con el Estado en situaciones de emergencia o catástrofe 2026-06-16T00:00:00 Moción Cámara de Diputados 0 1038 Marcos Ilabaca Cerda 0 1159 Lorena Pizarro Sierra 0 1180 Consuelo Veloso Ávila 0 1128 Ana María Gazmuri Vieira 0 1224 Cristian Mella Andaur 0 1211 Sofía González Cortés 0 1226 José Montalva Feuerhake 0 1189 Jaime Bassa Mercado 0 1213 Irací Hassler Jacob 0 1188 Marcos Barraza Gómez true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18395-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "0f1646badb9713ab",
    "puntaje_pertinencia": 32.0,
@@ -6270,8 +6257,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18407-25",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "a2afa16efcdd8cf0",
    "puntaje_pertinencia": 64.0,
@@ -6385,8 +6371,7 @@
    "texto_camara_completo": "19110 18416-07 Modifica el Código Penal para hacer aplicable la imprescriptibilidad de la acción penal a todos los casos de trata de personas contra víctimas menores de edad y establecer reglas especiales de protección penal 2026-06-23T00:00:00 Moción Cámara de Diputados 0 1039 Pamela Jiles Moreno 0 1054 Francesca Muñoz González 0 1028 Eduardo Durán Salinas 0 1119 Sara Concha Smith 0 1133 Juan Irarrázaval Rossel 0 1184 Roberto Celedón Fernández 0 1237 Francisco Orrego Gutiérrez true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18416-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "d9dbdcfa374078d6",
    "puntaje_pertinencia": 32.0,
@@ -6534,8 +6519,7 @@
    "texto_camara_completo": "19127 18443-07 Crea el Registro Nacional de Condenados por Delitos Económicos y establece restricciones a beneficios estatales para quienes los cometen 2026-06-24T14:34:55 Moción Cámara de Diputados 0 1077 Raúl Soto Mardones 0 1087 Gael Yeomans Araya 0 1105 Héctor Barría Angulo 0 1142 Daniel Manouchehri Lobos 0 1116 Felipe Camaño Cárdenas 0 1259 Juan Marcelo Valenzuela Henríquez 0 1238 Álvaro Ortiz Vera 0 1224 Cristian Mella Andaur 0 1208 Jorge Díaz Ibarra 0 1241 Patricio Pinilla Valencia true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18443-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "979da7062509e787",
    "puntaje_pertinencia": 32.0,
@@ -6663,8 +6647,7 @@
    "texto_camara_completo": "18489 17835-06 Modifica la Ley de Tránsito, en materia de decomiso de mercaderías y de subasta de vehículos retirados de circulación 2025-09-10T00:00:00 Moción Senado 0 1341 Alejandra Sepúlveda Orbenes 0 1343 Esteban Velásquez Núñez true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17835-06",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "688ee3f1969d92eb",
    "puntaje_pertinencia": 64.0,
@@ -6768,8 +6751,7 @@
    "texto_camara_completo": "18535 17881-25 Modifica diversos cuerpos legales con el objeto de prevenir y sancionar la extorsión y el secuestro exprés, y mejorar la trazabilidad de remesas vinculadas al crimen organizado 2025-09-26T00:00:00 Moción Cámara de Diputados 0 1059 Ximena Ossandón Irarrázabal 0 1019 José Miguel Castro Bascuñán true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17881-25",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "207716662ac2d29b",
    "puntaje_pertinencia": 48.0,
@@ -6877,8 +6859,7 @@
    "texto_camara_completo": "18715 18053-07 Modifica diversos cuerpos legales para prevenir y sancionar con mayor severidad el uso del crédito prendario para lavado de activos 2026-01-12T00:00:00 Moción Cámara de Diputados 0 1152 Gloria Naveillan Arriagada true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18053-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "54783418c224bc68",
    "puntaje_pertinencia": 64.0,
@@ -6983,8 +6964,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18080-03",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "549f2c9d43daf111",
    "puntaje_pertinencia": 64.0,
@@ -7089,8 +7069,7 @@
    "texto_camara_completo": "18885 18219-07 Modifica cuerpos legales que indica para extender el estatuto de protección al denunciante de delitos de corrupción y criminalidad económica 2026-04-22T00:00:00 Moción Cámara de Diputados 0 1200 Cristian Contreras Radovic true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18219-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "751a76149907f587",
    "puntaje_pertinencia": 32.0,
@@ -7196,8 +7175,7 @@
    "texto_camara_completo": "18068 17432-07 Modifica el Código Penal y el Código Procesal Penal en materia de comiso sin condena previa 2025-03-24T00:00:00 Moción Cámara de Diputados 0 872 Jaime Mulet Martínez 0 973 Karol Cariola Oliva 0 1038 Marcos Ilabaca Cerda 0 1134 Andrés Jouannet Valderrama 0 1155 Rubén Darío Oyarzo Figueroa true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17432-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "24d58c518528ba31",
    "puntaje_pertinencia": 64.0,
@@ -7299,8 +7277,7 @@
    "texto_camara_completo": "18078 17446-17 Establece y regula la debida diligencia de las empresas en el respeto a los derechos humanos, el medio ambiente y el cambio climático 2025-04-03T00:00:00 Moción Senado 0 985 Isabel Allende Bussi true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17446-17",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "c208c749e4d5d678",
    "puntaje_pertinencia": 64.0,
@@ -7420,8 +7397,7 @@
    "texto_camara_completo": "18152 17515-07 Modifica distintos cuerpos legales para agravar las penas aplicables a los delitos de maltrato habitual, tráfico ilícito de migrantes y trata de personas, y reduce el plazo para formular denuncia en casos que indica 2025-04-22T00:00:00 Moción Cámara de Diputados 0 74 Jaime Naranjo Ortiz 0 990 Daniel Melo Contreras 0 1044 Raúl Leiva Carvajal 0 1056 Emilia Nuyado Ancapichun 0 1073 Juan Santana Castillo 0 1038 Marcos Ilabaca Cerda 0 1124 Tomás De Rementería Venegas 0 1181 Nelson Venegas Salazar 0 1103 Danisa Astudillo Peiretti 0 1112 Ana María Bravo Castro true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17515-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "bc332ed625b5da38",
    "puntaje_pertinencia": 64.0,
@@ -7554,8 +7530,7 @@
    "texto_camara_completo": "18160 17520-17 Establece la obligación de incorporar la debida diligencia en derechos humanos a las empresas que operen en territorio nacional 2025-05-05T00:00:00 Moción Cámara de Diputados 0 1037 Diego Ibáñez Cotroneo 0 1068 Camila Rojas Valderrama 0 1087 Gael Yeomans Araya 0 1177 Carolina Tello Rojas 0 1107 María Francisca Bello Campos 0 1127 Lorena Fries Monleón 0 1167 Jaime Sáez Quiroz 0 1169 Clara Sagardía Cabezas 0 1129 Andrés Giordano Salazar 0 1184 Roberto Celedón Fernández true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17520-17",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "07dec5631b5fcdbf",
    "puntaje_pertinencia": 64.0,
@@ -7671,8 +7646,7 @@
    "texto_camara_completo": "19030 18353-07 Conmutación de penas 2026-06-09T00:00:00 Moción Cámara de Diputados 0 1060 Luis Pardo Sáinz 0 1152 Gloria Naveillan Arriagada 0 1104 Chiara Barchiesi Chávez 0 1219 Tomás Kast Sommerhoff 0 1217 Pier Karlezi Hazleby 0 1234 Mario Olavarría Rodríguez 0 1193 Patricio Briones Moller 0 1190 Enrique Bassaletti Riess true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18353-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "da4e6c909fdc000c",
    "puntaje_pertinencia": 0.0,
@@ -11171,665 +11145,7 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18384-08",
-   "titulo": "Ley de protección tarifaria eléctrica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18031-24",
-   "titulo": "Ley sobre fomento a las artes de la visualidad",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "17611-15",
-   "titulo": "Regula el uso del espacio público",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "17870-05",
-   "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18579-07",
-   "titulo": "Modifica el Código Penal, para incorporar los delitos de atentados graves contra la dignidad y la igualdad e incitación pública al odio",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18580-07",
-   "titulo": "Modifica el artículo 101 de la Carta Fundamental, con el objeto de establecer la inhabilidad que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18577-03",
-   "titulo": "Modifica la ley N° 20.720, que sustituye el régimen concursal vigente por una ley de reorganización y liquidación de empresas y personas, y perfecciona el rol de la superintendencia del ramo, en los términos que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18572-07",
-   "titulo": "Modifica el Código Penal, con el objeto de tipificar la incitación pública o apología a la explotación, abuso sexual o pornografía infantil, y consagrar una circunstancia agravante en el caso de que la víctima posea una condición de discapacidad o neurodivergencia",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18558-25",
-   "titulo": "Modifica diversos cuerpos legales, con el objeto de establecer la obligación de entrega o puesta en ejecución de claves de descifrado, y de sancionar penalmente su incumplimiento",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18574-25",
-   "titulo": "Modifica el Código Penal para tipificar supuestos de tenencia de armas cortantes o punzantes en establecimientos penitenciarios",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18567-07",
-   "titulo": "Modifica la Constitución Política para permitir a las Cámaras del Congreso Nacional solicitar el trámite de urgencia en la discusión de mociones",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18568-07",
-   "titulo": "Modifica el Código Penal para sancionar supuestos de acceso a sustancias o medicamentos abortivos",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18569-06",
-   "titulo": "Modifica la ley N°20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, para disponer como inhabilidad temporal para acceder a la función pública el haber patrocinado la defensa de imputados por infracciones a esa ley",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18570-07",
-   "titulo": "Modifica la Constitución Política para incorporar al Fiscal Nacional y a los fiscales regionales del Ministerio Público como sujetos acusables constitucionalmente por notable abandono de deberes",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18576-06",
-   "titulo": "Modifica la Ley sobre Rentas Municipales para ampliar el plazo de vigencia de las patentes municipales provisorias",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18557-03",
-   "titulo": "Modifica diversos cuerpos legales, con el objeto de regular la revocación de autorizaciones de cobros recurrentes",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18562-07",
-   "titulo": "Establece controles obligatorios sobre consumo de drogas y una causal de cesación en el cargo de las autoridades y directivos superiores que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18563-07",
-   "titulo": "Incorpora en el Código Penal el delito de apología pública a la discriminación, el maltrato y el abuso sexual en contra de niños, niñas, adolescentes y personas con discapacidad",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18564-07",
-   "titulo": "Impide temporalmente el alza en el valor del avalúo fiscal de los inmuebles residenciales por la instalación de paneles solares",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18565-03",
-   "titulo": "Incrementa la información sobre cobros en estados de cuenta y el control de cargos recurrentes en medios de pago",
-   "puntaje_pertinencia": 16.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18566-07",
-   "titulo": "Dispone un sistema general de control de consumo de drogas en las autoridades que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18524-05",
-   "titulo": "Extiende vigencia y aumenta cobertura de la ley N° 21.748 y modifica normas que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18525-06",
-   "titulo": "Modifica la ley N° 21.802, que fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18541-06",
-   "titulo": "Modifica el Código Penal para incorporar una agravante en caso de robo o hurto cometido durante situaciones de desastre natural o evacuación preventiva",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18544-06",
-   "titulo": "Sanciona la celebración de matrimonios y acuerdos de unión civil destinados a obtener beneficios estatales o residencia en el país",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18545-07",
-   "titulo": "Modifica la Constitución Política para establecer un estatuto especial de aplicación de la ley penal a imputados rebeldes",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18552-07",
-   "titulo": "Modifica el numeral 24° del artículo 19, con el objeto de consagrar la recuperación y uso social de los bienes inmuebles abandonados.",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18540-06",
-   "titulo": "Modifica la ley N°19.638, sobre constitución jurídica de las iglesias y organizaciones religiosas, para simplificar la obtención de la personalidad jurídica de las entidades religiosas y garantizar su igualdad de trato ante los órganos del Estado.",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18521-07",
-   "titulo": "Modifica la Constitución Política para incorporar una causal de cesación e incompatibilidad por detección de sustancias estupefacientes o sicotrópicas ilícitas",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18537-06",
-   "titulo": "Tipifica la simulacion al celebrar de matrimonios o acuerdos de unión civil con fines migratorios",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18536-07",
-   "titulo": "Modifica el Código Penal para tipificar el delito de ofensa racial y agravar su pena en las circunstancias que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18535-07",
-   "titulo": "Modifica el Código Civil para disponer la servidumbre legal de tránsito en casos que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18526-07",
-   "titulo": "Establece una nueva causal de cesación en el cargo de diputado o senador y de otras autoridades que indica, por detección de consumo de sustancias estupefacientes o psicotrópicas de carácter ilícito, sin justificación médica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18505-06",
-   "titulo": "Iniciado en moción de los Honorables Senadores señor Flores y señoras Astudillo, Núñez y Vodanovic, con la que inician un proyecto de ley, que modifica la ley N° 21.325, de Migración y Extranjería, con el objeto de sancionar penalmente la celebración de matrimonios o acuerdos de unión civil con fines migratorios",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18533-07",
-   "titulo": "Sanciona la difusión pública de instrucciones para el abuso y la explotación sexual de niños, niñas y adolescentes y la apología de tales delitos",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18532-06",
-   "titulo": "Rehabilita la nacionalidad chilena a Adolfo José Ochagavía Hubner",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18530-02",
-   "titulo": "Modifica las sanciones a los delitos de espionaje y protege la información estratégica del Estado",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18531-03",
-   "titulo": "Crea un marco de protección de activos estratégicos para la seguridad nacional y económica del país",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18520-07",
-   "titulo": "Modifica la Constitución Política en cuanto a la regulación del pago de dieta y asignaciones a congresistas desaforados",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18518-06",
-   "titulo": "Modifica aspectos procesales en el otorgamiento de pensiones de gracia",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18514-07",
-   "titulo": "Protege la integridad psíquica de los funcionarios que participen como agentes encubiertos o reveladores en investigaciones de delitos sexuales contra niños, niñas y adolescentes",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18513-03",
-   "titulo": "Modifica las leyes N° 19.496, sobre protección de los derechos de los consumidores, y N° 18.290, de Tránsito, para garantizar la alternativa de pago presencial por el servicio de estacionamiento en la vía pública",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18512-03",
-   "titulo": "Incorpora una leyenda informativa obligatoria en la publicidad creada, sustancialmente, mediante inteligencia artificial",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18510-07",
-   "titulo": "Modifica el Código Penal en materia de trabajo forzoso y dispone reglas sobre trazabilidad de productos",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18511-07",
-   "titulo": "Incorpora a las víctimas de los delitos de estafa y otros engaños como personas de atención prioritaria en el Servicio Nacional de Acceso a la Justicia y Defensoría de Víctimas",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18502-07",
-   "titulo": "Modifica el artículo 52 de la Carta Fundamental, en materia de acusación constitucional",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18538-07",
-   "titulo": "Regula la tramitación de las acciones constitucionales de protección y de amparo",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18506-07",
-   "titulo": "Modifica el Código Penal para sancionar la simulación de la calidad de integrante de las fuerzas de Orden y Seguridad Pública",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18489-07",
-   "titulo": "Modifica diversos cuerpos legales con el objeto de tipificar el delito de encubrimiento",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18491-03",
-   "titulo": "Modifica la ley N° 20.423, del sistema institucional para el desarrollo del turismo, con el objeto de establecer la obligación de los prestadores de servicios de alojamiento turístico de cumplir con la infraestructura de asistencia y seguridad para las personas mayores",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18499-02",
-   "titulo": "Modifica la ley N°21.280, sobre el ámbito de aplicación del procedimiento de tutela laboral, para excluir a los funcionarios de las fuerzas Armadas, y de Orden y Seguridad Pública, de tales procedimientos",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18496-06",
-   "titulo": "Resguarda el uso común de los bienes nacionales de uso público ante ocupaciones mediante estructuras precarias, según criterios de proporcionalidad y no discriminación",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18494-06",
-   "titulo": "Elimina en la ley N°18.834, sobre Estatuto Administrativo, la compatibilidad de ser titular de cargos de planta y ejercer cargos de exclusiva confianza en casos que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18493-07",
-   "titulo": "Modifica la ley N°19.640, orgánica constitucional del Ministerio Público, para disponer la inhabilidad de exfiscales para asumir cargos de exclusiva confianza de S.E. el Presidente de la República",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18490-06",
-   "titulo": "Modifica la ley Nº18.834, sobre Estatuto Administrativo, para consagrar el principio de neutralidad política y reforzar la prohibición de discriminación en la función pública",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18470-07",
-   "titulo": "Modifica la disposición octava transitoria de la Carta Fundamental, con el objeto de aplicar la normativa relativa a la reforma procesal penal a los hechos ocurridos con anterioridad a su entrada en vigencia",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18485-07",
-   "titulo": "Modifica el Código Penal para incorporar la pena de clausura de establecimientos físicos y espacios digitales",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18482-07",
-   "titulo": "Modifica la Constitución Política para impedir la participación de autoridades en procesos de formación de leyes de cuya ejecución obtengan un incremento patrimonial significativo",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18481-07",
-   "titulo": "Modifica las leyes Nº 20.880, 18.575 y 18.918, para fortalecer la probidad e integridad pública en Chile",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18465-03",
-   "titulo": "Modifica la ley N° 19.496, que establece normas sobre protección de los derechos de los consumidores, con el objeto de regular la devolución del monto pagado ante la cancelación, suspensión, postergación o modificación de condiciones esenciales de un espectáculo público o evento masivo",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18446-07",
-   "titulo": "Tiene por objeto ampliar la aplicación de la circunstancia eximente de responsabilidad penal de la legítima defensa al caso que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18486-03",
-   "titulo": "Modifica la ley N°18.490, sobre seguro obligatorio de accidentes personales causados por circulación de vehículos motorizados, para incrementar el monto de los reembolsos por gastos médicos",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18480-07",
-   "titulo": "Modifica la ley N° 18.918, orgánica constitucional del Congreso Nacional, para obligar a diputadas, diputados, senadoras y senadores a rendir una cuenta pública, de carácter anual e individual, sobre su gestión parlamentaria",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18479-07",
-   "titulo": "Modifica la ley N°20.886, sobre tramitación electrónica de los procedimientos judiciales, para habilitar la tramitación de los juicios arbitrales de partición de bienes y de liquidación de la sociedad conyugal a través de la Oficina Judicial Virtual",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18477-07",
-   "titulo": "Modifica la Constitución Política en lo relativo a procedimientos de acusación constitucional e interpelación",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18475-06",
-   "titulo": "Dispone incompatibilidades para el ejercicio simultáneo de cargos de elección popular y funciones públicas remuneradas",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18476-03",
-   "titulo": "Modifica la ley N°19.496, sobre protección de los derechos de los consumidores, para evitar la generación de cobros improcedentes con posterioridad al fallecimiento del titular de contratos de tracto sucesivo o de ejecución continua",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18445-07",
-   "titulo": "Incorpora la figura del contexto operativo en materia de fundamentación de resoluciones judiciales y de actuaciones del Ministerio Público, en los casos que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18452-02",
-   "titulo": "Modifica el decreto ley N° 2.460, de 1979, que dicta Ley Orgánica de Policía de Investigaciones de Chile, con el objeto de ampliar la autorización para portar armas a los funcionarios en retiro que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18473-03",
-   "titulo": "Fortalece la transparencia de los créditos hipotecarios con apoyo estatal y dispone como antecedente crediticio el comportamiento de pago de canon de arrendamiento",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18471-07",
-   "titulo": "Faculta a las policías a practicar controles preventivos de identidad a mayores de catorce años",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18442-07",
-   "titulo": "Modifica diversos cuerpos legales, con el objeto de agravar las sanciones en el caso de entrega o exhibición de material pornográfico e inadecuado a menores de catorce años",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18439-02",
-   "titulo": "Modifica el decreto ley N°3.356, de 1980, para permitir el porte de armas de fuego al personal en retiro de Carabineros de Chile, en las condiciones que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18440-03",
-   "titulo": "Modifica la ley N° 19.496, que establece normas sobre protección de los derechos de los consumidores, con el objeto de fortalecer el resguardo de los asistentes a eventos públicos ante la modificación de las condiciones ofrecidas por sus organizadores",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18441-03",
-   "titulo": "Modifica la ley N° 20.009, con el objeto de promover la aplicación de criterios de accesibilidad e inclusión financiera en procedimientos de autenticación de usuarios en transacciones electrónicas",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18438-02",
-   "titulo": "Modifica el decreto ley N° 2.460, de 1979, que dicta Ley Orgánica de Policía de Investigaciones de Chile, con el objeto de autorizar el porte de armas de fuego al personal en retiro que señala",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18458-07",
-   "titulo": "Facilita el acceso a la justicia a turistas extranjeros víctimas de delitos en el territorio nacional",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18456-06",
-   "titulo": "Dispone como falta a la probidad la no devolución de remuneraciones percibidas en caso de rechazo de licencia médica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18455-07",
-   "titulo": "Restringe la sustitución y remisión de sanciones respecto de adolescentes condenados por delitos de especial gravedad",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18457-06",
-   "titulo": "Modifica el decreto ley N°3.063, de 1979, sobre rentas municipales, para exigir antecedentes penales y regularidad migratoria al personal de barberías y peluquerías",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18427-07",
-   "titulo": "Modifica el artículo 52 de la Carta Fundamental, en materia de procedencia y admisibilidad de las acusaciones constitucionales",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18449-06",
-   "titulo": "Fortalece las compras públicas locales",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18448-25",
-   "titulo": "Modifica la ley N°18.961, orgánica constitucional de Carabineros de Chile, en cuanto a los procedimientos de evaluación médica que fundamentan retiros de personal",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18447-07",
-   "titulo": "Dispone la invariabilidad normativa de los derechos sociales y laborales que señala",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18421-07",
-   "titulo": "Modifica diversos cuerpos legales, con el objeto de sancionar la utilización y reclutamiento de menores de edad por parte de asociaciones delictivas y criminales",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18426-07",
-   "titulo": "Modifica el Código Penal, con el objeto de aumentar la sanción asignada al homicidio simple y modificar reglas de determinación de la pena respecto de los delitos que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18423-07",
-   "titulo": "Concede indulto general en favor de las personas que indica, por hechos acaecidos a contar del día 18 de octubre de 2019",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18434-07",
-   "titulo": "Modifica cuerpos legales que indica para sancionar la explotación, facilitación y promoción de servicios sexuales remunerados de terceros",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18432-07",
-   "titulo": "Modifica el Código Penal para delimitar la aplicación del tipo penal de apremios ilegítimos u otros tratos crueles, inhumanos o degradantes, a conductas cometidas por empleados públicos respecto de personas bajo su custodia",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18422-06",
-   "titulo": "Modifica la Ley de Migración y Extranjería, con el objeto de reforzar la trazabilidad de la información referida a niños, niñas y adolescentes extranjeros que ingresan al país",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18424-07",
-   "titulo": "Modifica el Código de Procedimiento Civil, con el objeto de establecer la inembargabilidad de determinadas sumas de dinero pertenecientes a deudores de créditos destinados a financiar estudios de educación superior, en las condiciones que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18430-07",
-   "titulo": "Modifica el Código Orgánico de Tribunales, con el objeto de actualizar las reglas de competencia penal respecto de delitos cometidos mediante sistemas informáticos, plataformas tecnológicas u otros medios digitales",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18385-07",
-   "titulo": "Concede amnistía al personal de las Fuerzas Armadas y de Orden y Seguridad Pública por hechos ejecutados en resguardo del orden público, en el período que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
-  },
-  {
-   "boletin": "18406-02",
-   "titulo": "Modifica la ley N° 18.575 orgánica constitucional de Bases Generales de la Administración del Estado, en lo relativo al régimen de protección de derechos fundamentales aplicable al personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T01:44:11.158787-04:00"
+   "revisado": "2026-08-13T03:41:42.956849-04:00"
   }
  ],
  "novedades": 0,
@@ -11883,13 +11199,13 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 1298,
-  "boletines_consultados": 136,
-  "fichas_obtenidas": 136,
+  "candidatos_descubiertos": 142,
+  "boletines_consultados": 42,
+  "fichas_obtenidas": 42,
   "consultas_fallidas": 0,
   "registros_publicados": 42,
   "registros_conservados_sin_revisar": 1,
-  "descartados_por_pertinencia": 95,
+  "descartados_por_pertinencia": 1,
   "retenidos_para_revision_manual": 3,
   "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
@@ -11900,12 +11216,7 @@
    "cartera": 42,
    "senado_movimiento": 104,
    "camara_anno": 0,
-   "camara_conciliacion_diaria": "ok",
-   "camara_diaria_resultados": 1250,
-   "camara_diaria_annos": [
-    2026,
-    2025
-   ]
+   "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
   "cobertura_canales": [
    {
@@ -11917,26 +11228,26 @@
    },
    {
     "canal": "senado_boletin",
-    "llamadas": 136,
-    "resultados": 135,
-    "errores": [
-     "18577: sin nodo proyecto"
-    ],
+    "llamadas": 42,
+    "resultados": 42,
+    "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_boletin",
-    "llamadas": 136,
-    "resultados": 136,
+    "llamadas": 42,
+    "resultados": 42,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_anno",
-    "llamadas": 4,
-    "resultados": 1250,
-    "errores": [],
-    "consultado": true
+    "llamadas": 0,
+    "resultados": 0,
+    "errores": [
+     "no consultado en esta corrida"
+    ],
+    "consultado": false
    }
   ],
   "ultima_conciliacion": "2026-08-12T11:43:50.787098-04:00",
@@ -11947,6 +11258,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 186.6
+  "segundos_corrida": 71.5
  }
 }
