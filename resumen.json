@@ -2,16 +2,16 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-12T22:24:17.627629-04:00",
-  "generado_legible": "12/08/2026 22:24",
+  "generado": "2026-08-13T01:44:11.158787-04:00",
+  "generado_legible": "13/08/2026 01:44",
   "proyectos_total": 42,
   "vigentes": 39,
-  "movimientos_recientes": 5,
-  "movimientos_30d": 11,
-  "novedades_corrida": 1,
+  "movimientos_recientes": 4,
+  "movimientos_30d": 10,
+  "novedades_corrida": 0,
   "impacto_directo": 9,
   "con_urgencia": 7,
-  "prioridad_alta": 6,
+  "prioridad_alta": 5,
   "estancados_180d": 17,
   "ultimo": {
     "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
@@ -20,10 +20,6 @@
     "fecha": "2026-08-12T00:00:00-04:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-08-06",
-      "n": 0
-    },
     {
       "fecha": "2026-08-07",
       "n": 0
@@ -47,6 +43,10 @@
     {
       "fecha": "2026-08-12",
       "n": 3
+    },
+    {
+      "fecha": "2026-08-13",
+      "n": 0
     }
   ],
   "alertas": [
