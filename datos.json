@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-13T16:49:48.045863-04:00",
- "generado_legible": "13/08/2026 16:49",
+ "generado": "2026-08-13T18:49:45.538249-04:00",
+ "generado_legible": "13/08/2026 18:49",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 7
    }
   ],
-  "generado": "2026-08-13T16:49:48.045863-04:00"
+  "generado": "2026-08-13T18:49:45.538249-04:00"
  },
  "proyectos": [
   {
@@ -5097,7 +5097,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19257&prmBOLETIN=18573-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18573",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-13T16:49:48.045863-04:00"
   },
   {
@@ -5217,7 +5217,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19135&prmBOLETIN=18460-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18460",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-13T16:49:48.045863-04:00"
   },
   {
@@ -5701,7 +5701,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18807&prmBOLETIN=18144-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18144",
    "sintesis": "Primer trámite constitucional (Senado) · El Honorable Senador señor Vial adhiere al proyecto de ley",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-13T16:49:48.045863-04:00"
   },
   {
@@ -5972,7 +5972,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19011&prmBOLETIN=18333-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18333",
    "sintesis": "Primer trámite constitucional (Senado) · Oficio N° a la Corte Suprema",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-13T16:49:48.045863-04:00"
   },
   {
@@ -6197,7 +6197,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19080&prmBOLETIN=18395-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18395",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-13T16:49:48.045863-04:00"
   },
   {
@@ -6414,7 +6414,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19110&prmBOLETIN=18416-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18416",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-13T16:49:48.045863-04:00"
   },
   {
@@ -6566,7 +6566,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19127&prmBOLETIN=18443-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18443",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Oficio N° 21385. Comunica a la Comisión de Seguridad Ciudadana el acuerdo de la Sala, en orden a que le sea remitido del proyecto de ley, una vez que sea despachado por la Comisión de Constitución, Legislación, Justicia y Reglamento.",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-13T16:49:48.045863-04:00"
   },
   {
@@ -7112,7 +7112,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18885&prmBOLETIN=18219-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18219",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-08-13T16:49:48.045863-04:00"
   },
   {
@@ -11145,10 +11145,10 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T16:49:48.045863-04:00"
+   "revisado": "2026-08-13T18:49:45.538249-04:00"
   }
  ],
- "novedades": 8,
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11207,8 +11207,8 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 1,
   "retenidos_para_revision_manual": 3,
-  "novedades_corrida": 8,
-  "nuevos_en_cartera": 8,
+  "novedades_corrida": 0,
+  "nuevos_en_cartera": 0,
   "con_movimiento": 0,
   "cambios_urgencia": 0,
   "canales": {
@@ -11258,6 +11258,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 68.0
+  "segundos_corrida": 68.3
  }
 }
