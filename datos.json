@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-14T15:00:58.536202-04:00",
- "generado_legible": "14/08/2026 15:00",
+ "generado": "2026-08-14T16:35:32.256113-04:00",
+ "generado_legible": "14/08/2026 16:35",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -172,7 +172,7 @@
     "total": 7
    }
   ],
-  "generado": "2026-08-14T15:00:58.536202-04:00"
+  "generado": "2026-08-14T16:35:32.256113-04:00"
  },
  "proyectos": [
   {
@@ -6320,7 +6320,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19110&prmBOLETIN=18416-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18416",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-14T15:00:58.536202-04:00"
   },
   {
@@ -6472,7 +6472,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19127&prmBOLETIN=18443-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18443",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Oficio N° 21385. Comunica a la Comisión de Seguridad Ciudadana el acuerdo de la Sala, en orden a que le sea remitido del proyecto de ley, una vez que sea despachado por la Comisión de Constitución, Legislación, Justicia y Reglamento.",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-14T15:00:58.536202-04:00"
   },
   {
@@ -6592,7 +6592,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19135&prmBOLETIN=18460-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18460",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-14T15:00:58.536202-04:00"
   },
   {
@@ -11258,10 +11258,10 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-14T15:00:58.536202-04:00"
+   "revisado": "2026-08-14T16:35:32.256113-04:00"
   }
  ],
- "novedades": 3,
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11320,9 +11320,9 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 1,
   "retenidos_para_revision_manual": 3,
-  "novedades_corrida": 3,
+  "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 3,
+  "con_movimiento": 0,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
@@ -11373,6 +11373,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 68.6
+  "segundos_corrida": 67.0
  }
 }
