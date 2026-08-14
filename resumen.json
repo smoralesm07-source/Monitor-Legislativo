@@ -2,11 +2,11 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-13T22:22:07.892070-04:00",
-  "generado_legible": "13/08/2026 22:22",
-  "proyectos_total": 42,
-  "vigentes": 39,
-  "movimientos_recientes": 4,
+  "generado": "2026-08-14T01:41:04.744730-04:00",
+  "generado_legible": "14/08/2026 01:41",
+  "proyectos_total": 43,
+  "vigentes": 40,
+  "movimientos_recientes": 5,
   "movimientos_30d": 10,
   "novedades_corrida": 1,
   "impacto_directo": 9,
@@ -20,10 +20,6 @@
     "fecha": "2026-08-13T00:00:00-04:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-08-07",
-      "n": 0
-    },
     {
       "fecha": "2026-08-08",
       "n": 0
@@ -46,7 +42,11 @@
     },
     {
       "fecha": "2026-08-13",
-      "n": 1
+      "n": 2
+    },
+    {
+      "fecha": "2026-08-14",
+      "n": 0
     }
   ],
   "alertas": [
@@ -56,6 +56,14 @@
       "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Discusión inmediata",
       "fecha": "2026-08-13T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
+      "titulo": "Consagra los territorios especiales digitales, con el objeto de fortalecer la soberanía digital, la continuidad estratégica del Estado y la cooperación internacional",
+      "detalle": "Boletín 18582-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-08-13T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18582-07",
       "fuente": "LEGISLATIVO"
     },
     {
@@ -73,14 +81,6 @@
       "fecha": "2026-08-12T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Autoriza al Presidente de la República para recompensar a quienes aporten antecedentes útiles para la investigación y sanción de delitos vinculados al crimen organizado",
-      "detalle": "Boletín 18573-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-08-11T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18573-25",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
@@ -89,16 +89,16 @@
       "texto": "Boletín 18216-05: Oficio N° 21499. Comunica al Ejecutivo resultado del veto."
     },
     {
+      "fecha": "2026-08-13T00:00:00-04:00",
+      "texto": "Boletín 18582-07:"
+    },
+    {
       "fecha": "2026-08-12T00:00:00-04:00",
       "texto": "Boletín 14773-02: Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA"
     },
     {
       "fecha": "2026-08-12T00:00:00-04:00",
       "texto": "Boletín 18420-25: La Sala acuerda abrir un plazo para presentar indicaciones a este proyecto hasta las 12.00 horas del día 4 de septiembre de 2026, en la Secretaría del Senado"
-    },
-    {
-      "fecha": "2026-08-11T00:00:00-04:00",
-      "texto": "Boletín 18573-25: Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana"
     }
   ]
 }
