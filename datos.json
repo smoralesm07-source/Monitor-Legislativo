@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-14T10:56:40.832126-04:00",
- "generado_legible": "14/08/2026 10:56",
+ "generado": "2026-08-14T12:59:14.615667-04:00",
+ "generado_legible": "14/08/2026 12:59",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -24,12 +24,12 @@
    {
     "ordinal": 0,
     "etapa": "Cerrado o archivado",
-    "total": 1
+    "total": 4
    },
    {
     "ordinal": 1,
     "etapa": "Primer trámite",
-    "total": 34
+    "total": 31
    },
    {
     "ordinal": 2,
@@ -99,13 +99,13 @@
     "total": 1
    },
    {
-    "clave": "responsabilidad_penal_pj",
-    "etiqueta": "Responsabilidad penal de personas jurídicas",
+    "clave": "cooperacion_institucional",
+    "etiqueta": "Cooperación e intercambio de información",
     "total": 1
    },
    {
-    "clave": "cooperacion_institucional",
-    "etiqueta": "Cooperación e intercambio de información",
+    "clave": "responsabilidad_penal_pj",
+    "etiqueta": "Responsabilidad penal de personas jurídicas",
     "total": 1
    }
   ],
@@ -150,14 +150,19 @@
   ],
   "por_camara": [
    {
-    "clave": "C.Diputados",
-    "etiqueta": "C.Diputados",
-    "total": 21
-   },
-   {
     "clave": "Senado",
     "etiqueta": "Senado",
     "total": 19
+   },
+   {
+    "clave": "C.Diputados",
+    "etiqueta": "C.Diputados",
+    "total": 18
+   },
+   {
+    "clave": "Cámara de Diputados",
+    "etiqueta": "Cámara de Diputados",
+    "total": 3
    }
   ],
   "por_iniciativa": [
@@ -172,7 +177,7 @@
     "total": 7
    }
   ],
-  "generado": "2026-08-14T10:56:40.832126-04:00"
+  "generado": "2026-08-14T12:59:14.615667-04:00"
  },
  "proyectos": [
   {
@@ -1185,7 +1190,7 @@
     "De Urresti L., Alfonso",
     "Durana S., José Miguel",
     "Ebensperger O., Luz Eliana",
-    "Edwards S., Rojo",
+    "Edwards ., Rojo",
     "Flores G., Iván",
     "Galilea V., Rodrigo",
     "García R., José",
@@ -3768,7 +3773,7 @@
     "Cruz-Coke C., Luciano",
     "Durana S., José Miguel",
     "Ebensperger O., Luz Eliana",
-    "Edwards S., Rojo",
+    "Edwards ., Rojo",
     "Espinoza S., Fidel",
     "Galilea V., Rodrigo",
     "Gatica B., María José",
@@ -5275,12 +5280,12 @@
    "autores": [
     "Castro González, Juan Luis",
     "Chahuán Chahuán, Francisco",
-    "Edwards Silva, Rojo",
+    "Edwards , Rojo",
     "Francisco Chahuán Chahuán",
     "Juan Luis Castro González",
     "Matías Walker Prieto",
     "Provoste Campillay, Yasna",
-    "Rojo Edwards Silva",
+    "Rojo Edwards",
     "Walker Prieto, Matías",
     "Yasna Provoste Campillay"
    ],
@@ -5298,7 +5303,7 @@
    "nota_semilla": "Caso de control temático · crea el Registro de Beneficiarios Finales de Fondos Públicos. Debe clasificar en beneficiario final y transparencia societaria; mantener visible su antigüedad y ausencia de movimiento reciente si corresponde.",
    "es_semilla": true,
    "admisible": "true",
-   "texto_camara_completo": "16683 16135-07 Modifica la Carta Fundamental, con el objeto de crear el Registro de Beneficiarios Finales de Fondos Públicos 2023-08-01T00:00:00 Moción Senado 0 986 Francisco Chahuán Chahuán 0 1215 Yasna Provoste Campillay 0 1326 Juan Luis Castro González 0 1328 Rojo Edwards Silva 0 1344 Matías Walker Prieto true",
+   "texto_camara_completo": "16683 16135-07 Modifica la Carta Fundamental, con el objeto de crear el Registro de Beneficiarios Finales de Fondos Públicos 2023-08-01T00:00:00 Moción Senado 0 986 Francisco Chahuán Chahuán 0 1215 Yasna Provoste Campillay 0 1326 Juan Luis Castro González 0 1328 Rojo Edwards 0 1344 Matías Walker Prieto true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=16135-07",
    "canales_descubrimiento": [
     "semilla",
@@ -6212,388 +6217,6 @@
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
    "novedad": "",
    "novedad_detectada": "2026-08-04T13:32:08.122657-04:00"
-  },
-  {
-   "boletin": "18416-07",
-   "titulo": "Modifica el Código Penal para hacer aplicable la imprescriptibilidad de la acción penal a todos los casos de trata de personas contra víctimas menores de edad y establecer reglas especiales de protección penal",
-   "fecha_ingreso": "2026-06-23T00:00:00-04:00",
-   "etapa": "Primer trámite constitucional (C.Diputados)",
-   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
-   "iniciativa": "Moción",
-   "camara_origen": "C.Diputados",
-   "urgencia": "Sin urgencia",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19110&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2026-06-23T00:00:00-04:00",
-     "fecha_legible": "23/06/2026",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-07T00:00:00-04:00",
-     "fecha_legible": "07/07/2026",
-     "sesion": "40/374",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    }
-   ],
-   "urgencias": [],
-   "votaciones": [],
-   "autores": [
-    "Celedón Fernández, Roberto",
-    "Concha Smith, Sara",
-    "Durán Salinas, Eduardo",
-    "Eduardo Durán Salinas",
-    "Francesca Muñoz González",
-    "Francisco Orrego Gutiérrez",
-    "Irarrázaval Rossel, Juan",
-    "Jiles Moreno, Pamela",
-    "Juan Irarrázaval Rossel",
-    "Muñoz González, Francesca",
-    "Orrego Gutiérrez, Francisco",
-    "Pamela Jiles Moreno",
-    "Roberto Celedón Fernández",
-    "Sara Concha Smith"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [],
-   "ministerios": [],
-   "camara_id": "19110",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "admisible": "true",
-   "texto_camara_completo": "19110 18416-07 Modifica el Código Penal para hacer aplicable la imprescriptibilidad de la acción penal a todos los casos de trata de personas contra víctimas menores de edad y establecer reglas especiales de protección penal 2026-06-23T00:00:00 Moción Cámara de Diputados 0 1039 Pamela Jiles Moreno 0 1054 Francesca Muñoz González 0 1028 Eduardo Durán Salinas 0 1119 Sara Concha Smith 0 1133 Juan Irarrázaval Rossel 0 1184 Roberto Celedón Fernández 0 1237 Francisco Orrego Gutiérrez true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18416-07",
-   "canales_descubrimiento": [
-    "cartera"
-   ],
-   "id": "d9dbdcfa374078d6",
-   "puntaje_pertinencia": 32.0,
-   "nivel_impacto": "sectorial",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [],
-    "estructurales": [
-     "trata de personas"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [],
-   "ejes_legibles": [],
-   "impacto_legible": "Impacto sectorial en sujetos obligados",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 2,
-   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 1,
-   "vigente": true,
-   "ultimo_movimiento": "2026-07-07T00:00:00-04:00",
-   "ultimo_movimiento_legible": "07/07/2026",
-   "dias_sin_movimiento": 38,
-   "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "camara_actual": "C.Diputados",
-   "total_tramites": 2,
-   "fecha_ingreso_legible": "23/06/2026",
-   "antiguedad_dias": 52,
-   "prioridad": 34.0,
-   "banda_prioridad": "baja",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 1.0,
-   "factor_frescura": 1.0,
-   "huella": "db449849b7f8673f24d0",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18416-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19110&prmBOLETIN=18416-07",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18416",
-   "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "",
-   "novedad_detectada": "2026-08-13T16:49:48.045863-04:00"
-  },
-  {
-   "boletin": "18443-07",
-   "titulo": "Crea el Registro Nacional de Condenados por Delitos Económicos y establece restricciones a beneficios estatales para quienes los cometen",
-   "fecha_ingreso": "2026-06-24T00:00:00-04:00",
-   "etapa": "Primer trámite constitucional (C.Diputados)",
-   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
-   "iniciativa": "Moción",
-   "camara_origen": "C.Diputados",
-   "urgencia": "Sin urgencia",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19127&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2026-06-24T00:00:00-04:00",
-     "fecha_legible": "24/06/2026",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-08T00:00:00-04:00",
-     "fecha_legible": "08/07/2026",
-     "sesion": "/",
-     "descripcion": "Declaración de inadmisibilidad basada en informe técnico N° 4/374/2026, revertida por la Sala en sesión 41-374.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-13T00:00:00-04:00",
-     "fecha_legible": "13/07/2026",
-     "sesion": "42/374",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-13T00:00:00-04:00",
-     "fecha_legible": "13/07/2026",
-     "sesion": "42/374",
-     "descripcion": "A petición de diputado Patricio Pinilla, la Sala acordó radicar el proyecto en la Comisión de Seguridad Ciudadana.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-13T00:00:00-04:00",
-     "fecha_legible": "13/07/2026",
-     "sesion": "/",
-     "descripcion": "Oficio N° 21386. Comunica a la Comisión de Constitución, Legislación, Justicia y Reglamento el acuerdo de la Sala, en orden a remitir el proyecto a la Comisión de Seguriddad Ciudadana, con posterioridad a su despacho.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-13T00:00:00-04:00",
-     "fecha_legible": "13/07/2026",
-     "sesion": "/",
-     "descripcion": "Oficio N° 21385. Comunica a la Comisión de Seguridad Ciudadana el acuerdo de la Sala, en orden a que le sea remitido del proyecto de ley, una vez que sea despachado por la Comisión de Constitución, Legislación, Justicia y Reglamento.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    }
-   ],
-   "urgencias": [],
-   "votaciones": [],
-   "autores": [
-    "Barría Angulo, Héctor",
-    "Camaño Cárdenas, Felipe",
-    "Cristian Mella Andaur",
-    "Daniel Manouchehri Lobos",
-    "Díaz Ibarra, Jorge",
-    "Felipe Camaño Cárdenas",
-    "Gael Yeomans Araya",
-    "Héctor Barría Angulo",
-    "Jorge Díaz Ibarra",
-    "Juan Marcelo Valenzuela Henríquez",
-    "Manouchehri Lobos, Daniel",
-    "Mella Andaur, Cristian",
-    "Ortiz Vera, Álvaro",
-    "Patricio Pinilla Valencia",
-    "Pinilla Valencia, Patricio",
-    "Raúl Soto Mardones",
-    "Soto Mardones, Raúl",
-    "Valenzuela Henríquez, Juan",
-    "Yeomans Araya, Gael",
-    "Álvaro Ortiz Vera"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [],
-   "ministerios": [],
-   "camara_id": "19127",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "admisible": "true",
-   "texto_camara_completo": "19127 18443-07 Crea el Registro Nacional de Condenados por Delitos Económicos y establece restricciones a beneficios estatales para quienes los cometen 2026-06-24T14:34:55 Moción Cámara de Diputados 0 1077 Raúl Soto Mardones 0 1087 Gael Yeomans Araya 0 1105 Héctor Barría Angulo 0 1142 Daniel Manouchehri Lobos 0 1116 Felipe Camaño Cárdenas 0 1259 Juan Marcelo Valenzuela Henríquez 0 1238 Álvaro Ortiz Vera 0 1224 Cristian Mella Andaur 0 1208 Jorge Díaz Ibarra 0 1241 Patricio Pinilla Valencia true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18443-07",
-   "canales_descubrimiento": [
-    "cartera"
-   ],
-   "id": "979da7062509e787",
-   "puntaje_pertinencia": 32.0,
-   "nivel_impacto": "sectorial",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [],
-    "estructurales": [
-     "delitos economicos"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [
-    "responsabilidad_penal_pj"
-   ],
-   "ejes_legibles": [
-    "Responsabilidad penal de personas jurídicas"
-   ],
-   "impacto_legible": "Impacto sectorial en sujetos obligados",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 2,
-   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 1,
-   "vigente": true,
-   "ultimo_movimiento": "2026-07-13T00:00:00-04:00",
-   "ultimo_movimiento_legible": "13/07/2026",
-   "dias_sin_movimiento": 32,
-   "ultimo_tramite": "Oficio N° 21385. Comunica a la Comisión de Seguridad Ciudadana el acuerdo de la Sala, en orden a que le sea remitido del proyecto de ley, una vez que sea despachado por la Comisión de Constitución, Legislación, Justicia y Reglamento.",
-   "camara_actual": "C.Diputados",
-   "total_tramites": 6,
-   "fecha_ingreso_legible": "24/06/2026",
-   "antiguedad_dias": 51,
-   "prioridad": 34.0,
-   "banda_prioridad": "baja",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 1.0,
-   "factor_frescura": 1.0,
-   "huella": "b9731b9b9bd3298e8c0f",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18443-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19127&prmBOLETIN=18443-07",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18443",
-   "sintesis": "Primer trámite constitucional (C.Diputados) · Oficio N° 21385. Comunica a la Comisión de Seguridad Ciudadana el acuerdo de la Sala, en orden a que le sea remitido del proyecto de ley, una vez que sea despachado por la Comisión de Constitución, Legislación, Justicia y Reglamento.",
-   "novedad": "",
-   "novedad_detectada": "2026-08-13T16:49:48.045863-04:00"
-  },
-  {
-   "boletin": "18460-07",
-   "titulo": "Modifica la Constitución Política para establecer un régimen transitorio de apoyo de las fuerzas armadas a las policías en labores de seguridad pública y combate al crimen organizado",
-   "fecha_ingreso": "2026-07-06T00:00:00-04:00",
-   "etapa": "Primer trámite constitucional (C.Diputados)",
-   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
-   "iniciativa": "Moción",
-   "camara_origen": "C.Diputados",
-   "urgencia": "Sin urgencia",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19135&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2026-07-06T00:00:00-04:00",
-     "fecha_legible": "06/07/2026",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-14T00:00:00-04:00",
-     "fecha_legible": "14/07/2026",
-     "sesion": "43/374",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    }
-   ],
-   "urgencias": [],
-   "votaciones": [],
-   "autores": [
-    "Andrés Celis Montt",
-    "Beltrán Silva, Juan Carlos",
-    "Celis Montt, Andrés",
-    "Diego Schalper Sepúlveda",
-    "Durán Salinas, Eduardo",
-    "Eduardo Durán Salinas",
-    "Francisco Orrego Gutiérrez",
-    "García García, René Manuel",
-    "González Villarroel, Mauro",
-    "Juan Carlos Beltrán Silva",
-    "Kast Sommerhoff, Tomás",
-    "Luis Pardo Sáinz",
-    "Mauro González Villarroel",
-    "Orrego Gutiérrez, Francisco",
-    "Ossandón Irarrázabal, Ximena",
-    "Pardo Sáinz, Luis",
-    "René Manuel García García",
-    "Schalper Sepúlveda, Diego",
-    "Tomás Kast Sommerhoff",
-    "Ximena Ossandón Irarrázabal"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [],
-   "ministerios": [],
-   "camara_id": "19135",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "admisible": "true",
-   "texto_camara_completo": "19135 18460-07 Modifica la Constitución Política para establecer un régimen transitorio de apoyo de las fuerzas armadas a las policías en labores de seguridad pública y combate al crimen organizado 2026-07-06T19:30:57 Moción Cámara de Diputados 0 843 René Manuel García García 0 1021 Andrés Celis Montt 0 1059 Ximena Ossandón Irarrázabal 0 1060 Luis Pardo Sáinz 0 1028 Eduardo Durán Salinas 0 1075 Diego Schalper Sepúlveda 0 1108 Juan Carlos Beltrán Silva 0 1131 Mauro González Villarroel 0 1237 Francisco Orrego Gutiérrez 0 1219 Tomás Kast Sommerhoff true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18460-07",
-   "canales_descubrimiento": [
-    "cartera"
-   ],
-   "id": "3ddaed3c685fa827",
-   "puntaje_pertinencia": 32.0,
-   "nivel_impacto": "sectorial",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [],
-    "estructurales": [
-     "crimen organizado"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [
-    "crimen_organizado"
-   ],
-   "ejes_legibles": [
-    "Crimen organizado y persecución penal"
-   ],
-   "impacto_legible": "Impacto sectorial en sujetos obligados",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 2,
-   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 1,
-   "vigente": true,
-   "ultimo_movimiento": "2026-07-14T00:00:00-04:00",
-   "ultimo_movimiento_legible": "14/07/2026",
-   "dias_sin_movimiento": 31,
-   "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "camara_actual": "C.Diputados",
-   "total_tramites": 2,
-   "fecha_ingreso_legible": "06/07/2026",
-   "antiguedad_dias": 39,
-   "prioridad": 34.0,
-   "banda_prioridad": "baja",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 1.0,
-   "factor_frescura": 1.0,
-   "huella": "48f8fad9c46a11c5f2c0",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18460-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19135&prmBOLETIN=18460-07",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18460",
-   "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "",
-   "novedad_detectada": "2026-08-13T16:49:48.045863-04:00"
   },
   {
    "boletin": "17835-06",
@@ -8164,6 +7787,275 @@
    "novedad_detectada": "2026-08-12T13:01:34.869249-04:00"
   },
   {
+   "boletin": "18416-07",
+   "titulo": "Modifica el Código Penal para hacer aplicable la imprescriptibilidad de la acción penal a todos los casos de trata de personas contra víctimas menores de edad y establecer reglas especiales de protección penal",
+   "fecha_ingreso": "2026-06-23T00:00:00-04:00",
+   "etapa": "",
+   "subetapa": "",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia": "",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "",
+   "link_texto_original": "",
+   "tramitacion": [],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [
+    "Eduardo Durán Salinas",
+    "Francesca Muñoz González",
+    "Francisco Orrego Gutiérrez",
+    "Juan Irarrázaval Rossel",
+    "Pamela Jiles Moreno",
+    "Roberto Celedón Fernández",
+    "Sara Concha Smith"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [],
+   "ministerios": [],
+   "camara_id": "19110",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara"
+   ],
+   "admisible": "true",
+   "texto_camara_completo": "19110 18416-07 Modifica el Código Penal para hacer aplicable la imprescriptibilidad de la acción penal a todos los casos de trata de personas contra víctimas menores de edad y establecer reglas especiales de protección penal 2026-06-23T00:00:00 Moción Cámara de Diputados 0 1039 Pamela Jiles Moreno 0 1054 Francesca Muñoz González 0 1028 Eduardo Durán Salinas 0 1119 Sara Concha Smith 0 1133 Juan Irarrázaval Rossel 0 1184 Roberto Celedón Fernández 0 1237 Francisco Orrego Gutiérrez true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18416-07",
+   "canales_descubrimiento": [
+    "cartera"
+   ],
+   "id": "d9dbdcfa374078d6",
+   "puntaje_pertinencia": 32.0,
+   "nivel_impacto": "sectorial",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [],
+    "estructurales": [
+     "trata de personas"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [],
+   "ejes_legibles": [],
+   "impacto_legible": "Impacto sectorial en sujetos obligados",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 2,
+   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 0,
+   "vigente": true,
+   "ultimo_movimiento": "2026-06-23T00:00:00-04:00",
+   "ultimo_movimiento_legible": "23/06/2026",
+   "dias_sin_movimiento": 52,
+   "ultimo_tramite": "",
+   "camara_actual": "Cámara de Diputados",
+   "total_tramites": 0,
+   "fecha_ingreso_legible": "23/06/2026",
+   "antiguedad_dias": 52,
+   "prioridad": 10.2,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 0.3,
+   "factor_frescura": 1.0,
+   "huella": "0a5848de083bede6b5c4",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18416-07",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19110&prmBOLETIN=18416-07",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18416",
+   "sintesis": "",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-14T12:59:14.615667-04:00"
+  },
+  {
+   "boletin": "18443-07",
+   "titulo": "Crea el Registro Nacional de Condenados por Delitos Económicos y establece restricciones a beneficios estatales para quienes los cometen",
+   "fecha_ingreso": "2026-06-24T14:34:55-04:00",
+   "etapa": "",
+   "subetapa": "",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia": "",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "",
+   "link_texto_original": "",
+   "tramitacion": [],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [
+    "Cristian Mella Andaur",
+    "Daniel Manouchehri Lobos",
+    "Felipe Camaño Cárdenas",
+    "Gael Yeomans Araya",
+    "Héctor Barría Angulo",
+    "Jorge Díaz Ibarra",
+    "Juan Marcelo Valenzuela Henríquez",
+    "Patricio Pinilla Valencia",
+    "Raúl Soto Mardones",
+    "Álvaro Ortiz Vera"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [],
+   "ministerios": [],
+   "camara_id": "19127",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara"
+   ],
+   "admisible": "true",
+   "texto_camara_completo": "19127 18443-07 Crea el Registro Nacional de Condenados por Delitos Económicos y establece restricciones a beneficios estatales para quienes los cometen 2026-06-24T14:34:55 Moción Cámara de Diputados 0 1077 Raúl Soto Mardones 0 1087 Gael Yeomans Araya 0 1105 Héctor Barría Angulo 0 1142 Daniel Manouchehri Lobos 0 1116 Felipe Camaño Cárdenas 0 1259 Juan Marcelo Valenzuela Henríquez 0 1238 Álvaro Ortiz Vera 0 1224 Cristian Mella Andaur 0 1208 Jorge Díaz Ibarra 0 1241 Patricio Pinilla Valencia true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18443-07",
+   "canales_descubrimiento": [
+    "cartera"
+   ],
+   "id": "979da7062509e787",
+   "puntaje_pertinencia": 32.0,
+   "nivel_impacto": "sectorial",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [],
+    "estructurales": [
+     "delitos economicos"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "responsabilidad_penal_pj"
+   ],
+   "ejes_legibles": [
+    "Responsabilidad penal de personas jurídicas"
+   ],
+   "impacto_legible": "Impacto sectorial en sujetos obligados",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 2,
+   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 0,
+   "vigente": true,
+   "ultimo_movimiento": "2026-06-24T14:34:55-04:00",
+   "ultimo_movimiento_legible": "24/06/2026",
+   "dias_sin_movimiento": 51,
+   "ultimo_tramite": "",
+   "camara_actual": "Cámara de Diputados",
+   "total_tramites": 0,
+   "fecha_ingreso_legible": "24/06/2026",
+   "antiguedad_dias": 51,
+   "prioridad": 10.2,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 0.3,
+   "factor_frescura": 1.0,
+   "huella": "0a5848de083bede6b5c4",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18443-07",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19127&prmBOLETIN=18443-07",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18443",
+   "sintesis": "",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-14T12:59:14.615667-04:00"
+  },
+  {
+   "boletin": "18460-07",
+   "titulo": "Modifica la Constitución Política para establecer un régimen transitorio de apoyo de las fuerzas armadas a las policías en labores de seguridad pública y combate al crimen organizado",
+   "fecha_ingreso": "2026-07-06T19:30:57-04:00",
+   "etapa": "",
+   "subetapa": "",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia": "",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "",
+   "link_texto_original": "",
+   "tramitacion": [],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [
+    "Andrés Celis Montt",
+    "Diego Schalper Sepúlveda",
+    "Eduardo Durán Salinas",
+    "Francisco Orrego Gutiérrez",
+    "Juan Carlos Beltrán Silva",
+    "Luis Pardo Sáinz",
+    "Mauro González Villarroel",
+    "René Manuel García García",
+    "Tomás Kast Sommerhoff",
+    "Ximena Ossandón Irarrázabal"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [],
+   "ministerios": [],
+   "camara_id": "19135",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara"
+   ],
+   "admisible": "true",
+   "texto_camara_completo": "19135 18460-07 Modifica la Constitución Política para establecer un régimen transitorio de apoyo de las fuerzas armadas a las policías en labores de seguridad pública y combate al crimen organizado 2026-07-06T19:30:57 Moción Cámara de Diputados 0 843 René Manuel García García 0 1021 Andrés Celis Montt 0 1059 Ximena Ossandón Irarrázabal 0 1060 Luis Pardo Sáinz 0 1028 Eduardo Durán Salinas 0 1075 Diego Schalper Sepúlveda 0 1108 Juan Carlos Beltrán Silva 0 1131 Mauro González Villarroel 0 1237 Francisco Orrego Gutiérrez 0 1219 Tomás Kast Sommerhoff true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18460-07",
+   "canales_descubrimiento": [
+    "cartera"
+   ],
+   "id": "3ddaed3c685fa827",
+   "puntaje_pertinencia": 32.0,
+   "nivel_impacto": "sectorial",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [],
+    "estructurales": [
+     "crimen organizado"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "crimen_organizado"
+   ],
+   "ejes_legibles": [
+    "Crimen organizado y persecución penal"
+   ],
+   "impacto_legible": "Impacto sectorial en sujetos obligados",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 2,
+   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 0,
+   "vigente": true,
+   "ultimo_movimiento": "2026-07-06T19:30:57-04:00",
+   "ultimo_movimiento_legible": "06/07/2026",
+   "dias_sin_movimiento": 39,
+   "ultimo_tramite": "",
+   "camara_actual": "Cámara de Diputados",
+   "total_tramites": 0,
+   "fecha_ingreso_legible": "06/07/2026",
+   "antiguedad_dias": 39,
+   "prioridad": 10.2,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 0.3,
+   "factor_frescura": 1.0,
+   "huella": "0a5848de083bede6b5c4",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18460-07",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19135&prmBOLETIN=18460-07",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18460",
+   "sintesis": "",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-14T12:59:14.615667-04:00"
+  },
+  {
    "boletin": "17060-07",
    "titulo": "Regula el ejercicio del derecho a reunión",
    "fecha_ingreso": "2024-08-16T00:00:00-04:00",
@@ -8886,7 +8778,7 @@
     "Cruz-Coke C., Luciano",
     "Durana S., José Miguel",
     "Ebensperger O., Luz Eliana",
-    "Edwards S., Rojo",
+    "Edwards ., Rojo",
     "Espinoza S., Fidel",
     "Flores G., Iván",
     "Galilea V., Rodrigo",
@@ -11258,10 +11150,10 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-14T10:56:40.832126-04:00"
+   "revisado": "2026-08-14T12:59:14.615667-04:00"
   }
  ],
- "novedades": 0,
+ "novedades": 3,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11320,9 +11212,9 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 1,
   "retenidos_para_revision_manual": 3,
-  "novedades_corrida": 0,
+  "novedades_corrida": 3,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 0,
+  "con_movimiento": 3,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
@@ -11342,8 +11234,11 @@
    {
     "canal": "senado_boletin",
     "llamadas": 43,
-    "resultados": 42,
+    "resultados": 39,
     "errores": [
+     "18416: HTTPError: HTTP Error 502: Bad Gateway",
+     "18443: HTTPError: HTTP Error 502: Bad Gateway",
+     "18460: HTTPError: HTTP Error 502: Bad Gateway",
      "18582: sin nodo proyecto"
     ],
     "consultado": true
@@ -11373,6 +11268,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 71.3
+  "segundos_corrida": 81.1
  }
 }
