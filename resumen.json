@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-13T18:49:45.538249-04:00",
-  "generado_legible": "13/08/2026 18:49",
+  "generado": "2026-08-13T22:22:07.892070-04:00",
+  "generado_legible": "13/08/2026 22:22",
   "proyectos_total": 42,
   "vigentes": 39,
   "movimientos_recientes": 4,
   "movimientos_30d": 10,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 9,
   "con_urgencia": 7,
   "prioridad_alta": 5,
   "estancados_180d": 17,
   "ultimo": {
     "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-    "detalle": "Boletín 18216-05 · 12/08/2026 · Trámite finalización en Cámara de Origen (C.Diputados)",
+    "detalle": "Boletín 18216-05 · 13/08/2026 · Trámite en Tribunal Constitucional (C.Diputados)",
     "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
-    "fecha": "2026-08-12T00:00:00-04:00"
+    "fecha": "2026-08-13T00:00:00-04:00"
   },
   "serie_7d": [
     {
@@ -42,11 +42,11 @@
     },
     {
       "fecha": "2026-08-12",
-      "n": 3
+      "n": 2
     },
     {
       "fecha": "2026-08-13",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
@@ -54,7 +54,7 @@
       "severidad": "alta",
       "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
       "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Discusión inmediata",
-      "fecha": "2026-08-12T00:00:00-04:00",
+      "fecha": "2026-08-13T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
       "fuente": "LEGISLATIVO"
     },
@@ -85,8 +85,8 @@
   ],
   "actividad": [
     {
-      "fecha": "2026-08-12T00:00:00-04:00",
-      "texto": "Boletín 18216-05: Oficio aprobación veto a Cámara de Origen ."
+      "fecha": "2026-08-13T00:00:00-04:00",
+      "texto": "Boletín 18216-05: Oficio N° 21499. Comunica al Ejecutivo resultado del veto."
     },
     {
       "fecha": "2026-08-12T00:00:00-04:00",

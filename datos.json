@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-13T18:49:45.538249-04:00",
- "generado_legible": "13/08/2026 18:49",
+ "generado": "2026-08-13T22:22:07.892070-04:00",
+ "generado_legible": "13/08/2026 22:22",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -42,8 +42,8 @@
     "total": 1
    },
    {
-    "ordinal": 5,
-    "etapa": "Veto",
+    "ordinal": 6,
+    "etapa": "Tribunal Constitucional",
     "total": 1
    }
   ],
@@ -142,12 +142,12 @@
    {
     "clave": "C.Diputados",
     "etiqueta": "C.Diputados",
-    "total": 20
+    "total": 21
    },
    {
     "clave": "Senado",
     "etiqueta": "Senado",
-    "total": 19
+    "total": 18
    }
   ],
   "por_iniciativa": [
@@ -162,7 +162,7 @@
     "total": 7
    }
   ],
-  "generado": "2026-08-13T18:49:45.538249-04:00"
+  "generado": "2026-08-13T22:22:07.892070-04:00"
  },
  "proyectos": [
   {
@@ -567,11 +567,746 @@
    "novedad_detectada": ""
   },
   {
+   "boletin": "17912-25",
+   "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
+   "fecha_ingreso": "2025-10-10T00:00:00-03:00",
+   "etapa": "Primer trámite constitucional (C.Diputados)",
+   "subetapa": "Discusión general",
+   "iniciativa": "Moción",
+   "camara_origen": "C.Diputados",
+   "urgencia": "Simple",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "En tramitación",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18569&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2025-10-10T00:00:00-03:00",
+     "fecha_legible": "10/10/2025",
+     "sesion": "/",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-10-15T00:00:00-03:00",
+     "fecha_legible": "15/10/2025",
+     "sesion": "81/373",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-04-08T00:00:00-04:00",
+     "fecha_legible": "08/04/2026",
+     "sesion": "10/374",
+     "descripcion": "Cuenta del Mensaje 24-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-04T00:00:00-04:00",
+     "fecha_legible": "04/05/2026",
+     "sesion": "17/374",
+     "descripcion": "Cuenta del Mensaje 69-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-06-02T00:00:00-04:00",
+     "fecha_legible": "02/06/2026",
+     "sesion": "28/374",
+     "descripcion": "Cuenta del Mensaje 121-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-20T00:00:00-04:00",
+     "fecha_legible": "20/07/2026",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Seguridad Ciudadana.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-20T00:00:00-04:00",
+     "fecha_legible": "20/07/2026",
+     "sesion": "45/374",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    }
+   ],
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2026-04-08T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2026-05-04T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2026-06-02T00:00:00-04:00",
+     "fecha_retiro": ""
+    }
+   ],
+   "votaciones": [],
+   "autores": [
+    "Alessandri Vergara, Jorge",
+    "Andrés Jouannet Valderrama",
+    "Andrés Longton Herrera",
+    "Araya Guerrero, Jaime",
+    "Araya Lerdo de Tejada, Cristián",
+    "Castro Bascuñán, José Miguel",
+    "Cristián Araya Lerdo de Tejada",
+    "Diego Schalper Sepúlveda",
+    "Gloria Naveillan Arriagada",
+    "Hugo Rey Martínez",
+    "Jaime Araya Guerrero",
+    "Jorge Alessandri Vergara",
+    "José Miguel Castro Bascuñán",
+    "Jouannet Valderrama, Andrés",
+    "Leiva Carvajal, Raúl",
+    "Longton Herrera, Andrés",
+    "Naveillan Arriagada, Gloria",
+    "Raúl Leiva Carvajal",
+    "Rey Martínez, Hugo",
+    "Schalper Sepúlveda, Diego"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [
+    {
+     "fecha": "2026-07-20T00:00:00-04:00",
+     "tramite": "Primer informe de comisión de Seguridad Ciudadana",
+     "etapa": "Primer trámite constitucional",
+     "link": ""
+    }
+   ],
+   "ministerios": [],
+   "camara_id": "18569",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara",
+    "senado"
+   ],
+   "admisible": "true",
+   "texto_camara_completo": "18569 17912-25 Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos 2025-10-10T00:00:00 Moción Cámara de Diputados 0 1009 Jorge Alessandri Vergara 0 1044 Raúl Leiva Carvajal 0 1046 Andrés Longton Herrera 0 1067 Hugo Rey Martínez 0 1075 Diego Schalper Sepúlveda 0 1019 José Miguel Castro Bascuñán 0 1099 Jaime Araya Guerrero 0 1134 Andrés Jouannet Valderrama 0 1152 Gloria Naveillan Arriagada 0 1100 Cristián Araya Lerdo de Tejada true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17912-25",
+   "canales_descubrimiento": [
+    "cartera"
+   ],
+   "id": "80d2ea7de230a503",
+   "puntaje_pertinencia": 316.0,
+   "nivel_impacto": "directo",
+   "evidencia": {
+    "directas": [
+     "19.913"
+    ],
+    "nucleo": [
+     "lavado de activos"
+    ],
+    "estructurales": [
+     "propiedad industrial"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "facultades_uaf",
+    "delitos_base"
+   ],
+   "ejes_legibles": [
+    "Facultades y competencias UAF",
+    "Catálogo de delitos base"
+   ],
+   "impacto_legible": "Impacto directo en la Ley 19.913",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 1,
+   "nivel_legible": "Nivel 1 · Impacto en la Ley 19.913",
+   "urgencia_clave": "simple",
+   "urgencia_legible": "Simple urgencia",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2026-07-20T00:00:00-04:00",
+   "ultimo_movimiento_legible": "20/07/2026",
+   "dias_sin_movimiento": 24,
+   "ultimo_tramite": "Cuenta de primer informe de comisión .",
+   "camara_actual": "C.Diputados",
+   "total_tramites": 7,
+   "fecha_ingreso_legible": "10/10/2025",
+   "antiguedad_dias": 307,
+   "prioridad": 184.0,
+   "banda_prioridad": "alta",
+   "factor_urgencia": 1.6,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 1.15,
+   "huella": "5ce99795d60dcd45139a",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18569&prmBOLETIN=17912-25",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17912",
+   "sintesis": "Simple urgencia · Primer trámite constitucional (C.Diputados) · Cuenta de primer informe de comisión .",
+   "novedad": "",
+   "novedad_detectada": ""
+  },
+  {
+   "boletin": "14773-02",
+   "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
+   "fecha_ingreso": "2022-01-04T00:00:00-03:00",
+   "etapa": "Segundo trámite constitucional (C.Diputados)",
+   "subetapa": "Discusión general",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Senado",
+   "urgencia": "Simple",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "En tramitación",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15272&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2022-01-04T00:00:00-03:00",
+     "fecha_legible": "04/01/2022",
+     "sesion": "/",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-01-04T00:00:00-03:00",
+     "fecha_legible": "04/01/2022",
+     "sesion": "111/369",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Defensa Nacional y a la de Hacienda, en su caso.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-01-04T00:00:00-03:00",
+     "fecha_legible": "04/01/2022",
+     "sesion": "111/369",
+     "descripcion": "Cuenta del Mensaje 334-369 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-01-24T00:00:00-03:00",
+     "fecha_legible": "24/01/2022",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Defensa Nacional.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-01-24T00:00:00-03:00",
+     "fecha_legible": "24/01/2022",
+     "sesion": "121/369",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-03-16T00:00:00-03:00",
+     "fecha_legible": "16/03/2022",
+     "sesion": "2/370",
+     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 12/05/2022 a las 12:00",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-06-14T00:00:00-04:00",
+     "fecha_legible": "14/06/2022",
+     "sesion": "26/370",
+     "descripcion": "Por no haberse presentado indicaciones en el plazo establecido, el proyecto de ley prosigue su tramitación. Pasa a la Comisión de Hacienda, en su caso.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-11-08T00:00:00-03:00",
+     "fecha_legible": "08/11/2022",
+     "sesion": "73/370",
+     "descripcion": "Cuenta del Mensaje 871-370 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-11-29T00:00:00-03:00",
+     "fecha_legible": "29/11/2022",
+     "sesion": "84/370",
+     "descripcion": "Cuenta del Mensaje 999-370 que retira la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-06-13T00:00:00-04:00",
+     "fecha_legible": "13/06/2023",
+     "sesion": "29/371",
+     "descripcion": "Cuenta del Mensaje 530-371 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-06-20T00:00:00-04:00",
+     "fecha_legible": "20/06/2023",
+     "sesion": "34/371",
+     "descripcion": "Cuenta del Mensaje 612-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-07-05T00:00:00-04:00",
+     "fecha_legible": "05/07/2023",
+     "sesion": "39/371",
+     "descripcion": "Cuenta del Mensaje 681-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-07-12T00:00:00-04:00",
+     "fecha_legible": "12/07/2023",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Hacienda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-07-12T00:00:00-04:00",
+     "fecha_legible": "12/07/2023",
+     "sesion": "41/371",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-07-18T00:00:00-04:00",
+     "fecha_legible": "18/07/2023",
+     "sesion": "42/371",
+     "descripcion": "Discusión particular . Aprobado",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-07-20T00:00:00-04:00",
+     "fecha_legible": "20/07/2023",
+     "sesion": "/",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-07-24T00:00:00-04:00",
+     "fecha_legible": "24/07/2023",
+     "sesion": "55/371",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Defensa Nacional, y a la Comisión de Hacienda en lo que corresponda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2023-07-25T00:00:00-04:00",
+     "fecha_legible": "25/07/2023",
+     "sesion": "56/371",
+     "descripcion": "Cuenta del Mensaje 794-371 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2023-08-09T00:00:00-04:00",
+     "fecha_legible": "09/08/2023",
+     "sesion": "65/371",
+     "descripcion": "Cuenta del Mensaje 892-371 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2023-08-23T00:00:00-04:00",
+     "fecha_legible": "23/08/2023",
+     "sesion": "68/371",
+     "descripcion": "Cuenta del Mensaje 977-371 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2023-08-25T00:00:00-04:00",
+     "fecha_legible": "25/08/2023",
+     "sesion": "/",
+     "descripcion": "Oficio del Presidente de la República, mediante el cual formula indicación al proyecto. Se adjunta informe financiero complementario N°188/23.08.2023.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2023-09-05T00:00:00-03:00",
+     "fecha_legible": "05/09/2023",
+     "sesion": "73/371",
+     "descripcion": "Cuenta del Mensaje 1068-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2023-09-11T00:00:00-03:00",
+     "fecha_legible": "11/09/2023",
+     "sesion": "76/371",
+     "descripcion": "Cuenta del Mensaje 1117-371 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2023-10-04T00:00:00-03:00",
+     "fecha_legible": "04/10/2023",
+     "sesion": "87/371",
+     "descripcion": "Cuenta del Mensaje 1250-371 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2023-10-23T00:00:00-03:00",
+     "fecha_legible": "23/10/2023",
+     "sesion": "/",
+     "descripcion": "Oficio del Presidente de la República (N°186-371), por el cual formula indicaciones al proyecto. Se adjunta informe financiero complementario N°231/23.10.2023.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2023-10-25T00:00:00-03:00",
+     "fecha_legible": "25/10/2023",
+     "sesion": "97/371",
+     "descripcion": "Cuenta del Mensaje 1348-371 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2023-11-22T00:00:00-03:00",
+     "fecha_legible": "22/11/2023",
+     "sesion": "108/371",
+     "descripcion": "Cuenta del Mensaje 1500-371 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2023-12-01T00:00:00-03:00",
+     "fecha_legible": "01/12/2023",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Defensa Nacional. Pasa a Comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2023-12-11T00:00:00-03:00",
+     "fecha_legible": "11/12/2023",
+     "sesion": "114/371",
+     "descripcion": "Cuenta de primer informe de comisión . (Defensa). Pasa a Hacienda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-01-03T00:00:00-03:00",
+     "fecha_legible": "03/01/2024",
+     "sesion": "124/371",
+     "descripcion": "Cuenta de oficio N° 336-2023, de la Corte Suprema, por el cual remite opinión sobre el proyecto (informe N° 60-2023).",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-01-06T00:00:00-03:00",
+     "fecha_legible": "06/01/2025",
+     "sesion": "122/372",
+     "descripcion": "Cuenta del Mensaje 2450-372 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-01-13T00:00:00-03:00",
+     "fecha_legible": "13/01/2025",
+     "sesion": "126/372",
+     "descripcion": "Cuenta del Mensaje 2568-372 que retira la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-08-11T00:00:00-04:00",
+     "fecha_legible": "11/08/2025",
+     "sesion": "57/373",
+     "descripcion": "Cuenta del Mensaje 925-373 que hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-09-10T00:00:00-03:00",
+     "fecha_legible": "10/09/2025",
+     "sesion": "69/373",
+     "descripcion": "Cuenta del Mensaje 1056-373 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-10-08T00:00:00-03:00",
+     "fecha_legible": "08/10/2025",
+     "sesion": "78/373",
+     "descripcion": "Cuenta del Mensaje 1135-373 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-11-04T00:00:00-03:00",
+     "fecha_legible": "04/11/2025",
+     "sesion": "87/373",
+     "descripcion": "Cuenta del Mensaje 1226-373 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-12-03T00:00:00-03:00",
+     "fecha_legible": "03/12/2025",
+     "sesion": "98/373",
+     "descripcion": "Cuenta del Mensaje 1307-373 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-01-06T00:00:00-03:00",
+     "fecha_legible": "06/01/2026",
+     "sesion": "106/373",
+     "descripcion": "Cuenta del Mensaje 1455-373 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-03-02T00:00:00-03:00",
+     "fecha_legible": "02/03/2026",
+     "sesion": "118/373",
+     "descripcion": "Cuenta del Mensaje 1603-373 que hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-12T00:00:00-04:00",
+     "fecha_legible": "12/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    }
+   ],
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2023-09-11T00:00:00-03:00",
+     "fecha_retiro": "2023-10-04T00:00:00-03:00"
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2023-10-04T00:00:00-03:00",
+     "fecha_retiro": "2023-10-25T00:00:00-03:00"
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2023-10-25T00:00:00-03:00",
+     "fecha_retiro": "2023-11-22T00:00:00-03:00"
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2023-11-22T00:00:00-03:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2025-01-06T00:00:00-03:00",
+     "fecha_retiro": "2025-01-13T00:00:00-03:00"
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2025-08-11T00:00:00-04:00",
+     "fecha_retiro": "2025-09-10T00:00:00-03:00"
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2025-09-10T00:00:00-03:00",
+     "fecha_retiro": "2025-10-08T00:00:00-03:00"
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2025-10-08T00:00:00-03:00",
+     "fecha_retiro": "2025-11-04T00:00:00-03:00"
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2025-11-04T00:00:00-03:00",
+     "fecha_retiro": "2025-12-03T00:00:00-03:00"
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2025-12-03T00:00:00-03:00",
+     "fecha_retiro": "2026-01-06T00:00:00-03:00"
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2026-01-06T00:00:00-03:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2026-03-02T00:00:00-03:00",
+     "fecha_retiro": ""
+    }
+   ],
+   "votaciones": [
+    {
+     "fecha": "2023-07-18T00:00:00-04:00",
+     "fecha_legible": "18/07/2023",
+     "tema": "Proyecto de ley, iniciado en Mensaje del ex Presidente de la República, señor Sebastián Piñera Echenique, en primer trámite constitucional, que crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica(Boletín N° 14.773-02).APROBADO.",
+     "si": "37",
+     "no": "0",
+     "abstencion": "0",
+     "camara": ""
+    }
+   ],
+   "autores": [
+    "Allende B., Isabel",
+    "Aravena A., Carmen Gloria",
+    "Araya G., Pedro",
+    "Carvajal A., Loreto",
+    "Castro G., Juan Luis",
+    "Castro P., Juan",
+    "Chahuán C., Francisco",
+    "Coloma C., Juan Antonio",
+    "De Urresti L., Alfonso",
+    "Durana S., José Miguel",
+    "Ebensperger O., Luz Eliana",
+    "Edwards S., Rojo",
+    "Flores G., Iván",
+    "Galilea V., Rodrigo",
+    "García R., José",
+    "Gatica B., María José",
+    "Insulza S., José Miguel",
+    "Kusanovic G., Alejandro",
+    "Kuschel S., Carlos Ignacio",
+    "Lagos W., Ricardo",
+    "Latorre R., Juan Ignacio",
+    "Macaya D., Javier",
+    "Moreira B., Iván",
+    "Ordenes N., Ximena",
+    "Ossandón I., Manuel José",
+    "Pascual G., Claudia",
+    "Prohens E., Rafael",
+    "Provoste C., Yasna",
+    "Pugh O., Kenneth",
+    "Quintana L., Jaime",
+    "Rincón G., Ximena",
+    "Saavedra C., Gastón",
+    "Sandoval P., David",
+    "Sepúlveda O., Alejandra",
+    "Soria Q., Jorge",
+    "Van Rysselberghe H., Enrique",
+    "Walker P., Matías"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [
+    {
+     "fecha": "2022-01-24T00:00:00-03:00",
+     "tramite": "Primer informe de comisión de Defensa Nacional",
+     "etapa": "Primer trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2023-07-12T00:00:00-04:00",
+     "tramite": "Primer informe de comisión de Hacienda",
+     "etapa": "Primer trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2023-12-01T00:00:00-03:00",
+     "tramite": "Primer informe de comisión de Defensa Nacional",
+     "etapa": "Segundo trámite constitucional",
+     "link": ""
+    }
+   ],
+   "ministerios": [
+    "Ministerio de Ciencia, Tecnología, C e I",
+    "Ministerio de Defensa Nacional",
+    "Ministerio de Economía, Fomento y Turism",
+    "Ministerio de Energía",
+    "Ministerio de Hacienda",
+    "Ministerio de Justicia y de Derechos Humanos",
+    "Ministerio de Relaciones Exteriores",
+    "Ministerio de Salud"
+   ],
+   "camara_id": "15272",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara",
+    "senado"
+   ],
+   "nota_semilla": "Caso de control temático · crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa. Debe clasificar en financiamiento de la proliferación y bienes de uso dual.",
+   "es_semilla": true,
+   "admisible": "true",
+   "texto_camara_completo": "15272 14773-02 Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica. 2022-01-04T00:00:00 Mensaje Senado 1 Ministerio de Economía, Fomento y Turism 46 Ministerio de Defensa Nacional 51 Ministerio de Relaciones Exteriores 144 Ministerio de Energía 2 Ministerio de Hacienda 167 Ministerio de Justicia y de Derechos Humanos 204 Ministerio de Ciencia, Tecnología, C e I 52 Ministerio de Salud true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=14773-02",
+   "canales_descubrimiento": [
+    "semilla",
+    "cartera",
+    "senado_movimiento"
+   ],
+   "id": "1083c0b2961f15d8",
+   "puntaje_pertinencia": 96.0,
+   "nivel_impacto": "estructural",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [
+     "uso dual"
+    ],
+    "estructurales": [
+     "comercio estrategico"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "proliferacion_uso_dual"
+   ],
+   "ejes_legibles": [
+    "Financiamiento de la proliferación y bienes de uso dual"
+   ],
+   "impacto_legible": "Impacto estructural en el sistema ALA/CFT",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 2,
+   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
+   "urgencia_clave": "simple",
+   "urgencia_legible": "Simple urgencia",
+   "etapa_ordinal": 2,
+   "vigente": true,
+   "ultimo_movimiento": "2026-08-12T00:00:00-04:00",
+   "ultimo_movimiento_legible": "12/08/2026",
+   "dias_sin_movimiento": 1,
+   "ultimo_tramite": "Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA",
+   "camara_actual": "C.Diputados",
+   "total_tramites": 40,
+   "fecha_ingreso_legible": "04/01/2022",
+   "antiguedad_dias": 1682,
+   "prioridad": 161.2,
+   "banda_prioridad": "alta",
+   "factor_urgencia": 1.6,
+   "factor_proximidad": 1.25,
+   "factor_frescura": 1.3,
+   "huella": "542502a5c5f0f04484bb",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=15272&prmBOLETIN=14773-02",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14773",
+   "sintesis": "Simple urgencia · Segundo trámite constitucional (C.Diputados) · Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA",
+   "novedad": "",
+   "novedad_detectada": "2026-08-12T15:07:53.477740-04:00"
+  },
+  {
    "boletin": "18216-05",
    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
    "fecha_ingreso": "2026-04-22T00:00:00-04:00",
-   "etapa": "Trámite finalización en Cámara de Origen (C.Diputados)",
-   "subetapa": "Cuenta oficio aprobación veto",
+   "etapa": "Trámite en Tribunal Constitucional (C.Diputados)",
+   "subetapa": "Ingreso fallo del Tribunal Constitucional",
    "iniciativa": "Mensaje",
    "camara_origen": "C.Diputados",
    "urgencia": "Discusión inmediata",
@@ -1355,6 +2090,22 @@
      "descripcion": "Oficio aprobación veto a Cámara de Origen .",
      "etapa": "Discusión veto en Cámara Revisora",
      "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-13T00:00:00-04:00",
+     "fecha_legible": "13/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio al Tribunal Constitucional .",
+     "etapa": "Trámite en Tribunal Constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-13T00:00:00-04:00",
+     "fecha_legible": "13/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio N° 21499. Comunica al Ejecutivo resultado del veto.",
+     "etapa": "Trámite en Tribunal Constitucional",
+     "camara": "C.Diputados"
     }
    ],
    "urgencias": [
@@ -1518,763 +2269,28 @@
    "nivel_legible": "Nivel 2 · Perímetro regulatorio",
    "urgencia_clave": "discusion inmediata",
    "urgencia_legible": "Discusión inmediata",
-   "etapa_ordinal": 5,
+   "etapa_ordinal": 6,
    "vigente": true,
-   "ultimo_movimiento": "2026-08-12T00:00:00-04:00",
-   "ultimo_movimiento_legible": "12/08/2026",
-   "dias_sin_movimiento": 1,
-   "ultimo_tramite": "Oficio aprobación veto a Cámara de Origen .",
-   "camara_actual": "Senado",
-   "total_tramites": 97,
+   "ultimo_movimiento": "2026-08-13T00:00:00-04:00",
+   "ultimo_movimiento_legible": "13/08/2026",
+   "dias_sin_movimiento": 0,
+   "ultimo_tramite": "Oficio N° 21499. Comunica al Ejecutivo resultado del veto.",
+   "camara_actual": "C.Diputados",
+   "total_tramites": 99,
    "fecha_ingreso_legible": "22/04/2026",
    "antiguedad_dias": 113,
-   "prioridad": 185.6,
+   "prioridad": 159.1,
    "banda_prioridad": "alta",
    "factor_urgencia": 3.0,
-   "factor_proximidad": 1.4,
+   "factor_proximidad": 1.2,
    "factor_frescura": 1.3,
-   "huella": "fe88c573eba0f1e07979",
+   "huella": "2afb7493d5cc283cceb8",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
-   "sintesis": "Discusión inmediata · Trámite finalización en Cámara de Origen (C.Diputados) · Oficio aprobación veto a Cámara de Origen .",
-   "novedad": "",
-   "novedad_detectada": "2026-08-12T22:24:17.627629-04:00"
-  },
-  {
-   "boletin": "17912-25",
-   "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
-   "fecha_ingreso": "2025-10-10T00:00:00-03:00",
-   "etapa": "Primer trámite constitucional (C.Diputados)",
-   "subetapa": "Discusión general",
-   "iniciativa": "Moción",
-   "camara_origen": "C.Diputados",
-   "urgencia": "Simple",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18569&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2025-10-10T00:00:00-03:00",
-     "fecha_legible": "10/10/2025",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-10-15T00:00:00-03:00",
-     "fecha_legible": "15/10/2025",
-     "sesion": "81/373",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-04-08T00:00:00-04:00",
-     "fecha_legible": "08/04/2026",
-     "sesion": "10/374",
-     "descripcion": "Cuenta del Mensaje 24-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-04T00:00:00-04:00",
-     "fecha_legible": "04/05/2026",
-     "sesion": "17/374",
-     "descripcion": "Cuenta del Mensaje 69-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-06-02T00:00:00-04:00",
-     "fecha_legible": "02/06/2026",
-     "sesion": "28/374",
-     "descripcion": "Cuenta del Mensaje 121-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-20T00:00:00-04:00",
-     "fecha_legible": "20/07/2026",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión de Seguridad Ciudadana.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-20T00:00:00-04:00",
-     "fecha_legible": "20/07/2026",
-     "sesion": "45/374",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    }
-   ],
-   "urgencias": [
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-04-08T00:00:00-04:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-05-04T00:00:00-04:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-06-02T00:00:00-04:00",
-     "fecha_retiro": ""
-    }
-   ],
-   "votaciones": [],
-   "autores": [
-    "Alessandri Vergara, Jorge",
-    "Andrés Jouannet Valderrama",
-    "Andrés Longton Herrera",
-    "Araya Guerrero, Jaime",
-    "Araya Lerdo de Tejada, Cristián",
-    "Castro Bascuñán, José Miguel",
-    "Cristián Araya Lerdo de Tejada",
-    "Diego Schalper Sepúlveda",
-    "Gloria Naveillan Arriagada",
-    "Hugo Rey Martínez",
-    "Jaime Araya Guerrero",
-    "Jorge Alessandri Vergara",
-    "José Miguel Castro Bascuñán",
-    "Jouannet Valderrama, Andrés",
-    "Leiva Carvajal, Raúl",
-    "Longton Herrera, Andrés",
-    "Naveillan Arriagada, Gloria",
-    "Raúl Leiva Carvajal",
-    "Rey Martínez, Hugo",
-    "Schalper Sepúlveda, Diego"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [
-    {
-     "fecha": "2026-07-20T00:00:00-04:00",
-     "tramite": "Primer informe de comisión de Seguridad Ciudadana",
-     "etapa": "Primer trámite constitucional",
-     "link": ""
-    }
-   ],
-   "ministerios": [],
-   "camara_id": "18569",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "admisible": "true",
-   "texto_camara_completo": "18569 17912-25 Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos 2025-10-10T00:00:00 Moción Cámara de Diputados 0 1009 Jorge Alessandri Vergara 0 1044 Raúl Leiva Carvajal 0 1046 Andrés Longton Herrera 0 1067 Hugo Rey Martínez 0 1075 Diego Schalper Sepúlveda 0 1019 José Miguel Castro Bascuñán 0 1099 Jaime Araya Guerrero 0 1134 Andrés Jouannet Valderrama 0 1152 Gloria Naveillan Arriagada 0 1100 Cristián Araya Lerdo de Tejada true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17912-25",
-   "canales_descubrimiento": [
-    "cartera"
-   ],
-   "id": "80d2ea7de230a503",
-   "puntaje_pertinencia": 316.0,
-   "nivel_impacto": "directo",
-   "evidencia": {
-    "directas": [
-     "19.913"
-    ],
-    "nucleo": [
-     "lavado de activos"
-    ],
-    "estructurales": [
-     "propiedad industrial"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [
-    "facultades_uaf",
-    "delitos_base"
-   ],
-   "ejes_legibles": [
-    "Facultades y competencias UAF",
-    "Catálogo de delitos base"
-   ],
-   "impacto_legible": "Impacto directo en la Ley 19.913",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 1,
-   "nivel_legible": "Nivel 1 · Impacto en la Ley 19.913",
-   "urgencia_clave": "simple",
-   "urgencia_legible": "Simple urgencia",
-   "etapa_ordinal": 1,
-   "vigente": true,
-   "ultimo_movimiento": "2026-07-20T00:00:00-04:00",
-   "ultimo_movimiento_legible": "20/07/2026",
-   "dias_sin_movimiento": 24,
-   "ultimo_tramite": "Cuenta de primer informe de comisión .",
-   "camara_actual": "C.Diputados",
-   "total_tramites": 7,
-   "fecha_ingreso_legible": "10/10/2025",
-   "antiguedad_dias": 307,
-   "prioridad": 184.0,
-   "banda_prioridad": "alta",
-   "factor_urgencia": 1.6,
-   "factor_proximidad": 1.0,
-   "factor_frescura": 1.15,
-   "huella": "5ce99795d60dcd45139a",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18569&prmBOLETIN=17912-25",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17912",
-   "sintesis": "Simple urgencia · Primer trámite constitucional (C.Diputados) · Cuenta de primer informe de comisión .",
-   "novedad": "",
-   "novedad_detectada": ""
-  },
-  {
-   "boletin": "14773-02",
-   "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-   "fecha_ingreso": "2022-01-04T00:00:00-03:00",
-   "etapa": "Segundo trámite constitucional (C.Diputados)",
-   "subetapa": "Discusión general",
-   "iniciativa": "Mensaje",
-   "camara_origen": "Senado",
-   "urgencia": "Simple",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15272&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2022-01-04T00:00:00-03:00",
-     "fecha_legible": "04/01/2022",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2022-01-04T00:00:00-03:00",
-     "fecha_legible": "04/01/2022",
-     "sesion": "111/369",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Defensa Nacional y a la de Hacienda, en su caso.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2022-01-04T00:00:00-03:00",
-     "fecha_legible": "04/01/2022",
-     "sesion": "111/369",
-     "descripcion": "Cuenta del Mensaje 334-369 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2022-01-24T00:00:00-03:00",
-     "fecha_legible": "24/01/2022",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión de Defensa Nacional.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2022-01-24T00:00:00-03:00",
-     "fecha_legible": "24/01/2022",
-     "sesion": "121/369",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2022-03-16T00:00:00-03:00",
-     "fecha_legible": "16/03/2022",
-     "sesion": "2/370",
-     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 12/05/2022 a las 12:00",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2022-06-14T00:00:00-04:00",
-     "fecha_legible": "14/06/2022",
-     "sesion": "26/370",
-     "descripcion": "Por no haberse presentado indicaciones en el plazo establecido, el proyecto de ley prosigue su tramitación. Pasa a la Comisión de Hacienda, en su caso.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2022-11-08T00:00:00-03:00",
-     "fecha_legible": "08/11/2022",
-     "sesion": "73/370",
-     "descripcion": "Cuenta del Mensaje 871-370 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2022-11-29T00:00:00-03:00",
-     "fecha_legible": "29/11/2022",
-     "sesion": "84/370",
-     "descripcion": "Cuenta del Mensaje 999-370 que retira la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2023-06-13T00:00:00-04:00",
-     "fecha_legible": "13/06/2023",
-     "sesion": "29/371",
-     "descripcion": "Cuenta del Mensaje 530-371 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2023-06-20T00:00:00-04:00",
-     "fecha_legible": "20/06/2023",
-     "sesion": "34/371",
-     "descripcion": "Cuenta del Mensaje 612-371 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2023-07-05T00:00:00-04:00",
-     "fecha_legible": "05/07/2023",
-     "sesion": "39/371",
-     "descripcion": "Cuenta del Mensaje 681-371 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2023-07-12T00:00:00-04:00",
-     "fecha_legible": "12/07/2023",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión de Hacienda.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2023-07-12T00:00:00-04:00",
-     "fecha_legible": "12/07/2023",
-     "sesion": "41/371",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2023-07-18T00:00:00-04:00",
-     "fecha_legible": "18/07/2023",
-     "sesion": "42/371",
-     "descripcion": "Discusión particular . Aprobado",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2023-07-20T00:00:00-04:00",
-     "fecha_legible": "20/07/2023",
-     "sesion": "/",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2023-07-24T00:00:00-04:00",
-     "fecha_legible": "24/07/2023",
-     "sesion": "55/371",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Defensa Nacional, y a la Comisión de Hacienda en lo que corresponda.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2023-07-25T00:00:00-04:00",
-     "fecha_legible": "25/07/2023",
-     "sesion": "56/371",
-     "descripcion": "Cuenta del Mensaje 794-371 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2023-08-09T00:00:00-04:00",
-     "fecha_legible": "09/08/2023",
-     "sesion": "65/371",
-     "descripcion": "Cuenta del Mensaje 892-371 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2023-08-23T00:00:00-04:00",
-     "fecha_legible": "23/08/2023",
-     "sesion": "68/371",
-     "descripcion": "Cuenta del Mensaje 977-371 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2023-08-25T00:00:00-04:00",
-     "fecha_legible": "25/08/2023",
-     "sesion": "/",
-     "descripcion": "Oficio del Presidente de la República, mediante el cual formula indicación al proyecto. Se adjunta informe financiero complementario N°188/23.08.2023.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2023-09-05T00:00:00-03:00",
-     "fecha_legible": "05/09/2023",
-     "sesion": "73/371",
-     "descripcion": "Cuenta del Mensaje 1068-371 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2023-09-11T00:00:00-03:00",
-     "fecha_legible": "11/09/2023",
-     "sesion": "76/371",
-     "descripcion": "Cuenta del Mensaje 1117-371 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2023-10-04T00:00:00-03:00",
-     "fecha_legible": "04/10/2023",
-     "sesion": "87/371",
-     "descripcion": "Cuenta del Mensaje 1250-371 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2023-10-23T00:00:00-03:00",
-     "fecha_legible": "23/10/2023",
-     "sesion": "/",
-     "descripcion": "Oficio del Presidente de la República (N°186-371), por el cual formula indicaciones al proyecto. Se adjunta informe financiero complementario N°231/23.10.2023.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2023-10-25T00:00:00-03:00",
-     "fecha_legible": "25/10/2023",
-     "sesion": "97/371",
-     "descripcion": "Cuenta del Mensaje 1348-371 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2023-11-22T00:00:00-03:00",
-     "fecha_legible": "22/11/2023",
-     "sesion": "108/371",
-     "descripcion": "Cuenta del Mensaje 1500-371 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2023-12-01T00:00:00-03:00",
-     "fecha_legible": "01/12/2023",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión de Defensa Nacional. Pasa a Comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2023-12-11T00:00:00-03:00",
-     "fecha_legible": "11/12/2023",
-     "sesion": "114/371",
-     "descripcion": "Cuenta de primer informe de comisión . (Defensa). Pasa a Hacienda.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-01-03T00:00:00-03:00",
-     "fecha_legible": "03/01/2024",
-     "sesion": "124/371",
-     "descripcion": "Cuenta de oficio N° 336-2023, de la Corte Suprema, por el cual remite opinión sobre el proyecto (informe N° 60-2023).",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-01-06T00:00:00-03:00",
-     "fecha_legible": "06/01/2025",
-     "sesion": "122/372",
-     "descripcion": "Cuenta del Mensaje 2450-372 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-01-13T00:00:00-03:00",
-     "fecha_legible": "13/01/2025",
-     "sesion": "126/372",
-     "descripcion": "Cuenta del Mensaje 2568-372 que retira la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-08-11T00:00:00-04:00",
-     "fecha_legible": "11/08/2025",
-     "sesion": "57/373",
-     "descripcion": "Cuenta del Mensaje 925-373 que hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-09-10T00:00:00-03:00",
-     "fecha_legible": "10/09/2025",
-     "sesion": "69/373",
-     "descripcion": "Cuenta del Mensaje 1056-373 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-10-08T00:00:00-03:00",
-     "fecha_legible": "08/10/2025",
-     "sesion": "78/373",
-     "descripcion": "Cuenta del Mensaje 1135-373 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-11-04T00:00:00-03:00",
-     "fecha_legible": "04/11/2025",
-     "sesion": "87/373",
-     "descripcion": "Cuenta del Mensaje 1226-373 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-12-03T00:00:00-03:00",
-     "fecha_legible": "03/12/2025",
-     "sesion": "98/373",
-     "descripcion": "Cuenta del Mensaje 1307-373 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-01-06T00:00:00-03:00",
-     "fecha_legible": "06/01/2026",
-     "sesion": "106/373",
-     "descripcion": "Cuenta del Mensaje 1455-373 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-03-02T00:00:00-03:00",
-     "fecha_legible": "02/03/2026",
-     "sesion": "118/373",
-     "descripcion": "Cuenta del Mensaje 1603-373 que hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-12T00:00:00-04:00",
-     "fecha_legible": "12/08/2026",
-     "sesion": "/",
-     "descripcion": "Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "C.Diputados"
-    }
-   ],
-   "urgencias": [
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2023-09-11T00:00:00-03:00",
-     "fecha_retiro": "2023-10-04T00:00:00-03:00"
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2023-10-04T00:00:00-03:00",
-     "fecha_retiro": "2023-10-25T00:00:00-03:00"
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2023-10-25T00:00:00-03:00",
-     "fecha_retiro": "2023-11-22T00:00:00-03:00"
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2023-11-22T00:00:00-03:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2025-01-06T00:00:00-03:00",
-     "fecha_retiro": "2025-01-13T00:00:00-03:00"
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2025-08-11T00:00:00-04:00",
-     "fecha_retiro": "2025-09-10T00:00:00-03:00"
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2025-09-10T00:00:00-03:00",
-     "fecha_retiro": "2025-10-08T00:00:00-03:00"
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2025-10-08T00:00:00-03:00",
-     "fecha_retiro": "2025-11-04T00:00:00-03:00"
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2025-11-04T00:00:00-03:00",
-     "fecha_retiro": "2025-12-03T00:00:00-03:00"
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2025-12-03T00:00:00-03:00",
-     "fecha_retiro": "2026-01-06T00:00:00-03:00"
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-01-06T00:00:00-03:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-03-02T00:00:00-03:00",
-     "fecha_retiro": ""
-    }
-   ],
-   "votaciones": [
-    {
-     "fecha": "2023-07-18T00:00:00-04:00",
-     "fecha_legible": "18/07/2023",
-     "tema": "Proyecto de ley, iniciado en Mensaje del ex Presidente de la República, señor Sebastián Piñera Echenique, en primer trámite constitucional, que crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica(Boletín N° 14.773-02).APROBADO.",
-     "si": "37",
-     "no": "0",
-     "abstencion": "0",
-     "camara": ""
-    }
-   ],
-   "autores": [
-    "Allende B., Isabel",
-    "Aravena A., Carmen Gloria",
-    "Araya G., Pedro",
-    "Carvajal A., Loreto",
-    "Castro G., Juan Luis",
-    "Castro P., Juan",
-    "Chahuán C., Francisco",
-    "Coloma C., Juan Antonio",
-    "De Urresti L., Alfonso",
-    "Durana S., José Miguel",
-    "Ebensperger O., Luz Eliana",
-    "Edwards S., Rojo",
-    "Flores G., Iván",
-    "Galilea V., Rodrigo",
-    "García R., José",
-    "Gatica B., María José",
-    "Insulza S., José Miguel",
-    "Kusanovic G., Alejandro",
-    "Kuschel S., Carlos Ignacio",
-    "Lagos W., Ricardo",
-    "Latorre R., Juan Ignacio",
-    "Macaya D., Javier",
-    "Moreira B., Iván",
-    "Ordenes N., Ximena",
-    "Ossandón I., Manuel José",
-    "Pascual G., Claudia",
-    "Prohens E., Rafael",
-    "Provoste C., Yasna",
-    "Pugh O., Kenneth",
-    "Quintana L., Jaime",
-    "Rincón G., Ximena",
-    "Saavedra C., Gastón",
-    "Sandoval P., David",
-    "Sepúlveda O., Alejandra",
-    "Soria Q., Jorge",
-    "Van Rysselberghe H., Enrique",
-    "Walker P., Matías"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [
-    {
-     "fecha": "2022-01-24T00:00:00-03:00",
-     "tramite": "Primer informe de comisión de Defensa Nacional",
-     "etapa": "Primer trámite constitucional",
-     "link": ""
-    },
-    {
-     "fecha": "2023-07-12T00:00:00-04:00",
-     "tramite": "Primer informe de comisión de Hacienda",
-     "etapa": "Primer trámite constitucional",
-     "link": ""
-    },
-    {
-     "fecha": "2023-12-01T00:00:00-03:00",
-     "tramite": "Primer informe de comisión de Defensa Nacional",
-     "etapa": "Segundo trámite constitucional",
-     "link": ""
-    }
-   ],
-   "ministerios": [
-    "Ministerio de Ciencia, Tecnología, C e I",
-    "Ministerio de Defensa Nacional",
-    "Ministerio de Economía, Fomento y Turism",
-    "Ministerio de Energía",
-    "Ministerio de Hacienda",
-    "Ministerio de Justicia y de Derechos Humanos",
-    "Ministerio de Relaciones Exteriores",
-    "Ministerio de Salud"
-   ],
-   "camara_id": "15272",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "nota_semilla": "Caso de control temático · crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa. Debe clasificar en financiamiento de la proliferación y bienes de uso dual.",
-   "es_semilla": true,
-   "admisible": "true",
-   "texto_camara_completo": "15272 14773-02 Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica. 2022-01-04T00:00:00 Mensaje Senado 1 Ministerio de Economía, Fomento y Turism 46 Ministerio de Defensa Nacional 51 Ministerio de Relaciones Exteriores 144 Ministerio de Energía 2 Ministerio de Hacienda 167 Ministerio de Justicia y de Derechos Humanos 204 Ministerio de Ciencia, Tecnología, C e I 52 Ministerio de Salud true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=14773-02",
-   "canales_descubrimiento": [
-    "semilla",
-    "cartera",
-    "senado_movimiento"
-   ],
-   "id": "1083c0b2961f15d8",
-   "puntaje_pertinencia": 96.0,
-   "nivel_impacto": "estructural",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [
-     "uso dual"
-    ],
-    "estructurales": [
-     "comercio estrategico"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [
-    "proliferacion_uso_dual"
-   ],
-   "ejes_legibles": [
-    "Financiamiento de la proliferación y bienes de uso dual"
-   ],
-   "impacto_legible": "Impacto estructural en el sistema ALA/CFT",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 2,
-   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
-   "urgencia_clave": "simple",
-   "urgencia_legible": "Simple urgencia",
-   "etapa_ordinal": 2,
-   "vigente": true,
-   "ultimo_movimiento": "2026-08-12T00:00:00-04:00",
-   "ultimo_movimiento_legible": "12/08/2026",
-   "dias_sin_movimiento": 1,
-   "ultimo_tramite": "Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA",
-   "camara_actual": "C.Diputados",
-   "total_tramites": 40,
-   "fecha_ingreso_legible": "04/01/2022",
-   "antiguedad_dias": 1682,
-   "prioridad": 161.2,
-   "banda_prioridad": "alta",
-   "factor_urgencia": 1.6,
-   "factor_proximidad": 1.25,
-   "factor_frescura": 1.3,
-   "huella": "542502a5c5f0f04484bb",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=15272&prmBOLETIN=14773-02",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14773",
-   "sintesis": "Simple urgencia · Segundo trámite constitucional (C.Diputados) · Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA",
-   "novedad": "",
-   "novedad_detectada": "2026-08-12T15:07:53.477740-04:00"
+   "sintesis": "Discusión inmediata · Trámite en Tribunal Constitucional (C.Diputados) · Oficio N° 21499. Comunica al Ejecutivo resultado del veto.",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-13T22:22:07.892070-04:00"
   },
   {
    "boletin": "15975-25",
@@ -11145,10 +11161,10 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-13T18:49:45.538249-04:00"
+   "revisado": "2026-08-13T22:22:07.892070-04:00"
   }
  ],
- "novedades": 0,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11207,9 +11223,9 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 1,
   "retenidos_para_revision_manual": 3,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 0,
+  "con_movimiento": 1,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
@@ -11258,6 +11274,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 68.3
+  "segundos_corrida": 68.6
  }
 }
