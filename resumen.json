@@ -2,21 +2,21 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-16T21:39:13.715189-04:00",
-  "generado_legible": "16/08/2026 21:39",
+  "generado": "2026-08-16T23:04:53.501803-04:00",
+  "generado_legible": "16/08/2026 23:04",
   "proyectos_total": 43,
-  "vigentes": 40,
-  "movimientos_recientes": 5,
-  "movimientos_30d": 10,
-  "novedades_corrida": 0,
-  "impacto_directo": 9,
-  "con_urgencia": 7,
-  "prioridad_alta": 5,
-  "estancados_180d": 17,
+  "vigentes": 42,
+  "movimientos_recientes": 1,
+  "movimientos_30d": 3,
+  "novedades_corrida": 39,
+  "impacto_directo": 8,
+  "con_urgencia": 0,
+  "prioridad_alta": 0,
+  "estancados_180d": 24,
   "ultimo": {
-    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-    "detalle": "Boletín 18216-05 · 13/08/2026 · Trámite en Tribunal Constitucional (C.Diputados)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+    "titulo": "Consagra los territorios especiales digitales, con el objeto de fortalecer la soberanía digital, la continuidad estratégica del Estado y la cooperación internacional",
+    "detalle": "Boletín 18582-07 · 13/08/2026",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18582-07",
     "fecha": "2026-08-13T00:00:00-04:00"
   },
   "serie_7d": [
@@ -26,15 +26,15 @@
     },
     {
       "fecha": "2026-08-11",
-      "n": 1
+      "n": 0
     },
     {
       "fecha": "2026-08-12",
-      "n": 2
+      "n": 0
     },
     {
       "fecha": "2026-08-13",
-      "n": 2
+      "n": 1
     },
     {
       "fecha": "2026-08-14",
@@ -51,14 +51,6 @@
   ],
   "alertas": [
     {
-      "severidad": "alta",
-      "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-      "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Discusión inmediata",
-      "fecha": "2026-08-13T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
-      "fuente": "LEGISLATIVO"
-    },
-    {
       "severidad": "info",
       "titulo": "Consagra los territorios especiales digitales, con el objeto de fortalecer la soberanía digital, la continuidad estratégica del Estado y la cooperación internacional",
       "detalle": "Boletín 18582-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
@@ -67,38 +59,46 @@
       "fuente": "LEGISLATIVO"
     },
     {
-      "severidad": "alta",
-      "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-      "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
-      "fecha": "2026-08-12T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
+      "severidad": "info",
+      "titulo": "Autoriza al Presidente de la República para recompensar a quienes aporten antecedentes útiles para la investigación y sanción de delitos vinculados al crimen organizado",
+      "detalle": "Boletín 18573-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-08-07T11:55:23-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18573-25",
       "fuente": "LEGISLATIVO"
     },
     {
-      "severidad": "media",
-      "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
-      "detalle": "Boletín 18420-25 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
-      "fecha": "2026-08-12T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
+      "severidad": "info",
+      "titulo": "Modifica diversos cuerpos legales en materia de persecución penal y patrimonial, y tipifica nuevos delitos para combatir el crimen organizado",
+      "detalle": "Boletín 18488-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-07-21T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18488-07",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
+      "titulo": "Crea el Registro Nacional de Condenados por Delitos Económicos y establece restricciones a beneficios estatales para quienes los cometen",
+      "detalle": "Boletín 18443-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-07-13T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18443-07",
       "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
     {
       "fecha": "2026-08-13T00:00:00-04:00",
-      "texto": "Boletín 18216-05: Oficio N° 21499. Comunica al Ejecutivo resultado del veto."
-    },
-    {
-      "fecha": "2026-08-13T00:00:00-04:00",
       "texto": "Boletín 18582-07:"
     },
     {
-      "fecha": "2026-08-12T00:00:00-04:00",
-      "texto": "Boletín 14773-02: Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA"
+      "fecha": "2026-08-07T11:55:23-04:00",
+      "texto": "Boletín 18573-25:"
     },
     {
-      "fecha": "2026-08-12T00:00:00-04:00",
-      "texto": "Boletín 18420-25: La Sala acuerda abrir un plazo para presentar indicaciones a este proyecto hasta las 12.00 horas del día 4 de septiembre de 2026, en la Secretaría del Senado"
+      "fecha": "2026-07-21T00:00:00-04:00",
+      "texto": "Boletín 18488-07:"
+    },
+    {
+      "fecha": "2026-07-13T00:00:00-04:00",
+      "texto": "Boletín 18443-07: Oficio N° 21385. Comunica a la Comisión de Seguridad Ciudadana el acuerdo de la Sala, en orden a que le sea remitido del proyecto de ley, una vez que sea despachado por la Comisión de Constitución, Legislación, Justicia y Reglamento."
     }
   ]
 }
