@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-18T08:55:24.295550-04:00",
- "generado_legible": "18/08/2026 08:55",
+ "generado": "2026-08-18T10:38:36.458739-04:00",
+ "generado_legible": "18/08/2026 10:38",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-08-18T08:55:24.295550-04:00"
+  "generado": "2026-08-18T10:38:36.458739-04:00"
  },
  "proyectos": [
   {
@@ -1663,7 +1663,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
    "sintesis": "Discusión inmediata · Trámite finalización en Cámara de Origen (C.Diputados) · Cuenta oficio aprobación veto .",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-18T08:55:24.295550-04:00"
   },
   {
@@ -11243,10 +11243,10 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-18T08:55:24.295550-04:00"
+   "revisado": "2026-08-18T10:38:36.458739-04:00"
   }
  ],
- "novedades": 1,
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11305,9 +11305,9 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 1,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 1,
+  "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 1,
+  "con_movimiento": 0,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
