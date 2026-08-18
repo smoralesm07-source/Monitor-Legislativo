@@ -2,8 +2,8 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-18T16:29:44.593458-04:00",
-  "generado_legible": "18/08/2026 16:29",
+  "generado": "2026-08-18T18:28:56.667435-04:00",
+  "generado_legible": "18/08/2026 18:28",
   "proyectos_total": 43,
   "vigentes": 40,
   "movimientos_recientes": 8,
@@ -26,7 +26,7 @@
     },
     {
       "fecha": "2026-08-13",
-      "n": 1
+      "n": 0
     },
     {
       "fecha": "2026-08-14",
@@ -46,7 +46,7 @@
     },
     {
       "fecha": "2026-08-18",
-      "n": 3
+      "n": 4
     }
   ],
   "alertas": [
@@ -75,11 +75,11 @@
       "fuente": "LEGISLATIVO"
     },
     {
-      "severidad": "alta",
-      "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-      "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Discusión inmediata",
-      "fecha": "2026-08-17T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+      "severidad": "info",
+      "titulo": "Consagra los territorios especiales digitales, con el objeto de fortalecer la soberanía digital, la continuidad estratégica del Estado y la cooperación internacional",
+      "detalle": "Boletín 18582-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-08-18T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18582-07",
       "fuente": "LEGISLATIVO"
     }
   ],
@@ -94,11 +94,11 @@
     },
     {
       "fecha": "2026-08-18T00:00:00-04:00",
-      "texto": "Boletín 18333-07: Cuenta oficio N? 222-2026 de la Corte Suprema"
+      "texto": "Boletín 18333-07: Cuenta oficio N° 222-2026 de la Corte Suprema"
     },
     {
-      "fecha": "2026-08-17T00:00:00-04:00",
-      "texto": "Boletín 18216-05: Cuenta oficio aprobación veto ."
+      "fecha": "2026-08-18T00:00:00-04:00",
+      "texto": "Boletín 18582-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
     }
   ]
 }

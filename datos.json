@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-18T16:29:44.593458-04:00",
- "generado_legible": "18/08/2026 16:29",
+ "generado": "2026-08-18T18:28:56.667435-04:00",
+ "generado_legible": "18/08/2026 18:28",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -24,12 +24,12 @@
    {
     "ordinal": 0,
     "etapa": "Cerrado o archivado",
-    "total": 2
+    "total": 1
    },
    {
     "ordinal": 1,
     "etapa": "Primer trámite",
-    "total": 33
+    "total": 34
    },
    {
     "ordinal": 2,
@@ -89,13 +89,13 @@
     "total": 1
    },
    {
-    "clave": "responsabilidad_penal_pj",
-    "etiqueta": "Responsabilidad penal de personas jurídicas",
+    "clave": "cooperacion_institucional",
+    "etiqueta": "Cooperación e intercambio de información",
     "total": 1
    },
    {
-    "clave": "cooperacion_institucional",
-    "etiqueta": "Cooperación e intercambio de información",
+    "clave": "responsabilidad_penal_pj",
+    "etiqueta": "Responsabilidad penal de personas jurídicas",
     "total": 1
    }
   ],
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-08-18T16:29:44.593458-04:00"
+  "generado": "2026-08-18T18:28:56.667435-04:00"
  },
  "proyectos": [
   {
@@ -472,7 +472,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17412&prmBOLETIN=16808-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16808",
    "sintesis": "Simple urgencia · Segundo trámite constitucional (Senado) · Cuenta del Mensaje 267-374 que retira y hace presente la urgencia Simple",
-   "novedad": "urgencia",
+   "novedad": "",
    "novedad_detectada": "2026-08-18T16:29:44.593458-04:00"
   },
   {
@@ -1285,7 +1285,31 @@
      "fecha": "2026-08-17T00:00:00-04:00",
      "fecha_legible": "17/08/2026",
      "sesion": "57/374",
+     "descripcion": "Cuenta, Copia autorizada de una resolución del Tribunal Constitucional por la cual tiene por acompañadas observaciones formuladas al requerimiento de inconstitucionalidad presentado por un grupo de senadoras y senadores, y por un grupo de diputadas y diputados, respecto de ciertas normas del proyecto. Roles acumulados N°s 17828-26-CPT, 17829-26-CPT y 17832-26-CPT.",
+     "etapa": "Trámite finalización en Cámara de Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-17T00:00:00-04:00",
+     "fecha_legible": "17/08/2026",
+     "sesion": "57/374",
      "descripcion": "Cuenta oficio aprobación veto .",
+     "etapa": "Trámite finalización en Cámara de Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-17T00:00:00-04:00",
+     "fecha_legible": "17/08/2026",
+     "sesion": "/",
+     "descripcion": "Cuenta, Copia autorizada de una resolución del Tribunal Constitucional por la cual tiene presente consideraciones efectuadas respecto de las observaciones formuladas por el Presidente de la República y el Honorable Senado al requerimiento de inconstitucionalidad presentado respecto de ciertas normas del proyecto. Roles acumulados N°s 17828-26-CPT, 17829-26-CPT y 17832-26-CPT.",
+     "etapa": "Trámite finalización en Cámara de Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-17T00:00:00-04:00",
+     "fecha_legible": "17/08/2026",
+     "sesion": "57/374",
+     "descripcion": "Cuenta, Copia autorizada de una resolución del Tribunal Constitucional mediante la cual prorroga por diez días el plazo para resolver el requerimiento de inconstitucionalidad presentado respecto del proyecto.",
      "etapa": "Trámite finalización en Cámara de Origen",
      "camara": "C.Diputados"
     }
@@ -1456,9 +1480,9 @@
    "ultimo_movimiento": "2026-08-17T00:00:00-04:00",
    "ultimo_movimiento_legible": "17/08/2026",
    "dias_sin_movimiento": 1,
-   "ultimo_tramite": "Cuenta oficio aprobación veto .",
+   "ultimo_tramite": "Cuenta, Copia autorizada de una resolución del Tribunal Constitucional mediante la cual prorroga por diez días el plazo para resolver el requerimiento de inconstitucionalidad presentado respecto del proyecto.",
    "camara_actual": "C.Diputados",
-   "total_tramites": 100,
+   "total_tramites": 103,
    "fecha_ingreso_legible": "22/04/2026",
    "antiguedad_dias": 118,
    "prioridad": 185.6,
@@ -1466,13 +1490,13 @@
    "factor_urgencia": 3.0,
    "factor_proximidad": 1.4,
    "factor_frescura": 1.3,
-   "huella": "dc9ef763dc229026f8fc",
+   "huella": "59510409d7ccbf73c860",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
-   "sintesis": "Discusión inmediata · Trámite finalización en Cámara de Origen (C.Diputados) · Cuenta oficio aprobación veto .",
-   "novedad": "",
-   "novedad_detectada": "2026-08-18T08:55:24.295550-04:00"
+   "sintesis": "Discusión inmediata · Trámite finalización en Cámara de Origen (C.Diputados) · Cuenta, Copia autorizada de una resolución del Tribunal Constitucional mediante la cual prorroga por diez días el plazo para resolver el requerimiento de inconstitucionalidad presentado respecto del proyecto.",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-18T18:28:56.667435-04:00"
   },
   {
    "boletin": "17912-25",
@@ -1685,7 +1709,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18569&prmBOLETIN=17912-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17912",
    "sintesis": "Segundo trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-18T16:29:44.593458-04:00"
   },
   {
@@ -4971,15 +4995,7 @@
      "fecha": "2026-06-10T00:00:00-04:00",
      "fecha_legible": "10/06/2026",
      "sesion": "/",
-     "descripcion": "Oficio N° a la Corte Suprema",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-10T00:00:00-04:00",
-     "fecha_legible": "10/06/2026",
-     "sesion": "/",
-     "descripcion": "Oficio N° a la Corte Suprema",
+     "descripcion": "Oficio N° 192 a la Corte Suprema",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
     },
@@ -4987,7 +5003,7 @@
      "fecha": "2026-08-18T00:00:00-04:00",
      "fecha_legible": "18/08/2026",
      "sesion": "51/374",
-     "descripcion": "Cuenta oficio N? 222-2026 de la Corte Suprema",
+     "descripcion": "Cuenta oficio N° 222-2026 de la Corte Suprema",
      "etapa": "Primer trámite constitucional",
      "camara": "Senado"
     }
@@ -5021,7 +5037,8 @@
    "texto_camara_completo": "19011 18333-07 Modifica diversos cuerpos legales, con el objeto de sancionar penalmente el reclutamiento de personas por parte de una asociación delictiva o criminal 2026-06-10T00:00:00 Moción Senado 0 1117 Iván Moreira Barros 0 1324 Karim Bianchi Retamales 0 1337 Paulina Núñez Urrutia 0 1339 Gastón Saavedra Chandía 0 1450 Paulina Vodanovic Rojas true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18333-07",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "5141da866ef863d2",
    "puntaje_pertinencia": 32.0,
@@ -5053,9 +5070,9 @@
    "ultimo_movimiento": "2026-08-18T00:00:00-04:00",
    "ultimo_movimiento_legible": "18/08/2026",
    "dias_sin_movimiento": 0,
-   "ultimo_tramite": "Cuenta oficio N? 222-2026 de la Corte Suprema",
+   "ultimo_tramite": "Cuenta oficio N° 222-2026 de la Corte Suprema",
    "camara_actual": "Senado",
-   "total_tramites": 5,
+   "total_tramites": 4,
    "fecha_ingreso_legible": "10/06/2026",
    "antiguedad_dias": 69,
    "prioridad": 44.2,
@@ -5063,13 +5080,13 @@
    "factor_urgencia": 1.0,
    "factor_proximidad": 1.0,
    "factor_frescura": 1.3,
-   "huella": "84040b9221271c77ee11",
+   "huella": "9f400b26a09e122dd499",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18333-07",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19011&prmBOLETIN=18333-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18333",
-   "sintesis": "Primer trámite constitucional (Senado) · Cuenta oficio N? 222-2026 de la Corte Suprema",
+   "sintesis": "Primer trámite constitucional (Senado) · Cuenta oficio N° 222-2026 de la Corte Suprema",
    "novedad": "movimiento",
-   "novedad_detectada": "2026-08-18T16:29:44.593458-04:00"
+   "novedad_detectada": "2026-08-18T18:28:56.667435-04:00"
   },
   {
    "boletin": "18573-25",
@@ -5191,6 +5208,117 @@
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
    "novedad": "",
    "novedad_detectada": "2026-08-17T00:49:50.210094-04:00"
+  },
+  {
+   "boletin": "18582-07",
+   "titulo": "Consagra los territorios especiales digitales, con el objeto de fortalecer la soberanía digital, la continuidad estratégica del Estado y la cooperación internacional",
+   "fecha_ingreso": "2026-08-13T00:00:00-04:00",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia": "Sin urgencia",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "En tramitación",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19266&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2026-08-13T00:00:00-04:00",
+     "fecha_legible": "13/08/2026",
+     "sesion": "/",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-18T00:00:00-04:00",
+     "fecha_legible": "18/08/2026",
+     "sesion": "51/374",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [
+    "Araya Guerrero, Pedro",
+    "Cristian Vial Maceratta",
+    "Iván Moreira Barros",
+    "Moreira Barros, Iván",
+    "Núñez Urrutia, Paulina",
+    "Paulina Núñez Urrutia",
+    "Paulina Vodanovic Rojas",
+    "Pedro Araya Guerrero",
+    "Vial Maceratta, Cristian",
+    "Vodanovic Rojas, Paulina"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [],
+   "ministerios": [],
+   "camara_id": "19266",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara",
+    "senado"
+   ],
+   "admisible": "true",
+   "texto_camara_completo": "19266 18582-07 Consagra los territorios especiales digitales, con el objeto de fortalecer la soberanía digital, la continuidad estratégica del Estado y la cooperación internacional 2026-08-13T00:00:00 Moción Senado 0 1110 Pedro Araya Guerrero 0 1117 Iván Moreira Barros 0 1337 Paulina Núñez Urrutia 0 1450 Paulina Vodanovic Rojas 0 1518 Cristian Vial Maceratta true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18582-07",
+   "canales_descubrimiento": [
+    "cartera",
+    "senado_movimiento"
+   ],
+   "id": "023a23c08dd98d71",
+   "puntaje_pertinencia": 32.0,
+   "nivel_impacto": "sectorial",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [],
+    "estructurales": [
+     "cooperacion internacional"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "cooperacion_institucional"
+   ],
+   "ejes_legibles": [
+    "Cooperación e intercambio de información"
+   ],
+   "impacto_legible": "Impacto sectorial en sujetos obligados",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 2,
+   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2026-08-18T00:00:00-04:00",
+   "ultimo_movimiento_legible": "18/08/2026",
+   "dias_sin_movimiento": 0,
+   "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+   "camara_actual": "Senado",
+   "total_tramites": 2,
+   "fecha_ingreso_legible": "13/08/2026",
+   "antiguedad_dias": 5,
+   "prioridad": 44.2,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 1.3,
+   "huella": "3b0c518c168ebe9252ac",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18582-07",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19266&prmBOLETIN=18582-07",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18582",
+   "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-18T18:28:56.667435-04:00"
   },
   {
    "boletin": "18488-07",
@@ -7655,93 +7783,6 @@
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
    "novedad_detectada": "2026-08-17T00:49:50.210094-04:00"
-  },
-  {
-   "boletin": "18582-07",
-   "titulo": "Consagra los territorios especiales digitales, con el objeto de fortalecer la soberanía digital, la continuidad estratégica del Estado y la cooperación internacional",
-   "fecha_ingreso": "2026-08-13T00:00:00-04:00",
-   "etapa": "",
-   "subetapa": "",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia": "",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "",
-   "link_texto_original": "",
-   "tramitacion": [],
-   "urgencias": [],
-   "votaciones": [],
-   "autores": [
-    "Cristian Vial Maceratta",
-    "Iván Moreira Barros",
-    "Paulina Núñez Urrutia",
-    "Paulina Vodanovic Rojas",
-    "Pedro Araya Guerrero"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [],
-   "ministerios": [],
-   "camara_id": "19266",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara"
-   ],
-   "admisible": "true",
-   "texto_camara_completo": "19266 18582-07 Consagra los territorios especiales digitales, con el objeto de fortalecer la soberanía digital, la continuidad estratégica del Estado y la cooperación internacional 2026-08-13T00:00:00 Moción Senado 0 1110 Pedro Araya Guerrero 0 1117 Iván Moreira Barros 0 1337 Paulina Núñez Urrutia 0 1450 Paulina Vodanovic Rojas 0 1518 Cristian Vial Maceratta true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18582-07",
-   "canales_descubrimiento": [
-    "cartera"
-   ],
-   "id": "023a23c08dd98d71",
-   "puntaje_pertinencia": 32.0,
-   "nivel_impacto": "sectorial",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [],
-    "estructurales": [
-     "cooperacion internacional"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [
-    "cooperacion_institucional"
-   ],
-   "ejes_legibles": [
-    "Cooperación e intercambio de información"
-   ],
-   "impacto_legible": "Impacto sectorial en sujetos obligados",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 2,
-   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 0,
-   "vigente": true,
-   "ultimo_movimiento": "2026-08-13T00:00:00-04:00",
-   "ultimo_movimiento_legible": "13/08/2026",
-   "dias_sin_movimiento": 5,
-   "ultimo_tramite": "",
-   "camara_actual": "Senado",
-   "total_tramites": 0,
-   "fecha_ingreso_legible": "13/08/2026",
-   "antiguedad_dias": 5,
-   "prioridad": 13.3,
-   "banda_prioridad": "baja",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 0.3,
-   "factor_frescura": 1.3,
-   "huella": "0a5848de083bede6b5c4",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18582-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19266&prmBOLETIN=18582-07",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18582",
-   "sintesis": "",
-   "novedad": "",
-   "novedad_detectada": "2026-08-14T01:41:04.744730-04:00"
   },
   {
    "boletin": "16475-05",
@@ -11273,14 +11314,14 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-18T16:29:44.593458-04:00"
+   "revisado": "2026-08-18T18:28:56.667435-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-18T16:29:44.593458-04:00"
+   "revisado": "2026-08-18T18:28:56.667435-04:00"
   }
  ],
  "novedades": 3,
@@ -11334,7 +11375,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 199,
+  "candidatos_descubiertos": 201,
   "boletines_consultados": 44,
   "fichas_obtenidas": 44,
   "consultas_fallidas": 0,
@@ -11344,12 +11385,12 @@
   "retenidos_para_revision_manual": 4,
   "novedades_corrida": 3,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 2,
-  "cambios_urgencia": 1,
+  "con_movimiento": 3,
+  "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
    "cartera": 43,
-   "senado_movimiento": 162,
+   "senado_movimiento": 166,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -11357,17 +11398,15 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 162,
+    "resultados": 166,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "senado_boletin",
     "llamadas": 44,
-    "resultados": 43,
-    "errores": [
-     "18582: sin nodo proyecto"
-    ],
+    "resultados": 44,
+    "errores": [],
     "consultado": true
    },
    {
@@ -11395,6 +11434,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 77.9
+  "segundos_corrida": 75.6
  }
 }
