@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-17T18:29:38.025675-04:00",
- "generado_legible": "17/08/2026 18:29",
+ "generado": "2026-08-17T21:34:18.659190-04:00",
+ "generado_legible": "17/08/2026 21:34",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -11,10 +11,10 @@
   "impacto_sectorial": 24,
   "con_urgencia": 6,
   "discusion_inmediata": 1,
-  "prioridad_critica": 1,
-  "prioridad_alta": 3,
+  "prioridad_critica": 2,
+  "prioridad_alta": 1,
   "movimiento_7d": 5,
-  "movimiento_30d": 9,
+  "movimiento_30d": 8,
   "nivel_1": 8,
   "nivel_2": 28,
   "nivel_3": 4,
@@ -29,12 +29,12 @@
    {
     "ordinal": 1,
     "etapa": "Primer trámite",
-    "total": 34
+    "total": 33
    },
    {
     "ordinal": 2,
     "etapa": "Segundo trámite",
-    "total": 2
+    "total": 3
    },
    {
     "ordinal": 4,
@@ -42,8 +42,8 @@
     "total": 1
    },
    {
-    "ordinal": 6,
-    "etapa": "Tribunal Constitucional",
+    "ordinal": 5,
+    "etapa": "Veto",
     "total": 1
    }
   ],
@@ -162,9 +162,215 @@
     "total": 6
    }
   ],
-  "generado": "2026-08-17T18:29:38.025675-04:00"
+  "generado": "2026-08-17T21:34:18.659190-04:00"
  },
  "proyectos": [
+  {
+   "boletin": "17912-25",
+   "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
+   "fecha_ingreso": "2025-10-10T00:00:00-03:00",
+   "etapa": "Segundo trámite constitucional (Senado)",
+   "subetapa": "Cuenta de proyecto",
+   "iniciativa": "Moción",
+   "camara_origen": "C.Diputados",
+   "urgencia": "Simple",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "En tramitación",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18569&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2025-10-10T00:00:00-03:00",
+     "fecha_legible": "10/10/2025",
+     "sesion": "/",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-10-15T00:00:00-03:00",
+     "fecha_legible": "15/10/2025",
+     "sesion": "81/373",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-04-08T00:00:00-04:00",
+     "fecha_legible": "08/04/2026",
+     "sesion": "10/374",
+     "descripcion": "Cuenta del Mensaje 24-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-04T00:00:00-04:00",
+     "fecha_legible": "04/05/2026",
+     "sesion": "17/374",
+     "descripcion": "Cuenta del Mensaje 69-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-06-02T00:00:00-04:00",
+     "fecha_legible": "02/06/2026",
+     "sesion": "28/374",
+     "descripcion": "Cuenta del Mensaje 121-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-20T00:00:00-04:00",
+     "fecha_legible": "20/07/2026",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Seguridad Ciudadana.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-20T00:00:00-04:00",
+     "fecha_legible": "20/07/2026",
+     "sesion": "45/374",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-17T00:00:00-04:00",
+     "fecha_legible": "17/08/2026",
+     "sesion": "57/374",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-17T00:00:00-04:00",
+     "fecha_legible": "17/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    }
+   ],
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2026-04-08T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2026-05-04T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2026-06-02T00:00:00-04:00",
+     "fecha_retiro": ""
+    }
+   ],
+   "votaciones": [],
+   "autores": [
+    "Alessandri Vergara, Jorge",
+    "Andrés Jouannet Valderrama",
+    "Andrés Longton Herrera",
+    "Araya Guerrero, Jaime",
+    "Araya Lerdo de Tejada, Cristián",
+    "Castro Bascuñán, José Miguel",
+    "Cristián Araya Lerdo de Tejada",
+    "Diego Schalper Sepúlveda",
+    "Gloria Naveillan Arriagada",
+    "Hugo Rey Martínez",
+    "Jaime Araya Guerrero",
+    "Jorge Alessandri Vergara",
+    "José Miguel Castro Bascuñán",
+    "Jouannet Valderrama, Andrés",
+    "Leiva Carvajal, Raúl",
+    "Longton Herrera, Andrés",
+    "Naveillan Arriagada, Gloria",
+    "Raúl Leiva Carvajal",
+    "Rey Martínez, Hugo",
+    "Schalper Sepúlveda, Diego"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [
+    {
+     "fecha": "2026-07-20T00:00:00-04:00",
+     "tramite": "Primer informe de comisión de Seguridad Ciudadana",
+     "etapa": "Primer trámite constitucional",
+     "link": ""
+    }
+   ],
+   "ministerios": [],
+   "camara_id": "18569",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara",
+    "senado"
+   ],
+   "admisible": "true",
+   "texto_camara_completo": "18569 17912-25 Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos 2025-10-10T00:00:00 Moción Cámara de Diputados 0 1009 Jorge Alessandri Vergara 0 1044 Raúl Leiva Carvajal 0 1046 Andrés Longton Herrera 0 1067 Hugo Rey Martínez 0 1075 Diego Schalper Sepúlveda 0 1019 José Miguel Castro Bascuñán 0 1099 Jaime Araya Guerrero 0 1134 Andrés Jouannet Valderrama 0 1152 Gloria Naveillan Arriagada 0 1100 Cristián Araya Lerdo de Tejada 89781 Boletín N°17912-25 2026-08-17T19:47:28 130 0 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo único del proyecto, en los términos propuestos por la Comisión de Seguridad Ciudadana. Primer Trámite Primer Informe 89780 Boletín N°17912-25 2026-08-17T19:46:44 52 60 18 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo único del proyecto, con la indicación del diputado Raúl Leiva para intercalar un numeral 1 antes de la expresión “Intercálase en el artículo 27 letra a)”; y para agregar el siguiente numeral 2, nuevo: “2. Intercálase, en el artículo 27 letra a), entre las expresión “quinquies, y en los artículos” y el guarismo “467”, la expresión “438,”. Primer Trámite Primer Informe 89779 Boletín N°17912-25 2026-08-17T19:45:31 131 0 0 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17912-25",
+   "canales_descubrimiento": [
+    "cartera",
+    "senado_movimiento"
+   ],
+   "id": "80d2ea7de230a503",
+   "puntaje_pertinencia": 316.0,
+   "nivel_impacto": "directo",
+   "evidencia": {
+    "directas": [
+     "19.913"
+    ],
+    "nucleo": [
+     "lavado de activos"
+    ],
+    "estructurales": [
+     "propiedad industrial"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "facultades_uaf",
+    "delitos_base"
+   ],
+   "ejes_legibles": [
+    "Facultades y competencias UAF",
+    "Catálogo de delitos base"
+   ],
+   "impacto_legible": "Impacto directo en la Ley 19.913",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 1,
+   "nivel_legible": "Nivel 1 · Impacto en la Ley 19.913",
+   "urgencia_clave": "simple",
+   "urgencia_legible": "Simple urgencia",
+   "etapa_ordinal": 2,
+   "vigente": true,
+   "ultimo_movimiento": "2026-08-17T00:00:00-04:00",
+   "ultimo_movimiento_legible": "17/08/2026",
+   "dias_sin_movimiento": 0,
+   "ultimo_tramite": "Oficio de ley a Cámara Revisora .",
+   "camara_actual": "C.Diputados",
+   "total_tramites": 9,
+   "fecha_ingreso_legible": "10/10/2025",
+   "antiguedad_dias": 311,
+   "prioridad": 260.0,
+   "banda_prioridad": "critica",
+   "factor_urgencia": 1.6,
+   "factor_proximidad": 1.25,
+   "factor_frescura": 1.3,
+   "huella": "8f27b67125e685cf53d9",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18569&prmBOLETIN=17912-25",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17912",
+   "sintesis": "Simple urgencia · Segundo trámite constitucional (Senado) · Oficio de ley a Cámara Revisora .",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-17T21:34:18.659190-04:00"
+  },
   {
    "boletin": "16808-25",
    "titulo": "Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal",
@@ -458,195 +664,6 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17412&prmBOLETIN=16808-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16808",
    "sintesis": "Simple urgencia · Segundo trámite constitucional (Senado) · Cuenta del Mensaje 215-374 que retira y hace presente la urgencia Simple",
-   "novedad": "",
-   "novedad_detectada": "2026-08-17T00:49:50.210094-04:00"
-  },
-  {
-   "boletin": "17912-25",
-   "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
-   "fecha_ingreso": "2025-10-10T00:00:00-03:00",
-   "etapa": "Primer trámite constitucional (C.Diputados)",
-   "subetapa": "Discusión general",
-   "iniciativa": "Moción",
-   "camara_origen": "C.Diputados",
-   "urgencia": "Simple",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18569&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2025-10-10T00:00:00-03:00",
-     "fecha_legible": "10/10/2025",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-10-15T00:00:00-03:00",
-     "fecha_legible": "15/10/2025",
-     "sesion": "81/373",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-04-08T00:00:00-04:00",
-     "fecha_legible": "08/04/2026",
-     "sesion": "10/374",
-     "descripcion": "Cuenta del Mensaje 24-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-04T00:00:00-04:00",
-     "fecha_legible": "04/05/2026",
-     "sesion": "17/374",
-     "descripcion": "Cuenta del Mensaje 69-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-06-02T00:00:00-04:00",
-     "fecha_legible": "02/06/2026",
-     "sesion": "28/374",
-     "descripcion": "Cuenta del Mensaje 121-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-20T00:00:00-04:00",
-     "fecha_legible": "20/07/2026",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión de Seguridad Ciudadana.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-20T00:00:00-04:00",
-     "fecha_legible": "20/07/2026",
-     "sesion": "45/374",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    }
-   ],
-   "urgencias": [
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-04-08T00:00:00-04:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-05-04T00:00:00-04:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-06-02T00:00:00-04:00",
-     "fecha_retiro": ""
-    }
-   ],
-   "votaciones": [],
-   "autores": [
-    "Alessandri Vergara, Jorge",
-    "Andrés Jouannet Valderrama",
-    "Andrés Longton Herrera",
-    "Araya Guerrero, Jaime",
-    "Araya Lerdo de Tejada, Cristián",
-    "Castro Bascuñán, José Miguel",
-    "Cristián Araya Lerdo de Tejada",
-    "Diego Schalper Sepúlveda",
-    "Gloria Naveillan Arriagada",
-    "Hugo Rey Martínez",
-    "Jaime Araya Guerrero",
-    "Jorge Alessandri Vergara",
-    "José Miguel Castro Bascuñán",
-    "Jouannet Valderrama, Andrés",
-    "Leiva Carvajal, Raúl",
-    "Longton Herrera, Andrés",
-    "Naveillan Arriagada, Gloria",
-    "Raúl Leiva Carvajal",
-    "Rey Martínez, Hugo",
-    "Schalper Sepúlveda, Diego"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [
-    {
-     "fecha": "2026-07-20T00:00:00-04:00",
-     "tramite": "Primer informe de comisión de Seguridad Ciudadana",
-     "etapa": "Primer trámite constitucional",
-     "link": ""
-    }
-   ],
-   "ministerios": [],
-   "camara_id": "18569",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "admisible": "true",
-   "texto_camara_completo": "18569 17912-25 Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos 2025-10-10T00:00:00 Moción Cámara de Diputados 0 1009 Jorge Alessandri Vergara 0 1044 Raúl Leiva Carvajal 0 1046 Andrés Longton Herrera 0 1067 Hugo Rey Martínez 0 1075 Diego Schalper Sepúlveda 0 1019 José Miguel Castro Bascuñán 0 1099 Jaime Araya Guerrero 0 1134 Andrés Jouannet Valderrama 0 1152 Gloria Naveillan Arriagada 0 1100 Cristián Araya Lerdo de Tejada true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17912-25",
-   "canales_descubrimiento": [
-    "cartera"
-   ],
-   "id": "80d2ea7de230a503",
-   "puntaje_pertinencia": 316.0,
-   "nivel_impacto": "directo",
-   "evidencia": {
-    "directas": [
-     "19.913"
-    ],
-    "nucleo": [
-     "lavado de activos"
-    ],
-    "estructurales": [
-     "propiedad industrial"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [
-    "facultades_uaf",
-    "delitos_base"
-   ],
-   "ejes_legibles": [
-    "Facultades y competencias UAF",
-    "Catálogo de delitos base"
-   ],
-   "impacto_legible": "Impacto directo en la Ley 19.913",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 1,
-   "nivel_legible": "Nivel 1 · Impacto en la Ley 19.913",
-   "urgencia_clave": "simple",
-   "urgencia_legible": "Simple urgencia",
-   "etapa_ordinal": 1,
-   "vigente": true,
-   "ultimo_movimiento": "2026-07-20T00:00:00-04:00",
-   "ultimo_movimiento_legible": "20/07/2026",
-   "dias_sin_movimiento": 28,
-   "ultimo_tramite": "Cuenta de primer informe de comisión .",
-   "camara_actual": "C.Diputados",
-   "total_tramites": 7,
-   "fecha_ingreso_legible": "10/10/2025",
-   "antiguedad_dias": 311,
-   "prioridad": 184.0,
-   "banda_prioridad": "alta",
-   "factor_urgencia": 1.6,
-   "factor_proximidad": 1.0,
-   "factor_frescura": 1.15,
-   "huella": "5ce99795d60dcd45139a",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18569&prmBOLETIN=17912-25",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17912",
-   "sintesis": "Simple urgencia · Primer trámite constitucional (C.Diputados) · Cuenta de primer informe de comisión .",
    "novedad": "",
    "novedad_detectada": "2026-08-17T00:49:50.210094-04:00"
   },
@@ -1200,8 +1217,8 @@
    "boletin": "18216-05",
    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
    "fecha_ingreso": "2026-04-22T00:00:00-04:00",
-   "etapa": "Trámite en Tribunal Constitucional (C.Diputados)",
-   "subetapa": "Ingreso fallo del Tribunal Constitucional",
+   "etapa": "Trámite finalización en Cámara de Origen (C.Diputados)",
+   "subetapa": "Oficio resultado veto",
    "iniciativa": "Mensaje",
    "camara_origen": "C.Diputados",
    "urgencia": "Discusión inmediata",
@@ -1209,800 +1226,7 @@
    "refundidos": "",
    "estado": "En tramitación",
    "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18872&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2026-04-22T00:00:00-04:00",
-     "fecha_legible": "22/04/2026",
-     "sesion": "16/374",
-     "descripcion": "Texto del mensaje",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-04-22T00:00:00-04:00",
-     "fecha_legible": "22/04/2026",
-     "sesion": "16/374",
-     "descripcion": "Ingreso de proyecto . Contiene Informes Financiero y de Impacto Regulatorio",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-04-22T00:00:00-04:00",
-     "fecha_legible": "22/04/2026",
-     "sesion": "16/374",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda, y a las comisiones de Medio Ambiente y Recursos Naturales, y de Trabajo y Seguridad Social, en lo que corresponda. A la Corte Suprema, en lo pertinente.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-04-22T00:00:00-04:00",
-     "fecha_legible": "22/04/2026",
-     "sesion": "16/374",
-     "descripcion": "Cuenta del Mensaje 62-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-04-22T00:00:00-04:00",
-     "fecha_legible": "22/04/2026",
-     "sesion": "16/374",
-     "descripcion": "Los diputados Luis Cuello, Patricio Pinilla y Jorge Brito formularon reserva de constitucionalidad respecto de los artículos 11 y 12 permanentes y sexto transitorio por infringir el artículo 8 de la Constitución Política de la República.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-04-24T00:00:00-04:00",
-     "fecha_legible": "24/04/2026",
-     "sesion": "/",
-     "descripcion": "Oficio N° 21184. Oficio a la Corte Suprema.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-05T00:00:00-04:00",
-     "fecha_legible": "05/05/2026",
-     "sesion": "18/374",
-     "descripcion": "Cuenta del Mensaje 78-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-11T00:00:00-04:00",
-     "fecha_legible": "11/05/2026",
-     "sesion": "21/374",
-     "descripcion": "Cuenta oficio N? 116-2026 de la Corte Suprema",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-11T00:00:00-04:00",
-     "fecha_legible": "11/05/2026",
-     "sesion": "/",
-     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (033-374). Incluye informe financiero complementario N° 093 /11.05.2026.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-13T00:00:00-04:00",
-     "fecha_legible": "13/05/2026",
-     "sesion": "/",
-     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (037-374). Incluye informe financiero complementario N° 097/13.05.2026.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-18T00:00:00-04:00",
-     "fecha_legible": "18/05/2026",
-     "sesion": "/",
-     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (043-374). Incluye informe financiero complementario N° 100/13.05.2026.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-18T00:00:00-04:00",
-     "fecha_legible": "18/05/2026",
-     "sesion": "25/374",
-     "descripcion": "Cuenta, Oficio de la Comisión de Hacienda mediante el cual informa y remite a la Comisión de Medio Ambiente y Recursos Naturales las normas contenidas en el proyecto que deben ser tratadas por ella. (29-5-2026).",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-18T00:00:00-04:00",
-     "fecha_legible": "18/05/2026",
-     "sesion": "25/374",
-     "descripcion": "Cuenta, Oficio de la Comisión de Hacienda mediante el cual informa y remite a la Comisión de Comisión de Trabajo y Seguridad Social las normas contenidas en el proyecto que deben ser tratadas por ella. (30-5-2026).",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-18T00:00:00-04:00",
-     "fecha_legible": "18/05/2026",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión de Trabajo y Seguridad Social.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-18T00:00:00-04:00",
-     "fecha_legible": "18/05/2026",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión Medio Ambiente y Recursos Naturales.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-19T00:00:00-04:00",
-     "fecha_legible": "19/05/2026",
-     "sesion": "26/374",
-     "descripcion": "Cuenta del informe de la Comisión de Hacienda, del de la Comisión de Medio Ambiente, y del certificado de la Comisión de Trabajo",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-20T00:00:00-04:00",
-     "fecha_legible": "20/05/2026",
-     "sesion": "27/374",
-     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-20T00:00:00-04:00",
-     "fecha_legible": "20/05/2026",
-     "sesion": "/",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-06-02T00:00:00-04:00",
-     "fecha_legible": "02/06/2026",
-     "sesion": "24/374",
-     "descripcion": "Por acuerdo de Comités, el proyecto de ley se remite a la Comisión de Hacienda para su discusión en general, y en caso de ser aprobada la idea de legislar por la Sala del Senado, se remitirá para su discusión en particular a la Comisión de Hacienda, y a las Comisiones de Trabajo y Previsión Social y de Medio Ambiente, Cambio Climático y Bienes Nacionales, en lo pertinente",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-02T00:00:00-04:00",
-     "fecha_legible": "02/06/2026",
-     "sesion": "24/374",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-02T00:00:00-04:00",
-     "fecha_legible": "02/06/2026",
-     "sesion": "24/374",
-     "descripcion": "Cuenta del Mensaje 111-374 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-10T00:00:00-04:00",
-     "fecha_legible": "10/06/2026",
-     "sesion": "29/374",
-     "descripcion": "Cuenta del Mensaje 143-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-19T00:00:00-04:00",
-     "fecha_legible": "19/06/2026",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión de Hacienda.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-23T00:00:00-04:00",
-     "fecha_legible": "23/06/2026",
-     "sesion": "35/374",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-23T00:00:00-04:00",
-     "fecha_legible": "23/06/2026",
-     "sesion": "35/374",
-     "descripcion": "Discusión general . Queda pendiente",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-24T00:00:00-04:00",
-     "fecha_legible": "24/06/2026",
-     "sesion": "36/374",
-     "descripcion": "Discusión general . Queda pendiente",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-24T00:00:00-04:00",
-     "fecha_legible": "24/06/2026",
-     "sesion": "37/374",
-     "descripcion": "Cuenta del Mensaje 178-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-24T00:00:00-04:00",
-     "fecha_legible": "24/06/2026",
-     "sesion": "37/374",
-     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 06/07/2026 a las 12:00",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-06T00:00:00-04:00",
-     "fecha_legible": "06/07/2026",
-     "sesion": "/",
-     "descripcion": "Por acuerdo de Comités, se fijó el siguiente cronograma para presentar indicaciones al proyecto de ley: - Lunes 6 de julio de 2026 hasta las 20:00 horas, para las indicaciones relativas a materias de Medio Ambiente. - Miércoles 8 de julio de 2026 hasta las 12:00 horas, para las indicaciones relativas a materias de Trabajo. - Jueves 9 de julio de 2026 hasta las 20:00 horas, para las indicaciones relativas a materias de Hacienda. Dichas comisiones revisarán el proyecto en el mismo orden antes señalado.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-07T00:00:00-04:00",
-     "fecha_legible": "07/07/2026",
-     "sesion": "/",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-07T00:00:00-04:00",
-     "fecha_legible": "07/07/2026",
-     "sesion": "/",
-     "descripcion": "I.F. 153. Informe Financiero",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-07T00:00:00-04:00",
-     "fecha_legible": "07/07/2026",
-     "sesion": "/",
-     "descripcion": "Segundo informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales. COMPARADO DE INDICACIONES",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-07T00:00:00-04:00",
-     "fecha_legible": "07/07/2026",
-     "sesion": "40/374",
-     "descripcion": "Cuenta del Mensaje 187-374 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-08T00:00:00-04:00",
-     "fecha_legible": "08/07/2026",
-     "sesion": "/",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-08T00:00:00-04:00",
-     "fecha_legible": "08/07/2026",
-     "sesion": "/",
-     "descripcion": "IF 158. Informe Financiero",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-09T00:00:00-04:00",
-     "fecha_legible": "09/07/2026",
-     "sesion": "/",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-09T00:00:00-04:00",
-     "fecha_legible": "09/07/2026",
-     "sesion": "/",
-     "descripcion": "Segundo informe de comisión de Trabajo y Previsión Social. Pasa a Comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-09T00:00:00-04:00",
-     "fecha_legible": "09/07/2026",
-     "sesion": "/",
-     "descripcion": "IF 162. Informe Financiero",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-09T00:00:00-04:00",
-     "fecha_legible": "09/07/2026",
-     "sesion": "/",
-     "descripcion": "IIR. Informe de impacto regulatorio",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-10T00:00:00-04:00",
-     "fecha_legible": "10/07/2026",
-     "sesion": "/",
-     "descripcion": "Segundo informe de comisión de Hacienda. COMPARADO DE INDICACIONES",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-11T00:00:00-04:00",
-     "fecha_legible": "11/07/2026",
-     "sesion": "/",
-     "descripcion": "Oficio N° H-19 a la Corte Suprema",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-13T00:00:00-04:00",
-     "fecha_legible": "13/07/2026",
-     "sesion": "/",
-     "descripcion": "Segundo informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales. Pasa a Comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-13T00:00:00-04:00",
-     "fecha_legible": "13/07/2026",
-     "sesion": "/",
-     "descripcion": "Oficio N° MA-27-2026 a la Corte Suprema",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-14T00:00:00-04:00",
-     "fecha_legible": "14/07/2026",
-     "sesion": "/",
-     "descripcion": "Oficio N° H-20 a la Corte Suprema",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-14T00:00:00-04:00",
-     "fecha_legible": "14/07/2026",
-     "sesion": "/",
-     "descripcion": "Segundo informe de comisión de Hacienda.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-14T00:00:00-04:00",
-     "fecha_legible": "14/07/2026",
-     "sesion": "42/374",
-     "descripcion": "Cuenta del Mensaje 201-374 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-14T00:00:00-04:00",
-     "fecha_legible": "14/07/2026",
-     "sesion": "42/374",
-     "descripcion": "Cuenta de segundo informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-15T00:00:00-04:00",
-     "fecha_legible": "15/07/2026",
-     "sesion": "43/374",
-     "descripcion": "Discusión particular . Aprobado con modificaciones",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-15T00:00:00-04:00",
-     "fecha_legible": "15/07/2026",
-     "sesion": "43/374",
-     "descripcion": "La Honorable Senadora señora Provoste hace reserva de constitucionalidad",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-15T00:00:00-04:00",
-     "fecha_legible": "15/07/2026",
-     "sesion": "43/374",
-     "descripcion": "El Honorable Senador señor De Urresti hace reserva de constitucionalidad",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-16T00:00:00-04:00",
-     "fecha_legible": "16/07/2026",
-     "sesion": "43/374",
-     "descripcion": "La Honorable Senadora señora Pascual hace reserva de constitucionalidad",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-16T00:00:00-04:00",
-     "fecha_legible": "16/07/2026",
-     "sesion": "43/374",
-     "descripcion": "El Honorable Senador señora Ibáñez hace reserva de constitucionalidad",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-16T00:00:00-04:00",
-     "fecha_legible": "16/07/2026",
-     "sesion": "43/374",
-     "descripcion": "El Honorable Senador señor Castro hace reserva de constitucionalidad",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-16T00:00:00-04:00",
-     "fecha_legible": "16/07/2026",
-     "sesion": "43/374",
-     "descripcion": "El Ejecutivo hace reserva de constitucionalidad",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-17T00:00:00-04:00",
-     "fecha_legible": "17/07/2026",
-     "sesion": "/",
-     "descripcion": "Oficio modificaciones a Cámara de Origen .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-20T00:00:00-04:00",
-     "fecha_legible": "20/07/2026",
-     "sesion": "45/374",
-     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Queda para tabla",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-20T00:00:00-04:00",
-     "fecha_legible": "20/07/2026",
-     "sesion": "45/374",
-     "descripcion": "Cuenta del Mensaje 208-374 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-21T00:00:00-04:00",
-     "fecha_legible": "21/07/2026",
-     "sesion": "46/374",
-     "descripcion": "Discusión única . Rechazadas las modificaciones .",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-21T00:00:00-04:00",
-     "fecha_legible": "21/07/2026",
-     "sesion": "/",
-     "descripcion": "Oficio rechazo modificaciones a Cámara Revisora .",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-21T00:00:00-04:00",
-     "fecha_legible": "21/07/2026",
-     "sesion": "44/374",
-     "descripcion": "Cuenta del Oficio N° 21.412 de la Cámara de Diputados, que aprueba las enmiendas propuesta del Senado, salvo la que indica. En consecuencia, corresponde la formación de una Comisión Mixta del artículo 71 de la Carta Fundamental",
-     "etapa": "Comisión Mixta por rechazo de modificaciones",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-21T00:00:00-04:00",
-     "fecha_legible": "21/07/2026",
-     "sesion": "44/374",
-     "descripcion": "Cuenta oficio rechazo a modificaciones .",
-     "etapa": "Comisión Mixta por rechazo de modificaciones",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-21T00:00:00-04:00",
-     "fecha_legible": "21/07/2026",
-     "sesion": "46/374",
-     "descripcion": "La diputada Hube hace reserva de constitucionalidad respecto del artículo 39, nuevo.",
-     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-21T00:00:00-04:00",
-     "fecha_legible": "21/07/2026",
-     "sesion": "/",
-     "descripcion": "El diputado Barraza formluló reserva de constitucionalidad a las enmiendas propuestas por el Senado a los artículos 1; 5; 6; 10; 11; 12; 13; 14; 15; 16; 17 Y 29 del proyecto de ley.",
-     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-21T00:00:00-04:00",
-     "fecha_legible": "21/07/2026",
-     "sesion": "46/374",
-     "descripcion": "El diputado Mulet hace reserva de constitucionalidad respecto de los artículos 18 y 29 del proyecto de ley.",
-     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-21T00:00:00-04:00",
-     "fecha_legible": "21/07/2026",
-     "sesion": "46/374",
-     "descripcion": "El diputado Barraza formluló reserva de constitucionalidad a las enmiendas propuestas por el Senado a los artículos 1; 5; 6; 10; 11; 12; 13; 14; 15; 16; 17 Y 29 del proyecto de ley.",
-     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-21T00:00:00-04:00",
-     "fecha_legible": "21/07/2026",
-     "sesion": "/",
-     "descripcion": "Oficio N° 249-26. Toma conocimiento rechazo enmienda y designa integrantes Comisión Mixta",
-     "etapa": "Comisión Mixta por rechazo de modificaciones",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-22T00:00:00-04:00",
-     "fecha_legible": "22/07/2026",
-     "sesion": "47/374",
-     "descripcion": "Cuenta oficio integrantes de Comisión Mixta .",
-     "etapa": "Comisión Mixta por rechazo de modificaciones",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-22T00:00:00-04:00",
-     "fecha_legible": "22/07/2026",
-     "sesion": "/",
-     "descripcion": "Oficio N° 21417. Comunica integración Comisión Mixta",
-     "etapa": "Comisión Mixta por rechazo de modificaciones",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-22T00:00:00-04:00",
-     "fecha_legible": "22/07/2026",
-     "sesion": "45/374",
-     "descripcion": "Se da cuenta del Oficio N° 21.417 de la Cámara de Diputados, mediante el que comunica integrantes de la Comisión Mixta",
-     "etapa": "Comisión Mixta por rechazo de modificaciones",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-22T00:00:00-04:00",
-     "fecha_legible": "22/07/2026",
-     "sesion": "/",
-     "descripcion": "Informe de Comisión Mixta Comisión Mixta para Boletín Nº 18216-05.",
-     "etapa": "Comisión Mixta por rechazo de modificaciones",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-22T00:00:00-04:00",
-     "fecha_legible": "22/07/2026",
-     "sesion": "48/374",
-     "descripcion": "Cuenta informe Comisión Mixta . Queda para tabla.",
-     "etapa": "Disc. informe C.Mixta por rechazo de modific. en C. Origen",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-22T00:00:00-04:00",
-     "fecha_legible": "22/07/2026",
-     "sesion": "48/374",
-     "descripcion": "Discusión única . Aprobadas las modificaciones .",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-22T00:00:00-04:00",
-     "fecha_legible": "22/07/2026",
-     "sesion": "48/374",
-     "descripcion": "Cuenta del Mensaje 221-374 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Disc. informe C.Mixta por rechazo de modific. en C. Origen",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-22T00:00:00-04:00",
-     "fecha_legible": "22/07/2026",
-     "sesion": "/",
-     "descripcion": "Oficio aprobación de informe de Comisión Mixta a C. Revisora .",
-     "etapa": "Disc. informe C.Mixta por rechazo de modific. en C. Origen",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-22T00:00:00-04:00",
-     "fecha_legible": "22/07/2026",
-     "sesion": "46/374",
-     "descripcion": "Cuenta oficio aprobación de informe de Comisión Mixta .",
-     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-22T00:00:00-04:00",
-     "fecha_legible": "22/07/2026",
-     "sesion": "46/374",
-     "descripcion": "Discusión informe de Comisión Mixta . Queda pendiente Se solicita aplazamiento de la votación.",
-     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-31T00:00:00-04:00",
-     "fecha_legible": "31/07/2026",
-     "sesion": "/",
-     "descripcion": "Cuenta oficio N° 210-2026 de la Corte Suprema",
-     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-31T00:00:00-04:00",
-     "fecha_legible": "31/07/2026",
-     "sesion": "/",
-     "descripcion": "Cuenta oficio N° 211-2026 de la Corte Suprema",
-     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-04T00:00:00-04:00",
-     "fecha_legible": "04/08/2026",
-     "sesion": "51/374",
-     "descripcion": "Cuenta oficio aprobación de informe de Comisión Mixta .",
-     "etapa": "Trámite finalización en Cámara de Origen",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-04T00:00:00-04:00",
-     "fecha_legible": "04/08/2026",
-     "sesion": "47/374",
-     "descripcion": "Cuenta del Mensaje 231-374 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-04T00:00:00-04:00",
-     "fecha_legible": "04/08/2026",
-     "sesion": "47/374",
-     "descripcion": "Cuenta del Mensaje 222-374 que retira la urgencia Discusión inmediata",
-     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-04T00:00:00-04:00",
-     "fecha_legible": "04/08/2026",
-     "sesion": "47/374",
-     "descripcion": "La Honorable Senadora señora Pascual hace reserva de constitucionalidad",
-     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-04T00:00:00-04:00",
-     "fecha_legible": "04/08/2026",
-     "sesion": "47/374",
-     "descripcion": "Discusión informe de Comisión Mixta . Aprobado",
-     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-04T00:00:00-04:00",
-     "fecha_legible": "04/08/2026",
-     "sesion": "/",
-     "descripcion": "Oficio aprobación de informe de Comisión Mixta a C.de Origen .",
-     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-04T00:00:00-04:00",
-     "fecha_legible": "04/08/2026",
-     "sesion": "51/374",
-     "descripcion": "Cuenta agregada. Oficio del Senado, comunica aprobación de informe de Comisión Mixta",
-     "etapa": "Trámite finalización en Cámara de Origen",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-04T00:00:00-04:00",
-     "fecha_legible": "04/08/2026",
-     "sesion": "/",
-     "descripcion": "Oficio de ley al Ejecutivo .",
-     "etapa": "Trámite finalización en Cámara de Origen",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-05T00:00:00-04:00",
-     "fecha_legible": "05/08/2026",
-     "sesion": "/",
-     "descripcion": "Oficio N° 123-374. Observaciones de S.E. el Presidente de la República",
-     "etapa": "Trámite finalización en Cámara de Origen",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-05T00:00:00-04:00",
-     "fecha_legible": "05/08/2026",
-     "sesion": "52/374",
-     "descripcion": "Cuenta de observaciones . Pasa a Comisión de Hacienda",
-     "etapa": "Discusión veto en Cámara de Origen",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-10T00:00:00-04:00",
-     "fecha_legible": "10/08/2026",
-     "sesion": "53/374",
-     "descripcion": "Cuenta informe de comisión .",
-     "etapa": "Discusión veto en Cámara de Origen",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-10T00:00:00-04:00",
-     "fecha_legible": "10/08/2026",
-     "sesion": "/",
-     "descripcion": "Cuenta, Oficio del Tribunal Constitucional por el cual pone en conocimiento de la Cámara de Diputados sendos requerimientos de inconstitucionalidad presentados por un grupo de senadoras y senadores, y por un grupo de diputadas y diputados respecto de las normas que indican del proyecto de ley. Roles acumulados N°s 17828,17829 y 17832-26-CPT. (309-2026). OTORGA PLAZO PARA FORMULAR OBSERVACIONES AL REQUERIMIENTO DECLARADO ADMISIBLE.",
-     "etapa": "Discusión veto en Cámara de Origen",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-10T00:00:00-04:00",
-     "fecha_legible": "10/08/2026",
-     "sesion": "/",
-     "descripcion": "Oficio aprobación veto a Cámara Revisora .",
-     "etapa": "Discusión veto en Cámara de Origen",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-11T00:00:00-04:00",
-     "fecha_legible": "11/08/2026",
-     "sesion": "54/374",
-     "descripcion": "Cuenta, Copia autorizada de una resolución del Tribunal Constitucional recaída en requerimientos de inconstitucionalidad presentados por un grupo de senadoras y senadores, y por un grupo de diputadas y diputados, respecto de ciertas normas del proyecto. Roles acumulados N°s 17828-26-CPT, 17829-26-CPT y N° 17832-26-CPT. CITA A AUDIENCIA PÚBLICA.",
-     "etapa": "Discusión veto en Cámara de Origen",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-11T00:00:00-04:00",
-     "fecha_legible": "11/08/2026",
-     "sesion": "49/374",
-     "descripcion": "Cuenta oficio aprobación veto . Pasa a Comisión de Hacienda",
-     "etapa": "Discusión veto en Cámara Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-12T00:00:00-04:00",
-     "fecha_legible": "12/08/2026",
-     "sesion": "/",
-     "descripcion": "Informe de comisión de Hacienda.",
-     "etapa": "Discusión veto en Cámara Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-12T00:00:00-04:00",
-     "fecha_legible": "12/08/2026",
-     "sesion": "50/374",
-     "descripcion": "Cuenta informe de comisión .",
-     "etapa": "Discusión veto en Cámara Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-12T00:00:00-04:00",
-     "fecha_legible": "12/08/2026",
-     "sesion": "50/374",
-     "descripcion": "Discusión veto . Aprobado",
-     "etapa": "Discusión veto en Cámara Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-12T00:00:00-04:00",
-     "fecha_legible": "12/08/2026",
-     "sesion": "/",
-     "descripcion": "Oficio aprobación veto a Cámara de Origen .",
-     "etapa": "Discusión veto en Cámara Revisora",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-13T00:00:00-04:00",
-     "fecha_legible": "13/08/2026",
-     "sesion": "/",
-     "descripcion": "Oficio al Tribunal Constitucional .",
-     "etapa": "Trámite en Tribunal Constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-13T00:00:00-04:00",
-     "fecha_legible": "13/08/2026",
-     "sesion": "/",
-     "descripcion": "Oficio N° 21499. Comunica al Ejecutivo resultado del veto.",
-     "etapa": "Trámite en Tribunal Constitucional",
-     "camara": "C.Diputados"
-    }
-   ],
+   "tramitacion": [],
    "urgencias": [
     {
      "tipo": "Suma",
@@ -2164,28 +1388,28 @@
    "nivel_legible": "Nivel 2 · Perímetro regulatorio",
    "urgencia_clave": "discusion inmediata",
    "urgencia_legible": "Discusión inmediata",
-   "etapa_ordinal": 6,
+   "etapa_ordinal": 5,
    "vigente": true,
-   "ultimo_movimiento": "2026-08-13T00:00:00-04:00",
-   "ultimo_movimiento_legible": "13/08/2026",
-   "dias_sin_movimiento": 4,
-   "ultimo_tramite": "Oficio N° 21499. Comunica al Ejecutivo resultado del veto.",
+   "ultimo_movimiento": "2026-04-22T00:00:00-04:00",
+   "ultimo_movimiento_legible": "22/04/2026",
+   "dias_sin_movimiento": 117,
+   "ultimo_tramite": "",
    "camara_actual": "C.Diputados",
-   "total_tramites": 99,
+   "total_tramites": 0,
    "fecha_ingreso_legible": "22/04/2026",
    "antiguedad_dias": 117,
-   "prioridad": 159.1,
-   "banda_prioridad": "alta",
+   "prioridad": 114.2,
+   "banda_prioridad": "media",
    "factor_urgencia": 3.0,
-   "factor_proximidad": 1.2,
-   "factor_frescura": 1.3,
-   "huella": "2afb7493d5cc283cceb8",
+   "factor_proximidad": 1.4,
+   "factor_frescura": 0.8,
+   "huella": "611ab1d159ec24360f88",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
-   "sintesis": "Discusión inmediata · Trámite en Tribunal Constitucional (C.Diputados) · Oficio N° 21499. Comunica al Ejecutivo resultado del veto.",
-   "novedad": "",
-   "novedad_detectada": "2026-08-17T00:49:50.210094-04:00"
+   "sintesis": "Discusión inmediata · Trámite finalización en Cámara de Origen (C.Diputados)",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-17T21:34:18.659190-04:00"
   },
   {
    "boletin": "15975-25",
@@ -11218,10 +10442,10 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-17T18:29:38.025675-04:00"
+   "revisado": "2026-08-17T21:34:18.659190-04:00"
   }
  ],
- "novedades": 0,
+ "novedades": 2,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11272,7 +10496,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 147,
+  "candidatos_descubiertos": 171,
   "boletines_consultados": 43,
   "fichas_obtenidas": 43,
   "consultas_fallidas": 0,
@@ -11280,14 +10504,14 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 1,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 0,
+  "novedades_corrida": 2,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 0,
+  "con_movimiento": 2,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
    "cartera": 43,
-   "senado_movimiento": 108,
+   "senado_movimiento": 133,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -11295,7 +10519,7 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 108,
+    "resultados": 133,
     "errores": [],
     "consultado": true
    },
@@ -11333,6 +10557,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 68.0
+  "segundos_corrida": 72.1
  }
 }
