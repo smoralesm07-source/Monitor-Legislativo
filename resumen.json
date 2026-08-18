@@ -2,21 +2,21 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-18T10:38:36.458739-04:00",
-  "generado_legible": "18/08/2026 10:38",
+  "generado": "2026-08-18T12:36:57.685177-04:00",
+  "generado_legible": "18/08/2026 12:36",
   "proyectos_total": 43,
   "vigentes": 40,
   "movimientos_recientes": 6,
   "movimientos_30d": 9,
-  "novedades_corrida": 0,
+  "novedades_corrida": 2,
   "impacto_directo": 8,
-  "con_urgencia": 6,
+  "con_urgencia": 4,
   "prioridad_alta": 4,
   "estancados_180d": 17,
   "ultimo": {
-    "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
-    "detalle": "Boletín 17912-25 · 17/08/2026 · Segundo trámite constitucional (Senado)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
+    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+    "detalle": "Boletín 18216-05 · 17/08/2026 · Trámite finalización en Cámara de Origen (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
     "fecha": "2026-08-17T00:00:00-04:00"
   },
   "serie_7d": [
@@ -52,18 +52,18 @@
   "alertas": [
     {
       "severidad": "alta",
-      "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
-      "detalle": "Boletín 17912-25 · Nivel 1 · Impacto en la Ley 19.913 · Simple urgencia",
-      "fecha": "2026-08-17T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "alta",
       "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
       "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Discusión inmediata",
       "fecha": "2026-08-17T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "alta",
+      "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
+      "detalle": "Boletín 17912-25 · Nivel 1 · Impacto en la Ley 19.913 · Sin urgencia",
+      "fecha": "2026-08-17T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
       "fuente": "LEGISLATIVO"
     },
     {
@@ -86,11 +86,11 @@
   "actividad": [
     {
       "fecha": "2026-08-17T00:00:00-04:00",
-      "texto": "Boletín 17912-25: Oficio de ley a Cámara Revisora ."
+      "texto": "Boletín 18216-05: Cuenta oficio aprobación veto ."
     },
     {
       "fecha": "2026-08-17T00:00:00-04:00",
-      "texto": "Boletín 18216-05: Cuenta oficio aprobación veto ."
+      "texto": "Boletín 17912-25: Oficio de ley a Cámara Revisora ."
     },
     {
       "fecha": "2026-08-13T00:00:00-04:00",

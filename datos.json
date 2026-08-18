@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-18T10:38:36.458739-04:00",
- "generado_legible": "18/08/2026 10:38",
+ "generado": "2026-08-18T12:36:57.685177-04:00",
+ "generado_legible": "18/08/2026 12:36",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -9,10 +9,10 @@
   "impacto_directo": 8,
   "impacto_estructural": 6,
   "impacto_sectorial": 24,
-  "con_urgencia": 6,
+  "con_urgencia": 4,
   "discusion_inmediata": 1,
-  "prioridad_critica": 2,
-  "prioridad_alta": 2,
+  "prioridad_critica": 0,
+  "prioridad_alta": 4,
   "movimiento_7d": 6,
   "movimiento_30d": 9,
   "nivel_1": 8,
@@ -120,12 +120,12 @@
    {
     "clave": "sin urgencia",
     "etiqueta": "Sin urgencia",
-    "total": 34
+    "total": 36
    },
    {
     "clave": "simple",
     "etiqueta": "Simple urgencia",
-    "total": 4
+    "total": 2
    },
    {
     "clave": "discusion inmediata",
@@ -162,511 +162,9 @@
     "total": 6
    }
   ],
-  "generado": "2026-08-18T10:38:36.458739-04:00"
+  "generado": "2026-08-18T12:36:57.685177-04:00"
  },
  "proyectos": [
-  {
-   "boletin": "17912-25",
-   "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
-   "fecha_ingreso": "2025-10-10T00:00:00-03:00",
-   "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Cuenta de proyecto",
-   "iniciativa": "Moción",
-   "camara_origen": "C.Diputados",
-   "urgencia": "Simple",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18569&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2025-10-10T00:00:00-03:00",
-     "fecha_legible": "10/10/2025",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-10-15T00:00:00-03:00",
-     "fecha_legible": "15/10/2025",
-     "sesion": "81/373",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-04-08T00:00:00-04:00",
-     "fecha_legible": "08/04/2026",
-     "sesion": "10/374",
-     "descripcion": "Cuenta del Mensaje 24-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-04T00:00:00-04:00",
-     "fecha_legible": "04/05/2026",
-     "sesion": "17/374",
-     "descripcion": "Cuenta del Mensaje 69-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-06-02T00:00:00-04:00",
-     "fecha_legible": "02/06/2026",
-     "sesion": "28/374",
-     "descripcion": "Cuenta del Mensaje 121-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-20T00:00:00-04:00",
-     "fecha_legible": "20/07/2026",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión de Seguridad Ciudadana.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-20T00:00:00-04:00",
-     "fecha_legible": "20/07/2026",
-     "sesion": "45/374",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-17T00:00:00-04:00",
-     "fecha_legible": "17/08/2026",
-     "sesion": "57/374",
-     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-17T00:00:00-04:00",
-     "fecha_legible": "17/08/2026",
-     "sesion": "/",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    }
-   ],
-   "urgencias": [
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-04-08T00:00:00-04:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-05-04T00:00:00-04:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-06-02T00:00:00-04:00",
-     "fecha_retiro": ""
-    }
-   ],
-   "votaciones": [],
-   "autores": [
-    "Alessandri Vergara, Jorge",
-    "Andrés Jouannet Valderrama",
-    "Andrés Longton Herrera",
-    "Araya Guerrero, Jaime",
-    "Araya Lerdo de Tejada, Cristián",
-    "Castro Bascuñán, José Miguel",
-    "Cristián Araya Lerdo de Tejada",
-    "Diego Schalper Sepúlveda",
-    "Gloria Naveillan Arriagada",
-    "Hugo Rey Martínez",
-    "Jaime Araya Guerrero",
-    "Jorge Alessandri Vergara",
-    "José Miguel Castro Bascuñán",
-    "Jouannet Valderrama, Andrés",
-    "Leiva Carvajal, Raúl",
-    "Longton Herrera, Andrés",
-    "Naveillan Arriagada, Gloria",
-    "Raúl Leiva Carvajal",
-    "Rey Martínez, Hugo",
-    "Schalper Sepúlveda, Diego"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [
-    {
-     "fecha": "2026-07-20T00:00:00-04:00",
-     "tramite": "Primer informe de comisión de Seguridad Ciudadana",
-     "etapa": "Primer trámite constitucional",
-     "link": ""
-    }
-   ],
-   "ministerios": [],
-   "camara_id": "18569",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "admisible": "true",
-   "texto_camara_completo": "18569 17912-25 Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos 2025-10-10T00:00:00 Moción Cámara de Diputados 0 1009 Jorge Alessandri Vergara 0 1044 Raúl Leiva Carvajal 0 1046 Andrés Longton Herrera 0 1067 Hugo Rey Martínez 0 1075 Diego Schalper Sepúlveda 0 1019 José Miguel Castro Bascuñán 0 1099 Jaime Araya Guerrero 0 1134 Andrés Jouannet Valderrama 0 1152 Gloria Naveillan Arriagada 0 1100 Cristián Araya Lerdo de Tejada 89781 Boletín N°17912-25 2026-08-17T19:47:28 130 0 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo único del proyecto, en los términos propuestos por la Comisión de Seguridad Ciudadana. Primer Trámite Primer Informe 89780 Boletín N°17912-25 2026-08-17T19:46:44 52 60 18 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo único del proyecto, con la indicación del diputado Raúl Leiva para intercalar un numeral 1 antes de la expresión “Intercálase en el artículo 27 letra a)”; y para agregar el siguiente numeral 2, nuevo: “2. Intercálase, en el artículo 27 letra a), entre las expresión “quinquies, y en los artículos” y el guarismo “467”, la expresión “438,”. Primer Trámite Primer Informe 89779 Boletín N°17912-25 2026-08-17T19:45:31 131 0 0 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17912-25",
-   "canales_descubrimiento": [
-    "cartera",
-    "senado_movimiento"
-   ],
-   "id": "80d2ea7de230a503",
-   "puntaje_pertinencia": 316.0,
-   "nivel_impacto": "directo",
-   "evidencia": {
-    "directas": [
-     "19.913"
-    ],
-    "nucleo": [
-     "lavado de activos"
-    ],
-    "estructurales": [
-     "propiedad industrial"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [
-    "facultades_uaf",
-    "delitos_base"
-   ],
-   "ejes_legibles": [
-    "Facultades y competencias UAF",
-    "Catálogo de delitos base"
-   ],
-   "impacto_legible": "Impacto directo en la Ley 19.913",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 1,
-   "nivel_legible": "Nivel 1 · Impacto en la Ley 19.913",
-   "urgencia_clave": "simple",
-   "urgencia_legible": "Simple urgencia",
-   "etapa_ordinal": 2,
-   "vigente": true,
-   "ultimo_movimiento": "2026-08-17T00:00:00-04:00",
-   "ultimo_movimiento_legible": "17/08/2026",
-   "dias_sin_movimiento": 1,
-   "ultimo_tramite": "Oficio de ley a Cámara Revisora .",
-   "camara_actual": "C.Diputados",
-   "total_tramites": 9,
-   "fecha_ingreso_legible": "10/10/2025",
-   "antiguedad_dias": 312,
-   "prioridad": 260.0,
-   "banda_prioridad": "critica",
-   "factor_urgencia": 1.6,
-   "factor_proximidad": 1.25,
-   "factor_frescura": 1.3,
-   "huella": "8f27b67125e685cf53d9",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18569&prmBOLETIN=17912-25",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17912",
-   "sintesis": "Simple urgencia · Segundo trámite constitucional (Senado) · Oficio de ley a Cámara Revisora .",
-   "novedad": "",
-   "novedad_detectada": "2026-08-17T21:34:18.659190-04:00"
-  },
-  {
-   "boletin": "16808-25",
-   "titulo": "Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal",
-   "fecha_ingreso": "2024-04-25T00:00:00-04:00",
-   "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Seguridad Pública",
-   "iniciativa": "Moción",
-   "camara_origen": "C.Diputados",
-   "urgencia": "Simple",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17412&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2024-04-25T00:00:00-04:00",
-     "fecha_legible": "25/04/2024",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-05-06T00:00:00-04:00",
-     "fecha_legible": "06/05/2024",
-     "sesion": "25/372",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-02T00:00:00-04:00",
-     "fecha_legible": "02/09/2024",
-     "sesion": "70/372",
-     "descripcion": "Cuenta de Oficio de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización (N° 277/6/2024), por el cual solicita recabar el acuerdo de la Sala para que le sea remitido el proyecto. RECHAZADO.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-02T00:00:00-04:00",
-     "fecha_legible": "02/09/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° 19805. Comunica a la Comisión de Gobierno Interior que la Sala no accedió a su solicitud en orden a remitirle el proyecto de ley.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-05-14T00:00:00-04:00",
-     "fecha_legible": "14/05/2025",
-     "sesion": "25/373",
-     "descripcion": "Cuenta, Oficio de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización (N° 375/6/2025), por el cual solicita recabar el acuerdo de la Sala para que le sea remitido el proyecto. ACORDADO.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-04-21T00:00:00-04:00",
-     "fecha_legible": "21/04/2026",
-     "sesion": "15/374",
-     "descripcion": "Cuenta del Mensaje 55-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-04T00:00:00-04:00",
-     "fecha_legible": "04/05/2026",
-     "sesion": "17/374",
-     "descripcion": "Cuenta del Mensaje 68-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-20T00:00:00-04:00",
-     "fecha_legible": "20/05/2026",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-20T00:00:00-04:00",
-     "fecha_legible": "20/05/2026",
-     "sesion": "27/374",
-     "descripcion": "Cuenta del Mensaje 108-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-06-02T00:00:00-04:00",
-     "fecha_legible": "02/06/2026",
-     "sesion": "28/374",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-06-02T00:00:00-04:00",
-     "fecha_legible": "02/06/2026",
-     "sesion": "28/374",
-     "descripcion": "Cuenta del Mensaje 120-374 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-06-03T00:00:00-04:00",
-     "fecha_legible": "03/06/2026",
-     "sesion": "29/374",
-     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-06-03T00:00:00-04:00",
-     "fecha_legible": "03/06/2026",
-     "sesion": "/",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-06-03T00:00:00-04:00",
-     "fecha_legible": "03/06/2026",
-     "sesion": "26/374",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-16T00:00:00-04:00",
-     "fecha_legible": "16/06/2026",
-     "sesion": "30/374",
-     "descripcion": "Cuenta del Mensaje 149-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-06-23T00:00:00-04:00",
-     "fecha_legible": "23/06/2026",
-     "sesion": "35/374",
-     "descripcion": "Cuenta del Mensaje 171-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-07-21T00:00:00-04:00",
-     "fecha_legible": "21/07/2026",
-     "sesion": "44/374",
-     "descripcion": "Cuenta del Mensaje 215-374 que retira y hace presente la urgencia Simple",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2026-04-21T00:00:00-04:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2026-05-04T00:00:00-04:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2026-05-20T00:00:00-04:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2026-06-02T00:00:00-04:00",
-     "fecha_retiro": "2026-06-16T00:00:00-04:00"
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-06-16T00:00:00-04:00",
-     "fecha_retiro": "2026-06-23T00:00:00-04:00"
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-06-23T00:00:00-04:00",
-     "fecha_retiro": "2026-07-21T00:00:00-04:00"
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-07-21T00:00:00-04:00",
-     "fecha_retiro": ""
-    }
-   ],
-   "votaciones": [],
-   "autores": [
-    "Agustín Romero Leiva",
-    "Araya Lerdo de Tejada, Cristián",
-    "Barchiesi Chávez, Chiara",
-    "Benjamín Moreno Bascur",
-    "Catalina Del Real Mihovilovic",
-    "Chiara Barchiesi Chávez",
-    "Cristián Araya Lerdo de Tejada",
-    "Del Real Mihovilovic, Catalina",
-    "Irarrázaval Rossel, Juan",
-    "José Carlos Meza Pereira",
-    "Juan Irarrázaval Rossel",
-    "Luis Sánchez Ossa",
-    "Meza Pereira, José Carlos",
-    "Moreno Bascur, Benjamín",
-    "Renzo Trisotti Martínez",
-    "Romero Leiva, Agustín",
-    "Schubert Rubio, Stephan",
-    "Stephan Schubert Rubio",
-    "Sánchez Ossa, Luis",
-    "Trisotti Martínez, Renzo"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [
-    {
-     "fecha": "2026-05-20T00:00:00-04:00",
-     "tramite": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
-     "etapa": "Primer trámite constitucional",
-     "link": ""
-    }
-   ],
-   "ministerios": [],
-   "camara_id": "17412",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "nota_semilla": "Lavado de activos asociado al comercio ilegal",
-   "es_semilla": true,
-   "admisible": "true",
-   "texto_camara_completo": "17412 16808-25 Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal 2024-04-25T00:00:00 Moción Cámara de Diputados 0 1003 Renzo Trisotti Martínez 0 1025 Catalina Del Real Mihovilovic 0 1100 Cristián Araya Lerdo de Tejada 0 1133 Juan Irarrázaval Rossel 0 1146 José Carlos Meza Pereira 0 1150 Benjamín Moreno Bascur 0 1165 Agustín Romero Leiva 0 1170 Luis Sánchez Ossa 0 1172 Stephan Schubert Rubio 0 1104 Chiara Barchiesi Chávez 89032 Boletín N°16808-25 2026-06-03T13:50:06 61 86 2 0 Quórum Simple Unánime Proyecto de Ley Particular Indicación renovada de la diputada Carolina Tello, del siguiente tenor: “Nuevo numeral.- Para agregar al artículo 3° de la ley N°19.913 un inciso final, del siguiente tenor: “Para efectos de la fiscalización del cumplimiento de las obligaciones establecidas en la presente ley, cuando un sujeto obligado incurra en una infracción grave que dificulte o impida la verificación del origen, destino o trazabilidad de sus operaciones, la Unidad de Análisis Financiero podrá requerir la información financiera necesaria para dichos fines, conforme a los procedimientos y autorizaciones establecidos en la legislación vigente.”. Primer Trámite Primer Informe 89031 Boletín N°16808-25 2026-06-03T13:48:28 149 0 0 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=16808-25",
-   "canales_descubrimiento": [
-    "semilla",
-    "cartera"
-   ],
-   "id": "fa5ca40fa3da378b",
-   "puntaje_pertinencia": 316.0,
-   "nivel_impacto": "directo",
-   "evidencia": {
-    "directas": [
-     "19.913",
-     "sujeto obligado",
-     "unidad de analisis financiero"
-    ],
-    "nucleo": [
-     "lavado de activos"
-    ],
-    "estructurales": [
-     "comercio ilegal"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [
-    "facultades_uaf",
-    "delitos_base",
-    "sujetos_obligados"
-   ],
-   "ejes_legibles": [
-    "Facultades y competencias UAF",
-    "Catálogo de delitos base",
-    "Régimen de sujetos obligados"
-   ],
-   "impacto_legible": "Impacto directo en la Ley 19.913",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 1,
-   "nivel_legible": "Nivel 1 · Impacto en la Ley 19.913",
-   "urgencia_clave": "simple",
-   "urgencia_legible": "Simple urgencia",
-   "etapa_ordinal": 2,
-   "vigente": true,
-   "ultimo_movimiento": "2026-07-21T00:00:00-04:00",
-   "ultimo_movimiento_legible": "21/07/2026",
-   "dias_sin_movimiento": 28,
-   "ultimo_tramite": "Cuenta del Mensaje 215-374 que retira y hace presente la urgencia Simple",
-   "camara_actual": "Senado",
-   "total_tramites": 17,
-   "fecha_ingreso_legible": "25/04/2024",
-   "antiguedad_dias": 845,
-   "prioridad": 230.0,
-   "banda_prioridad": "critica",
-   "factor_urgencia": 1.6,
-   "factor_proximidad": 1.25,
-   "factor_frescura": 1.15,
-   "huella": "3a0eab11ec41e6a6b92b",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16808-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17412&prmBOLETIN=16808-25",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16808",
-   "sintesis": "Simple urgencia · Segundo trámite constitucional (Senado) · Cuenta del Mensaje 215-374 que retira y hace presente la urgencia Simple",
-   "novedad": "",
-   "novedad_detectada": "2026-08-17T00:49:50.210094-04:00"
-  },
   {
    "boletin": "18216-05",
    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
@@ -1667,6 +1165,212 @@
    "novedad_detectada": "2026-08-18T08:55:24.295550-04:00"
   },
   {
+   "boletin": "17912-25",
+   "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
+   "fecha_ingreso": "2025-10-10T00:00:00-03:00",
+   "etapa": "Segundo trámite constitucional (Senado)",
+   "subetapa": "Cuenta de proyecto",
+   "iniciativa": "Moción",
+   "camara_origen": "C.Diputados",
+   "urgencia": "Sin urgencia",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "En tramitación",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18569&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2025-10-10T00:00:00-03:00",
+     "fecha_legible": "10/10/2025",
+     "sesion": "/",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-10-15T00:00:00-03:00",
+     "fecha_legible": "15/10/2025",
+     "sesion": "81/373",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-04-08T00:00:00-04:00",
+     "fecha_legible": "08/04/2026",
+     "sesion": "10/374",
+     "descripcion": "Cuenta del Mensaje 24-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-04T00:00:00-04:00",
+     "fecha_legible": "04/05/2026",
+     "sesion": "17/374",
+     "descripcion": "Cuenta del Mensaje 69-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-06-02T00:00:00-04:00",
+     "fecha_legible": "02/06/2026",
+     "sesion": "28/374",
+     "descripcion": "Cuenta del Mensaje 121-374 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-20T00:00:00-04:00",
+     "fecha_legible": "20/07/2026",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Seguridad Ciudadana.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-20T00:00:00-04:00",
+     "fecha_legible": "20/07/2026",
+     "sesion": "45/374",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-17T00:00:00-04:00",
+     "fecha_legible": "17/08/2026",
+     "sesion": "57/374",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-17T00:00:00-04:00",
+     "fecha_legible": "17/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    }
+   ],
+   "urgencias": [
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2026-04-08T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2026-05-04T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2026-06-02T00:00:00-04:00",
+     "fecha_retiro": ""
+    }
+   ],
+   "votaciones": [],
+   "autores": [
+    "Alessandri Vergara, Jorge",
+    "Andrés Jouannet Valderrama",
+    "Andrés Longton Herrera",
+    "Araya Guerrero, Jaime",
+    "Araya Lerdo de Tejada, Cristián",
+    "Castro Bascuñán, José Miguel",
+    "Cristián Araya Lerdo de Tejada",
+    "Diego Schalper Sepúlveda",
+    "Gloria Naveillan Arriagada",
+    "Hugo Rey Martínez",
+    "Jaime Araya Guerrero",
+    "Jorge Alessandri Vergara",
+    "José Miguel Castro Bascuñán",
+    "Jouannet Valderrama, Andrés",
+    "Leiva Carvajal, Raúl",
+    "Longton Herrera, Andrés",
+    "Naveillan Arriagada, Gloria",
+    "Raúl Leiva Carvajal",
+    "Rey Martínez, Hugo",
+    "Schalper Sepúlveda, Diego"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [
+    {
+     "fecha": "2026-07-20T00:00:00-04:00",
+     "tramite": "Primer informe de comisión de Seguridad Ciudadana",
+     "etapa": "Primer trámite constitucional",
+     "link": ""
+    }
+   ],
+   "ministerios": [],
+   "camara_id": "18569",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara",
+    "senado"
+   ],
+   "admisible": "true",
+   "texto_camara_completo": "18569 17912-25 Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos 2025-10-10T00:00:00 Moción Cámara de Diputados 0 1009 Jorge Alessandri Vergara 0 1044 Raúl Leiva Carvajal 0 1046 Andrés Longton Herrera 0 1067 Hugo Rey Martínez 0 1075 Diego Schalper Sepúlveda 0 1019 José Miguel Castro Bascuñán 0 1099 Jaime Araya Guerrero 0 1134 Andrés Jouannet Valderrama 0 1152 Gloria Naveillan Arriagada 0 1100 Cristián Araya Lerdo de Tejada 89781 Boletín N°17912-25 2026-08-17T19:47:28 130 0 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo único del proyecto, en los términos propuestos por la Comisión de Seguridad Ciudadana. Primer Trámite Primer Informe 89780 Boletín N°17912-25 2026-08-17T19:46:44 52 60 18 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo único del proyecto, con la indicación del diputado Raúl Leiva para intercalar un numeral 1 antes de la expresión “Intercálase en el artículo 27 letra a)”; y para agregar el siguiente numeral 2, nuevo: “2. Intercálase, en el artículo 27 letra a), entre las expresión “quinquies, y en los artículos” y el guarismo “467”, la expresión “438,”. Primer Trámite Primer Informe 89779 Boletín N°17912-25 2026-08-17T19:45:31 131 0 0 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17912-25",
+   "canales_descubrimiento": [
+    "cartera",
+    "senado_movimiento"
+   ],
+   "id": "80d2ea7de230a503",
+   "puntaje_pertinencia": 316.0,
+   "nivel_impacto": "directo",
+   "evidencia": {
+    "directas": [
+     "19.913"
+    ],
+    "nucleo": [
+     "lavado de activos"
+    ],
+    "estructurales": [
+     "propiedad industrial"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "facultades_uaf",
+    "delitos_base"
+   ],
+   "ejes_legibles": [
+    "Facultades y competencias UAF",
+    "Catálogo de delitos base"
+   ],
+   "impacto_legible": "Impacto directo en la Ley 19.913",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 1,
+   "nivel_legible": "Nivel 1 · Impacto en la Ley 19.913",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 2,
+   "vigente": true,
+   "ultimo_movimiento": "2026-08-17T00:00:00-04:00",
+   "ultimo_movimiento_legible": "17/08/2026",
+   "dias_sin_movimiento": 1,
+   "ultimo_tramite": "Oficio de ley a Cámara Revisora .",
+   "camara_actual": "C.Diputados",
+   "total_tramites": 9,
+   "fecha_ingreso_legible": "10/10/2025",
+   "antiguedad_dias": 312,
+   "prioridad": 162.5,
+   "banda_prioridad": "alta",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.25,
+   "factor_frescura": 1.3,
+   "huella": "83c372bde758805cb1fe",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18569&prmBOLETIN=17912-25",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17912",
+   "sintesis": "Segundo trámite constitucional (Senado) · Oficio de ley a Cámara Revisora .",
+   "novedad": "urgencia",
+   "novedad_detectada": "2026-08-18T12:36:57.685177-04:00"
+  },
+  {
    "boletin": "14773-02",
    "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
    "fecha_ingreso": "2022-01-04T00:00:00-03:00",
@@ -2211,6 +1915,302 @@
    "sintesis": "Simple urgencia · Segundo trámite constitucional (C.Diputados) · Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA",
    "novedad": "",
    "novedad_detectada": "2026-08-17T00:49:50.210094-04:00"
+  },
+  {
+   "boletin": "16808-25",
+   "titulo": "Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal",
+   "fecha_ingreso": "2024-04-25T00:00:00-04:00",
+   "etapa": "Segundo trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Seguridad Pública",
+   "iniciativa": "Moción",
+   "camara_origen": "C.Diputados",
+   "urgencia": "Sin urgencia",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "En tramitación",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17412&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2024-04-25T00:00:00-04:00",
+     "fecha_legible": "25/04/2024",
+     "sesion": "/",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-05-06T00:00:00-04:00",
+     "fecha_legible": "06/05/2024",
+     "sesion": "25/372",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-09-02T00:00:00-04:00",
+     "fecha_legible": "02/09/2024",
+     "sesion": "70/372",
+     "descripcion": "Cuenta de Oficio de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización (N° 277/6/2024), por el cual solicita recabar el acuerdo de la Sala para que le sea remitido el proyecto. RECHAZADO.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2024-09-02T00:00:00-04:00",
+     "fecha_legible": "02/09/2024",
+     "sesion": "/",
+     "descripcion": "Oficio N° 19805. Comunica a la Comisión de Gobierno Interior que la Sala no accedió a su solicitud en orden a remitirle el proyecto de ley.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-05-14T00:00:00-04:00",
+     "fecha_legible": "14/05/2025",
+     "sesion": "25/373",
+     "descripcion": "Cuenta, Oficio de la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización (N° 375/6/2025), por el cual solicita recabar el acuerdo de la Sala para que le sea remitido el proyecto. ACORDADO.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-04-21T00:00:00-04:00",
+     "fecha_legible": "21/04/2026",
+     "sesion": "15/374",
+     "descripcion": "Cuenta del Mensaje 55-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-04T00:00:00-04:00",
+     "fecha_legible": "04/05/2026",
+     "sesion": "17/374",
+     "descripcion": "Cuenta del Mensaje 68-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-20T00:00:00-04:00",
+     "fecha_legible": "20/05/2026",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-20T00:00:00-04:00",
+     "fecha_legible": "20/05/2026",
+     "sesion": "27/374",
+     "descripcion": "Cuenta del Mensaje 108-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-06-02T00:00:00-04:00",
+     "fecha_legible": "02/06/2026",
+     "sesion": "28/374",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-06-02T00:00:00-04:00",
+     "fecha_legible": "02/06/2026",
+     "sesion": "28/374",
+     "descripcion": "Cuenta del Mensaje 120-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-06-03T00:00:00-04:00",
+     "fecha_legible": "03/06/2026",
+     "sesion": "29/374",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-06-03T00:00:00-04:00",
+     "fecha_legible": "03/06/2026",
+     "sesion": "/",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-06-03T00:00:00-04:00",
+     "fecha_legible": "03/06/2026",
+     "sesion": "26/374",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-16T00:00:00-04:00",
+     "fecha_legible": "16/06/2026",
+     "sesion": "30/374",
+     "descripcion": "Cuenta del Mensaje 149-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-23T00:00:00-04:00",
+     "fecha_legible": "23/06/2026",
+     "sesion": "35/374",
+     "descripcion": "Cuenta del Mensaje 171-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-21T00:00:00-04:00",
+     "fecha_legible": "21/07/2026",
+     "sesion": "44/374",
+     "descripcion": "Cuenta del Mensaje 215-374 que retira y hace presente la urgencia Simple",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2026-04-21T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2026-05-04T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2026-05-20T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2026-06-02T00:00:00-04:00",
+     "fecha_retiro": "2026-06-16T00:00:00-04:00"
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2026-06-16T00:00:00-04:00",
+     "fecha_retiro": "2026-06-23T00:00:00-04:00"
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2026-06-23T00:00:00-04:00",
+     "fecha_retiro": "2026-07-21T00:00:00-04:00"
+    },
+    {
+     "tipo": "Simple",
+     "fecha_ingreso": "2026-07-21T00:00:00-04:00",
+     "fecha_retiro": "2026-08-18T00:00:00-04:00"
+    }
+   ],
+   "votaciones": [],
+   "autores": [
+    "Agustín Romero Leiva",
+    "Araya Lerdo de Tejada, Cristián",
+    "Barchiesi Chávez, Chiara",
+    "Benjamín Moreno Bascur",
+    "Catalina Del Real Mihovilovic",
+    "Chiara Barchiesi Chávez",
+    "Cristián Araya Lerdo de Tejada",
+    "Del Real Mihovilovic, Catalina",
+    "Irarrázaval Rossel, Juan",
+    "José Carlos Meza Pereira",
+    "Juan Irarrázaval Rossel",
+    "Luis Sánchez Ossa",
+    "Meza Pereira, José Carlos",
+    "Moreno Bascur, Benjamín",
+    "Renzo Trisotti Martínez",
+    "Romero Leiva, Agustín",
+    "Schubert Rubio, Stephan",
+    "Stephan Schubert Rubio",
+    "Sánchez Ossa, Luis",
+    "Trisotti Martínez, Renzo"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [
+    {
+     "fecha": "2026-05-20T00:00:00-04:00",
+     "tramite": "Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+     "etapa": "Primer trámite constitucional",
+     "link": ""
+    }
+   ],
+   "ministerios": [],
+   "camara_id": "17412",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara",
+    "senado"
+   ],
+   "nota_semilla": "Lavado de activos asociado al comercio ilegal",
+   "es_semilla": true,
+   "admisible": "true",
+   "texto_camara_completo": "17412 16808-25 Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal 2024-04-25T00:00:00 Moción Cámara de Diputados 0 1003 Renzo Trisotti Martínez 0 1025 Catalina Del Real Mihovilovic 0 1100 Cristián Araya Lerdo de Tejada 0 1133 Juan Irarrázaval Rossel 0 1146 José Carlos Meza Pereira 0 1150 Benjamín Moreno Bascur 0 1165 Agustín Romero Leiva 0 1170 Luis Sánchez Ossa 0 1172 Stephan Schubert Rubio 0 1104 Chiara Barchiesi Chávez 89032 Boletín N°16808-25 2026-06-03T13:50:06 61 86 2 0 Quórum Simple Unánime Proyecto de Ley Particular Indicación renovada de la diputada Carolina Tello, del siguiente tenor: “Nuevo numeral.- Para agregar al artículo 3° de la ley N°19.913 un inciso final, del siguiente tenor: “Para efectos de la fiscalización del cumplimiento de las obligaciones establecidas en la presente ley, cuando un sujeto obligado incurra en una infracción grave que dificulte o impida la verificación del origen, destino o trazabilidad de sus operaciones, la Unidad de Análisis Financiero podrá requerir la información financiera necesaria para dichos fines, conforme a los procedimientos y autorizaciones establecidos en la legislación vigente.”. Primer Trámite Primer Informe 89031 Boletín N°16808-25 2026-06-03T13:48:28 149 0 0 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=16808-25",
+   "canales_descubrimiento": [
+    "semilla",
+    "cartera"
+   ],
+   "id": "fa5ca40fa3da378b",
+   "puntaje_pertinencia": 316.0,
+   "nivel_impacto": "directo",
+   "evidencia": {
+    "directas": [
+     "19.913",
+     "sujeto obligado",
+     "unidad de analisis financiero"
+    ],
+    "nucleo": [
+     "lavado de activos"
+    ],
+    "estructurales": [
+     "comercio ilegal"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "facultades_uaf",
+    "delitos_base",
+    "sujetos_obligados"
+   ],
+   "ejes_legibles": [
+    "Facultades y competencias UAF",
+    "Catálogo de delitos base",
+    "Régimen de sujetos obligados"
+   ],
+   "impacto_legible": "Impacto directo en la Ley 19.913",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 1,
+   "nivel_legible": "Nivel 1 · Impacto en la Ley 19.913",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 2,
+   "vigente": true,
+   "ultimo_movimiento": "2026-07-21T00:00:00-04:00",
+   "ultimo_movimiento_legible": "21/07/2026",
+   "dias_sin_movimiento": 28,
+   "ultimo_tramite": "Cuenta del Mensaje 215-374 que retira y hace presente la urgencia Simple",
+   "camara_actual": "Senado",
+   "total_tramites": 17,
+   "fecha_ingreso_legible": "25/04/2024",
+   "antiguedad_dias": 845,
+   "prioridad": 143.8,
+   "banda_prioridad": "alta",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.25,
+   "factor_frescura": 1.15,
+   "huella": "7ab1d5ea74ee7edd33db",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16808-25",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17412&prmBOLETIN=16808-25",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16808",
+   "sintesis": "Segundo trámite constitucional (Senado) · Cuenta del Mensaje 215-374 que retira y hace presente la urgencia Simple",
+   "novedad": "urgencia",
+   "novedad_detectada": "2026-08-18T12:36:57.685177-04:00"
   },
   {
    "boletin": "15975-25",
@@ -11243,10 +11243,10 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-18T10:38:36.458739-04:00"
+   "revisado": "2026-08-18T12:36:57.685177-04:00"
   }
  ],
- "novedades": 0,
+ "novedades": 2,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11297,7 +11297,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 157,
+  "candidatos_descubiertos": 173,
   "boletines_consultados": 43,
   "fichas_obtenidas": 43,
   "consultas_fallidas": 0,
@@ -11305,14 +11305,14 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 1,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 0,
+  "novedades_corrida": 2,
   "nuevos_en_cartera": 0,
   "con_movimiento": 0,
-  "cambios_urgencia": 0,
+  "cambios_urgencia": 2,
   "canales": {
    "semillas": 15,
    "cartera": 43,
-   "senado_movimiento": 119,
+   "senado_movimiento": 135,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -11320,7 +11320,7 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 119,
+    "resultados": 135,
     "errores": [],
     "consultado": true
    },
@@ -11358,6 +11358,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 68.8
+  "segundos_corrida": 70.1
  }
 }
