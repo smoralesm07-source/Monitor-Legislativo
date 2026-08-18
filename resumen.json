@@ -2,16 +2,16 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-18T06:33:56.188703-04:00",
-  "generado_legible": "18/08/2026 06:33",
+  "generado": "2026-08-18T08:55:24.295550-04:00",
+  "generado_legible": "18/08/2026 08:55",
   "proyectos_total": 43,
   "vigentes": 40,
-  "movimientos_recientes": 5,
-  "movimientos_30d": 8,
-  "novedades_corrida": 0,
+  "movimientos_recientes": 6,
+  "movimientos_30d": 9,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 6,
-  "prioridad_alta": 3,
+  "prioridad_alta": 4,
   "estancados_180d": 17,
   "ultimo": {
     "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
@@ -42,7 +42,7 @@
     },
     {
       "fecha": "2026-08-17",
-      "n": 1
+      "n": 2
     },
     {
       "fecha": "2026-08-18",
@@ -56,6 +56,14 @@
       "detalle": "Boletín 17912-25 · Nivel 1 · Impacto en la Ley 19.913 · Simple urgencia",
       "fecha": "2026-08-17T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "alta",
+      "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+      "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Discusión inmediata",
+      "fecha": "2026-08-17T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
       "fuente": "LEGISLATIVO"
     },
     {
@@ -73,14 +81,6 @@
       "fecha": "2026-08-12T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "media",
-      "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
-      "detalle": "Boletín 18420-25 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
-      "fecha": "2026-08-12T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
@@ -89,16 +89,16 @@
       "texto": "Boletín 17912-25: Oficio de ley a Cámara Revisora ."
     },
     {
+      "fecha": "2026-08-17T00:00:00-04:00",
+      "texto": "Boletín 18216-05: Cuenta oficio aprobación veto ."
+    },
+    {
       "fecha": "2026-08-13T00:00:00-04:00",
       "texto": "Boletín 18582-07:"
     },
     {
       "fecha": "2026-08-12T00:00:00-04:00",
       "texto": "Boletín 14773-02: Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA"
-    },
-    {
-      "fecha": "2026-08-12T00:00:00-04:00",
-      "texto": "Boletín 18420-25: La Sala acuerda abrir un plazo para presentar indicaciones a este proyecto hasta las 12.00 horas del día 4 de septiembre de 2026, en la Secretaría del Senado"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-18T06:33:56.188703-04:00",
- "generado_legible": "18/08/2026 06:33",
+ "generado": "2026-08-18T08:55:24.295550-04:00",
+ "generado_legible": "18/08/2026 08:55",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -12,9 +12,9 @@
   "con_urgencia": 6,
   "discusion_inmediata": 1,
   "prioridad_critica": 2,
-  "prioridad_alta": 1,
-  "movimiento_7d": 5,
-  "movimiento_30d": 8,
+  "prioridad_alta": 2,
+  "movimiento_7d": 6,
+  "movimiento_30d": 9,
   "nivel_1": 8,
   "nivel_2": 28,
   "nivel_3": 4,
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-08-18T06:33:56.188703-04:00"
+  "generado": "2026-08-18T08:55:24.295550-04:00"
  },
  "proyectos": [
   {
@@ -666,6 +666,1005 @@
    "sintesis": "Simple urgencia · Segundo trámite constitucional (Senado) · Cuenta del Mensaje 215-374 que retira y hace presente la urgencia Simple",
    "novedad": "",
    "novedad_detectada": "2026-08-17T00:49:50.210094-04:00"
+  },
+  {
+   "boletin": "18216-05",
+   "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+   "fecha_ingreso": "2026-04-22T00:00:00-04:00",
+   "etapa": "Trámite finalización en Cámara de Origen (C.Diputados)",
+   "subetapa": "Oficio resultado veto",
+   "iniciativa": "Mensaje",
+   "camara_origen": "C.Diputados",
+   "urgencia": "Discusión inmediata",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "En tramitación",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18872&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2026-04-22T00:00:00-04:00",
+     "fecha_legible": "22/04/2026",
+     "sesion": "16/374",
+     "descripcion": "Texto del mensaje",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-04-22T00:00:00-04:00",
+     "fecha_legible": "22/04/2026",
+     "sesion": "16/374",
+     "descripcion": "Ingreso de proyecto . Contiene Informes Financiero y de Impacto Regulatorio",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-04-22T00:00:00-04:00",
+     "fecha_legible": "22/04/2026",
+     "sesion": "16/374",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda, y a las comisiones de Medio Ambiente y Recursos Naturales, y de Trabajo y Seguridad Social, en lo que corresponda. A la Corte Suprema, en lo pertinente.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-04-22T00:00:00-04:00",
+     "fecha_legible": "22/04/2026",
+     "sesion": "16/374",
+     "descripcion": "Cuenta del Mensaje 62-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-04-22T00:00:00-04:00",
+     "fecha_legible": "22/04/2026",
+     "sesion": "16/374",
+     "descripcion": "Los diputados Luis Cuello, Patricio Pinilla y Jorge Brito formularon reserva de constitucionalidad respecto de los artículos 11 y 12 permanentes y sexto transitorio por infringir el artículo 8 de la Constitución Política de la República.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-04-24T00:00:00-04:00",
+     "fecha_legible": "24/04/2026",
+     "sesion": "/",
+     "descripcion": "Oficio N° 21184. Oficio a la Corte Suprema.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-05T00:00:00-04:00",
+     "fecha_legible": "05/05/2026",
+     "sesion": "18/374",
+     "descripcion": "Cuenta del Mensaje 78-374 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-11T00:00:00-04:00",
+     "fecha_legible": "11/05/2026",
+     "sesion": "21/374",
+     "descripcion": "Cuenta oficio N? 116-2026 de la Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-11T00:00:00-04:00",
+     "fecha_legible": "11/05/2026",
+     "sesion": "/",
+     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (033-374). Incluye informe financiero complementario N° 093 /11.05.2026.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-13T00:00:00-04:00",
+     "fecha_legible": "13/05/2026",
+     "sesion": "/",
+     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (037-374). Incluye informe financiero complementario N° 097/13.05.2026.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-18T00:00:00-04:00",
+     "fecha_legible": "18/05/2026",
+     "sesion": "/",
+     "descripcion": "S.E. el Presidente de la República formula indicaciones al proyecto. (043-374). Incluye informe financiero complementario N° 100/13.05.2026.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-18T00:00:00-04:00",
+     "fecha_legible": "18/05/2026",
+     "sesion": "25/374",
+     "descripcion": "Cuenta, Oficio de la Comisión de Hacienda mediante el cual informa y remite a la Comisión de Medio Ambiente y Recursos Naturales las normas contenidas en el proyecto que deben ser tratadas por ella. (29-5-2026).",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-18T00:00:00-04:00",
+     "fecha_legible": "18/05/2026",
+     "sesion": "25/374",
+     "descripcion": "Cuenta, Oficio de la Comisión de Hacienda mediante el cual informa y remite a la Comisión de Comisión de Trabajo y Seguridad Social las normas contenidas en el proyecto que deben ser tratadas por ella. (30-5-2026).",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-18T00:00:00-04:00",
+     "fecha_legible": "18/05/2026",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Trabajo y Seguridad Social.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-18T00:00:00-04:00",
+     "fecha_legible": "18/05/2026",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión Medio Ambiente y Recursos Naturales.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-19T00:00:00-04:00",
+     "fecha_legible": "19/05/2026",
+     "sesion": "26/374",
+     "descripcion": "Cuenta del informe de la Comisión de Hacienda, del de la Comisión de Medio Ambiente, y del certificado de la Comisión de Trabajo",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-20T00:00:00-04:00",
+     "fecha_legible": "20/05/2026",
+     "sesion": "27/374",
+     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-05-20T00:00:00-04:00",
+     "fecha_legible": "20/05/2026",
+     "sesion": "/",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-06-02T00:00:00-04:00",
+     "fecha_legible": "02/06/2026",
+     "sesion": "24/374",
+     "descripcion": "Por acuerdo de Comités, el proyecto de ley se remite a la Comisión de Hacienda para su discusión en general, y en caso de ser aprobada la idea de legislar por la Sala del Senado, se remitirá para su discusión en particular a la Comisión de Hacienda, y a las Comisiones de Trabajo y Previsión Social y de Medio Ambiente, Cambio Climático y Bienes Nacionales, en lo pertinente",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-02T00:00:00-04:00",
+     "fecha_legible": "02/06/2026",
+     "sesion": "24/374",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-02T00:00:00-04:00",
+     "fecha_legible": "02/06/2026",
+     "sesion": "24/374",
+     "descripcion": "Cuenta del Mensaje 111-374 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-10T00:00:00-04:00",
+     "fecha_legible": "10/06/2026",
+     "sesion": "29/374",
+     "descripcion": "Cuenta del Mensaje 143-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-19T00:00:00-04:00",
+     "fecha_legible": "19/06/2026",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Hacienda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-23T00:00:00-04:00",
+     "fecha_legible": "23/06/2026",
+     "sesion": "35/374",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-23T00:00:00-04:00",
+     "fecha_legible": "23/06/2026",
+     "sesion": "35/374",
+     "descripcion": "Discusión general . Queda pendiente",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-24T00:00:00-04:00",
+     "fecha_legible": "24/06/2026",
+     "sesion": "36/374",
+     "descripcion": "Discusión general . Queda pendiente",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-24T00:00:00-04:00",
+     "fecha_legible": "24/06/2026",
+     "sesion": "37/374",
+     "descripcion": "Cuenta del Mensaje 178-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-24T00:00:00-04:00",
+     "fecha_legible": "24/06/2026",
+     "sesion": "37/374",
+     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 06/07/2026 a las 12:00",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-06T00:00:00-04:00",
+     "fecha_legible": "06/07/2026",
+     "sesion": "/",
+     "descripcion": "Por acuerdo de Comités, se fijó el siguiente cronograma para presentar indicaciones al proyecto de ley: - Lunes 6 de julio de 2026 hasta las 20:00 horas, para las indicaciones relativas a materias de Medio Ambiente. - Miércoles 8 de julio de 2026 hasta las 12:00 horas, para las indicaciones relativas a materias de Trabajo. - Jueves 9 de julio de 2026 hasta las 20:00 horas, para las indicaciones relativas a materias de Hacienda. Dichas comisiones revisarán el proyecto en el mismo orden antes señalado.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-07T00:00:00-04:00",
+     "fecha_legible": "07/07/2026",
+     "sesion": "/",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-07T00:00:00-04:00",
+     "fecha_legible": "07/07/2026",
+     "sesion": "/",
+     "descripcion": "I.F. 153. Informe Financiero",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-07T00:00:00-04:00",
+     "fecha_legible": "07/07/2026",
+     "sesion": "/",
+     "descripcion": "Segundo informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales. COMPARADO DE INDICACIONES",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-07T00:00:00-04:00",
+     "fecha_legible": "07/07/2026",
+     "sesion": "40/374",
+     "descripcion": "Cuenta del Mensaje 187-374 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-08T00:00:00-04:00",
+     "fecha_legible": "08/07/2026",
+     "sesion": "/",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-08T00:00:00-04:00",
+     "fecha_legible": "08/07/2026",
+     "sesion": "/",
+     "descripcion": "IF 158. Informe Financiero",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-09T00:00:00-04:00",
+     "fecha_legible": "09/07/2026",
+     "sesion": "/",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-09T00:00:00-04:00",
+     "fecha_legible": "09/07/2026",
+     "sesion": "/",
+     "descripcion": "Segundo informe de comisión de Trabajo y Previsión Social. Pasa a Comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-09T00:00:00-04:00",
+     "fecha_legible": "09/07/2026",
+     "sesion": "/",
+     "descripcion": "IF 162. Informe Financiero",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-09T00:00:00-04:00",
+     "fecha_legible": "09/07/2026",
+     "sesion": "/",
+     "descripcion": "IIR. Informe de impacto regulatorio",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-10T00:00:00-04:00",
+     "fecha_legible": "10/07/2026",
+     "sesion": "/",
+     "descripcion": "Segundo informe de comisión de Hacienda. COMPARADO DE INDICACIONES",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-11T00:00:00-04:00",
+     "fecha_legible": "11/07/2026",
+     "sesion": "/",
+     "descripcion": "Oficio N° H-19 a la Corte Suprema",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-13T00:00:00-04:00",
+     "fecha_legible": "13/07/2026",
+     "sesion": "/",
+     "descripcion": "Segundo informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales. Pasa a Comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-13T00:00:00-04:00",
+     "fecha_legible": "13/07/2026",
+     "sesion": "/",
+     "descripcion": "Oficio N° MA-27-2026 a la Corte Suprema",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-14T00:00:00-04:00",
+     "fecha_legible": "14/07/2026",
+     "sesion": "/",
+     "descripcion": "Oficio N° H-20 a la Corte Suprema",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-14T00:00:00-04:00",
+     "fecha_legible": "14/07/2026",
+     "sesion": "/",
+     "descripcion": "Segundo informe de comisión de Hacienda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-14T00:00:00-04:00",
+     "fecha_legible": "14/07/2026",
+     "sesion": "42/374",
+     "descripcion": "Cuenta del Mensaje 201-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-14T00:00:00-04:00",
+     "fecha_legible": "14/07/2026",
+     "sesion": "42/374",
+     "descripcion": "Cuenta de segundo informe de comisión .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-15T00:00:00-04:00",
+     "fecha_legible": "15/07/2026",
+     "sesion": "43/374",
+     "descripcion": "Discusión particular . Aprobado con modificaciones",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-15T00:00:00-04:00",
+     "fecha_legible": "15/07/2026",
+     "sesion": "43/374",
+     "descripcion": "La Honorable Senadora señora Provoste hace reserva de constitucionalidad",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-15T00:00:00-04:00",
+     "fecha_legible": "15/07/2026",
+     "sesion": "43/374",
+     "descripcion": "El Honorable Senador señor De Urresti hace reserva de constitucionalidad",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-16T00:00:00-04:00",
+     "fecha_legible": "16/07/2026",
+     "sesion": "43/374",
+     "descripcion": "La Honorable Senadora señora Pascual hace reserva de constitucionalidad",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-16T00:00:00-04:00",
+     "fecha_legible": "16/07/2026",
+     "sesion": "43/374",
+     "descripcion": "El Honorable Senador señora Ibáñez hace reserva de constitucionalidad",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-16T00:00:00-04:00",
+     "fecha_legible": "16/07/2026",
+     "sesion": "43/374",
+     "descripcion": "El Honorable Senador señor Castro hace reserva de constitucionalidad",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-16T00:00:00-04:00",
+     "fecha_legible": "16/07/2026",
+     "sesion": "43/374",
+     "descripcion": "El Ejecutivo hace reserva de constitucionalidad",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-17T00:00:00-04:00",
+     "fecha_legible": "17/07/2026",
+     "sesion": "/",
+     "descripcion": "Oficio modificaciones a Cámara de Origen .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-20T00:00:00-04:00",
+     "fecha_legible": "20/07/2026",
+     "sesion": "45/374",
+     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Queda para tabla",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-20T00:00:00-04:00",
+     "fecha_legible": "20/07/2026",
+     "sesion": "45/374",
+     "descripcion": "Cuenta del Mensaje 208-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-21T00:00:00-04:00",
+     "fecha_legible": "21/07/2026",
+     "sesion": "46/374",
+     "descripcion": "Discusión única . Rechazadas las modificaciones .",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-21T00:00:00-04:00",
+     "fecha_legible": "21/07/2026",
+     "sesion": "/",
+     "descripcion": "Oficio rechazo modificaciones a Cámara Revisora .",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-21T00:00:00-04:00",
+     "fecha_legible": "21/07/2026",
+     "sesion": "44/374",
+     "descripcion": "Cuenta del Oficio N° 21.412 de la Cámara de Diputados, que aprueba las enmiendas propuesta del Senado, salvo la que indica. En consecuencia, corresponde la formación de una Comisión Mixta del artículo 71 de la Carta Fundamental",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-21T00:00:00-04:00",
+     "fecha_legible": "21/07/2026",
+     "sesion": "44/374",
+     "descripcion": "Cuenta oficio rechazo a modificaciones .",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-21T00:00:00-04:00",
+     "fecha_legible": "21/07/2026",
+     "sesion": "46/374",
+     "descripcion": "La diputada Hube hace reserva de constitucionalidad respecto del artículo 39, nuevo.",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-21T00:00:00-04:00",
+     "fecha_legible": "21/07/2026",
+     "sesion": "/",
+     "descripcion": "El diputado Barraza formluló reserva de constitucionalidad a las enmiendas propuestas por el Senado a los artículos 1; 5; 6; 10; 11; 12; 13; 14; 15; 16; 17 Y 29 del proyecto de ley.",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-21T00:00:00-04:00",
+     "fecha_legible": "21/07/2026",
+     "sesion": "46/374",
+     "descripcion": "El diputado Mulet hace reserva de constitucionalidad respecto de los artículos 18 y 29 del proyecto de ley.",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-21T00:00:00-04:00",
+     "fecha_legible": "21/07/2026",
+     "sesion": "46/374",
+     "descripcion": "El diputado Barraza formluló reserva de constitucionalidad a las enmiendas propuestas por el Senado a los artículos 1; 5; 6; 10; 11; 12; 13; 14; 15; 16; 17 Y 29 del proyecto de ley.",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-21T00:00:00-04:00",
+     "fecha_legible": "21/07/2026",
+     "sesion": "/",
+     "descripcion": "Oficio N° 249-26. Toma conocimiento rechazo enmienda y designa integrantes Comisión Mixta",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-22T00:00:00-04:00",
+     "fecha_legible": "22/07/2026",
+     "sesion": "47/374",
+     "descripcion": "Cuenta oficio integrantes de Comisión Mixta .",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-22T00:00:00-04:00",
+     "fecha_legible": "22/07/2026",
+     "sesion": "/",
+     "descripcion": "Oficio N° 21417. Comunica integración Comisión Mixta",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-22T00:00:00-04:00",
+     "fecha_legible": "22/07/2026",
+     "sesion": "45/374",
+     "descripcion": "Se da cuenta del Oficio N° 21.417 de la Cámara de Diputados, mediante el que comunica integrantes de la Comisión Mixta",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-22T00:00:00-04:00",
+     "fecha_legible": "22/07/2026",
+     "sesion": "/",
+     "descripcion": "Informe de Comisión Mixta Comisión Mixta para Boletín Nº 18216-05.",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-22T00:00:00-04:00",
+     "fecha_legible": "22/07/2026",
+     "sesion": "48/374",
+     "descripcion": "Cuenta informe Comisión Mixta . Queda para tabla.",
+     "etapa": "Disc. informe C.Mixta por rechazo de modific. en C. Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-22T00:00:00-04:00",
+     "fecha_legible": "22/07/2026",
+     "sesion": "48/374",
+     "descripcion": "Discusión única . Aprobadas las modificaciones .",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-22T00:00:00-04:00",
+     "fecha_legible": "22/07/2026",
+     "sesion": "48/374",
+     "descripcion": "Cuenta del Mensaje 221-374 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Disc. informe C.Mixta por rechazo de modific. en C. Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-22T00:00:00-04:00",
+     "fecha_legible": "22/07/2026",
+     "sesion": "/",
+     "descripcion": "Oficio aprobación de informe de Comisión Mixta a C. Revisora .",
+     "etapa": "Disc. informe C.Mixta por rechazo de modific. en C. Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-22T00:00:00-04:00",
+     "fecha_legible": "22/07/2026",
+     "sesion": "46/374",
+     "descripcion": "Cuenta oficio aprobación de informe de Comisión Mixta .",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-22T00:00:00-04:00",
+     "fecha_legible": "22/07/2026",
+     "sesion": "46/374",
+     "descripcion": "Discusión informe de Comisión Mixta . Queda pendiente Se solicita aplazamiento de la votación.",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-31T00:00:00-04:00",
+     "fecha_legible": "31/07/2026",
+     "sesion": "/",
+     "descripcion": "Cuenta oficio N° 210-2026 de la Corte Suprema",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-07-31T00:00:00-04:00",
+     "fecha_legible": "31/07/2026",
+     "sesion": "/",
+     "descripcion": "Cuenta oficio N° 211-2026 de la Corte Suprema",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04T00:00:00-04:00",
+     "fecha_legible": "04/08/2026",
+     "sesion": "51/374",
+     "descripcion": "Cuenta oficio aprobación de informe de Comisión Mixta .",
+     "etapa": "Trámite finalización en Cámara de Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-04T00:00:00-04:00",
+     "fecha_legible": "04/08/2026",
+     "sesion": "47/374",
+     "descripcion": "Cuenta del Mensaje 231-374 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04T00:00:00-04:00",
+     "fecha_legible": "04/08/2026",
+     "sesion": "47/374",
+     "descripcion": "Cuenta del Mensaje 222-374 que retira la urgencia Discusión inmediata",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04T00:00:00-04:00",
+     "fecha_legible": "04/08/2026",
+     "sesion": "47/374",
+     "descripcion": "La Honorable Senadora señora Pascual hace reserva de constitucionalidad",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04T00:00:00-04:00",
+     "fecha_legible": "04/08/2026",
+     "sesion": "47/374",
+     "descripcion": "Discusión informe de Comisión Mixta . Aprobado",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04T00:00:00-04:00",
+     "fecha_legible": "04/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio aprobación de informe de Comisión Mixta a C.de Origen .",
+     "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-04T00:00:00-04:00",
+     "fecha_legible": "04/08/2026",
+     "sesion": "51/374",
+     "descripcion": "Cuenta agregada. Oficio del Senado, comunica aprobación de informe de Comisión Mixta",
+     "etapa": "Trámite finalización en Cámara de Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-04T00:00:00-04:00",
+     "fecha_legible": "04/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio de ley al Ejecutivo .",
+     "etapa": "Trámite finalización en Cámara de Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-05T00:00:00-04:00",
+     "fecha_legible": "05/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio N° 123-374. Observaciones de S.E. el Presidente de la República",
+     "etapa": "Trámite finalización en Cámara de Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-05T00:00:00-04:00",
+     "fecha_legible": "05/08/2026",
+     "sesion": "52/374",
+     "descripcion": "Cuenta de observaciones . Pasa a Comisión de Hacienda",
+     "etapa": "Discusión veto en Cámara de Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-10T00:00:00-04:00",
+     "fecha_legible": "10/08/2026",
+     "sesion": "53/374",
+     "descripcion": "Cuenta informe de comisión .",
+     "etapa": "Discusión veto en Cámara de Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-10T00:00:00-04:00",
+     "fecha_legible": "10/08/2026",
+     "sesion": "/",
+     "descripcion": "Cuenta, Oficio del Tribunal Constitucional por el cual pone en conocimiento de la Cámara de Diputados sendos requerimientos de inconstitucionalidad presentados por un grupo de senadoras y senadores, y por un grupo de diputadas y diputados respecto de las normas que indican del proyecto de ley. Roles acumulados N°s 17828,17829 y 17832-26-CPT. (309-2026). OTORGA PLAZO PARA FORMULAR OBSERVACIONES AL REQUERIMIENTO DECLARADO ADMISIBLE.",
+     "etapa": "Discusión veto en Cámara de Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-10T00:00:00-04:00",
+     "fecha_legible": "10/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio aprobación veto a Cámara Revisora .",
+     "etapa": "Discusión veto en Cámara de Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-11T00:00:00-04:00",
+     "fecha_legible": "11/08/2026",
+     "sesion": "54/374",
+     "descripcion": "Cuenta, Copia autorizada de una resolución del Tribunal Constitucional recaída en requerimientos de inconstitucionalidad presentados por un grupo de senadoras y senadores, y por un grupo de diputadas y diputados, respecto de ciertas normas del proyecto. Roles acumulados N°s 17828-26-CPT, 17829-26-CPT y N° 17832-26-CPT. CITA A AUDIENCIA PÚBLICA.",
+     "etapa": "Discusión veto en Cámara de Origen",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-11T00:00:00-04:00",
+     "fecha_legible": "11/08/2026",
+     "sesion": "49/374",
+     "descripcion": "Cuenta oficio aprobación veto . Pasa a Comisión de Hacienda",
+     "etapa": "Discusión veto en Cámara Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-12T00:00:00-04:00",
+     "fecha_legible": "12/08/2026",
+     "sesion": "/",
+     "descripcion": "Informe de comisión de Hacienda.",
+     "etapa": "Discusión veto en Cámara Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-12T00:00:00-04:00",
+     "fecha_legible": "12/08/2026",
+     "sesion": "50/374",
+     "descripcion": "Cuenta informe de comisión .",
+     "etapa": "Discusión veto en Cámara Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-12T00:00:00-04:00",
+     "fecha_legible": "12/08/2026",
+     "sesion": "50/374",
+     "descripcion": "Discusión veto . Aprobado",
+     "etapa": "Discusión veto en Cámara Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-12T00:00:00-04:00",
+     "fecha_legible": "12/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio aprobación veto a Cámara de Origen .",
+     "etapa": "Discusión veto en Cámara Revisora",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-08-13T00:00:00-04:00",
+     "fecha_legible": "13/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio al Tribunal Constitucional .",
+     "etapa": "Trámite en Tribunal Constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-13T00:00:00-04:00",
+     "fecha_legible": "13/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio N° 21499. Comunica al Ejecutivo resultado del veto.",
+     "etapa": "Trámite en Tribunal Constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-17T00:00:00-04:00",
+     "fecha_legible": "17/08/2026",
+     "sesion": "57/374",
+     "descripcion": "Cuenta oficio aprobación veto .",
+     "etapa": "Trámite finalización en Cámara de Origen",
+     "camara": "C.Diputados"
+    }
+   ],
+   "urgencias": [
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2026-04-22T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2026-05-05T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2026-06-02T00:00:00-04:00",
+     "fecha_retiro": "2026-06-10T00:00:00-04:00"
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2026-06-10T00:00:00-04:00",
+     "fecha_retiro": "2026-06-24T00:00:00-04:00"
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2026-06-24T00:00:00-04:00",
+     "fecha_retiro": "2026-07-07T00:00:00-04:00"
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2026-07-07T00:00:00-04:00",
+     "fecha_retiro": "2026-07-14T00:00:00-04:00"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "fecha_ingreso": "2026-07-14T00:00:00-04:00",
+     "fecha_retiro": "2026-07-20T00:00:00-04:00"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "fecha_ingreso": "2026-07-20T00:00:00-04:00",
+     "fecha_retiro": "2026-07-22T00:00:00-04:00"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "fecha_ingreso": "2026-07-22T00:00:00-04:00",
+     "fecha_retiro": "2026-07-22T00:00:00-04:00"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "fecha_ingreso": "2026-08-04T00:00:00-04:00",
+     "fecha_retiro": ""
+    }
+   ],
+   "votaciones": [],
+   "autores": [],
+   "materias": [],
+   "comisiones": [],
+   "informes": [
+    {
+     "fecha": "2026-05-18T00:00:00-04:00",
+     "tramite": "Primer informe de comisión de Trabajo y Seguridad Social",
+     "etapa": "Primer trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2026-05-18T00:00:00-04:00",
+     "tramite": "Primer informe de comisión Medio Ambiente y Recursos Naturales",
+     "etapa": "Primer trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2026-06-19T00:00:00-04:00",
+     "tramite": "Primer informe de comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2026-07-09T00:00:00-04:00",
+     "tramite": "Segundo informe de comisión de Trabajo y Previsión Social",
+     "etapa": "Segundo trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2026-07-13T00:00:00-04:00",
+     "tramite": "Segundo informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales",
+     "etapa": "Segundo trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2026-07-14T00:00:00-04:00",
+     "tramite": "Segundo informe de comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2026-07-22T00:00:00-04:00",
+     "tramite": "Informe de Comisión Mixta Comisión Mixta para Boletín Nº 18216-05",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
+     "link": ""
+    },
+    {
+     "fecha": "2026-08-12T00:00:00-04:00",
+     "tramite": "Informe de comisión de Hacienda",
+     "etapa": "Discusión veto en Cámara Revisora",
+     "link": ""
+    }
+   ],
+   "ministerios": [
+    "Ministerio de Hacienda"
+   ],
+   "camara_id": "18872",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara",
+    "senado"
+   ],
+   "nota_semilla": "Reconstrucción nacional y desarrollo económico y social · ómnibus de Hacienda, 38 artículos permanentes. Contenido relevante detectado por analista, no por el motor.",
+   "es_semilla": true,
+   "admisible": "true",
+   "texto_camara_completo": "18872 18216-05 Para la reconstrucción nacional y el desarrollo económico y social 2026-04-22T00:00:00 Mensaje Cámara de Diputados 2 Ministerio de Hacienda 89670 Boletín N°18216-05 2026-08-10T19:20:02 74 50 22 0 Quórum Simple Aprobado Proyecto de Ley Única Observación número 3 de S.E. el Presidente de la República para suprimir el artículo 40 del proyecto. Observaciones P. De La R. Informe Observaciones 89669 Boletín N°18216-05 2026-08-10T19:19:12 75 58 13 0 Quórum Simple Aprobado Proyecto de Ley Única Observación número 2 de S.E. el Presidente de la República para suprimir el artículo 39 del proyecto. Observaciones P. De La R. Informe Observaciones 89668 Boletín N°18216-05 2026-08-10T19:18:26 75 59 12 0 Quórum Simple Aprobado Proyecto de Ley Única Observación número 1 de S.E. el Presidente de la República para suprimir el artículo 32 del proyecto. Observaciones P. De La R. Informe Observaciones 89542 Boletín N°18216-05 2026-07-22T19:13:38 80 48 2 0 Quórum Calificado Aprobado Proyecto de Ley Única Proposición de la Comisión Mixta recaída en el proyecto de ley, originado en mensaje, “Para la reconstrucción nacional y el desarrollo económico y social”, que requiere para su aprobación del voto favorable de 78 diputadas y diputados por tratarse de una disposición de rango orgánico constitucional. Comisión Mixta Sin Informe 89495 Boletín N°18216-05 2026-07-21T14:04:59 82 63 0 0 Quórum Calificado Aprobado Proyecto de Ley Única Enmienda del Senado que agrega un artículo décimo octavo transitorio, nuevo; que consta en las páginas 620 a 622 del comparado; y que requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de rango orgánico constitucional. Tercer Trámite Sin Informe 89494 Boletín N°18216-05 2026-07-21T14:03:21 82 63 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo décimo cuarto transitorio, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri, y que consta en la página 616 del comparado. Tercer Trámite Sin Informe 89493 Boletín N°18216-05 2026-07-21T14:02:31 94 51 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo undécimo transitorio, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri, y que consta en las páginas 602 a 607 del comparado. Tercer Trámite Sin Informe 89492 Boletín N°18216-05 2026-07-21T14:01:15 85 60 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo tercero transitorio, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri y que consta en las páginas 542 a 583 del comparado. Cabe hacer presente, que el párrafo primero del número 13 de este artículo requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de quórum calificado. Tercer Trámite Sin Informe 89491 Boletín N°18216-05 2026-07-21T14:00:08 84 61 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo primero transitorio, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri, y que consta en las páginas 531 a 539 del comparado. Tercer Trámite Sin Informe 89490 Boletín N°18216-05 2026-07-21T13:57:47 87 58 0 0 Quórum Calificado Aprobado Proyecto de Ley Única Enmienda del Senado que agrega el artículo 37, nuevo, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri; que consta en las páginas 520 y 521 del comparado; y que requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de quórum calificado. Tercer Trámite Sin Informe 89489 Boletín N°18216-05 2026-07-21T13:55:52 85 60 0 0 Quórum Calificado Aprobado Proyecto de Ley Única Número 1 del artículo 36, nuevo, propuesto por el Senado; que consta en las páginas 508 a 514 del comparado y que requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de rango orgánico constitucional. Tercer Trámite Sin Informe 89488 Boletín N°18216-05 2026-07-21T13:54:46 76 69 0 0 Quórum Calificado Unánime Proyecto de Ley Única Enmienda del Senado que agrega el artículo 35, nuevo, cuya votación separada ha sido solicitada por los diputados Daniel Manouchehri y Juan Valenzuela; que consta en las páginas 492 a 507 del comparado; y que requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de rango orgánico constitucional. Tercer Trámite Sin Informe 89487 Boletín N°18216-05 2026-07-21T13:53:37 96 48 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que agrega el artículo 34, nuevo, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri, y que consta en la página 490 del comparado. Tercer Trámite Sin Informe 89486 Boletín N°18216-05 2026-07-21T13:52:40 75 70 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que agrega el artículo 33, nuevo, cuya votación separada ha sido solicitada por la diputada Gael Yeomans y el diputado Juan Valenzuela, y que consta en las páginas 475 a 486 del comparado. Tercer Trámite Sin Informe 89485 Boletín N°18216-05 2026-07-21T13:51:46 75 70 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que suprime el artículo 31 del proyecto, cuya votación separada ha sido solicitada por la diputada Gael Yeomans y los diputados Daniel Manouchehri y Juan Valenzuela, y que consta en las páginas 415 a 470 del comparado. Tercer Trámite Sin Informe 89484 Boletín N°18216-05 2026-07-21T13:49:30 84 61 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 29 del proyecto, cuya votación separada ha sido solicitada por las diputadas Serrano, Yeomans, Schneider, Gazmuri y Tello, y de los diputados Leiva, Venegas, Malla, Soto, Díaz, Barría, Barraza y Manouchehri, y que consta en las páginas 380 a 412 del comparado. Tercer Trámite Sin Informe 89483 Boletín N°18216-05 2026-07-21T13:48:39 95 50 0 0 Quórum Calificado Aprobado Proyecto de Ley Única Nuevo inciso tercero que se incorpora al artículo 120, propuesto por el Senado en el nuevo número 3 del artículo 21 del proyecto; que consta en las páginas 363 y 364 del comparado; y que requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de rango orgánico constitucional. Tercer Trámite Sin Informe 89482 Boletín N°18216-05 2026-07-21T13:47:31 98 47 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el número 2 del artículo 21 del proyecto, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri, y que consta en las páginas 361 y 362 del comparado. Tercer Trámite Sin Informe 89481 Boletín N°18216-05 2026-07-21T13:45:45 83 62 0 0 Quórum Calificado Aprobado Proyecto de Ley Única Enmiendas del Senado al artículo 17 del proyecto, cuya votación separada ha sido solicitada por las diputadas Serrano, Yeomans, Schneider, Gazmuri y Tello y de los diputados Leiva, Venegas, Malla, Soto, Díaz, Barría y Barraza; que constan en las páginas 328 y 339 del comparado; y que requieren para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de normas de rango orgánico constitucional. Tercer Trámite Sin Informe 89480 Boletín N°18216-05 2026-07-21T13:43:57 83 62 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 16 del proyecto, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri, y que consta en las páginas 325 y 326 del comparado. Cabe hacer presente, que los incisos tercero y final de este artículo requieren para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de normas de rango orgánico constitucional. Tercer Trámite Sin Informe 89479 Boletín N°18216-05 2026-07-21T13:42:15 81 64 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 15 del proyecto, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri, y que consta en la página 324 del comparado. Tercer Trámite Sin Informe 89478 Boletín N°18216-05 2026-07-21T13:40:36 81 63 0 0 Quórum Calificado Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 14 del proyecto, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri; que consta en las páginas 323 324 del comparado; y que requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de rango orgánico constitucional. Tercer Trámite Sin Informe 89477 Boletín N°18216-05 2026-07-21T13:38:54 81 64 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 13 del proyecto, cuya votación separada ha sido solicitada por la diputada Yeomans y los diputados Leiva, Soto, Díaz, Manouchehri y Pinilla; y que consta en las páginas 320 a 322 del comparado. Cabe hacer presente, que el inciso cuarto de este artículo requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de rango orgánico constitucional. Tercer Trámite Sin Informe 89476 Boletín N°18216-05 2026-07-21T13:36:44 84 61 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 12 del proyecto, cuya votación separada ha sido solicitada por la diputada Yeomans y los diputados Leiva, Soto, Díaz, Manouchehri y Pinilla; y que consta en las páginas 316 a 319 del comparado. Tercer Trámite Sin Informe 89475 Boletín N°18216-05 2026-07-21T13:34:39 84 61 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas del Senado al artículo 11 del proyecto, cuya votación separada ha sido solicitada por la diputada Yeomans y los diputados Leiva, Soto, Díaz y Pinilla; y que constan en las páginas 295 a 306 del comparado. Tercer Trámite Sin Informe 89474 Boletín N°18216-05 2026-07-21T13:33:50 98 46 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 10 del proyecto, cuya votación separada ha sido solicitada por la diputada Gael Yeomans y el diputado Daniel Manouchehri, y que consta en las páginas 265 a 290 del comparado. Tercer Trámite Sin Informe 89473 Boletín N°18216-05 2026-07-21T13:32:14 87 57 1 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas del Senado al artículo 6 del proyecto, cuya votación separada ha sido solicitada por las diputadas Serrano, Yeomans, Schneider, Gazmuri y Tello y de los diputados Leiva, Venegas, Malla, Soto, Díaz, Barría y Barraza; y que constan en las páginas 26 a 39 del comparado. Tercer Trámite Sin Informe 89472 Boletín N°18216-05 2026-07-21T13:30:21 100 44 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 5 del proyecto, cuya votación separada ha sido solicitada por las diputadas Serrano, Yeomans, Schneider, Gazmuri y Tello y de los diputados Leiva, Venegas, Malla, Soto, Díaz, Barría y Barraza; y que consta en las páginas 17 a 24 del comparado. Tercer Trámite Sin Informe 89471 Boletín N°18216-05 2026-07-21T13:29:26 133 11 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas del Senado al artículo 1 del proyecto, cuya votación separada ha sido solicitada por el diputado Juan Valenzuela, y que constan en las páginas 2 a 5 del comparado. Tercer Trámite Sin Informe 89470 Boletín N°18216-05 2026-07-21T13:28:41 85 59 0 0 Quórum Simple Aprobado Proyecto de Ley Única Modificaciones incorporadas por el Senado en el proyecto de ley, originado en mensaje, “Para la reconstrucción nacional y el desarrollo económico y social.”, con la salvedad de las enmiendas que requieren quorum especial de aprobación y de aquellas cuya votación separada ha sido solicitada. Tercer Trámite Sin Informe 88980 Boletín N°18216-05 2026-05-20T14:04:00 68 83 2 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.69, ideas matrices) respecto de la indicación del diputado Brito y la diputada Yeomans, para agregar un artículo transitorio nuevo, del siguiente tenor: “Artículo final transitorio.- Respecto del Presidente de la República en ejercicio a la fecha de publicación de la presente ley, de sus Ministros de Estado y de los diputados y senadores en ejercicio en dicha oportunidad, continuará aplicándose el régimen tributario vigente con anterioridad a la entrada en vigencia de esta ley, así como las normas relativas a la determinación y cálculo de los impuestos que graven su patrimonio, bienes, inversiones o participaciones en sociedades. En consecuencia, las disposiciones de la presente ley no les serán aplicables mientras se encuentren en el ejercicio de sus respectivos cargos.”. En votación la reconsideración de la declaración de inadmisibilidad. (Quienes votan a favor lo hacen por la admisibilidad; quienes votan en contra por su inadmisibilidad) Primer Trámite Primer Informe 88979 Boletín N°18216-05 2026-05-20T14:01:43 71 81 1 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (modificar elementos de un tributo, de conformidad con lo dispuesto en el artículo 65 inciso cuarto N°1) respecto de la indicación del diputado Manouchehri: \"Artículo transitorio nuevo.- Sin perjuicio de las modificaciones al artículo 20 de la Ley sobre Impuesto a la Renta contenidas en el artículo 10 de la presente ley, la tasa de impuesto de primera categoría aplicable a las rentas devengadas o percibidas a partir del año 2026 y siguientes, se sujetará a las siguientes reglas. 1.Para las rentas devengadas o percibidas durante el año comercial 2026, un 27%. 2.Para las rentas devengadas o percibidas durante el año comercial 2027, un 26%. 3.Para las rentas devengadas o percibidas durante el año comercial 2028, un 25%, siempre que al cierre del año comercial anterior se cumplan copulativamente las siguientes condiciones: (i) El Balance Cíclicamente Ajustado no sea inferior a -1,00% del Producto Interno Bruto, y (ii) La deuda pública sea inferior a 45% del Producto Interno Bruto. 4.Para las rentas devengadas o percibidas durante el año comercial 2029 o aquel que corresponda al año siguiente en que se cumplan las condiciones establecidas en la letra c) anterior, la tasa se rebajará en un punto porcentual respecto de la tasa del año comercial anterior siempre que se cumplan copulativamente las siguientes condiciones: (i) El Balance Cíclicamente Ajustado no sea inferior a -0,50% del Producto Interno Bruto, y (ii) La deuda pública sea inferior a 45% del Producto Interno Bruto. 5.Para las rentas devengadas o percibidas durante el año comercial 2030 o aquel que o aquel que corresponda al año siguiente en que se cumplan las condiciones establecidas en la letra d) anterior, la tasa será de un 23% siempre que se cumplan copulativamente las siguientes condiciones: (i) El Balance Cíclicamente Ajustado no sea inferior a 0,00% del Producto Interno Bruto, y (ii) La deuda pública sea inferior a 45% del Producto Interno Bruto.”. Primer Trámite Primer Informe 88978 Boletín N°18216-05 2026-05-20T13:57:46 70 81 2 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.65 inc.3, incide en la administración financiera del Estado) respecto de la indicación de las diputadas y los diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa y Brito, para incorporar un nuevo artículo: \"Artículo transitorio nuevo.- Los contribuyentes acogidos a lo dispuesto en el N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta, que adquieran, en el periodo comprendido entre la entrada en vigencia de esta ley y el 31 de diciembre de 2028, activos intangibles destinados al interés, desarrollo o mantención de la empresa o negocio, podrán depreciar dichos activos de manera instantánea e íntegra, en el mismo ejercicio comercial en que sean adquiridos, los que quedarán valorados en 1 peso. Para estos efectos, sólo se considerarán activos intangibles susceptibles de acogerse al régimen que contempla el inciso anterior, los siguientes: a) Los derechos de propiedad industrial protegidos conforme a la ley N° 19.039. b) Los derechos de propiedad intelectual protegidos conforme a la ley N° 17.336. c) Una nueva variedad vegetal protegida conforme a la ley N° 19.342. Conforme a lo anterior, en ningún caso será aplicable este régimen de amortización respecto del activo intangible que regula el número 9 del artículo 31 de la Ley sobre Impuesto a la Renta. Para la revisión o fiscalización de lo contemplado en este artículo, los organismos ante los cuales se registran los bienes intangibles señalados en las letras a), b) y c) precedentes deberán informar al Servicio de Impuestos Internos, en la forma que este último determine mediante una resolución, los bienes intangibles que sean inscritos o transferidos durante la vigencia de esta ley. Por su parte, el Servicio de Impuestos Internos, mediante una actuación sometida al trámite de consulta pública establecido en el N° 1 de la letra A del artículo 6° del Código Tributario, contenido en el decreto ley N° 830, de 1974, instruirá sobre la forma de hacer efectivo lo establecido en este artículo en relación a la acreditación del desembolso asociado a los bienes intangibles respectivos”. Primer Trámite Primer Informe 88977 Boletín N°18216-05 2026-05-20T13:52:42 75 77 1 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.65 inc.3, incide en la administración financiera del Estado) respecto de la indicación de las diputadas y diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Brito, para agregar el siguiente artículo transitorio, nuevo: “Artículo transitorio nuevo.- Transcurridos dos años desde la entrada en vigencia de la presente ley, el Ministerio de Hacienda deberá contratar una evaluación externa que se pronuncie sobre la implementación y aplicación de las medidas contenidas en la presente ley, refiriéndose, a lo menos, a su efecto sobre la recaudación fiscal, su impacto en la actividad económica, sus efectos distributivos y el cumplimiento de los compromisos en materia de gastos adquiridos durante la tramitación de la misma. El resultado de esa evaluación será remitido a la Comisión de Hacienda de la Cámara de Diputados y a la Comisión de Hacienda del Senado, y deberá será publicado en el sitio web del Ministerio de Hacienda.\". Primer Trámite Primer Informe 88976 Boletín N°18216-05 2026-05-20T13:49:56 67 86 0 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.65 inc.3, incide en la administración financiera del Estado.) respecto de la indicación de las diputadas y diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Brito, para agregar el siguiente artículo transitorio, nuevo: “Artículo transitorio nuevo.- Subsidio al pie para la adquisición de Viviendas Nuevas. Establécese un subsidio de hasta 200 Unidades de Fomento para personas que adquieran créditos hipotecarios sujetos a las Garantías Apoyo a la Vivienda Nueva establecidas en el artículo sexto transitorio de la ley Nº 21.543, que crea un Fondo de Garantías Especiales, el que se regirá por las reglas que se señalan a continuación y por las demás normas de aplicación general contempladas en uno o más decretos del Ministerio de Hacienda dictados bajo la fórmula “Por orden del Presidente de la República”. Los financiamientos beneficiados por el subsidio deberán destinarse exclusivamente al pago de la proporción del precio de adquisición de viviendas nuevas que cumplan con los requisitos indicados en este artículo, que no sea cubierta por un crédito de una institución financiera. La totalidad del monto será entregado a la institución financiera, la que deberá enterarlo al vendedor de la vivienda, según la fórmula que determine el Ministerio de Hacienda mediante el o los decretos a los que se refiere el inciso primero. El beneficio no será aplicable a compraventas de promesas celebradas con anterioridad al 31 de abril de 2026. La institución financiera deberá registrar en un soporte idóneo, por medio escrito o electrónico equivalente, una declaración jurada simple suscrita por el solicitante, que dé cuenta de que la promesa o la compraventa es elegible para el beneficio, de conformidad con lo establecido en el inciso anterior. El incumplimiento de esta obligación, o la falsedad en la declaración jurada, dará lugar a las sanciones correspondientes, según lo dispuesto en el artículo 1 de la Ley N° 21.748 y demás normativas aplicables. Se entregarán hasta cincuenta mil subsidios a personas naturales, de conformidad con las reglas que se señalan a continuación: a) Ser persona natural que, al momento de la postulación y otorgamiento del subsidio, no sea propietaria, asignataria o beneficiaria de una vivienda, ni de derechos reales sobre un inmueble destinado a uso habitacional. b) Que el valor de la vivienda no supere las 4.000 unidades de fomento. c) Que la persona cumpla con los requisitos para acceder al Programa de Garantías Apoyo a la Vivienda Nueva, de conformidad con el artículo sexto transitorio de la ley Nº 21.543, que crea un Fondo de Garantías Especiales. d) Que cumpla con los demás requisitos establecidos en el o los decretos a que se refiere el inciso primero. Sólo se podrá solicitar financiamientos con las condiciones señaladas en el presente artículo hasta veinticuatro meses después de la fecha de publicación de esta ley. Un decreto dictado por el Ministerio de Hacienda, a través de uno o más decretos supremos, bajo la fórmula “Por orden del Presidente de la República”, que deberá ser visado por la Dirección de Presupuestos, establecerá las reglas necesarias para la implementación de lo establecido en este artículo. Sin perjuicio de lo anterior, el Ministerio de Hacienda podrá requerir del Administrador del Fondo de Garantías Especiales o de cada una de las instituciones acreedoras toda aquella información, nominada o innominada, que permita la oportuna verificación de los beneficios entregados y de los cambios en las circunstancias de los beneficiarios, entre otros elementos necesarios para verificar el adecuado funcionamiento del subsidio.”. Primer Trámite Primer Informe 88975 Boletín N°18216-05 2026-05-20T13:43:22 76 75 2 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (art 69, ideas matrices) respecto de la indicación del diputado Raúl Soto: “Incorpórese el siguiente artículo transitorio nuevo, del siguiente tenor: Artículo transitorio nuevo: Con la finalidad de aliviar el negativo impacto que han provocado las alzas en el precio de los combustibles fósiles y de bienes y servicios de la canasta básica en la economía de los hogares, concédase un Bono Familiar de libre disposición compuesto por seis aportes mensuales de cien mil pesos de cargo fiscal, para los hogares cuyos ingresos totales de los miembros que los integran no superen, en su conjunto, los dos millones de pesos mensuales. El Bono Familiar de Libre Disposición que concede esta ley no constituirá remuneración o renta para ningún efecto legal y, en consecuencia, no será imponible ni tributable y no estará afecto a descuento alguno. Los hogares beneficiarios podrán postular mediante la presentación de sus antecedentes en las plataformas digitales que el Ministerio de Desarrollo Social y Familia dispondrá para tales efectos, así como también de manera presencial en las oficinas de Chile Atiende. Las postulaciones se podrán presentar durante los 30 días siguientes a la publicación de esta ley en el Diario Oficial. Mediante resolución exenta dictada por la Subsecretaría de Evaluación Social, visada por la Dirección de Presupuestos, se establecerá la forma de verificación de los requisitos establecidos en esta ley. El Bono Familiar de libre disposición será pagado a través de bolsillo electrónico de conformidad con el artículo 10° de la ley 21550. El pago del primer aporte se efectuará dentro de sesenta días corridos contados desde la publicación de la ley en el Diario Oficial. Quienes perciban indebidamente el Bono Familiar de libre disposición que establece este artículo deberán restituir las sumas indebidamente percibidas, reajustadas de conformidad con la variación que experimente el Índice de Precios al Consumidor determinada por el Instituto Nacional de Estadísticas, o la institución que lo reemplace, entre el mes anterior a aquel en que se percibió y el que antecede a su restitución. El mayor gasto fiscal que represente la aplicación de esta ley se financiará con cargo a los recursos del Tesoro Público.”. Primer Trámite Primer Informe 88974 Boletín N°18216-05 2026-05-20T13:38:55 71 82 0 0 Quórum Simple Unánime Proyecto de Ley Particular Renovación de una indicación de las diputadas y los diputados Serrano, Gatica, Bassa, Crisóstomo y Tello para agregar el siguiente nuevo artículo transitorio, de cuyo tenor dará lectura el señor Secretario: “Artículo transitorio nuevo.- Las disposiciones de la presente ley, en materias ambientales y tributarias, que contemplen reducción de plazos administrativos o establezcan reglas de silencio administrativo, entrarán en vigencia únicamente una vez que se haya verificado el reforzamiento de dotación y recursos de los órganos de la Administración del Estado y de las unidades administrativas respectivas que deban asumir la mayor carga de trabajo derivada de dichas modificaciones. La ley que disponga el referido reforzamiento institucional deberá señalar expresamente, en una disposición transitoria, que se ha dado cumplimiento a lo establecido en el inciso precedente.”. Primer Trámite Primer Informe 88973 Boletín N°18216-05 2026-05-20T13:37:36 80 73 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Nuevo artículo décimo noveno transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda (que reemplaza al artículo décimo séptimo transitorio del mensaje), cuya votación separada ha sido solicitada por el diputado por las diputadas Ana María Gazmuri, Gael Yeomans y el diputado Jorge Brito, y que consta en la página 579 del Comparado. Primer Trámite Primer Informe 88972 Boletín N°18216-05 2026-05-20T13:36:29 80 72 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Nuevo artículo décimo octavo transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y el diputado Jorge Brito, y que consta en las páginas 578 a 579 del Comparado. Primer Trámite Primer Informe 88971 Boletín N°18216-05 2026-05-20T13:35:28 81 69 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Nuevo artículo décimo séptimo transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en las páginas 577 a 578 del Comparado. Primer Trámite Primer Informe 88970 Boletín N°18216-05 2026-05-20T13:34:23 81 70 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo décimo sexto transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Boris Barrera, y que consta en las páginas 576 y 577 del Comparado. Primer Trámite Primer Informe 88969 Boletín N°18216-05 2026-05-20T13:33:27 89 63 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo décimo quinto transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en la página 576 del Comparado. Primer Trámite Primer Informe 88968 Boletín N°18216-05 2026-05-20T13:32:41 86 65 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo décimo cuarto transitorio del proyecto, en los términos propuestos por la Comisión de Medio Ambiente, cuya votación separada ha sido solicitada por la diputada Gael Yeomans, y los diputados Boris Barrera, Jorge Brito y Raúl Leiva, y que consta en la página 575 del Comparado. Primer Trámite Primer Informe 88967 Boletín N°18216-05 2026-05-20T13:30:29 83 69 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo décimo tercero transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda y por la Comisión de Medio Ambiente, cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en la página 575 del Comparado. Primer Trámite Primer Informe 88966 Boletín N°18216-05 2026-05-20T13:28:51 94 55 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo décimo segundo transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por los diputados Boris Barrera y Raúl Leiva, y que consta en las páginas 571 a 575 del Comparado. Primer Trámite Primer Informe 88981 Boletín N°18216-05 2026-05-20T13:26:32 92 57 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Indicación renovada del Ejecutivo para reemplazar el artículo décimo primero transitorio. Primer Trámite Primer Informe 88965 Boletín N°18216-05 2026-05-20T13:18:02 138 11 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo décimo transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Boris Barrera, y que consta en las páginas 557 a 562 del Comparado. Primer Trámite Primer Informe 88964 Boletín N°18216-05 2026-05-20T13:16:50 87 66 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo noveno transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Boris Barrera, y que consta en las páginas 556 a 557 del Comparado. Primer Trámite Primer Informe 88963 Boletín N°18216-05 2026-05-20T13:14:49 90 63 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo séptimo transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Boris Barrera, y que consta en las páginas 554 a 556 del Comparado. Primer Trámite Primer Informe 88962 Boletín N°18216-05 2026-05-20T13:13:47 77 76 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo sexto transitorio del texto propuesto por la Comisión de Hacienda (que sustituye el artículo sexto transitorio del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por los diputados Boris Barrera y Raúl Leiva, y que consta en las páginas 552 a 554 del Comparado. Primer Trámite Primer Informe 88984 Boletín N°18216-05 2026-05-20T13:12:46 72 79 2 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.65 inc. cuarto N°1, materia de tributos) respecto de la indicación del diputado Raúl Soto para reemplazar el artículo sexto transitorio del proyecto de ley. Primer Trámite Primer Informe 88961 Boletín N°18216-05 2026-05-20T13:02:18 84 66 3 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo quinto transitorio del texto propuesto por la Comisión de Hacienda (que sustituye el artículo quinto transitorio del mensaje), cuya votación separada ha sido solicitada por los diputados Boris Barrera y Raúl Leiva, y que consta en las páginas 548 a 552 del Comparado. Primer Trámite Primer Informe 88960 Boletín N°18216-05 2026-05-20T13:01:20 96 56 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo cuarto transitorio del texto propuesto por la Comisión de Hacienda (que sustituye el artículo cuarto transitorio del mensaje), cuya votación separada ha sido solicitada por la diputada Gael Yeomans y los diputados Boris Barrera y Jorge Brito, y que consta en las páginas 541 a 548 del Comparado. Primer Trámite Primer Informe 88959 Boletín N°18216-05 2026-05-20T13:00:15 89 62 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo tercero transitorio del texto propuesto por la Comisión de Hacienda (que sustituye el artículo tercero transitorio del mensaje), cuya votación separada ha sido solicitada por los diputados Boris Barrera y Raúl Leiva, y que consta en las páginas 498 a 541 del Comparado. Primer Trámite Primer Informe 88958 Boletín N°18216-05 2026-05-20T12:58:44 92 59 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo primero transitorio del texto propuesto por la Comisión de Hacienda (que sustituye el artículo primero transitorio del mensaje), cuya votación separada ha sido solicitada por los diputados Boris Barrera y Raúl Leiva, y que consta en las páginas 486 a 495 del Comparado. Primer Trámite Primer Informe 88957 Boletín N°18216-05 2026-05-20T12:56:44 74 76 2 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art. 65 inciso cuarto N°1, materia de tributos) respecto de la indicación de las diputadas y los diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Malla y Brito, para incorporar un nuevo artículo: \"Artículo nuevo.- Establécese un mecanismo permanente de devolución mensual automática del Impuesto al Valor Agregado pagado por personas pertenecientes a hogares clasificados en el 60% más vulnerable según el Registro Social de Hogares, respecto del consumo de los siguientes bienes y servicios: (i) productos contenidos en la canasta básica de alimentos definida por el Instituto Nacional de Estadísticas; (ii) cuentas de electricidad, agua potable y gas de red, hasta los topes que determine el reglamento; (iii) medicamentos contenidos en el Petitorio Nacional de Medicamentos del Ministerio de Salud y bioequivalentes certificados por el Instituto de Salud Pública; y (iv) servicios de internet fijo domiciliario. La devolución se efectuará automáticamente, mes a mes, mediante abono en el Bolsillo Familiar Electrónico regulado por la Ley N° 21.550, sobre la base del consumo promedio per cápita estimado por el Servicio de Impuestos Internos en coordinación con el Ministerio de Desarrollo Social y Familia. El monto máximo a devolver no podrá exceder de una unidad tributaria mensual por hogar.\". Primer Trámite Primer Informe 88956 Boletín N°18216-05 2026-05-20T12:52:31 73 79 0 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.69 ideas matrices) respecto de la indicación de las diputadas y los diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Malla y Brito, para incorporar un nuevo artículo: \"Artículo nuevo.- Por el plazo de ciento ochenta días contado desde la publicación de la presente ley, los acreedores bancarios y no bancarios sujetos a la fiscalización de la Comisión para el Mercado Financiero estarán obligados a ofrecer a sus deudores personas naturales con ingresos mensuales inferiores a treinta unidades tributarias mensuales, un plan voluntario de regularización que contemple la condonación íntegra de los intereses penales y de las comisiones devengadas por mora, así como una reprogramación de hasta cuarenta y ocho cuotas, sin nuevas comisiones de cobranza extrajudicial. La Comisión para el Mercado Financiero, en conjunto con el Servicio Nacional del Consumidor, definirá las condiciones operativas del régimen y supervisará su aplicación. La adhesión del deudor será voluntaria y no podrá significar, en caso alguno, una agravación de las condiciones originales del crédito.\". Primer Trámite Primer Informe 88955 Boletín N°18216-05 2026-05-20T12:48:04 74 78 1 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.69 ideas matrices) respecto de la indicación de las diputadas y los diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Malla y Brito, para incorporar un nuevo artículo: \"Artículo nuevo.- Se establecerá el derecho al olvido en materia financiera, en los siguientes términos: 1) Los responsables del tratamiento de datos personales de carácter económico, financiero, bancario o comercial deberán eliminar de sus registros, internos o de comunicación a terceros, los datos personales relativos a información financiera de deudas impagas o extinguidas de personas naturales, cuando la deuda se hubiere hecho exigible o se hubiere extinguido -lo primero que ocurra-hace más de cinco años contados desde la entrada en vigencia de la presente ley. 2) Las entidades del sistema financiero, bancario y comercial no podrán utilizar la información eliminada en virtud de este artículo, ni la información relativa a deudas extinguidas, prescritas o pagadas, como criterio para denegar el acceso al crédito, a productos financieros o a la apertura de cuentas a una persona natural. Toda denegación de crédito a una persona natural deberá ser fundada por escrito y entregada al solicitante, indicando los criterios objetivos en que se sustenta. 3) El incumplimiento de las obligaciones establecidas en este artículo se sancionará conforme a la Ley N° 19.628, sobre Protección de la Vida Privada, y, una vez en plena vigencia, conforme a la Ley N° 21.719, sin perjuicio del derecho del titular a obtener indemnización por el daño patrimonial y moral causado.\". Primer Trámite Primer Informe 88954 Boletín N°18216-05 2026-05-20T12:43:23 74 75 4 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.65 inc. cuarto N°1, materia de tributos) respecto de la indicación de las diputadas y los diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Malla y Brito, para incorporar un nuevo artículo, de cuyo tenor dará lectura el señor Secretario: \"Artículo nuevo.- Modifícase el artículo vigésimo quinto de la Ley N° 21.755, en orden a establecer en forma permanente la tasa del Impuesto de Primera Categoría a 12,5% para los contribuyentes acogidos al régimen Pro-Pyme contenido en el numeral 3) de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta, derogándose la gradualidad que dispone su elevación a 15% en el año comercial 2028 y a 25% a contar del año comercial 2029. La tasa permanente del 12,5% mantendrá las mismas condiciones de cumplimiento de la cotización empleadora establecidas en el artículo cuarto transitorio de la Ley N° 21.735.\". Primer Trámite Primer Informe 88953 Boletín N°18216-05 2026-05-20T12:39:06 55 93 5 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Trabajo y Seguridad Social (Art 65, inciso cuarto N° 1, fijación y cálculo de impuestos) respecto de la indicación de las diputadas Gazmuri, Hassler, Castillo, Pizarro, Serrano, Santibáñez y González, y de los diputados Barrera, Barraza, Salinas, Cuello y Gatica, para agregar un artículo nuevo: “Artículo 36: Impuesto a los súper ricos. Establécese un impuesto al patrimonio, al que quedarán sujetos los siguientes contribuyentes: 1.Personas naturales domiciliadas o residentes en Chile cuyo patrimonio neto total, determinado conforme a las reglas del presente artículo, exceda de USD 100.000.000 (cien millones de dólares de los Estados Unidos de América), o su equivalente en moneda nacional al 31 de diciembre de cada año. 2.Personas naturales cuyo patrimonio neto total, determinado conforme a las reglas del presente artículo, exceda de USD 100.000.000 (cien millones de dólares de los Estados Unidos de América), o su equivalente en moneda nacional al 31 de diciembre de cada año, que trasladaron su residencia o domicilio tributario fuera de Chile, las que estarán afectas durante un período de cinco años contados desde el año del traslado. La base imponible del impuesto estará constituida por el patrimonio neto total del contribuyente descontado el monto total de sus deudas exigibles, determinado con referencia al 31 de diciembre del año respectivo. El patrimonio neto total se entenderá como el valor de mercado de la totalidad de sus activos, incluyendo bienes, derechos, acciones, participaciones en sociedades cotizadas y no cotizadas en bolsa, instrumentos financieros, activos en el extranjero, descontados los pasivos. La tasa del impuesto será de un 2% del patrimonio neto total del contribuyente Contra este impuesto se podrá imputar el total de impuestos personales efectivamente pagados en Chile, durante el respectivo año. El Servicio de Impuestos Internos podrá requerir información a organismos públicos nacionales e instituciones financieras privadas, así como autoridades extranjeras conforme a los tratados internacionales vigentes y mecanismos de intercambio automático de información, incluyendo registros de beneficiarios finales y estándares internacionales de transparencia fiscal. a)Plan Nacional de Infraestructura para la Educación Pública, cuyo objeto será la conservación y reposición de establecimientos educacionales de nivel inicial, básica y media. b)Garantizar el derecho a gratuidad en el transporte público urbano e interurbano a los estudiantes de enseñanza media. c)Ampliación de los siguientes programas de la Junta Nacional de Auxilio Escolar y Becas: i.Servicios Médicos. ii.Hogares y Residencias Estudiantiles ii. Beca Mantención para Educación Superior. iii.Útiles Escolares. iv.Programa de Alimentación Escolar. d) Ampliación de los siguientes programas del Servicio Nacional de Capacitación y Empleo: i. Subsidio Empleo a la mujer. II.Subisidio al Empleo Joven. ii. Becas de Capacitación del Fondo de Cesantía Solidario. El exceso de lo recaudado por el impuesto al patrimonio establecido en este artículo se destinará a Ingresos Generales de la Nación.”. Primer Trámite Primer Informe 88952 Boletín N°18216-05 2026-05-20T12:33:02 64 89 0 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art. 69, ideas matrices; Art.65 inc.3 y Art.65 N°2, incide en materia financiera del Estado y en materia tributaria) respecto de la indicación de las diputadas y los diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Malla y Brito, para agregar un artículo nuevo, que introduce modificaciones a la ley N° 20.712, sobre Administración de fondos de terceros y carteras individuales y deroga los cuerpos legales que indica, y que consta en las páginas 525 a 528 del informe de la Comisión de Hacienda. Primer Trámite Primer Informe 88951 Boletín N°18216-05 2026-05-20T12:30:40 74 78 1 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art 65, inciso cuarto N° 1, materia de tributos) respecto de la indicación de las diputadas y los diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Malla y Brito, para incorporar un nuevo artículo: \"Artículo nuevo.- Introdúcense las siguientes modificaciones en la Ley Nº 16.271, de Impuesto a las Herencias, Asignaciones y Donaciones, cuyo texto refundido, coordinado y sistematizado se encuentra fijado en el artículo 8° del decreto con fuerza de ley N° 1, del año 2000, del Ministerio de Justicia: 1. Reemplázase en el artículo 1 la expresión “artículo 1.386” por “artículos 1136 y 1386”. 2. Reemplázase, en el inciso primero del numeral 8º del artículo 18, la frase “En caso que estas donaciones se efectúen a los legitimarios en uno o varios ejercicios comerciales, todas las donaciones se acumularán en los términos del artículo 23 hasta por un lapso de 10 años comerciales, para cuyo efecto el legitimario deberá informar las donaciones conforme al siguiente inciso” por la oración “No gozarán de esta exención las donaciones efectuadas a personas que tengan la calidad de legitimarios o sean beneficiarias de la cuarta de mejoras del donante, según lo dispuesto en el artículo 1184 del Código Civil. Tampoco gozarán de esta exención las donaciones efectuadas a partes relacionadas con el donante en los términos del numeral 17 del artículo 8 del Código Tributario.”. Primer Trámite Primer Informe 88950 Boletín N°18216-05 2026-05-20T12:26:09 76 76 1 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (art 69, ideas matrices) respecto de la indicación de las diputadas y los diputados Gazmuri, Hassler, Castillo, Pizarro, Serrano, Santibáñez, González, Barrera, Barraza, Salinas, Cuello y Gatica para incorporar un nuevo artículo, de cuyo tenor dará lectura el señor Secretario: \"Artículo nuevo. Modifíquese el decreto con fuerza de ley N° 4/20.018, de 2006, del Ministerio de Minería, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 1, de Minería, de 1982, Ley General de Servicios Eléctricos, en materia de energía eléctrica, en el siguiente sentido: Agrégase en el artículo 212°-11, en el inciso primero, luego del segundo punto seguido, la siguiente expresión: 'Los consejeros no podrán percibir una remuneración bruta mensual mayor a ochenta unidades tributarias mensuales. En el caso de su Presidente, dicha remuneración no podrá exceder las noventa unidades tributarias mensuales.'.\" Primer Trámite Primer Informe 88949 Boletín N°18216-05 2026-05-20T12:21:21 67 83 3 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (administración financiera o presupuestaria del Estado, Art. 65, inciso tercero y no tiene relación con ideas matrices o fundamentales del proyecto, Art. 69) respecto de la indicación del diputado Jorge Brito, de cuyo tenor dará lectura el señor Secretario: “Para agregar un nuevo artículo del siguiente tenor: “Artículo nuevo.- Modifícase la ley N° 21.808 que crea el nuevo Subsidio Unificado al Empleo, en el siguiente sentido: a) Deróguese el artículo 7 b) En el artículo 18 modifíquese la frase “doce meses” por “veinticuatro meses”. c) En su artículo primero transitorio modificase “séptimo” por “quinto”. d) En su artículo segundo transitorio eliminase el numeral 1.”. Primer Trámite Primer Informe 88948 Boletín N°18216-05 2026-05-20T12:17:36 79 57 17 0 Quórum Simple Aprobado Proyecto de Ley Particular Indicación renovada del diputado Raúl Soto para agregar un nuevo artículo permanente: “Incorpórese el siguiente artículo nuevo al proyecto de ley, del tenor que a continuación se expone: Artículo nuevo: Reemplazase el artículo 9° de la ley 18.010, por el siguiente texto: Artículo 9°: No se podrá estipular, en ningún caso, el pago de intereses sobre intereses, ni capitalizarlos en cada vencimiento o renovación. Los intereses capitalizados con infracción de lo dispuesto en el inciso anterior serán inoponibles al deudor y no tendrán efecto alguno.”. Primer Trámite Primer Informe 88947 Boletín N°18216-05 2026-05-20T12:16:39 81 68 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (art 69, ideas matrices) respecto de la indicación del diputado Raúl Soto, de cuyo tenor dará lectura el señor Secretario: “Incorpórese el siguiente artículo nuevo al proyecto de ley, del tenor que a continuación se expone: Artículo nuevo: Reemplazase el artículo 9° de la ley 18.010, por el siguiente texto: Artículo 9°: No se podrá estipular, en ningún caso, el pago de intereses sobre intereses, ni capitalizarlos en cada vencimiento o renovación. Los intereses capitalizados con infracción de lo dispuesto en el inciso anterior serán inoponibles al deudor y no tendrán efecto alguno.”. Primer Trámite Primer Informe 88946 Boletín N°18216-05 2026-05-20T12:12:23 80 69 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Renovación de una indicación de la diputada Ana María Gazmuri para agregar un artículo nuevo permanente, de cuyo tenor dará lectura el señor Secretario: “Artículo nuevo permanente.- Modifícase la ley N° 16.282, que fija disposiciones permanentes para casos de sismos o catástrofes, en el siguiente sentido: Agrégase el siguiente artículo 2° bis: “Artículo 2° bis.-Las empresas concesionarias de distribución eléctrica, de servicios sanitarios y de distribución de gas estarán obligadas a reconectar, de forma gratuita y sin condición previa de pago, a los usuarios residenciales y a las micro, pequeñas o medianas empresas en los términos de la ley N° 20.416, con domicilio en zonas declaradas en estado de catástrofe conforme a esta ley, que hubieren sido desconectados con anterioridad o durante la vigencia de dicha declaración por causales vinculadas alno pago de obligaciones dinerarias. La reconexión deberá efectuarse dentro de los siguientes plazos, contados desde la solicitud del usuario: a) Cuarenta y ocho horas para el suministro eléctrico. b) Cuarenta y ocho horas para el suministro de gas. c) Veinticuatro horas para el suministro de agua potable y alcantarillado. Queda prohibido a las empresas concesionarias cobrar al usuario cargo alguno por concepto de reconexión, reposición, visita técnica, revisión de instalaciones u otro similar, cualquiera sea la denominación que se le asigne, cuando la reconexión opere en virtud de lo dispuesto en este artículo. Los plazos establecidos en este artículo son perentorios. Su incumplimiento dará derecho al usuario a exigir una compensación equivalente a tres días de suministro gratuito por cada día de retardo, la que será descontada automáticamente de la facturación del período siguiente. El usuario podrá demandar el cumplimiento forzoso de las obligaciones establecidas en este artículo ante el tribunal civil competente”. Primer Trámite Primer Informe 88945 Boletín N°18216-05 2026-05-20T12:09:13 71 82 0 0 Quórum Simple Unánime Proyecto de Ley Particular Renovación de una indicación de las diputadas y los diputados Crisóstomo, Bassa, Gatica y Serrano para agregar un artículo final, permanente, de cuyo tenor dará lectura el señor Secretario: “Articulo permanente nuevo.- Sin perjuicio de la regulación establecida en esta ley para determinar la indemnización a que da origen la revocación judicial de la resolución de calificación ambiental; para que el monto se considere firme y ejecutoriado, deberá someterse al juicio, procedimiento y estándares que se establecen para la responsabilidad del Estado por error judicial”. Primer Trámite Primer Informe 88944 Boletín N°18216-05 2026-05-20T12:07:14 62 87 4 0 Quórum Simple Unánime Proyecto de Ley Particular Renovación de indicación de las diputadas y diputados Crisóstomo, Bassa, Gatica y Serrano para agregar un artículo final, permanente, de cuyo tenor dará lectura el señor Secretario: “Articulo permanente nuevo. -Sin perjuicio de las normas establecidas en esta ley para las medidas cautelares que pueden adoptar los tribunales de justicia en las hipótesis que esta ley establece, los tribunales podrán aplicar los plazos y reglas generales, desatendiendo los plazos restrictivos de esta ley, cuando consideren necesario hacerlo, fundado en alguno de los principios que ordenan la regulación medio ambiental o aquellos regulados en el artículo 19 de la Constitución, lo que deberá fundarse en una resolución”. Primer Trámite Primer Informe 88943 Boletín N°18216-05 2026-05-20T12:05:39 152 0 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Inciso tercero del artículo 30 nuevo del texto propuesto por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Patricio Pinilla, y que consta en las páginas 484 a 485 del Comparado. Primer Trámite Primer Informe 88942 Boletín N°18216-05 2026-05-20T12:04:33 101 49 3 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 30 nuevo del texto propuesto por la Comisión de Hacienda, cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en las páginas 483 a 486 del Comparado, con la salvedad de su inciso tercero, cuya votación separada a su vez ha sido solicitada. Primer Trámite Primer Informe 88941 Boletín N°18216-05 2026-05-20T12:02:18 81 71 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Número 4 del artículo 29 del texto propuesto por la Comisión de Hacienda (que sustituye el artículo 33), cuya votación separada ha sido solicitada por el diputado Raúl Leiva, y que consta en las páginas 479 y 480 del Comparado. Primer Trámite Primer Informe 88940 Boletín N°18216-05 2026-05-20T12:00:54 82 69 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Número 3 del artículo 29 del texto propuesto por la Comisión de Hacienda (que sustituye el artículo 33), cuya votación separada ha sido solicitada por el diputado Raúl Leiva, y que consta en las páginas 474 a 479 del Comparado. Primer Trámite Primer Informe 88939 Boletín N°18216-05 2026-05-20T11:52:24 81 69 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 29 del texto propuesto por la Comisión de Hacienda (que sustituye el artículo 33), cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y los diputados Boris Barrera, Jorge Brito, Raúl Leiva, y que consta en las páginas 455 a 483 del Comparado, con la salvedad de sus numerales 3) y 4), cuya votación separada a su vez ha sido solicitada. Primer Trámite Primer Informe 88938 Boletín N°18216-05 2026-05-20T11:50:57 142 10 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 28 del texto propuesto por la Comisión de Hacienda (art 32 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en las páginas 453 a 455 del Comparado. Primer Trámite Primer Informe 88937 Boletín N°18216-05 2026-05-20T11:49:51 139 12 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 27 del texto propuesto por la Comisión de Hacienda (artículo 31 del mensaje), cuya votación separada ha sido solicitada por el diputado Boris Barrera, y que consta en las páginas 446 a 453 del Comparado Primer Trámite Primer Informe 88936 Boletín N°18216-05 2026-05-20T11:48:45 127 6 19 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 26 en los términos propuestos por la Comisión de Trabajo y Seguridad Social (art 30 del mensaje), y que consta en las páginas 444 a 446 del Comparado. Primer Trámite Primer Informe 88935 Boletín N°18216-05 2026-05-20T11:47:48 138 14 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 25 del texto propuesto por la Comisión de Hacienda (art 29 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en las páginas 443 a 444 del Comparado. Primer Trámite Primer Informe 88934 Boletín N°18216-05 2026-05-20T11:46:55 122 30 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 24 del texto propuesto por la Comisión de Hacienda (art 28 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en las páginas 440 a 443 del Comparado. Primer Trámite Primer Informe 88933 Boletín N°18216-05 2026-05-20T11:45:50 58 94 0 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo 27 del mensaje, que la Comisión de Hacienda y la Comisión de Trabajo y Seguridad Social proponen rechazar, y que consta en las páginas 436 a 440 del comparado. Primer Trámite Primer Informe 88932 Boletín N°18216-05 2026-05-20T11:44:38 60 91 1 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo 26 del mensaje, que la Comisión de Hacienda y la Comisión de Trabajo y Seguridad Social proponen rechazar, y que consta en las páginas 417 a 436 del comparado. Primer Trámite Primer Informe 88931 Boletín N°18216-05 2026-05-20T11:43:40 83 69 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 23 del texto sugerido por la Comisión de Hacienda (que sustituye el artículo 25 del mensaje), cuya votación separada ha sido solicitada por los diputados Boris Barrera y Raúl Leiva, y que consta en la página 417 del Comparado. Primer Trámite Primer Informe 88930 Boletín N°18216-05 2026-05-20T11:42:11 97 52 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 22 del texto propuesto por la Comisión de Hacienda (artículo 24 del mensaje), cuya votación separada ha sido solicitada por el diputado Boris Barrera, y que consta en las páginas 413 a 417 del Comparado Primer Trámite Primer Informe 88929 Boletín N°18216-05 2026-05-20T11:40:52 6 139 0 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo 23 del mensaje, que la Comisión de Hacienda propone rechazar, y que consta en las páginas 412 a 413 del comparado. Primer Trámite Primer Informe 88928 Boletín N°18216-05 2026-05-20T11:39:47 93 29 16 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 21 del texto propuesto por la Comisión de Hacienda (que sustituye al artículo 22 del mensaje), cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y por los diputados Boris Barrera, Jorge Brito, y que consta en las páginas 399 a 412 del Comparado. Primer Trámite Primer Informe 88927 Boletín N°18216-05 2026-05-20T11:29:59 95 57 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 20 nuevo, propuesto por la Comisión de Hacienda, cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en la página 398 del Comparado. Primer Trámite Primer Informe 88926 Boletín N°18216-05 2026-05-20T11:29:14 95 58 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 19 del texto propuesto por la Comisión de Hacienda y la Comisión de Medio Ambiente (que sustituye el artículo 21 del mensaje), cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y por los diputados Boris Barrera, Jorge Brito, y que consta en las páginas 388 a 398 del Comparado. Primer Trámite Primer Informe 88925 Boletín N°18216-05 2026-05-20T11:28:22 90 60 3 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 18 del texto propuesto por la Comisión de Hacienda y la Comisión de Medio Ambiente (art 20 del mensaje), cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y por los diputados Boris Barrera, Jorge Brito, y que consta en las páginas 387 a 388 del Comparado. Primer Trámite Primer Informe 88924 Boletín N°18216-05 2026-05-20T11:25:51 84 68 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 17 del proyecto (artículo 19 del mensaje), en los términos propuestos por la Comisión de Hacienda y la Comisión de Medio Ambiente, cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y por los diputados Boris Barrera, Jorge Brito, que consta en la página 373 a 387 del Comparado, y que requiere para su aprobación del voto favorable de 78 diputadas y diputados por tratarse de una norma de rango orgánico constitucional. Primer Trámite Primer Informe 88923 Boletín N°18216-05 2026-05-20T11:19:36 82 71 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 16 del texto propuesto por la Comisión de Hacienda y la Comisión de Medio Ambiente (que sustituye al artículo 18 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmurio y por los diputados Boris Barrera, Raúl Leiva, y que consta en las páginas 372 a 373 del comparado. Cabe hacer presente que su inciso final requiere para su aprobación del voto favorable de 78 diputadas y diputados por tratarse de una norma de rango orgánico constitucional. Primer Trámite Primer Informe 88922 Boletín N°18216-05 2026-05-20T11:17:14 83 69 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 15 del texto propuesto por la Comisión de Hacienda y la Comisión de Medio Ambiente (artículo 17 del mensaje), cuya votación separada ha sido solicitada por los diputados Boris Barrera, Raúl Leiva, y que consta en las páginas 371 a 372 del comparado. Primer Trámite Primer Informe 88921 Boletín N°18216-05 2026-05-20T11:13:37 84 69 0 0 Quórum Calificado Aprobado Proyecto de Ley Particular Artículo 14 del texto propuesto por la Comisión de Hacienda y la Comisión de Medio Ambiente (que sustituye al artículo 16 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por los diputados Boris Barrera y Raúl Leiva, que consta en la página 371 del comparado, y que requiere para su aprobación del voto favorable de 78 diputadas y diputados por tratarse de una norma de rango orgánico constitucional. Primer Trámite Primer Informe 88920 Boletín N°18216-05 2026-05-20T11:08:58 91 61 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 13 del texto propuesto por la Comisión de Hacienda y la Comisión de Medio Ambiente (que sustituye al artículo 15 del mensaje), cuya votación separada ha sido solicitada por los diputados Boris Barrera, Raúl Leiva, y que consta en las páginas 367 a 371 del comparado. Primer Trámite Primer Informe 88919 Boletín N°18216-05 2026-05-20T11:06:19 80 73 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 12 del texto propuesto por la Comisión de Hacienda y por la Comisión de Medio Ambiente (que sustituye al artículo 14 del mensaje), cuya votación separada ha sido solicitada por la diputada Gael Yeomans y los diputados Boris Barrera, Jorge Brito, Raúl Leiva y Raúl Soto, y que consta en la página 365 a 367 del comparado. Primer Trámite Primer Informe 88918 Boletín N°18216-05 2026-05-20T11:05:19 71 82 0 0 Quórum Simple Unánime Proyecto de Ley Particular Renovado una indicación de las diputadas y diputados Serrano, Gatica, Bassa, Crisóstomo y Tello para reemplazar los artículos 12, 13, 14, 15 y 16 del texto propuesto por la Comisión de Hacienda, por uno del siguiente tenor: “Artículo 12.- En caso que una Resolución de Calificación Ambiental sea anulada por sentencia judicial firme y ejecutoriada, el titular podrá solicitar indemnización, cumpliendo los requisitos que el ordenamiento jurídico dispone para el error judicial.” Primer Trámite Primer Informe 88917 Boletín N°18216-05 2026-05-20T11:03:52 68 85 0 0 Quórum Simple Unánime Proyecto de Ley Particular Renovación de una indicación de las diputadas y diputados Serrano, Gatica, Bassa, Crisóstomo y Tello, para agregar un nuevo numeral al artículo 11 del proyecto, para incorporar un nuevo artículo 29 bis en la ley 19.300 del siguiente tenor: \"Art 29 bis.- La acción de reclamación a que se refiere el artículo anterior podrá ser ejercida, asimismo, por quienes acrediten ser titulares de derechos o intereses legítimos que puedan resultar afectados por los impactos del proyecto o actividad evaluado, con independencia de si hubieren participado en el proceso de participación ciudadana.\" Primer Trámite Primer Informe 88916 Boletín N°18216-05 2026-05-20T11:02:32 0 151 2 0 Quórum Calificado Unánime Proyecto de Ley Particular Numeral 6) del artículo 11 propuesto por la Comisión de Hacienda (correspondiente al art 13 del mensaje), que la Comisión de Medio Ambiente propone rechazar, que consta en la página 352 del comparado, y que requiere para su aprobación del voto favorable de 78 diputadas y diputados por tratarse de una norma de rango orgánico constitucional. Primer Trámite Primer Informe 88915 Boletín N°18216-05 2026-05-20T11:00:25 85 66 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 11 propuesto por la Comisión de Hacienda y Medio Ambiente (correspondiente al art 13 del mensaje), cuya votación separada ha sido solicitada por la diputada Gael Yeomans y los diputados Boris Barrera, Jorge Brito, Raúl Leiva, y que consta en las páginas 338 a 365 del comparado, con la salvedad de su numeral 6). Primer Trámite Primer Informe 88914 Boletín N°18216-05 2026-05-20T10:59:20 65 87 1 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art. 65 inciso cuarto N°1, exenciones tributarias.) respecto de la indicación de las diputadas y diputados Gazmuri, Hassler, Castillo, Pizarro, Serrano, Santibáñez, González, Barrera, Barraza, Salinas, Cuello y Gatica, para agregar el siguiente artículo 10 bis nuevo en el proyecto de ley: \"Artículo 10 bis.- Es contrario a la probidad y transparencia de la función pública, que el beneficio fiscal del Impuesto Territorial del artículo anterior, sea percibido por alguna persona contribuyente adulto mayor, en tanto tenga cargo de responsabilidad pública de Subsecretario o Ministro de Estado.\" Primer Trámite Primer Informe 88913 Boletín N°18216-05 2026-05-20T10:54:39 67 84 2 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art. 65 inciso cuarto N°1, exenciones tributarias.) respecto de la indicación del diputado Cesar Valenzuela, para agregar el siguiente artículo 10 bis nuevo en el proyecto de ley: \"Artículo 10 bis.- La exención regulada en el artículo anterior entrará en vigencia en la medida que se dicte una ley que asegure la compensación de manera íntegra de los ingresos al Fondo Común Municipal que se dejarán de percibir por aplicación de la misma. Dicha iniciativa deberá ser ingresada por el Presidente de la República antes del 30 julio del 2026.\" Primer Trámite Primer Informe 88912 Boletín N°18216-05 2026-05-20T10:50:34 95 57 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 10 del texto propuesto por la Comisión de Hacienda (que sustituye el 12 del mensaje), cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y los diputados Boris Barrera, Jorge Brito, Raúl Leiva, que consta en las páginas 330 a 338 del comparado. Primer Trámite Primer Informe 88911 Boletín N°18216-05 2026-05-20T10:46:46 82 48 24 0 Quórum Simple Aprobado Proyecto de Ley Particular En votación la indicación renovada del diputado Jorge Brito que consta en las páginas 603 a 620 del informe de la Comisión de Hacienda. Primer Trámite Primer Informe 88910 Boletín N°18216-05 2026-05-20T10:45:22 80 65 9 0 Quórum Simple Aprobado Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (incide en administración financiera o presupuestaria del Estado, Art. 65, inciso tercero y no tiene relación con ideas matrices o fundamentales del proyecto, Art. 69) respecto de la indicación del diputado Jorge Brito, que consta en las páginas 603 a 620 del informe de la Comisión de Hacienda, y que se refiere a la modificación del Código del Trabajo para establecer un sistema de Sala Cuna Universal. Primer Trámite Primer Informe 88909 Boletín N°18216-05 2026-05-20T10:42:48 82 71 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 9 del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y por los diputados Boris Barrera, Jorge Brito, Raúl Leiva, y que consta en las páginas 213 a 330 del Comparado Primer Trámite Primer Informe 88908 Boletín N°18216-05 2026-05-20T10:41:54 90 63 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 4) del artículo 8 del proyecto (art 10 del mensaje), en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Raúl Leiva, y que consta en las páginas 188 a 213 del Comparado. Primer Trámite Primer Informe 88907 Boletín N°18216-05 2026-05-20T10:41:00 81 69 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 3) del artículo 8 del proyecto (art 10 del mensaje), en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Raúl Leiva, y que consta en las páginas 182 a 188 del Comparado. Primer Trámite Primer Informe 88906 Boletín N°18216-05 2026-05-20T10:39:59 87 65 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 8 del proyecto (art 10 del mensaje), en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por la diputada Gael Yeomans y los diputados Boris Barrera, Jorge Brito y Raúl Soto, que consta en las páginas 67 a 213 del Comparado, con la salvedad de sus numerales 3) y 4), cuya votación separada a su vez ha sido solicitada. Primer Trámite Primer Informe 88905 Boletín N°18216-05 2026-05-20T10:38:56 88 66 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 7 del texto propuesto por la Comisión de Hacienda (que sustituye el artículo 9 del mensaje), cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y los diputados Boris Barrera, Jorge Brito, Raúl Leiva, que consta en las páginas 52 a 67 del comparado. Primer Trámite Primer Informe 88904 Boletín N°18216-05 2026-05-20T10:37:40 43 104 7 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo 8 del mensaje, que la Comisión de Hacienda propone rechazar, y que consta en la página 51 y 52 del comparado. Primer Trámite Primer Informe 88903 Boletín N°18216-05 2026-05-20T10:36:32 90 61 3 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 6 en los términos propuestos por la Comisión de Hacienda y por la Comisión de Medio Ambiente (artículo 7 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en la página 27 a 51 del Comparado. Primer Trámite Primer Informe 88902 Boletín N°18216-05 2026-05-20T10:35:38 98 56 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 5 en los términos propuestos por la Comisión de Hacienda y por la Comisión de Medio Ambiente (artículo 6 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en la página 26 del Comparado. Primer Trámite Primer Informe 88901 Boletín N°18216-05 2026-05-20T10:34:44 86 67 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 4 en los términos propuestos por la Comisión de Hacienda y por la Comisión de Medio Ambiente (artículo 5 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri, y los diputados Boris Barrera y Jaime Coloma, que consta en las páginas 24 a 25 del comparado. Primer Trámite Primer Informe 88900 Boletín N°18216-05 2026-05-20T10:33:25 77 77 0 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo 4 del mensaje, que la Comisión de Hacienda propone rechazar, y que consta en las páginas 18 a 24 del comparado. Primer Trámite Primer Informe 88899 Boletín N°18216-05 2026-05-20T10:32:29 67 86 1 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.65 inc. 3, incide en la administración financiera) respecto de la indicación del diputado Barrera, para incorporar en el numeral 2) del artículo 3, un artículo nuevo: Agréguese, a continuación del artículo 24 quinquies en el decreto con fuerza de ley N° 2, de 1959, del Ministerio de Obras Públicas, sobre Plan Habitacional, contenido en el decreto Nº 1.101, de 1960, creado por esta ley, un artículo 24 sexies, del siguiente tenor: “Artículo 24 sexies.- El Servicio de Impuestos Internos estará habilitado para llevar un registro actualizado de los contribuyentes que hayan comunicado su opción de ingresar al régimen de la presente ley señalando quienes hayan comunicado su decisión de salida, con indicación, en este último caso, de que no podrán volver a ingresar. Dicho registro, sin incluir datos de carácter personal conforme a la ley Nº 19.628, deberá contener al menos el número total de contribuyentes activos en el régimen, el número de contribuyentes que han ejercido la opción de salida desde la entrada en vigencia del presente régimen y el número de viviendas económicas comprendidas en cada categoría, desagregado por región. Esta información puede ser actualizada semestralmente y estará disponible en el sitio web del Servicio.”. Primer Trámite Primer Informe 88898 Boletín N°18216-05 2026-05-20T10:28:20 84 70 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 24 ter contenido en el numeral 2) del artículo 3 del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Raul Leiva, y que consta en las páginas 13 a 16 del Comparado. Primer Trámite Primer Informe 88897 Boletín N°18216-05 2026-05-20T10:27:15 89 64 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 3 del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans, y por los diputados Boris Barrera, Jorge Brito, Raúl Leiva, que consta en las páginas 8 a 18 del Comparado, con la salvedad del artículo 24 ter que agrega su numeral 2), cuya votación separada a su vez ha sido solicitada. Primer Trámite Primer Informe 88896 Boletín N°18216-05 2026-05-20T10:26:14 154 0 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 2 del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans, y los diputados Boris Barrera, Jorge Brito, Raúl Leiva y Raúl Soto, y que consta en la página 7 del comparado. Primer Trámite Primer Informe 88895 Boletín N°18216-05 2026-05-20T10:24:40 153 1 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 1 del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans, y los diputados Boris Barrera, Jorge Brito, Raúl Leiva y Raúl Soto, y que consta en las páginas 1 a 5 del comparado. Primer Trámite Primer Informe 88894 Boletín N°18216-05 2026-05-20T10:21:26 84 67 0 0 Quórum Calificado Aprobado Proyecto de Ley General Artículo 11 número 6; el artículo 14; el artículo 16 inciso final; y el artículo 17 del proyecto Primer Trámite Primer Informe 88893 Boletín N°18216-05 2026-05-20T10:19:59 90 59 1 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18216-05",
+   "canales_descubrimiento": [
+    "semilla",
+    "cartera",
+    "senado_movimiento"
+   ],
+   "id": "9b68e4e65b2ab18e",
+   "puntaje_pertinencia": 28.0,
+   "nivel_impacto": "sectorial",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [
+     "beneficiarios finales"
+    ],
+    "estructurales": [
+     "propiedad industrial"
+    ],
+    "sectoriales": [
+     "instituciones financieras"
+    ]
+   },
+   "sectores": [
+    "banca_financiero"
+   ],
+   "sectores_legibles": [
+    "Banca y sistema financiero"
+   ],
+   "ejes": [
+    "delitos_base",
+    "beneficiario_final"
+   ],
+   "ejes_legibles": [
+    "Catálogo de delitos base",
+    "Beneficiario final y transparencia societaria"
+   ],
+   "impacto_legible": "Impacto sectorial en sujetos obligados",
+   "requiere_revision_manual": true,
+   "nivel_cartera": 2,
+   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
+   "urgencia_clave": "discusion inmediata",
+   "urgencia_legible": "Discusión inmediata",
+   "etapa_ordinal": 5,
+   "vigente": true,
+   "ultimo_movimiento": "2026-08-17T00:00:00-04:00",
+   "ultimo_movimiento_legible": "17/08/2026",
+   "dias_sin_movimiento": 1,
+   "ultimo_tramite": "Cuenta oficio aprobación veto .",
+   "camara_actual": "C.Diputados",
+   "total_tramites": 100,
+   "fecha_ingreso_legible": "22/04/2026",
+   "antiguedad_dias": 118,
+   "prioridad": 185.6,
+   "banda_prioridad": "alta",
+   "factor_urgencia": 3.0,
+   "factor_proximidad": 1.4,
+   "factor_frescura": 1.3,
+   "huella": "dc9ef763dc229026f8fc",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
+   "sintesis": "Discusión inmediata · Trámite finalización en Cámara de Origen (C.Diputados) · Cuenta oficio aprobación veto .",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-18T08:55:24.295550-04:00"
   },
   {
    "boletin": "14773-02",
@@ -1212,204 +2211,6 @@
    "sintesis": "Simple urgencia · Segundo trámite constitucional (C.Diputados) · Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA",
    "novedad": "",
    "novedad_detectada": "2026-08-17T00:49:50.210094-04:00"
-  },
-  {
-   "boletin": "18216-05",
-   "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-   "fecha_ingreso": "2026-04-22T00:00:00-04:00",
-   "etapa": "Trámite finalización en Cámara de Origen (C.Diputados)",
-   "subetapa": "Oficio resultado veto",
-   "iniciativa": "Mensaje",
-   "camara_origen": "C.Diputados",
-   "urgencia": "Discusión inmediata",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18872&tipodoc=mensaje_mocion",
-   "tramitacion": [],
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2026-04-22T00:00:00-04:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2026-05-05T00:00:00-04:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2026-06-02T00:00:00-04:00",
-     "fecha_retiro": "2026-06-10T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2026-06-10T00:00:00-04:00",
-     "fecha_retiro": "2026-06-24T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2026-06-24T00:00:00-04:00",
-     "fecha_retiro": "2026-07-07T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2026-07-07T00:00:00-04:00",
-     "fecha_retiro": "2026-07-14T00:00:00-04:00"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "fecha_ingreso": "2026-07-14T00:00:00-04:00",
-     "fecha_retiro": "2026-07-20T00:00:00-04:00"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "fecha_ingreso": "2026-07-20T00:00:00-04:00",
-     "fecha_retiro": "2026-07-22T00:00:00-04:00"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "fecha_ingreso": "2026-07-22T00:00:00-04:00",
-     "fecha_retiro": "2026-07-22T00:00:00-04:00"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "fecha_ingreso": "2026-08-04T00:00:00-04:00",
-     "fecha_retiro": ""
-    }
-   ],
-   "votaciones": [],
-   "autores": [],
-   "materias": [],
-   "comisiones": [],
-   "informes": [
-    {
-     "fecha": "2026-05-18T00:00:00-04:00",
-     "tramite": "Primer informe de comisión de Trabajo y Seguridad Social",
-     "etapa": "Primer trámite constitucional",
-     "link": ""
-    },
-    {
-     "fecha": "2026-05-18T00:00:00-04:00",
-     "tramite": "Primer informe de comisión Medio Ambiente y Recursos Naturales",
-     "etapa": "Primer trámite constitucional",
-     "link": ""
-    },
-    {
-     "fecha": "2026-06-19T00:00:00-04:00",
-     "tramite": "Primer informe de comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "link": ""
-    },
-    {
-     "fecha": "2026-07-09T00:00:00-04:00",
-     "tramite": "Segundo informe de comisión de Trabajo y Previsión Social",
-     "etapa": "Segundo trámite constitucional",
-     "link": ""
-    },
-    {
-     "fecha": "2026-07-13T00:00:00-04:00",
-     "tramite": "Segundo informe de comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales",
-     "etapa": "Segundo trámite constitucional",
-     "link": ""
-    },
-    {
-     "fecha": "2026-07-14T00:00:00-04:00",
-     "tramite": "Segundo informe de comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "link": ""
-    },
-    {
-     "fecha": "2026-07-22T00:00:00-04:00",
-     "tramite": "Informe de Comisión Mixta Comisión Mixta para Boletín Nº 18216-05",
-     "etapa": "Comisión Mixta por rechazo de modificaciones",
-     "link": ""
-    },
-    {
-     "fecha": "2026-08-12T00:00:00-04:00",
-     "tramite": "Informe de comisión de Hacienda",
-     "etapa": "Discusión veto en Cámara Revisora",
-     "link": ""
-    }
-   ],
-   "ministerios": [
-    "Ministerio de Hacienda"
-   ],
-   "camara_id": "18872",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "nota_semilla": "Reconstrucción nacional y desarrollo económico y social · ómnibus de Hacienda, 38 artículos permanentes. Contenido relevante detectado por analista, no por el motor.",
-   "es_semilla": true,
-   "admisible": "true",
-   "texto_camara_completo": "18872 18216-05 Para la reconstrucción nacional y el desarrollo económico y social 2026-04-22T00:00:00 Mensaje Cámara de Diputados 2 Ministerio de Hacienda 89670 Boletín N°18216-05 2026-08-10T19:20:02 74 50 22 0 Quórum Simple Aprobado Proyecto de Ley Única Observación número 3 de S.E. el Presidente de la República para suprimir el artículo 40 del proyecto. Observaciones P. De La R. Informe Observaciones 89669 Boletín N°18216-05 2026-08-10T19:19:12 75 58 13 0 Quórum Simple Aprobado Proyecto de Ley Única Observación número 2 de S.E. el Presidente de la República para suprimir el artículo 39 del proyecto. Observaciones P. De La R. Informe Observaciones 89668 Boletín N°18216-05 2026-08-10T19:18:26 75 59 12 0 Quórum Simple Aprobado Proyecto de Ley Única Observación número 1 de S.E. el Presidente de la República para suprimir el artículo 32 del proyecto. Observaciones P. De La R. Informe Observaciones 89542 Boletín N°18216-05 2026-07-22T19:13:38 80 48 2 0 Quórum Calificado Aprobado Proyecto de Ley Única Proposición de la Comisión Mixta recaída en el proyecto de ley, originado en mensaje, “Para la reconstrucción nacional y el desarrollo económico y social”, que requiere para su aprobación del voto favorable de 78 diputadas y diputados por tratarse de una disposición de rango orgánico constitucional. Comisión Mixta Sin Informe 89495 Boletín N°18216-05 2026-07-21T14:04:59 82 63 0 0 Quórum Calificado Aprobado Proyecto de Ley Única Enmienda del Senado que agrega un artículo décimo octavo transitorio, nuevo; que consta en las páginas 620 a 622 del comparado; y que requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de rango orgánico constitucional. Tercer Trámite Sin Informe 89494 Boletín N°18216-05 2026-07-21T14:03:21 82 63 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo décimo cuarto transitorio, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri, y que consta en la página 616 del comparado. Tercer Trámite Sin Informe 89493 Boletín N°18216-05 2026-07-21T14:02:31 94 51 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo undécimo transitorio, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri, y que consta en las páginas 602 a 607 del comparado. Tercer Trámite Sin Informe 89492 Boletín N°18216-05 2026-07-21T14:01:15 85 60 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo tercero transitorio, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri y que consta en las páginas 542 a 583 del comparado. Cabe hacer presente, que el párrafo primero del número 13 de este artículo requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de quórum calificado. Tercer Trámite Sin Informe 89491 Boletín N°18216-05 2026-07-21T14:00:08 84 61 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo primero transitorio, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri, y que consta en las páginas 531 a 539 del comparado. Tercer Trámite Sin Informe 89490 Boletín N°18216-05 2026-07-21T13:57:47 87 58 0 0 Quórum Calificado Aprobado Proyecto de Ley Única Enmienda del Senado que agrega el artículo 37, nuevo, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri; que consta en las páginas 520 y 521 del comparado; y que requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de quórum calificado. Tercer Trámite Sin Informe 89489 Boletín N°18216-05 2026-07-21T13:55:52 85 60 0 0 Quórum Calificado Aprobado Proyecto de Ley Única Número 1 del artículo 36, nuevo, propuesto por el Senado; que consta en las páginas 508 a 514 del comparado y que requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de rango orgánico constitucional. Tercer Trámite Sin Informe 89488 Boletín N°18216-05 2026-07-21T13:54:46 76 69 0 0 Quórum Calificado Unánime Proyecto de Ley Única Enmienda del Senado que agrega el artículo 35, nuevo, cuya votación separada ha sido solicitada por los diputados Daniel Manouchehri y Juan Valenzuela; que consta en las páginas 492 a 507 del comparado; y que requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de rango orgánico constitucional. Tercer Trámite Sin Informe 89487 Boletín N°18216-05 2026-07-21T13:53:37 96 48 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que agrega el artículo 34, nuevo, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri, y que consta en la página 490 del comparado. Tercer Trámite Sin Informe 89486 Boletín N°18216-05 2026-07-21T13:52:40 75 70 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que agrega el artículo 33, nuevo, cuya votación separada ha sido solicitada por la diputada Gael Yeomans y el diputado Juan Valenzuela, y que consta en las páginas 475 a 486 del comparado. Tercer Trámite Sin Informe 89485 Boletín N°18216-05 2026-07-21T13:51:46 75 70 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que suprime el artículo 31 del proyecto, cuya votación separada ha sido solicitada por la diputada Gael Yeomans y los diputados Daniel Manouchehri y Juan Valenzuela, y que consta en las páginas 415 a 470 del comparado. Tercer Trámite Sin Informe 89484 Boletín N°18216-05 2026-07-21T13:49:30 84 61 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 29 del proyecto, cuya votación separada ha sido solicitada por las diputadas Serrano, Yeomans, Schneider, Gazmuri y Tello, y de los diputados Leiva, Venegas, Malla, Soto, Díaz, Barría, Barraza y Manouchehri, y que consta en las páginas 380 a 412 del comparado. Tercer Trámite Sin Informe 89483 Boletín N°18216-05 2026-07-21T13:48:39 95 50 0 0 Quórum Calificado Aprobado Proyecto de Ley Única Nuevo inciso tercero que se incorpora al artículo 120, propuesto por el Senado en el nuevo número 3 del artículo 21 del proyecto; que consta en las páginas 363 y 364 del comparado; y que requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de rango orgánico constitucional. Tercer Trámite Sin Informe 89482 Boletín N°18216-05 2026-07-21T13:47:31 98 47 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el número 2 del artículo 21 del proyecto, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri, y que consta en las páginas 361 y 362 del comparado. Tercer Trámite Sin Informe 89481 Boletín N°18216-05 2026-07-21T13:45:45 83 62 0 0 Quórum Calificado Aprobado Proyecto de Ley Única Enmiendas del Senado al artículo 17 del proyecto, cuya votación separada ha sido solicitada por las diputadas Serrano, Yeomans, Schneider, Gazmuri y Tello y de los diputados Leiva, Venegas, Malla, Soto, Díaz, Barría y Barraza; que constan en las páginas 328 y 339 del comparado; y que requieren para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de normas de rango orgánico constitucional. Tercer Trámite Sin Informe 89480 Boletín N°18216-05 2026-07-21T13:43:57 83 62 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 16 del proyecto, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri, y que consta en las páginas 325 y 326 del comparado. Cabe hacer presente, que los incisos tercero y final de este artículo requieren para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de normas de rango orgánico constitucional. Tercer Trámite Sin Informe 89479 Boletín N°18216-05 2026-07-21T13:42:15 81 64 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 15 del proyecto, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri, y que consta en la página 324 del comparado. Tercer Trámite Sin Informe 89478 Boletín N°18216-05 2026-07-21T13:40:36 81 63 0 0 Quórum Calificado Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 14 del proyecto, cuya votación separada ha sido solicitada por el diputado Daniel Manouchehri; que consta en las páginas 323 324 del comparado; y que requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de rango orgánico constitucional. Tercer Trámite Sin Informe 89477 Boletín N°18216-05 2026-07-21T13:38:54 81 64 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 13 del proyecto, cuya votación separada ha sido solicitada por la diputada Yeomans y los diputados Leiva, Soto, Díaz, Manouchehri y Pinilla; y que consta en las páginas 320 a 322 del comparado. Cabe hacer presente, que el inciso cuarto de este artículo requiere para su aprobación del voto favorable de 78 diputadas y diputados, por tratarse de una norma de rango orgánico constitucional. Tercer Trámite Sin Informe 89476 Boletín N°18216-05 2026-07-21T13:36:44 84 61 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 12 del proyecto, cuya votación separada ha sido solicitada por la diputada Yeomans y los diputados Leiva, Soto, Díaz, Manouchehri y Pinilla; y que consta en las páginas 316 a 319 del comparado. Tercer Trámite Sin Informe 89475 Boletín N°18216-05 2026-07-21T13:34:39 84 61 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas del Senado al artículo 11 del proyecto, cuya votación separada ha sido solicitada por la diputada Yeomans y los diputados Leiva, Soto, Díaz y Pinilla; y que constan en las páginas 295 a 306 del comparado. Tercer Trámite Sin Informe 89474 Boletín N°18216-05 2026-07-21T13:33:50 98 46 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 10 del proyecto, cuya votación separada ha sido solicitada por la diputada Gael Yeomans y el diputado Daniel Manouchehri, y que consta en las páginas 265 a 290 del comparado. Tercer Trámite Sin Informe 89473 Boletín N°18216-05 2026-07-21T13:32:14 87 57 1 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas del Senado al artículo 6 del proyecto, cuya votación separada ha sido solicitada por las diputadas Serrano, Yeomans, Schneider, Gazmuri y Tello y de los diputados Leiva, Venegas, Malla, Soto, Díaz, Barría y Barraza; y que constan en las páginas 26 a 39 del comparado. Tercer Trámite Sin Informe 89472 Boletín N°18216-05 2026-07-21T13:30:21 100 44 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que reemplaza el artículo 5 del proyecto, cuya votación separada ha sido solicitada por las diputadas Serrano, Yeomans, Schneider, Gazmuri y Tello y de los diputados Leiva, Venegas, Malla, Soto, Díaz, Barría y Barraza; y que consta en las páginas 17 a 24 del comparado. Tercer Trámite Sin Informe 89471 Boletín N°18216-05 2026-07-21T13:29:26 133 11 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas del Senado al artículo 1 del proyecto, cuya votación separada ha sido solicitada por el diputado Juan Valenzuela, y que constan en las páginas 2 a 5 del comparado. Tercer Trámite Sin Informe 89470 Boletín N°18216-05 2026-07-21T13:28:41 85 59 0 0 Quórum Simple Aprobado Proyecto de Ley Única Modificaciones incorporadas por el Senado en el proyecto de ley, originado en mensaje, “Para la reconstrucción nacional y el desarrollo económico y social.”, con la salvedad de las enmiendas que requieren quorum especial de aprobación y de aquellas cuya votación separada ha sido solicitada. Tercer Trámite Sin Informe 88980 Boletín N°18216-05 2026-05-20T14:04:00 68 83 2 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.69, ideas matrices) respecto de la indicación del diputado Brito y la diputada Yeomans, para agregar un artículo transitorio nuevo, del siguiente tenor: “Artículo final transitorio.- Respecto del Presidente de la República en ejercicio a la fecha de publicación de la presente ley, de sus Ministros de Estado y de los diputados y senadores en ejercicio en dicha oportunidad, continuará aplicándose el régimen tributario vigente con anterioridad a la entrada en vigencia de esta ley, así como las normas relativas a la determinación y cálculo de los impuestos que graven su patrimonio, bienes, inversiones o participaciones en sociedades. En consecuencia, las disposiciones de la presente ley no les serán aplicables mientras se encuentren en el ejercicio de sus respectivos cargos.”. En votación la reconsideración de la declaración de inadmisibilidad. (Quienes votan a favor lo hacen por la admisibilidad; quienes votan en contra por su inadmisibilidad) Primer Trámite Primer Informe 88979 Boletín N°18216-05 2026-05-20T14:01:43 71 81 1 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (modificar elementos de un tributo, de conformidad con lo dispuesto en el artículo 65 inciso cuarto N°1) respecto de la indicación del diputado Manouchehri: \"Artículo transitorio nuevo.- Sin perjuicio de las modificaciones al artículo 20 de la Ley sobre Impuesto a la Renta contenidas en el artículo 10 de la presente ley, la tasa de impuesto de primera categoría aplicable a las rentas devengadas o percibidas a partir del año 2026 y siguientes, se sujetará a las siguientes reglas. 1.Para las rentas devengadas o percibidas durante el año comercial 2026, un 27%. 2.Para las rentas devengadas o percibidas durante el año comercial 2027, un 26%. 3.Para las rentas devengadas o percibidas durante el año comercial 2028, un 25%, siempre que al cierre del año comercial anterior se cumplan copulativamente las siguientes condiciones: (i) El Balance Cíclicamente Ajustado no sea inferior a -1,00% del Producto Interno Bruto, y (ii) La deuda pública sea inferior a 45% del Producto Interno Bruto. 4.Para las rentas devengadas o percibidas durante el año comercial 2029 o aquel que corresponda al año siguiente en que se cumplan las condiciones establecidas en la letra c) anterior, la tasa se rebajará en un punto porcentual respecto de la tasa del año comercial anterior siempre que se cumplan copulativamente las siguientes condiciones: (i) El Balance Cíclicamente Ajustado no sea inferior a -0,50% del Producto Interno Bruto, y (ii) La deuda pública sea inferior a 45% del Producto Interno Bruto. 5.Para las rentas devengadas o percibidas durante el año comercial 2030 o aquel que o aquel que corresponda al año siguiente en que se cumplan las condiciones establecidas en la letra d) anterior, la tasa será de un 23% siempre que se cumplan copulativamente las siguientes condiciones: (i) El Balance Cíclicamente Ajustado no sea inferior a 0,00% del Producto Interno Bruto, y (ii) La deuda pública sea inferior a 45% del Producto Interno Bruto.”. Primer Trámite Primer Informe 88978 Boletín N°18216-05 2026-05-20T13:57:46 70 81 2 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.65 inc.3, incide en la administración financiera del Estado) respecto de la indicación de las diputadas y los diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa y Brito, para incorporar un nuevo artículo: \"Artículo transitorio nuevo.- Los contribuyentes acogidos a lo dispuesto en el N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta, que adquieran, en el periodo comprendido entre la entrada en vigencia de esta ley y el 31 de diciembre de 2028, activos intangibles destinados al interés, desarrollo o mantención de la empresa o negocio, podrán depreciar dichos activos de manera instantánea e íntegra, en el mismo ejercicio comercial en que sean adquiridos, los que quedarán valorados en 1 peso. Para estos efectos, sólo se considerarán activos intangibles susceptibles de acogerse al régimen que contempla el inciso anterior, los siguientes: a) Los derechos de propiedad industrial protegidos conforme a la ley N° 19.039. b) Los derechos de propiedad intelectual protegidos conforme a la ley N° 17.336. c) Una nueva variedad vegetal protegida conforme a la ley N° 19.342. Conforme a lo anterior, en ningún caso será aplicable este régimen de amortización respecto del activo intangible que regula el número 9 del artículo 31 de la Ley sobre Impuesto a la Renta. Para la revisión o fiscalización de lo contemplado en este artículo, los organismos ante los cuales se registran los bienes intangibles señalados en las letras a), b) y c) precedentes deberán informar al Servicio de Impuestos Internos, en la forma que este último determine mediante una resolución, los bienes intangibles que sean inscritos o transferidos durante la vigencia de esta ley. Por su parte, el Servicio de Impuestos Internos, mediante una actuación sometida al trámite de consulta pública establecido en el N° 1 de la letra A del artículo 6° del Código Tributario, contenido en el decreto ley N° 830, de 1974, instruirá sobre la forma de hacer efectivo lo establecido en este artículo en relación a la acreditación del desembolso asociado a los bienes intangibles respectivos”. Primer Trámite Primer Informe 88977 Boletín N°18216-05 2026-05-20T13:52:42 75 77 1 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.65 inc.3, incide en la administración financiera del Estado) respecto de la indicación de las diputadas y diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Brito, para agregar el siguiente artículo transitorio, nuevo: “Artículo transitorio nuevo.- Transcurridos dos años desde la entrada en vigencia de la presente ley, el Ministerio de Hacienda deberá contratar una evaluación externa que se pronuncie sobre la implementación y aplicación de las medidas contenidas en la presente ley, refiriéndose, a lo menos, a su efecto sobre la recaudación fiscal, su impacto en la actividad económica, sus efectos distributivos y el cumplimiento de los compromisos en materia de gastos adquiridos durante la tramitación de la misma. El resultado de esa evaluación será remitido a la Comisión de Hacienda de la Cámara de Diputados y a la Comisión de Hacienda del Senado, y deberá será publicado en el sitio web del Ministerio de Hacienda.\". Primer Trámite Primer Informe 88976 Boletín N°18216-05 2026-05-20T13:49:56 67 86 0 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.65 inc.3, incide en la administración financiera del Estado.) respecto de la indicación de las diputadas y diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Brito, para agregar el siguiente artículo transitorio, nuevo: “Artículo transitorio nuevo.- Subsidio al pie para la adquisición de Viviendas Nuevas. Establécese un subsidio de hasta 200 Unidades de Fomento para personas que adquieran créditos hipotecarios sujetos a las Garantías Apoyo a la Vivienda Nueva establecidas en el artículo sexto transitorio de la ley Nº 21.543, que crea un Fondo de Garantías Especiales, el que se regirá por las reglas que se señalan a continuación y por las demás normas de aplicación general contempladas en uno o más decretos del Ministerio de Hacienda dictados bajo la fórmula “Por orden del Presidente de la República”. Los financiamientos beneficiados por el subsidio deberán destinarse exclusivamente al pago de la proporción del precio de adquisición de viviendas nuevas que cumplan con los requisitos indicados en este artículo, que no sea cubierta por un crédito de una institución financiera. La totalidad del monto será entregado a la institución financiera, la que deberá enterarlo al vendedor de la vivienda, según la fórmula que determine el Ministerio de Hacienda mediante el o los decretos a los que se refiere el inciso primero. El beneficio no será aplicable a compraventas de promesas celebradas con anterioridad al 31 de abril de 2026. La institución financiera deberá registrar en un soporte idóneo, por medio escrito o electrónico equivalente, una declaración jurada simple suscrita por el solicitante, que dé cuenta de que la promesa o la compraventa es elegible para el beneficio, de conformidad con lo establecido en el inciso anterior. El incumplimiento de esta obligación, o la falsedad en la declaración jurada, dará lugar a las sanciones correspondientes, según lo dispuesto en el artículo 1 de la Ley N° 21.748 y demás normativas aplicables. Se entregarán hasta cincuenta mil subsidios a personas naturales, de conformidad con las reglas que se señalan a continuación: a) Ser persona natural que, al momento de la postulación y otorgamiento del subsidio, no sea propietaria, asignataria o beneficiaria de una vivienda, ni de derechos reales sobre un inmueble destinado a uso habitacional. b) Que el valor de la vivienda no supere las 4.000 unidades de fomento. c) Que la persona cumpla con los requisitos para acceder al Programa de Garantías Apoyo a la Vivienda Nueva, de conformidad con el artículo sexto transitorio de la ley Nº 21.543, que crea un Fondo de Garantías Especiales. d) Que cumpla con los demás requisitos establecidos en el o los decretos a que se refiere el inciso primero. Sólo se podrá solicitar financiamientos con las condiciones señaladas en el presente artículo hasta veinticuatro meses después de la fecha de publicación de esta ley. Un decreto dictado por el Ministerio de Hacienda, a través de uno o más decretos supremos, bajo la fórmula “Por orden del Presidente de la República”, que deberá ser visado por la Dirección de Presupuestos, establecerá las reglas necesarias para la implementación de lo establecido en este artículo. Sin perjuicio de lo anterior, el Ministerio de Hacienda podrá requerir del Administrador del Fondo de Garantías Especiales o de cada una de las instituciones acreedoras toda aquella información, nominada o innominada, que permita la oportuna verificación de los beneficios entregados y de los cambios en las circunstancias de los beneficiarios, entre otros elementos necesarios para verificar el adecuado funcionamiento del subsidio.”. Primer Trámite Primer Informe 88975 Boletín N°18216-05 2026-05-20T13:43:22 76 75 2 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (art 69, ideas matrices) respecto de la indicación del diputado Raúl Soto: “Incorpórese el siguiente artículo transitorio nuevo, del siguiente tenor: Artículo transitorio nuevo: Con la finalidad de aliviar el negativo impacto que han provocado las alzas en el precio de los combustibles fósiles y de bienes y servicios de la canasta básica en la economía de los hogares, concédase un Bono Familiar de libre disposición compuesto por seis aportes mensuales de cien mil pesos de cargo fiscal, para los hogares cuyos ingresos totales de los miembros que los integran no superen, en su conjunto, los dos millones de pesos mensuales. El Bono Familiar de Libre Disposición que concede esta ley no constituirá remuneración o renta para ningún efecto legal y, en consecuencia, no será imponible ni tributable y no estará afecto a descuento alguno. Los hogares beneficiarios podrán postular mediante la presentación de sus antecedentes en las plataformas digitales que el Ministerio de Desarrollo Social y Familia dispondrá para tales efectos, así como también de manera presencial en las oficinas de Chile Atiende. Las postulaciones se podrán presentar durante los 30 días siguientes a la publicación de esta ley en el Diario Oficial. Mediante resolución exenta dictada por la Subsecretaría de Evaluación Social, visada por la Dirección de Presupuestos, se establecerá la forma de verificación de los requisitos establecidos en esta ley. El Bono Familiar de libre disposición será pagado a través de bolsillo electrónico de conformidad con el artículo 10° de la ley 21550. El pago del primer aporte se efectuará dentro de sesenta días corridos contados desde la publicación de la ley en el Diario Oficial. Quienes perciban indebidamente el Bono Familiar de libre disposición que establece este artículo deberán restituir las sumas indebidamente percibidas, reajustadas de conformidad con la variación que experimente el Índice de Precios al Consumidor determinada por el Instituto Nacional de Estadísticas, o la institución que lo reemplace, entre el mes anterior a aquel en que se percibió y el que antecede a su restitución. El mayor gasto fiscal que represente la aplicación de esta ley se financiará con cargo a los recursos del Tesoro Público.”. Primer Trámite Primer Informe 88974 Boletín N°18216-05 2026-05-20T13:38:55 71 82 0 0 Quórum Simple Unánime Proyecto de Ley Particular Renovación de una indicación de las diputadas y los diputados Serrano, Gatica, Bassa, Crisóstomo y Tello para agregar el siguiente nuevo artículo transitorio, de cuyo tenor dará lectura el señor Secretario: “Artículo transitorio nuevo.- Las disposiciones de la presente ley, en materias ambientales y tributarias, que contemplen reducción de plazos administrativos o establezcan reglas de silencio administrativo, entrarán en vigencia únicamente una vez que se haya verificado el reforzamiento de dotación y recursos de los órganos de la Administración del Estado y de las unidades administrativas respectivas que deban asumir la mayor carga de trabajo derivada de dichas modificaciones. La ley que disponga el referido reforzamiento institucional deberá señalar expresamente, en una disposición transitoria, que se ha dado cumplimiento a lo establecido en el inciso precedente.”. Primer Trámite Primer Informe 88973 Boletín N°18216-05 2026-05-20T13:37:36 80 73 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Nuevo artículo décimo noveno transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda (que reemplaza al artículo décimo séptimo transitorio del mensaje), cuya votación separada ha sido solicitada por el diputado por las diputadas Ana María Gazmuri, Gael Yeomans y el diputado Jorge Brito, y que consta en la página 579 del Comparado. Primer Trámite Primer Informe 88972 Boletín N°18216-05 2026-05-20T13:36:29 80 72 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Nuevo artículo décimo octavo transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y el diputado Jorge Brito, y que consta en las páginas 578 a 579 del Comparado. Primer Trámite Primer Informe 88971 Boletín N°18216-05 2026-05-20T13:35:28 81 69 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Nuevo artículo décimo séptimo transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en las páginas 577 a 578 del Comparado. Primer Trámite Primer Informe 88970 Boletín N°18216-05 2026-05-20T13:34:23 81 70 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo décimo sexto transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Boris Barrera, y que consta en las páginas 576 y 577 del Comparado. Primer Trámite Primer Informe 88969 Boletín N°18216-05 2026-05-20T13:33:27 89 63 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo décimo quinto transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en la página 576 del Comparado. Primer Trámite Primer Informe 88968 Boletín N°18216-05 2026-05-20T13:32:41 86 65 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo décimo cuarto transitorio del proyecto, en los términos propuestos por la Comisión de Medio Ambiente, cuya votación separada ha sido solicitada por la diputada Gael Yeomans, y los diputados Boris Barrera, Jorge Brito y Raúl Leiva, y que consta en la página 575 del Comparado. Primer Trámite Primer Informe 88967 Boletín N°18216-05 2026-05-20T13:30:29 83 69 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo décimo tercero transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda y por la Comisión de Medio Ambiente, cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en la página 575 del Comparado. Primer Trámite Primer Informe 88966 Boletín N°18216-05 2026-05-20T13:28:51 94 55 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo décimo segundo transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por los diputados Boris Barrera y Raúl Leiva, y que consta en las páginas 571 a 575 del Comparado. Primer Trámite Primer Informe 88981 Boletín N°18216-05 2026-05-20T13:26:32 92 57 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Indicación renovada del Ejecutivo para reemplazar el artículo décimo primero transitorio. Primer Trámite Primer Informe 88965 Boletín N°18216-05 2026-05-20T13:18:02 138 11 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo décimo transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Boris Barrera, y que consta en las páginas 557 a 562 del Comparado. Primer Trámite Primer Informe 88964 Boletín N°18216-05 2026-05-20T13:16:50 87 66 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo noveno transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Boris Barrera, y que consta en las páginas 556 a 557 del Comparado. Primer Trámite Primer Informe 88963 Boletín N°18216-05 2026-05-20T13:14:49 90 63 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo séptimo transitorio del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Boris Barrera, y que consta en las páginas 554 a 556 del Comparado. Primer Trámite Primer Informe 88962 Boletín N°18216-05 2026-05-20T13:13:47 77 76 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo sexto transitorio del texto propuesto por la Comisión de Hacienda (que sustituye el artículo sexto transitorio del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por los diputados Boris Barrera y Raúl Leiva, y que consta en las páginas 552 a 554 del Comparado. Primer Trámite Primer Informe 88984 Boletín N°18216-05 2026-05-20T13:12:46 72 79 2 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.65 inc. cuarto N°1, materia de tributos) respecto de la indicación del diputado Raúl Soto para reemplazar el artículo sexto transitorio del proyecto de ley. Primer Trámite Primer Informe 88961 Boletín N°18216-05 2026-05-20T13:02:18 84 66 3 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo quinto transitorio del texto propuesto por la Comisión de Hacienda (que sustituye el artículo quinto transitorio del mensaje), cuya votación separada ha sido solicitada por los diputados Boris Barrera y Raúl Leiva, y que consta en las páginas 548 a 552 del Comparado. Primer Trámite Primer Informe 88960 Boletín N°18216-05 2026-05-20T13:01:20 96 56 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo cuarto transitorio del texto propuesto por la Comisión de Hacienda (que sustituye el artículo cuarto transitorio del mensaje), cuya votación separada ha sido solicitada por la diputada Gael Yeomans y los diputados Boris Barrera y Jorge Brito, y que consta en las páginas 541 a 548 del Comparado. Primer Trámite Primer Informe 88959 Boletín N°18216-05 2026-05-20T13:00:15 89 62 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo tercero transitorio del texto propuesto por la Comisión de Hacienda (que sustituye el artículo tercero transitorio del mensaje), cuya votación separada ha sido solicitada por los diputados Boris Barrera y Raúl Leiva, y que consta en las páginas 498 a 541 del Comparado. Primer Trámite Primer Informe 88958 Boletín N°18216-05 2026-05-20T12:58:44 92 59 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo primero transitorio del texto propuesto por la Comisión de Hacienda (que sustituye el artículo primero transitorio del mensaje), cuya votación separada ha sido solicitada por los diputados Boris Barrera y Raúl Leiva, y que consta en las páginas 486 a 495 del Comparado. Primer Trámite Primer Informe 88957 Boletín N°18216-05 2026-05-20T12:56:44 74 76 2 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art. 65 inciso cuarto N°1, materia de tributos) respecto de la indicación de las diputadas y los diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Malla y Brito, para incorporar un nuevo artículo: \"Artículo nuevo.- Establécese un mecanismo permanente de devolución mensual automática del Impuesto al Valor Agregado pagado por personas pertenecientes a hogares clasificados en el 60% más vulnerable según el Registro Social de Hogares, respecto del consumo de los siguientes bienes y servicios: (i) productos contenidos en la canasta básica de alimentos definida por el Instituto Nacional de Estadísticas; (ii) cuentas de electricidad, agua potable y gas de red, hasta los topes que determine el reglamento; (iii) medicamentos contenidos en el Petitorio Nacional de Medicamentos del Ministerio de Salud y bioequivalentes certificados por el Instituto de Salud Pública; y (iv) servicios de internet fijo domiciliario. La devolución se efectuará automáticamente, mes a mes, mediante abono en el Bolsillo Familiar Electrónico regulado por la Ley N° 21.550, sobre la base del consumo promedio per cápita estimado por el Servicio de Impuestos Internos en coordinación con el Ministerio de Desarrollo Social y Familia. El monto máximo a devolver no podrá exceder de una unidad tributaria mensual por hogar.\". Primer Trámite Primer Informe 88956 Boletín N°18216-05 2026-05-20T12:52:31 73 79 0 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.69 ideas matrices) respecto de la indicación de las diputadas y los diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Malla y Brito, para incorporar un nuevo artículo: \"Artículo nuevo.- Por el plazo de ciento ochenta días contado desde la publicación de la presente ley, los acreedores bancarios y no bancarios sujetos a la fiscalización de la Comisión para el Mercado Financiero estarán obligados a ofrecer a sus deudores personas naturales con ingresos mensuales inferiores a treinta unidades tributarias mensuales, un plan voluntario de regularización que contemple la condonación íntegra de los intereses penales y de las comisiones devengadas por mora, así como una reprogramación de hasta cuarenta y ocho cuotas, sin nuevas comisiones de cobranza extrajudicial. La Comisión para el Mercado Financiero, en conjunto con el Servicio Nacional del Consumidor, definirá las condiciones operativas del régimen y supervisará su aplicación. La adhesión del deudor será voluntaria y no podrá significar, en caso alguno, una agravación de las condiciones originales del crédito.\". Primer Trámite Primer Informe 88955 Boletín N°18216-05 2026-05-20T12:48:04 74 78 1 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.69 ideas matrices) respecto de la indicación de las diputadas y los diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Malla y Brito, para incorporar un nuevo artículo: \"Artículo nuevo.- Se establecerá el derecho al olvido en materia financiera, en los siguientes términos: 1) Los responsables del tratamiento de datos personales de carácter económico, financiero, bancario o comercial deberán eliminar de sus registros, internos o de comunicación a terceros, los datos personales relativos a información financiera de deudas impagas o extinguidas de personas naturales, cuando la deuda se hubiere hecho exigible o se hubiere extinguido -lo primero que ocurra-hace más de cinco años contados desde la entrada en vigencia de la presente ley. 2) Las entidades del sistema financiero, bancario y comercial no podrán utilizar la información eliminada en virtud de este artículo, ni la información relativa a deudas extinguidas, prescritas o pagadas, como criterio para denegar el acceso al crédito, a productos financieros o a la apertura de cuentas a una persona natural. Toda denegación de crédito a una persona natural deberá ser fundada por escrito y entregada al solicitante, indicando los criterios objetivos en que se sustenta. 3) El incumplimiento de las obligaciones establecidas en este artículo se sancionará conforme a la Ley N° 19.628, sobre Protección de la Vida Privada, y, una vez en plena vigencia, conforme a la Ley N° 21.719, sin perjuicio del derecho del titular a obtener indemnización por el daño patrimonial y moral causado.\". Primer Trámite Primer Informe 88954 Boletín N°18216-05 2026-05-20T12:43:23 74 75 4 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.65 inc. cuarto N°1, materia de tributos) respecto de la indicación de las diputadas y los diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Malla y Brito, para incorporar un nuevo artículo, de cuyo tenor dará lectura el señor Secretario: \"Artículo nuevo.- Modifícase el artículo vigésimo quinto de la Ley N° 21.755, en orden a establecer en forma permanente la tasa del Impuesto de Primera Categoría a 12,5% para los contribuyentes acogidos al régimen Pro-Pyme contenido en el numeral 3) de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta, derogándose la gradualidad que dispone su elevación a 15% en el año comercial 2028 y a 25% a contar del año comercial 2029. La tasa permanente del 12,5% mantendrá las mismas condiciones de cumplimiento de la cotización empleadora establecidas en el artículo cuarto transitorio de la Ley N° 21.735.\". Primer Trámite Primer Informe 88953 Boletín N°18216-05 2026-05-20T12:39:06 55 93 5 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Trabajo y Seguridad Social (Art 65, inciso cuarto N° 1, fijación y cálculo de impuestos) respecto de la indicación de las diputadas Gazmuri, Hassler, Castillo, Pizarro, Serrano, Santibáñez y González, y de los diputados Barrera, Barraza, Salinas, Cuello y Gatica, para agregar un artículo nuevo: “Artículo 36: Impuesto a los súper ricos. Establécese un impuesto al patrimonio, al que quedarán sujetos los siguientes contribuyentes: 1.Personas naturales domiciliadas o residentes en Chile cuyo patrimonio neto total, determinado conforme a las reglas del presente artículo, exceda de USD 100.000.000 (cien millones de dólares de los Estados Unidos de América), o su equivalente en moneda nacional al 31 de diciembre de cada año. 2.Personas naturales cuyo patrimonio neto total, determinado conforme a las reglas del presente artículo, exceda de USD 100.000.000 (cien millones de dólares de los Estados Unidos de América), o su equivalente en moneda nacional al 31 de diciembre de cada año, que trasladaron su residencia o domicilio tributario fuera de Chile, las que estarán afectas durante un período de cinco años contados desde el año del traslado. La base imponible del impuesto estará constituida por el patrimonio neto total del contribuyente descontado el monto total de sus deudas exigibles, determinado con referencia al 31 de diciembre del año respectivo. El patrimonio neto total se entenderá como el valor de mercado de la totalidad de sus activos, incluyendo bienes, derechos, acciones, participaciones en sociedades cotizadas y no cotizadas en bolsa, instrumentos financieros, activos en el extranjero, descontados los pasivos. La tasa del impuesto será de un 2% del patrimonio neto total del contribuyente Contra este impuesto se podrá imputar el total de impuestos personales efectivamente pagados en Chile, durante el respectivo año. El Servicio de Impuestos Internos podrá requerir información a organismos públicos nacionales e instituciones financieras privadas, así como autoridades extranjeras conforme a los tratados internacionales vigentes y mecanismos de intercambio automático de información, incluyendo registros de beneficiarios finales y estándares internacionales de transparencia fiscal. a)Plan Nacional de Infraestructura para la Educación Pública, cuyo objeto será la conservación y reposición de establecimientos educacionales de nivel inicial, básica y media. b)Garantizar el derecho a gratuidad en el transporte público urbano e interurbano a los estudiantes de enseñanza media. c)Ampliación de los siguientes programas de la Junta Nacional de Auxilio Escolar y Becas: i.Servicios Médicos. ii.Hogares y Residencias Estudiantiles ii. Beca Mantención para Educación Superior. iii.Útiles Escolares. iv.Programa de Alimentación Escolar. d) Ampliación de los siguientes programas del Servicio Nacional de Capacitación y Empleo: i. Subsidio Empleo a la mujer. II.Subisidio al Empleo Joven. ii. Becas de Capacitación del Fondo de Cesantía Solidario. El exceso de lo recaudado por el impuesto al patrimonio establecido en este artículo se destinará a Ingresos Generales de la Nación.”. Primer Trámite Primer Informe 88952 Boletín N°18216-05 2026-05-20T12:33:02 64 89 0 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art. 69, ideas matrices; Art.65 inc.3 y Art.65 N°2, incide en materia financiera del Estado y en materia tributaria) respecto de la indicación de las diputadas y los diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Malla y Brito, para agregar un artículo nuevo, que introduce modificaciones a la ley N° 20.712, sobre Administración de fondos de terceros y carteras individuales y deroga los cuerpos legales que indica, y que consta en las páginas 525 a 528 del informe de la Comisión de Hacienda. Primer Trámite Primer Informe 88951 Boletín N°18216-05 2026-05-20T12:30:40 74 78 1 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art 65, inciso cuarto N° 1, materia de tributos) respecto de la indicación de las diputadas y los diputados Manouchehri, Yeomans, Barrera, Hassler, Ulloa, Malla y Brito, para incorporar un nuevo artículo: \"Artículo nuevo.- Introdúcense las siguientes modificaciones en la Ley Nº 16.271, de Impuesto a las Herencias, Asignaciones y Donaciones, cuyo texto refundido, coordinado y sistematizado se encuentra fijado en el artículo 8° del decreto con fuerza de ley N° 1, del año 2000, del Ministerio de Justicia: 1. Reemplázase en el artículo 1 la expresión “artículo 1.386” por “artículos 1136 y 1386”. 2. Reemplázase, en el inciso primero del numeral 8º del artículo 18, la frase “En caso que estas donaciones se efectúen a los legitimarios en uno o varios ejercicios comerciales, todas las donaciones se acumularán en los términos del artículo 23 hasta por un lapso de 10 años comerciales, para cuyo efecto el legitimario deberá informar las donaciones conforme al siguiente inciso” por la oración “No gozarán de esta exención las donaciones efectuadas a personas que tengan la calidad de legitimarios o sean beneficiarias de la cuarta de mejoras del donante, según lo dispuesto en el artículo 1184 del Código Civil. Tampoco gozarán de esta exención las donaciones efectuadas a partes relacionadas con el donante en los términos del numeral 17 del artículo 8 del Código Tributario.”. Primer Trámite Primer Informe 88950 Boletín N°18216-05 2026-05-20T12:26:09 76 76 1 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (art 69, ideas matrices) respecto de la indicación de las diputadas y los diputados Gazmuri, Hassler, Castillo, Pizarro, Serrano, Santibáñez, González, Barrera, Barraza, Salinas, Cuello y Gatica para incorporar un nuevo artículo, de cuyo tenor dará lectura el señor Secretario: \"Artículo nuevo. Modifíquese el decreto con fuerza de ley N° 4/20.018, de 2006, del Ministerio de Minería, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 1, de Minería, de 1982, Ley General de Servicios Eléctricos, en materia de energía eléctrica, en el siguiente sentido: Agrégase en el artículo 212°-11, en el inciso primero, luego del segundo punto seguido, la siguiente expresión: 'Los consejeros no podrán percibir una remuneración bruta mensual mayor a ochenta unidades tributarias mensuales. En el caso de su Presidente, dicha remuneración no podrá exceder las noventa unidades tributarias mensuales.'.\" Primer Trámite Primer Informe 88949 Boletín N°18216-05 2026-05-20T12:21:21 67 83 3 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (administración financiera o presupuestaria del Estado, Art. 65, inciso tercero y no tiene relación con ideas matrices o fundamentales del proyecto, Art. 69) respecto de la indicación del diputado Jorge Brito, de cuyo tenor dará lectura el señor Secretario: “Para agregar un nuevo artículo del siguiente tenor: “Artículo nuevo.- Modifícase la ley N° 21.808 que crea el nuevo Subsidio Unificado al Empleo, en el siguiente sentido: a) Deróguese el artículo 7 b) En el artículo 18 modifíquese la frase “doce meses” por “veinticuatro meses”. c) En su artículo primero transitorio modificase “séptimo” por “quinto”. d) En su artículo segundo transitorio eliminase el numeral 1.”. Primer Trámite Primer Informe 88948 Boletín N°18216-05 2026-05-20T12:17:36 79 57 17 0 Quórum Simple Aprobado Proyecto de Ley Particular Indicación renovada del diputado Raúl Soto para agregar un nuevo artículo permanente: “Incorpórese el siguiente artículo nuevo al proyecto de ley, del tenor que a continuación se expone: Artículo nuevo: Reemplazase el artículo 9° de la ley 18.010, por el siguiente texto: Artículo 9°: No se podrá estipular, en ningún caso, el pago de intereses sobre intereses, ni capitalizarlos en cada vencimiento o renovación. Los intereses capitalizados con infracción de lo dispuesto en el inciso anterior serán inoponibles al deudor y no tendrán efecto alguno.”. Primer Trámite Primer Informe 88947 Boletín N°18216-05 2026-05-20T12:16:39 81 68 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (art 69, ideas matrices) respecto de la indicación del diputado Raúl Soto, de cuyo tenor dará lectura el señor Secretario: “Incorpórese el siguiente artículo nuevo al proyecto de ley, del tenor que a continuación se expone: Artículo nuevo: Reemplazase el artículo 9° de la ley 18.010, por el siguiente texto: Artículo 9°: No se podrá estipular, en ningún caso, el pago de intereses sobre intereses, ni capitalizarlos en cada vencimiento o renovación. Los intereses capitalizados con infracción de lo dispuesto en el inciso anterior serán inoponibles al deudor y no tendrán efecto alguno.”. Primer Trámite Primer Informe 88946 Boletín N°18216-05 2026-05-20T12:12:23 80 69 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Renovación de una indicación de la diputada Ana María Gazmuri para agregar un artículo nuevo permanente, de cuyo tenor dará lectura el señor Secretario: “Artículo nuevo permanente.- Modifícase la ley N° 16.282, que fija disposiciones permanentes para casos de sismos o catástrofes, en el siguiente sentido: Agrégase el siguiente artículo 2° bis: “Artículo 2° bis.-Las empresas concesionarias de distribución eléctrica, de servicios sanitarios y de distribución de gas estarán obligadas a reconectar, de forma gratuita y sin condición previa de pago, a los usuarios residenciales y a las micro, pequeñas o medianas empresas en los términos de la ley N° 20.416, con domicilio en zonas declaradas en estado de catástrofe conforme a esta ley, que hubieren sido desconectados con anterioridad o durante la vigencia de dicha declaración por causales vinculadas alno pago de obligaciones dinerarias. La reconexión deberá efectuarse dentro de los siguientes plazos, contados desde la solicitud del usuario: a) Cuarenta y ocho horas para el suministro eléctrico. b) Cuarenta y ocho horas para el suministro de gas. c) Veinticuatro horas para el suministro de agua potable y alcantarillado. Queda prohibido a las empresas concesionarias cobrar al usuario cargo alguno por concepto de reconexión, reposición, visita técnica, revisión de instalaciones u otro similar, cualquiera sea la denominación que se le asigne, cuando la reconexión opere en virtud de lo dispuesto en este artículo. Los plazos establecidos en este artículo son perentorios. Su incumplimiento dará derecho al usuario a exigir una compensación equivalente a tres días de suministro gratuito por cada día de retardo, la que será descontada automáticamente de la facturación del período siguiente. El usuario podrá demandar el cumplimiento forzoso de las obligaciones establecidas en este artículo ante el tribunal civil competente”. Primer Trámite Primer Informe 88945 Boletín N°18216-05 2026-05-20T12:09:13 71 82 0 0 Quórum Simple Unánime Proyecto de Ley Particular Renovación de una indicación de las diputadas y los diputados Crisóstomo, Bassa, Gatica y Serrano para agregar un artículo final, permanente, de cuyo tenor dará lectura el señor Secretario: “Articulo permanente nuevo.- Sin perjuicio de la regulación establecida en esta ley para determinar la indemnización a que da origen la revocación judicial de la resolución de calificación ambiental; para que el monto se considere firme y ejecutoriado, deberá someterse al juicio, procedimiento y estándares que se establecen para la responsabilidad del Estado por error judicial”. Primer Trámite Primer Informe 88944 Boletín N°18216-05 2026-05-20T12:07:14 62 87 4 0 Quórum Simple Unánime Proyecto de Ley Particular Renovación de indicación de las diputadas y diputados Crisóstomo, Bassa, Gatica y Serrano para agregar un artículo final, permanente, de cuyo tenor dará lectura el señor Secretario: “Articulo permanente nuevo. -Sin perjuicio de las normas establecidas en esta ley para las medidas cautelares que pueden adoptar los tribunales de justicia en las hipótesis que esta ley establece, los tribunales podrán aplicar los plazos y reglas generales, desatendiendo los plazos restrictivos de esta ley, cuando consideren necesario hacerlo, fundado en alguno de los principios que ordenan la regulación medio ambiental o aquellos regulados en el artículo 19 de la Constitución, lo que deberá fundarse en una resolución”. Primer Trámite Primer Informe 88943 Boletín N°18216-05 2026-05-20T12:05:39 152 0 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Inciso tercero del artículo 30 nuevo del texto propuesto por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Patricio Pinilla, y que consta en las páginas 484 a 485 del Comparado. Primer Trámite Primer Informe 88942 Boletín N°18216-05 2026-05-20T12:04:33 101 49 3 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 30 nuevo del texto propuesto por la Comisión de Hacienda, cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en las páginas 483 a 486 del Comparado, con la salvedad de su inciso tercero, cuya votación separada a su vez ha sido solicitada. Primer Trámite Primer Informe 88941 Boletín N°18216-05 2026-05-20T12:02:18 81 71 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Número 4 del artículo 29 del texto propuesto por la Comisión de Hacienda (que sustituye el artículo 33), cuya votación separada ha sido solicitada por el diputado Raúl Leiva, y que consta en las páginas 479 y 480 del Comparado. Primer Trámite Primer Informe 88940 Boletín N°18216-05 2026-05-20T12:00:54 82 69 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Número 3 del artículo 29 del texto propuesto por la Comisión de Hacienda (que sustituye el artículo 33), cuya votación separada ha sido solicitada por el diputado Raúl Leiva, y que consta en las páginas 474 a 479 del Comparado. Primer Trámite Primer Informe 88939 Boletín N°18216-05 2026-05-20T11:52:24 81 69 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 29 del texto propuesto por la Comisión de Hacienda (que sustituye el artículo 33), cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y los diputados Boris Barrera, Jorge Brito, Raúl Leiva, y que consta en las páginas 455 a 483 del Comparado, con la salvedad de sus numerales 3) y 4), cuya votación separada a su vez ha sido solicitada. Primer Trámite Primer Informe 88938 Boletín N°18216-05 2026-05-20T11:50:57 142 10 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 28 del texto propuesto por la Comisión de Hacienda (art 32 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en las páginas 453 a 455 del Comparado. Primer Trámite Primer Informe 88937 Boletín N°18216-05 2026-05-20T11:49:51 139 12 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 27 del texto propuesto por la Comisión de Hacienda (artículo 31 del mensaje), cuya votación separada ha sido solicitada por el diputado Boris Barrera, y que consta en las páginas 446 a 453 del Comparado Primer Trámite Primer Informe 88936 Boletín N°18216-05 2026-05-20T11:48:45 127 6 19 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 26 en los términos propuestos por la Comisión de Trabajo y Seguridad Social (art 30 del mensaje), y que consta en las páginas 444 a 446 del Comparado. Primer Trámite Primer Informe 88935 Boletín N°18216-05 2026-05-20T11:47:48 138 14 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 25 del texto propuesto por la Comisión de Hacienda (art 29 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en las páginas 443 a 444 del Comparado. Primer Trámite Primer Informe 88934 Boletín N°18216-05 2026-05-20T11:46:55 122 30 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 24 del texto propuesto por la Comisión de Hacienda (art 28 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en las páginas 440 a 443 del Comparado. Primer Trámite Primer Informe 88933 Boletín N°18216-05 2026-05-20T11:45:50 58 94 0 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo 27 del mensaje, que la Comisión de Hacienda y la Comisión de Trabajo y Seguridad Social proponen rechazar, y que consta en las páginas 436 a 440 del comparado. Primer Trámite Primer Informe 88932 Boletín N°18216-05 2026-05-20T11:44:38 60 91 1 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo 26 del mensaje, que la Comisión de Hacienda y la Comisión de Trabajo y Seguridad Social proponen rechazar, y que consta en las páginas 417 a 436 del comparado. Primer Trámite Primer Informe 88931 Boletín N°18216-05 2026-05-20T11:43:40 83 69 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 23 del texto sugerido por la Comisión de Hacienda (que sustituye el artículo 25 del mensaje), cuya votación separada ha sido solicitada por los diputados Boris Barrera y Raúl Leiva, y que consta en la página 417 del Comparado. Primer Trámite Primer Informe 88930 Boletín N°18216-05 2026-05-20T11:42:11 97 52 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 22 del texto propuesto por la Comisión de Hacienda (artículo 24 del mensaje), cuya votación separada ha sido solicitada por el diputado Boris Barrera, y que consta en las páginas 413 a 417 del Comparado Primer Trámite Primer Informe 88929 Boletín N°18216-05 2026-05-20T11:40:52 6 139 0 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo 23 del mensaje, que la Comisión de Hacienda propone rechazar, y que consta en las páginas 412 a 413 del comparado. Primer Trámite Primer Informe 88928 Boletín N°18216-05 2026-05-20T11:39:47 93 29 16 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 21 del texto propuesto por la Comisión de Hacienda (que sustituye al artículo 22 del mensaje), cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y por los diputados Boris Barrera, Jorge Brito, y que consta en las páginas 399 a 412 del Comparado. Primer Trámite Primer Informe 88927 Boletín N°18216-05 2026-05-20T11:29:59 95 57 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 20 nuevo, propuesto por la Comisión de Hacienda, cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en la página 398 del Comparado. Primer Trámite Primer Informe 88926 Boletín N°18216-05 2026-05-20T11:29:14 95 58 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 19 del texto propuesto por la Comisión de Hacienda y la Comisión de Medio Ambiente (que sustituye el artículo 21 del mensaje), cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y por los diputados Boris Barrera, Jorge Brito, y que consta en las páginas 388 a 398 del Comparado. Primer Trámite Primer Informe 88925 Boletín N°18216-05 2026-05-20T11:28:22 90 60 3 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 18 del texto propuesto por la Comisión de Hacienda y la Comisión de Medio Ambiente (art 20 del mensaje), cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y por los diputados Boris Barrera, Jorge Brito, y que consta en las páginas 387 a 388 del Comparado. Primer Trámite Primer Informe 88924 Boletín N°18216-05 2026-05-20T11:25:51 84 68 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 17 del proyecto (artículo 19 del mensaje), en los términos propuestos por la Comisión de Hacienda y la Comisión de Medio Ambiente, cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y por los diputados Boris Barrera, Jorge Brito, que consta en la página 373 a 387 del Comparado, y que requiere para su aprobación del voto favorable de 78 diputadas y diputados por tratarse de una norma de rango orgánico constitucional. Primer Trámite Primer Informe 88923 Boletín N°18216-05 2026-05-20T11:19:36 82 71 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 16 del texto propuesto por la Comisión de Hacienda y la Comisión de Medio Ambiente (que sustituye al artículo 18 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmurio y por los diputados Boris Barrera, Raúl Leiva, y que consta en las páginas 372 a 373 del comparado. Cabe hacer presente que su inciso final requiere para su aprobación del voto favorable de 78 diputadas y diputados por tratarse de una norma de rango orgánico constitucional. Primer Trámite Primer Informe 88922 Boletín N°18216-05 2026-05-20T11:17:14 83 69 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 15 del texto propuesto por la Comisión de Hacienda y la Comisión de Medio Ambiente (artículo 17 del mensaje), cuya votación separada ha sido solicitada por los diputados Boris Barrera, Raúl Leiva, y que consta en las páginas 371 a 372 del comparado. Primer Trámite Primer Informe 88921 Boletín N°18216-05 2026-05-20T11:13:37 84 69 0 0 Quórum Calificado Aprobado Proyecto de Ley Particular Artículo 14 del texto propuesto por la Comisión de Hacienda y la Comisión de Medio Ambiente (que sustituye al artículo 16 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por los diputados Boris Barrera y Raúl Leiva, que consta en la página 371 del comparado, y que requiere para su aprobación del voto favorable de 78 diputadas y diputados por tratarse de una norma de rango orgánico constitucional. Primer Trámite Primer Informe 88920 Boletín N°18216-05 2026-05-20T11:08:58 91 61 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 13 del texto propuesto por la Comisión de Hacienda y la Comisión de Medio Ambiente (que sustituye al artículo 15 del mensaje), cuya votación separada ha sido solicitada por los diputados Boris Barrera, Raúl Leiva, y que consta en las páginas 367 a 371 del comparado. Primer Trámite Primer Informe 88919 Boletín N°18216-05 2026-05-20T11:06:19 80 73 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 12 del texto propuesto por la Comisión de Hacienda y por la Comisión de Medio Ambiente (que sustituye al artículo 14 del mensaje), cuya votación separada ha sido solicitada por la diputada Gael Yeomans y los diputados Boris Barrera, Jorge Brito, Raúl Leiva y Raúl Soto, y que consta en la página 365 a 367 del comparado. Primer Trámite Primer Informe 88918 Boletín N°18216-05 2026-05-20T11:05:19 71 82 0 0 Quórum Simple Unánime Proyecto de Ley Particular Renovado una indicación de las diputadas y diputados Serrano, Gatica, Bassa, Crisóstomo y Tello para reemplazar los artículos 12, 13, 14, 15 y 16 del texto propuesto por la Comisión de Hacienda, por uno del siguiente tenor: “Artículo 12.- En caso que una Resolución de Calificación Ambiental sea anulada por sentencia judicial firme y ejecutoriada, el titular podrá solicitar indemnización, cumpliendo los requisitos que el ordenamiento jurídico dispone para el error judicial.” Primer Trámite Primer Informe 88917 Boletín N°18216-05 2026-05-20T11:03:52 68 85 0 0 Quórum Simple Unánime Proyecto de Ley Particular Renovación de una indicación de las diputadas y diputados Serrano, Gatica, Bassa, Crisóstomo y Tello, para agregar un nuevo numeral al artículo 11 del proyecto, para incorporar un nuevo artículo 29 bis en la ley 19.300 del siguiente tenor: \"Art 29 bis.- La acción de reclamación a que se refiere el artículo anterior podrá ser ejercida, asimismo, por quienes acrediten ser titulares de derechos o intereses legítimos que puedan resultar afectados por los impactos del proyecto o actividad evaluado, con independencia de si hubieren participado en el proceso de participación ciudadana.\" Primer Trámite Primer Informe 88916 Boletín N°18216-05 2026-05-20T11:02:32 0 151 2 0 Quórum Calificado Unánime Proyecto de Ley Particular Numeral 6) del artículo 11 propuesto por la Comisión de Hacienda (correspondiente al art 13 del mensaje), que la Comisión de Medio Ambiente propone rechazar, que consta en la página 352 del comparado, y que requiere para su aprobación del voto favorable de 78 diputadas y diputados por tratarse de una norma de rango orgánico constitucional. Primer Trámite Primer Informe 88915 Boletín N°18216-05 2026-05-20T11:00:25 85 66 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 11 propuesto por la Comisión de Hacienda y Medio Ambiente (correspondiente al art 13 del mensaje), cuya votación separada ha sido solicitada por la diputada Gael Yeomans y los diputados Boris Barrera, Jorge Brito, Raúl Leiva, y que consta en las páginas 338 a 365 del comparado, con la salvedad de su numeral 6). Primer Trámite Primer Informe 88914 Boletín N°18216-05 2026-05-20T10:59:20 65 87 1 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art. 65 inciso cuarto N°1, exenciones tributarias.) respecto de la indicación de las diputadas y diputados Gazmuri, Hassler, Castillo, Pizarro, Serrano, Santibáñez, González, Barrera, Barraza, Salinas, Cuello y Gatica, para agregar el siguiente artículo 10 bis nuevo en el proyecto de ley: \"Artículo 10 bis.- Es contrario a la probidad y transparencia de la función pública, que el beneficio fiscal del Impuesto Territorial del artículo anterior, sea percibido por alguna persona contribuyente adulto mayor, en tanto tenga cargo de responsabilidad pública de Subsecretario o Ministro de Estado.\" Primer Trámite Primer Informe 88913 Boletín N°18216-05 2026-05-20T10:54:39 67 84 2 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art. 65 inciso cuarto N°1, exenciones tributarias.) respecto de la indicación del diputado Cesar Valenzuela, para agregar el siguiente artículo 10 bis nuevo en el proyecto de ley: \"Artículo 10 bis.- La exención regulada en el artículo anterior entrará en vigencia en la medida que se dicte una ley que asegure la compensación de manera íntegra de los ingresos al Fondo Común Municipal que se dejarán de percibir por aplicación de la misma. Dicha iniciativa deberá ser ingresada por el Presidente de la República antes del 30 julio del 2026.\" Primer Trámite Primer Informe 88912 Boletín N°18216-05 2026-05-20T10:50:34 95 57 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 10 del texto propuesto por la Comisión de Hacienda (que sustituye el 12 del mensaje), cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y los diputados Boris Barrera, Jorge Brito, Raúl Leiva, que consta en las páginas 330 a 338 del comparado. Primer Trámite Primer Informe 88911 Boletín N°18216-05 2026-05-20T10:46:46 82 48 24 0 Quórum Simple Aprobado Proyecto de Ley Particular En votación la indicación renovada del diputado Jorge Brito que consta en las páginas 603 a 620 del informe de la Comisión de Hacienda. Primer Trámite Primer Informe 88910 Boletín N°18216-05 2026-05-20T10:45:22 80 65 9 0 Quórum Simple Aprobado Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (incide en administración financiera o presupuestaria del Estado, Art. 65, inciso tercero y no tiene relación con ideas matrices o fundamentales del proyecto, Art. 69) respecto de la indicación del diputado Jorge Brito, que consta en las páginas 603 a 620 del informe de la Comisión de Hacienda, y que se refiere a la modificación del Código del Trabajo para establecer un sistema de Sala Cuna Universal. Primer Trámite Primer Informe 88909 Boletín N°18216-05 2026-05-20T10:42:48 82 71 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 9 del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y por los diputados Boris Barrera, Jorge Brito, Raúl Leiva, y que consta en las páginas 213 a 330 del Comparado Primer Trámite Primer Informe 88908 Boletín N°18216-05 2026-05-20T10:41:54 90 63 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 4) del artículo 8 del proyecto (art 10 del mensaje), en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Raúl Leiva, y que consta en las páginas 188 a 213 del Comparado. Primer Trámite Primer Informe 88907 Boletín N°18216-05 2026-05-20T10:41:00 81 69 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 3) del artículo 8 del proyecto (art 10 del mensaje), en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Raúl Leiva, y que consta en las páginas 182 a 188 del Comparado. Primer Trámite Primer Informe 88906 Boletín N°18216-05 2026-05-20T10:39:59 87 65 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 8 del proyecto (art 10 del mensaje), en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por la diputada Gael Yeomans y los diputados Boris Barrera, Jorge Brito y Raúl Soto, que consta en las páginas 67 a 213 del Comparado, con la salvedad de sus numerales 3) y 4), cuya votación separada a su vez ha sido solicitada. Primer Trámite Primer Informe 88905 Boletín N°18216-05 2026-05-20T10:38:56 88 66 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 7 del texto propuesto por la Comisión de Hacienda (que sustituye el artículo 9 del mensaje), cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans y los diputados Boris Barrera, Jorge Brito, Raúl Leiva, que consta en las páginas 52 a 67 del comparado. Primer Trámite Primer Informe 88904 Boletín N°18216-05 2026-05-20T10:37:40 43 104 7 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo 8 del mensaje, que la Comisión de Hacienda propone rechazar, y que consta en la página 51 y 52 del comparado. Primer Trámite Primer Informe 88903 Boletín N°18216-05 2026-05-20T10:36:32 90 61 3 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 6 en los términos propuestos por la Comisión de Hacienda y por la Comisión de Medio Ambiente (artículo 7 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en la página 27 a 51 del Comparado. Primer Trámite Primer Informe 88902 Boletín N°18216-05 2026-05-20T10:35:38 98 56 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 5 en los términos propuestos por la Comisión de Hacienda y por la Comisión de Medio Ambiente (artículo 6 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri y por el diputado Boris Barrera, y que consta en la página 26 del Comparado. Primer Trámite Primer Informe 88901 Boletín N°18216-05 2026-05-20T10:34:44 86 67 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 4 en los términos propuestos por la Comisión de Hacienda y por la Comisión de Medio Ambiente (artículo 5 del mensaje), cuya votación separada ha sido solicitada por la diputada Ana María Gazmuri, y los diputados Boris Barrera y Jaime Coloma, que consta en las páginas 24 a 25 del comparado. Primer Trámite Primer Informe 88900 Boletín N°18216-05 2026-05-20T10:33:25 77 77 0 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo 4 del mensaje, que la Comisión de Hacienda propone rechazar, y que consta en las páginas 18 a 24 del comparado. Primer Trámite Primer Informe 88899 Boletín N°18216-05 2026-05-20T10:32:29 67 86 1 0 Quórum Simple Unánime Proyecto de Ley Particular Reclamación de la declaración de inadmisibilidad efectuada por la Comisión de Hacienda (Art.65 inc. 3, incide en la administración financiera) respecto de la indicación del diputado Barrera, para incorporar en el numeral 2) del artículo 3, un artículo nuevo: Agréguese, a continuación del artículo 24 quinquies en el decreto con fuerza de ley N° 2, de 1959, del Ministerio de Obras Públicas, sobre Plan Habitacional, contenido en el decreto Nº 1.101, de 1960, creado por esta ley, un artículo 24 sexies, del siguiente tenor: “Artículo 24 sexies.- El Servicio de Impuestos Internos estará habilitado para llevar un registro actualizado de los contribuyentes que hayan comunicado su opción de ingresar al régimen de la presente ley señalando quienes hayan comunicado su decisión de salida, con indicación, en este último caso, de que no podrán volver a ingresar. Dicho registro, sin incluir datos de carácter personal conforme a la ley Nº 19.628, deberá contener al menos el número total de contribuyentes activos en el régimen, el número de contribuyentes que han ejercido la opción de salida desde la entrada en vigencia del presente régimen y el número de viviendas económicas comprendidas en cada categoría, desagregado por región. Esta información puede ser actualizada semestralmente y estará disponible en el sitio web del Servicio.”. Primer Trámite Primer Informe 88898 Boletín N°18216-05 2026-05-20T10:28:20 84 70 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 24 ter contenido en el numeral 2) del artículo 3 del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Raul Leiva, y que consta en las páginas 13 a 16 del Comparado. Primer Trámite Primer Informe 88897 Boletín N°18216-05 2026-05-20T10:27:15 89 64 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 3 del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans, y por los diputados Boris Barrera, Jorge Brito, Raúl Leiva, que consta en las páginas 8 a 18 del Comparado, con la salvedad del artículo 24 ter que agrega su numeral 2), cuya votación separada a su vez ha sido solicitada. Primer Trámite Primer Informe 88896 Boletín N°18216-05 2026-05-20T10:26:14 154 0 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 2 del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans, y los diputados Boris Barrera, Jorge Brito, Raúl Leiva y Raúl Soto, y que consta en la página 7 del comparado. Primer Trámite Primer Informe 88895 Boletín N°18216-05 2026-05-20T10:24:40 153 1 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo 1 del proyecto, en los términos propuestos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri, Gael Yeomans, y los diputados Boris Barrera, Jorge Brito, Raúl Leiva y Raúl Soto, y que consta en las páginas 1 a 5 del comparado. Primer Trámite Primer Informe 88894 Boletín N°18216-05 2026-05-20T10:21:26 84 67 0 0 Quórum Calificado Aprobado Proyecto de Ley General Artículo 11 número 6; el artículo 14; el artículo 16 inciso final; y el artículo 17 del proyecto Primer Trámite Primer Informe 88893 Boletín N°18216-05 2026-05-20T10:19:59 90 59 1 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18216-05",
-   "canales_descubrimiento": [
-    "semilla",
-    "cartera",
-    "senado_movimiento"
-   ],
-   "id": "9b68e4e65b2ab18e",
-   "puntaje_pertinencia": 28.0,
-   "nivel_impacto": "sectorial",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [
-     "beneficiarios finales"
-    ],
-    "estructurales": [
-     "propiedad industrial"
-    ],
-    "sectoriales": [
-     "instituciones financieras"
-    ]
-   },
-   "sectores": [
-    "banca_financiero"
-   ],
-   "sectores_legibles": [
-    "Banca y sistema financiero"
-   ],
-   "ejes": [
-    "delitos_base",
-    "beneficiario_final"
-   ],
-   "ejes_legibles": [
-    "Catálogo de delitos base",
-    "Beneficiario final y transparencia societaria"
-   ],
-   "impacto_legible": "Impacto sectorial en sujetos obligados",
-   "requiere_revision_manual": true,
-   "nivel_cartera": 2,
-   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
-   "urgencia_clave": "discusion inmediata",
-   "urgencia_legible": "Discusión inmediata",
-   "etapa_ordinal": 5,
-   "vigente": true,
-   "ultimo_movimiento": "2026-04-22T00:00:00-04:00",
-   "ultimo_movimiento_legible": "22/04/2026",
-   "dias_sin_movimiento": 118,
-   "ultimo_tramite": "",
-   "camara_actual": "C.Diputados",
-   "total_tramites": 0,
-   "fecha_ingreso_legible": "22/04/2026",
-   "antiguedad_dias": 118,
-   "prioridad": 114.2,
-   "banda_prioridad": "media",
-   "factor_urgencia": 3.0,
-   "factor_proximidad": 1.4,
-   "factor_frescura": 0.8,
-   "huella": "611ab1d159ec24360f88",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
-   "sintesis": "Discusión inmediata · Trámite finalización en Cámara de Origen (C.Diputados)",
-   "novedad": "",
-   "novedad_detectada": "2026-08-17T21:34:18.659190-04:00"
   },
   {
    "boletin": "15975-25",
@@ -10442,10 +11243,10 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-18T06:33:56.188703-04:00"
+   "revisado": "2026-08-18T08:55:24.295550-04:00"
   }
  ],
- "novedades": 0,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -10504,9 +11305,9 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 1,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 0,
+  "con_movimiento": 1,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
@@ -10557,6 +11358,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 69.3
+  "segundos_corrida": 68.8
  }
 }
