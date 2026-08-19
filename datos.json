@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-18T18:28:56.667435-04:00",
- "generado_legible": "18/08/2026 18:28",
+ "generado": "2026-08-18T21:36:21.358755-04:00",
+ "generado_legible": "18/08/2026 21:36",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-08-18T18:28:56.667435-04:00"
+  "generado": "2026-08-18T21:36:21.358755-04:00"
  },
  "proyectos": [
   {
@@ -1495,7 +1495,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
    "sintesis": "Discusión inmediata · Trámite finalización en Cámara de Origen (C.Diputados) · Cuenta, Copia autorizada de una resolución del Tribunal Constitucional mediante la cual prorroga por diez días el plazo para resolver el requerimiento de inconstitucionalidad presentado respecto del proyecto.",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-18T18:28:56.667435-04:00"
   },
   {
@@ -5085,7 +5085,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19011&prmBOLETIN=18333-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18333",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta oficio N° 222-2026 de la Corte Suprema",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-18T18:28:56.667435-04:00"
   },
   {
@@ -5317,7 +5317,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19266&prmBOLETIN=18582-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18582",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-18T18:28:56.667435-04:00"
   },
   {
@@ -11314,17 +11314,17 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-18T18:28:56.667435-04:00"
+   "revisado": "2026-08-18T21:36:21.358755-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-18T18:28:56.667435-04:00"
+   "revisado": "2026-08-18T21:36:21.358755-04:00"
   }
  ],
- "novedades": 3,
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11375,7 +11375,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 201,
+  "candidatos_descubiertos": 206,
   "boletines_consultados": 44,
   "fichas_obtenidas": 44,
   "consultas_fallidas": 0,
@@ -11383,14 +11383,14 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 2,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 3,
+  "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 3,
+  "con_movimiento": 0,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
    "cartera": 43,
-   "senado_movimiento": 166,
+   "senado_movimiento": 171,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -11398,7 +11398,7 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 166,
+    "resultados": 171,
     "errores": [],
     "consultado": true
    },
@@ -11434,6 +11434,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 75.6
+  "segundos_corrida": 80.4
  }
 }
