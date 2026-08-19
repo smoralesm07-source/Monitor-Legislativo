@@ -2,17 +2,17 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-18T23:02:48.920210-04:00",
-  "generado_legible": "18/08/2026 23:02",
+  "generado": "2026-08-19T00:42:07.353999-04:00",
+  "generado_legible": "19/08/2026 00:42",
   "proyectos_total": 43,
-  "vigentes": 42,
-  "movimientos_recientes": 2,
-  "movimientos_30d": 4,
-  "novedades_corrida": 39,
+  "vigentes": 40,
+  "movimientos_recientes": 7,
+  "movimientos_30d": 10,
+  "novedades_corrida": 38,
   "impacto_directo": 8,
-  "con_urgencia": 1,
-  "prioridad_alta": 1,
-  "estancados_180d": 23,
+  "con_urgencia": 5,
+  "prioridad_alta": 4,
+  "estancados_180d": 17,
   "ultimo": {
     "titulo": "Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal",
     "detalle": "Boletín 16808-25 · 18/08/2026 · Segundo trámite constitucional (Senado)",
@@ -21,12 +21,8 @@
   },
   "serie_7d": [
     {
-      "fecha": "2026-08-12",
-      "n": 0
-    },
-    {
       "fecha": "2026-08-13",
-      "n": 1
+      "n": 0
     },
     {
       "fecha": "2026-08-14",
@@ -42,11 +38,15 @@
     },
     {
       "fecha": "2026-08-17",
-      "n": 0
+      "n": 1
     },
     {
       "fecha": "2026-08-18",
-      "n": 1
+      "n": 4
+    },
+    {
+      "fecha": "2026-08-19",
+      "n": 0
     }
   ],
   "alertas": [
@@ -59,27 +59,27 @@
       "fuente": "LEGISLATIVO"
     },
     {
+      "severidad": "alta",
+      "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
+      "detalle": "Boletín 17912-25 · Nivel 1 · Impacto en la Ley 19.913 · Sin urgencia",
+      "fecha": "2026-08-18T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
+      "titulo": "Modifica diversos cuerpos legales, con el objeto de sancionar penalmente el reclutamiento de personas por parte de una asociación delictiva o criminal",
+      "detalle": "Boletín 18333-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-08-18T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18333-07",
+      "fuente": "LEGISLATIVO"
+    },
+    {
       "severidad": "info",
       "titulo": "Consagra los territorios especiales digitales, con el objeto de fortalecer la soberanía digital, la continuidad estratégica del Estado y la cooperación internacional",
       "detalle": "Boletín 18582-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-08-13T00:00:00-04:00",
+      "fecha": "2026-08-18T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18582-07",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Autoriza al Presidente de la República para recompensar a quienes aporten antecedentes útiles para la investigación y sanción de delitos vinculados al crimen organizado",
-      "detalle": "Boletín 18573-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-08-07T11:55:23-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18573-25",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Modifica diversos cuerpos legales en materia de persecución penal y patrimonial, y tipifica nuevos delitos para combatir el crimen organizado",
-      "detalle": "Boletín 18488-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-07-21T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18488-07",
       "fuente": "LEGISLATIVO"
     }
   ],
@@ -89,16 +89,16 @@
       "texto": "Boletín 16808-25: Cuenta del Mensaje 267-374 que retira y hace presente la urgencia Simple"
     },
     {
-      "fecha": "2026-08-13T00:00:00-04:00",
-      "texto": "Boletín 18582-07:"
+      "fecha": "2026-08-18T00:00:00-04:00",
+      "texto": "Boletín 17912-25: Cuenta de proyecto . Pasa a Comisión de Seguridad Pública"
     },
     {
-      "fecha": "2026-08-07T11:55:23-04:00",
-      "texto": "Boletín 18573-25:"
+      "fecha": "2026-08-18T00:00:00-04:00",
+      "texto": "Boletín 18333-07: Cuenta oficio N° 222-2026 de la Corte Suprema"
     },
     {
-      "fecha": "2026-07-21T00:00:00-04:00",
-      "texto": "Boletín 18488-07:"
+      "fecha": "2026-08-18T00:00:00-04:00",
+      "texto": "Boletín 18582-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
     }
   ]
 }
