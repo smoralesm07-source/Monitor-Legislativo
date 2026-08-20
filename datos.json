@@ -1,11 +1,11 @@
 {
- "generado": "2026-08-19T21:35:37.622494-04:00",
- "generado_legible": "19/08/2026 21:35",
+ "generado": "2026-08-19T23:01:36.567923-04:00",
+ "generado_legible": "19/08/2026 23:01",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
   "total": 43,
-  "vigentes": 40,
+  "vigentes": 41,
   "impacto_directo": 8,
   "impacto_estructural": 6,
   "impacto_sectorial": 24,
@@ -16,15 +16,15 @@
   "movimiento_7d": 7,
   "movimiento_30d": 10,
   "nivel_1": 8,
-  "nivel_2": 28,
+  "nivel_2": 29,
   "nivel_3": 4,
   "requieren_revision_manual": 4,
-  "estancados_180d": 17,
+  "estancados_180d": 18,
   "pipeline": [
    {
     "ordinal": 0,
     "etapa": "Cerrado o archivado",
-    "total": 1
+    "total": 2
    },
    {
     "ordinal": 1,
@@ -120,7 +120,7 @@
    {
     "clave": "sin urgencia",
     "etiqueta": "Sin urgencia",
-    "total": 35
+    "total": 36
    },
    {
     "clave": "simple",
@@ -148,6 +148,11 @@
     "clave": "C.Diputados",
     "etiqueta": "C.Diputados",
     "total": 19
+   },
+   {
+    "clave": "Cámara de Diputados",
+    "etiqueta": "Cámara de Diputados",
+    "total": 1
    }
   ],
   "por_iniciativa": [
@@ -162,7 +167,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-08-19T21:35:37.622494-04:00"
+  "generado": "2026-08-19T23:01:36.567923-04:00"
  },
  "proyectos": [
   {
@@ -414,7 +419,8 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=16808-25",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "fa5ca40fa3da378b",
    "puntaje_pertinencia": 316.0,
@@ -1436,7 +1442,8 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18216-05",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "9b68e4e65b2ab18e",
    "puntaje_pertinencia": 28.0,
@@ -1653,7 +1660,8 @@
    "texto_camara_completo": "18569 17912-25 Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos 2025-10-10T00:00:00 Moción Cámara de Diputados 0 1009 Jorge Alessandri Vergara 0 1044 Raúl Leiva Carvajal 0 1046 Andrés Longton Herrera 0 1067 Hugo Rey Martínez 0 1075 Diego Schalper Sepúlveda 0 1019 José Miguel Castro Bascuñán 0 1099 Jaime Araya Guerrero 0 1134 Andrés Jouannet Valderrama 0 1152 Gloria Naveillan Arriagada 0 1100 Cristián Araya Lerdo de Tejada 89781 Boletín N°17912-25 2026-08-17T19:47:28 130 0 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo único del proyecto, en los términos propuestos por la Comisión de Seguridad Ciudadana. Primer Trámite Primer Informe 89780 Boletín N°17912-25 2026-08-17T19:46:44 52 60 18 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo único del proyecto, con la indicación del diputado Raúl Leiva para intercalar un numeral 1 antes de la expresión “Intercálase en el artículo 27 letra a)”; y para agregar el siguiente numeral 2, nuevo: “2. Intercálase, en el artículo 27 letra a), entre las expresión “quinquies, y en los artículos” y el guarismo “467”, la expresión “438,”. Primer Trámite Primer Informe 89779 Boletín N°17912-25 2026-08-17T19:45:31 131 0 0 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17912-25",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "80d2ea7de230a503",
    "puntaje_pertinencia": 316.0,
@@ -2202,7 +2210,8 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=14773-02",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "1083c0b2961f15d8",
    "puntaje_pertinencia": 96.0,
@@ -4447,7 +4456,8 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18420-25",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "9ea5d77fee565cf7",
    "puntaje_pertinencia": 32.0,
@@ -5032,7 +5042,8 @@
    "texto_camara_completo": "19011 18333-07 Modifica diversos cuerpos legales, con el objeto de sancionar penalmente el reclutamiento de personas por parte de una asociación delictiva o criminal 2026-06-10T00:00:00 Moción Senado 0 1117 Iván Moreira Barros 0 1324 Karim Bianchi Retamales 0 1337 Paulina Núñez Urrutia 0 1339 Gastón Saavedra Chandía 0 1450 Paulina Vodanovic Rojas true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18333-07",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "5141da866ef863d2",
    "puntaje_pertinencia": 32.0,
@@ -5142,7 +5153,8 @@
    "texto_camara_completo": "19266 18582-07 Consagra los territorios especiales digitales, con el objeto de fortalecer la soberanía digital, la continuidad estratégica del Estado y la cooperación internacional 2026-08-13T00:00:00 Moción Senado 0 1110 Pedro Araya Guerrero 0 1117 Iván Moreira Barros 0 1337 Paulina Núñez Urrutia 0 1450 Paulina Vodanovic Rojas 0 1518 Cristian Vial Maceratta true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18582-07",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "023a23c08dd98d71",
    "puntaje_pertinencia": 32.0,
@@ -8137,6 +8149,106 @@
    "novedad_detectada": "2026-08-19T00:42:07.353999-04:00"
   },
   {
+   "boletin": "16621-05",
+   "titulo": "Dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal",
+   "fecha_ingreso": "2024-01-29T00:00:00-03:00",
+   "etapa": "",
+   "subetapa": "",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia": "",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "",
+   "link_texto_original": "",
+   "tramitacion": [],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [],
+   "materias": [
+    "ABONOS BANCARIOS",
+    "BANCOS",
+    "COMERCIO ILEGAL",
+    "CONTRIBUYENTES",
+    "CÓDIGO TRIBUTARIO",
+    "ELUSIÓN TRIBUTARIA",
+    "EVASIÓN DE IMPUESTOS",
+    "SECRETO BANCARIO"
+   ],
+   "comisiones": [],
+   "informes": [],
+   "ministerios": [
+    "Ministerio de Hacienda"
+   ],
+   "camara_id": "17191",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara"
+   ],
+   "admisible": "true",
+   "texto_camara_completo": "17191 16621-05 Dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal 2024-01-29T00:00:00 Mensaje Cámara de Diputados 2 Ministerio de Hacienda 41219 Boletín N°16621-05 2024-09-25T14:00:12 123 17 0 0 Quórum Simple Aprobado Proyecto de Ley Única Propuesta del Senado para agregar los numerales 3 y 4 al artículo 8, nuevo, del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 738 a 742 del comparado. Tercer Trámite Sin Informe 41218 Boletín N°16621-05 2024-09-25T13:59:24 124 14 2 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas incorporadas por el Senado al numeral 5 del artículo 3 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 475 a 487 del comparado. Tercer Trámite Sin Informe 41217 Boletín N°16621-05 2024-09-25T13:57:36 124 16 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas incorporadas por el Senado al numeral 4 del artículo 2 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 443 a 462 del comparado. Tercer Trámite Sin Informe 41216 Boletín N°16621-05 2024-09-25T13:56:44 98 39 3 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas incorporadas por el Senado al artículo 100 quinquies contenido en el numeral 39 del artículo 1, cuya votación separada ha sido solicitada por el diputado Felipe Donoso, y que consta en las páginas 278 a 279 del comparado. Tercer Trámite Sin Informe 41215 Boletín N°16621-05 2024-09-25T13:55:42 123 17 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas incorporadas por el Senado al numeral 33 (que ha pasado a ser 39) del artículo 1 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 270 a 280 del comparado, con la salvedad de las modificaciones propuestas al artículo 100 quinquies, cuya votación separada a su vez ha sido solicitada. Cabe hacer presente que los incisos primero, tercero y final del artículo 100 quáter incorporado por el numeral 39, requiere para su aprobación del voto favorable de 78 diputadas y diputados por tratarse de normas de quorum calificado. Tercer Trámite Sin Informe 41214 Boletín N°16621-05 2024-09-25T13:54:24 124 16 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas incorporadas por el Senado al numeral 25 (que ha pasado a ser 27), del artículo 1 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 170 a 178 del comparado. Tercer Trámite Sin Informe 41213 Boletín N°16621-05 2024-09-25T13:53:18 124 16 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda incorporada por el Senado para agregar un numeral 7), nuevo, al artículo 1 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 46 a 51 del comparado. Cabe hacer presente que el párrafo sexto del número 1° del artículo 6° bis contenido en el numeral 7 requiere para su aprobación del voto favorable de 78 diputadas y diputados por tratarse de una norma de quorum calificado. Tercer Trámite Sin Informe 41212 Boletín N°16621-05 2024-09-25T13:52:17 124 16 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda incorporada por el Senado para agregar una nueva letra c) en el numeral 6) del artículo 1 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 44 a 46 del comparado. Tercer Trámite Sin Informe 41211 Boletín N°16621-05 2024-09-25T13:51:27 124 16 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda incorporada por el Senado para reemplazar el numeral 5 del artículo 1 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 11 a 16 del comparado. Tercer Trámite Sin Informe 41210 Boletín N°16621-05 2024-09-25T13:50:38 124 16 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas incorporadas por el Senado para reemplazar las letras d) y e) aprobadas en primer trámite constitucional por una nueva letra d) en el numeral 2 del artículo 1 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 4 a 5 del comparado. Tercer Trámite Sin Informe 41209 Boletín N°16621-05 2024-09-25T13:49:43 122 16 2 0 Quórum Calificado Aprobado Proyecto de Ley Única Numeral 25; el artículo 65 bis contenido en el numeral 28; el número 2 del artículo 65 ter incorporado por el numeral 29; el artículo 92 ter propuesto en el numeral 36; las letras e) y f) del numeral 57, todos numerales del artículo 1 permanente; el inciso tercero del artículo 8 bis incorporado por el numeral 1; el numeral 5; todos numerales del artículo 4 permanente; el numeral 1, los párrafos primero y tercero de la letra D del artículo 3° ter propuesto en el numeral 2 y el numeral 6 del artículo 8 permanente, por tratarse de normas orgánicas constitucionales. Por su parte, el párrafo segundo del número 4 del numeral 24 y el numeral 76, ambos numerales del artículo 1 permanente, por tratarse de normas de quorum calificado. Tercer Trámite Sin Informe 41208 Boletín N°16621-05 2024-09-25T13:47:44 124 16 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas del Senado recaídas en el proyecto de ley, originado en mensaje, que “Dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal”, con la salvedad de aquellas que requieren quorum especial de aprobación y de aquellas cuya votación separada ha sido solicitada. Tercer Trámite Sin Informe 37563 Boletín N°16621-05 2024-04-10T13:37:04 75 66 1 0 Quórum Calificado Unánime Proyecto de Ley Particular Numeral 54 del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37562 Boletín N°16621-05 2024-04-10T13:35:38 75 66 1 0 Quórum Calificado Unánime Proyecto de Ley Particular Numeral 40 del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37561 Boletín N°16621-05 2024-04-10T13:34:22 79 60 3 0 Quórum Calificado Aprobado Proyecto de Ley Particular Numeral 39, literal b) del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37560 Boletín N°16621-05 2024-04-10T13:33:15 99 42 0 0 Quórum Calificado Aprobado Proyecto de Ley Particular Numeral 39 del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37559 Boletín N°16621-05 2024-04-10T13:31:52 79 59 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 37, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37558 Boletín N°16621-05 2024-04-10T13:30:52 98 38 5 0 Quórum Calificado Aprobado Proyecto de Ley Particular Numeral 36, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37557 Boletín N°16621-05 2024-04-10T13:29:45 99 41 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 34 del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37556 Boletín N°16621-05 2024-04-10T13:28:47 77 54 10 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 33, letra h) del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37555 Boletín N°16621-05 2024-04-10T13:27:53 81 58 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 27, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37554 Boletín N°16621-05 2024-04-10T13:26:53 77 56 8 0 Quórum Calificado Unánime Proyecto de Ley Particular Numeral 25, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37553 Boletín N°16621-05 2024-04-10T13:25:34 95 45 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Letra d) del numeral 24) del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Boris Barrera, y que consta en la página 154 del comparado. Primer Trámite Primer Informe 37552 Boletín N°16621-05 2024-04-10T13:24:33 77 54 10 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 24, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por los diputados Miguel Mellado, Guillermo Ramírez, Agustín Romero que consta en las páginas 141 a 154 del comparado, con la salvedad de su letra d), cuya votación separada a su vez ha sido solicitada. Primer Trámite Primer Informe 37551 Boletín N°16621-05 2024-04-10T13:23:34 75 58 8 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 6, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por los diputados Miguel Mellado, Guillermo Ramírez y Agustín Romero, y que consta en las páginas 17 a 33 del comparado. Primer Trámite Primer Informe 37550 Boletín N°16621-05 2024-04-10T13:22:38 73 59 9 0 Quórum Calificado Unánime Proyecto de Ley Particular Numeral 5, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por los diputados Miguel Mellado, Guillermo Ramírez y Agustín Romero, que consta en las páginas 9 a 17 del comparado, y que requiere para su aprobación del voto favorable de 78 diputadas y diputados, es decir, la mayoría absoluta de los diputados en ejercicio, según lo dispuesto en el inciso segundo del artículo 66 de la Constitución Política de la República. Primer Trámite Primer Informe 37549 Boletín N°16621-05 2024-04-10T13:21:36 81 57 3 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 4, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37548 Boletín N°16621-05 2024-04-10T13:20:47 80 59 2 0 Quórum Calificado Aprobado Proyecto de Ley Particular Numeral 3, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por los diputados Guillermo Ramírez y Agustín Romero, y que consta en las páginas 6 a 8 del comparado. Cabe hacer presente que su letra j), párrafo 10, requiere para su aprobación del voto favorable de 78 diputadas y diputados, es decir, la mayoría absoluta de los diputados en ejercicio, según lo dispuesto en el inciso segundo del artículo 66 de la Constitución Política de la República. Primer Trámite Primer Informe 37547 Boletín N°16621-05 2024-04-10T13:19:41 74 59 8 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 2 del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por los diputados Guillermo Ramírez y Agustín Romero, y que consta en las páginas 2 a 6 del comparado. Primer Trámite Primer Informe 37546 Boletín N°16621-05 2024-04-10T13:18:13 120 19 2 0 Quórum Calificado Aprobado Proyecto de Ley General Número 36 del artículo primero; el número 3, letra j), párrafo 10, del artículo segundo; por tratarse de normas propias de quorum calificado; y los números 5, 21, 25, 28, 29, 39, 40, 41, 44, 46, letra a), 50, 52, 53 y 54, todos del artículo primero; números 7, 9, 23, todos del artículo quinto; 1; 2, letra b), ambos del artículo undécimo. Primer Trámite Primer Informe 37545 Boletín N°16621-05 2024-04-10T13:16:43 120 18 3 0 Quórum Simple Aprobado Proyecto de Ley General Número 36 del artículo primero; el número 3, letra j), párrafo 10, del artículo segundo; por tratarse de normas propias de quorum calificado; y los números 5, 21, 25, 28, 29, 39, 40, 41, 44, 46, letra a), 50, 52, 53 y 54, todos del artículo primero; números 7, 9, 23, todos del artículo quinto; 1; 2, letra b), ambos del artículo undécimo. Primer Trámite Primer Informe 3915 CONTRIBUYENTES 3860 SECRETO BANCARIO 4388 COMERCIO ILEGAL 24167 ELUSIÓN TRIBUTARIA 1024 CÓDIGO TRIBUTARIO 3828 EVASIÓN DE IMPUESTOS 25636 ABONOS BANCARIOS 947 BANCOS true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=16621-05",
+   "canales_descubrimiento": [
+    "cartera"
+   ],
+   "id": "555ea9a190f0134e",
+   "puntaje_pertinencia": 84.0,
+   "nivel_impacto": "estructural",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [
+     "secreto bancario"
+    ],
+    "estructurales": [
+     "comercio ilegal"
+    ],
+    "sectoriales": [
+     "bancos"
+    ]
+   },
+   "sectores": [
+    "banca_financiero"
+   ],
+   "sectores_legibles": [
+    "Banca y sistema financiero"
+   ],
+   "ejes": [
+    "secreto_bancario"
+   ],
+   "ejes_legibles": [
+    "Secreto y reserva bancaria"
+   ],
+   "impacto_legible": "Impacto estructural en el sistema ALA/CFT",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 2,
+   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 0,
+   "vigente": true,
+   "ultimo_movimiento": "2024-01-29T00:00:00-03:00",
+   "ultimo_movimiento_legible": "29/01/2024",
+   "dias_sin_movimiento": 933,
+   "ultimo_tramite": "",
+   "camara_actual": "Cámara de Diputados",
+   "total_tramites": 0,
+   "fecha_ingreso_legible": "29/01/2024",
+   "antiguedad_dias": 933,
+   "prioridad": 10.2,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 0.3,
+   "factor_frescura": 0.55,
+   "huella": "0a5848de083bede6b5c4",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16621-05",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17191&prmBOLETIN=16621-05",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16621",
+   "sintesis": "",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-19T23:01:36.567923-04:00"
+  },
+  {
    "boletin": "17060-07",
    "titulo": "Regula el ejercicio del derecho a reunión",
    "fecha_ingreso": "2024-08-16T00:00:00-04:00",
@@ -8229,771 +8341,6 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17676&prmBOLETIN=17060-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17060",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "",
-   "novedad_detectada": "2026-08-19T00:42:07.353999-04:00"
-  },
-  {
-   "boletin": "16621-05",
-   "titulo": "Dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal",
-   "fecha_ingreso": "2024-01-29T00:00:00-03:00",
-   "etapa": "Tramitación terminada",
-   "subetapa": "/",
-   "iniciativa": "Mensaje",
-   "camara_origen": "C.Diputados",
-   "urgencia": "Sin urgencia",
-   "ley_numero": "Ley N° 21.713",
-   "refundidos": "",
-   "estado": "Publicado",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=17191&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2024-01-29T00:00:00-03:00",
-     "fecha_legible": "29/01/2024",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-01-29T00:00:00-03:00",
-     "fecha_legible": "29/01/2024",
-     "sesion": "/",
-     "descripcion": "Informe financiero N° 43/29.01.2024, acompañado al mensaje 326-371.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-01-29T00:00:00-03:00",
-     "fecha_legible": "29/01/2024",
-     "sesion": "138/371",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-03-04T00:00:00-03:00",
-     "fecha_legible": "04/03/2024",
-     "sesion": "140/371",
-     "descripcion": "Cuenta del Mensaje 1988-371 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-03-11T00:00:00-03:00",
-     "fecha_legible": "11/03/2024",
-     "sesion": "1/372",
-     "descripcion": "Cuenta del Mensaje 38-372 que hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-03-20T00:00:00-03:00",
-     "fecha_legible": "20/03/2024",
-     "sesion": "8/372",
-     "descripcion": "Cuenta del Mensaje 132-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-01T00:00:00-03:00",
-     "fecha_legible": "01/04/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° 23-372. Oficio del Presidente de la Republica (N°23-372), por el cual formula indicaciones al proyecto. Se acompaña informe financiero complementario N°74/01.04.2024.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-01T00:00:00-03:00",
-     "fecha_legible": "01/04/2024",
-     "sesion": "10/372",
-     "descripcion": "Cuenta del Mensaje 170-372 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-08T00:00:00-04:00",
-     "fecha_legible": "08/04/2024",
-     "sesion": "/",
-     "descripcion": "Oficio del Presidente de la República (N°36-372), por el cual formula indicaciones al proyecto. Se adjunta informe financiero complementario N°86/08.04.2024.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-08T00:00:00-04:00",
-     "fecha_legible": "08/04/2024",
-     "sesion": "14/372",
-     "descripcion": "Cuenta del Mensaje 228-372 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-10T00:00:00-04:00",
-     "fecha_legible": "10/04/2024",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión de Hacienda.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-10T00:00:00-04:00",
-     "fecha_legible": "10/04/2024",
-     "sesion": "17/372",
-     "descripcion": "Cuenta de primer informe de comisión . Queda para tabla.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-10T00:00:00-04:00",
-     "fecha_legible": "10/04/2024",
-     "sesion": "17/372",
-     "descripcion": "Discusión general . Aprobado en general y particular a la vez",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-10T00:00:00-04:00",
-     "fecha_legible": "10/04/2024",
-     "sesion": "/",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-04-16T00:00:00-04:00",
-     "fecha_legible": "16/04/2024",
-     "sesion": "9/372",
-     "descripcion": "Cuenta del Mensaje 294-372 que hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-04-16T00:00:00-04:00",
-     "fecha_legible": "16/04/2024",
-     "sesion": "9/372",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-04-24T00:00:00-04:00",
-     "fecha_legible": "24/04/2024",
-     "sesion": "15/372",
-     "descripcion": "Cuenta del Mensaje 400-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-05-03T00:00:00-04:00",
-     "fecha_legible": "03/05/2024",
-     "sesion": "24/372",
-     "descripcion": "Cuenta de oficio N° 98-2024, de la Corte Suprema, por el cual remite opinión respecto del proyecto (informe N° 18-2024).",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-05-08T00:00:00-04:00",
-     "fecha_legible": "08/05/2024",
-     "sesion": "18/372",
-     "descripcion": "Cuenta del Mensaje 488-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-05-15T00:00:00-04:00",
-     "fecha_legible": "15/05/2024",
-     "sesion": "22/372",
-     "descripcion": "Cuenta del Mensaje 565-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-05-30T00:00:00-04:00",
-     "fecha_legible": "30/05/2024",
-     "sesion": "23/372",
-     "descripcion": "Cuenta del Mensaje 637-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-06-12T00:00:00-04:00",
-     "fecha_legible": "12/06/2024",
-     "sesion": "28/372",
-     "descripcion": "Cuenta del Mensaje 765-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-06-19T00:00:00-04:00",
-     "fecha_legible": "19/06/2024",
-     "sesion": "30/372",
-     "descripcion": "Cuenta del Mensaje 835-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-07-03T00:00:00-04:00",
-     "fecha_legible": "03/07/2024",
-     "sesion": "32/372",
-     "descripcion": "Cuenta del Mensaje 933-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-07-10T00:00:00-04:00",
-     "fecha_legible": "10/07/2024",
-     "sesion": "35/372",
-     "descripcion": "Cuenta del Mensaje 1016-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-07-24T00:00:00-04:00",
-     "fecha_legible": "24/07/2024",
-     "sesion": "38/372",
-     "descripcion": "Cuenta del Mensaje 1089-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-07-26T00:00:00-04:00",
-     "fecha_legible": "26/07/2024",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión de Hacienda.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-07-30T00:00:00-04:00",
-     "fecha_legible": "30/07/2024",
-     "sesion": "39/372",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-07-30T00:00:00-04:00",
-     "fecha_legible": "30/07/2024",
-     "sesion": "39/372",
-     "descripcion": "Discusión general . Aprobado en general",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-07-31T00:00:00-04:00",
-     "fecha_legible": "31/07/2024",
-     "sesion": "40/372",
-     "descripcion": "Se fija plazo para presentar indicaciones hasta el 12/08/2024 a las 12:00 en Secretaría.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-07T00:00:00-04:00",
-     "fecha_legible": "07/08/2024",
-     "sesion": "44/372",
-     "descripcion": "Cuenta del Mensaje 1221-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-12T00:00:00-04:00",
-     "fecha_legible": "12/08/2024",
-     "sesion": "/",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-12T00:00:00-04:00",
-     "fecha_legible": "12/08/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N°I.F.. I.F. N° 217 de 12 de agosto de 2024",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-14T00:00:00-04:00",
-     "fecha_legible": "14/08/2024",
-     "sesion": "46/372",
-     "descripcion": "Cuenta del Mensaje 1300-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-27T00:00:00-04:00",
-     "fecha_legible": "27/08/2024",
-     "sesion": "47/372",
-     "descripcion": "La Sala acuerda fijar un nuevo plazo para presentar indicaciones a este proyecto de ley, hasta las 17:30 horas del día de hoy, en la Secretaría de la Comisión de Hacienda.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-27T00:00:00-04:00",
-     "fecha_legible": "27/08/2024",
-     "sesion": "/",
-     "descripcion": "Boletín de indicaciones .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-28T00:00:00-04:00",
-     "fecha_legible": "28/08/2024",
-     "sesion": "48/372",
-     "descripcion": "Cuenta del Mensaje 1397-372 que retira y hace presente la urgencia Suma",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-28T00:00:00-04:00",
-     "fecha_legible": "28/08/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° H-6 (2024). A la Señora Presidenta del Banco Central de Chile.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-28T00:00:00-04:00",
-     "fecha_legible": "28/08/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° H-7 (2024). Al Señor Presidente de la Confederación Nacional de la Micro, Pequeña y Mediana Empresa (CONAPYME)",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-29T00:00:00-04:00",
-     "fecha_legible": "29/08/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° Carta. Carta. Respuesta al Oficio H-7 (2024)",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-29T00:00:00-04:00",
-     "fecha_legible": "29/08/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° H-10(2024). Al Señor Presidente Multigremial Nacional.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-08-29T00:00:00-04:00",
-     "fecha_legible": "29/08/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° Carta. Respuesta al Oficio H-10 (2024)",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-02T00:00:00-04:00",
-     "fecha_legible": "02/09/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° H-11 a la Corte Suprema",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-03T00:00:00-04:00",
-     "fecha_legible": "03/09/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° 221. Respuesta al Oficio H-6 (2024)",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-11T00:00:00-03:00",
-     "fecha_legible": "11/09/2024",
-     "sesion": "/",
-     "descripcion": "Segundo informe de comisión de Hacienda.",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-11T00:00:00-03:00",
-     "fecha_legible": "11/09/2024",
-     "sesion": "56/372",
-     "descripcion": "Cuenta de segundo informe de comisión .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-11T00:00:00-03:00",
-     "fecha_legible": "11/09/2024",
-     "sesion": "56/372",
-     "descripcion": "La Sala acuerda fijar los siguientes plazos respecto de la tramitación de este proyecto de ley: hasta las 12:00 horas del día 24 de septiembre de 2024, para renovar indicaciones y formular nuevas propuestas de enmienda, de conformidad con lo dispuesto en el Reglamento del Senado, y hasta las 14:00 horas de ese mismo día, para solicitar la votación separada de alguna de sus disposiciones",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-11T00:00:00-03:00",
-     "fecha_legible": "11/09/2024",
-     "sesion": "56/372",
-     "descripcion": "Discusión particular . Queda pendiente",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-17T00:00:00-03:00",
-     "fecha_legible": "17/09/2024",
-     "sesion": "/",
-     "descripcion": "Cuenta oficio N° 327-2024 de la Corte Suprema",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-17T00:00:00-03:00",
-     "fecha_legible": "17/09/2024",
-     "sesion": "/",
-     "descripcion": "Cuenta oficio N° 17DDI de la Corte Suprema",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-17T00:00:00-03:00",
-     "fecha_legible": "17/09/2024",
-     "sesion": "/",
-     "descripcion": "Cuenta oficio N° Anexo de la Corte Suprema",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-24T00:00:00-03:00",
-     "fecha_legible": "24/09/2024",
-     "sesion": "57/372",
-     "descripcion": "Cuenta del Mensaje 1568-372 que retira y hace presente la urgencia Discusión inmediata",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-24T00:00:00-03:00",
-     "fecha_legible": "24/09/2024",
-     "sesion": "57/372",
-     "descripcion": "Discusión particular . Aprobado con modificaciones",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "fecha_legible": "25/09/2024",
-     "sesion": "/",
-     "descripcion": "Oficio modificaciones a Cámara de Origen .",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "fecha_legible": "25/09/2024",
-     "sesion": "79/372",
-     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Pasa a Comisión de Hacienda (art. 120 del Reglamento).",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "fecha_legible": "25/09/2024",
-     "sesion": "79/372",
-     "descripcion": "Cuenta del Mensaje 1656-372 que hace presente la urgencia Discusión inmediata",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "fecha_legible": "25/09/2024",
-     "sesion": "/",
-     "descripcion": "Informe de comisión de Hacienda.",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "fecha_legible": "25/09/2024",
-     "sesion": "79/372",
-     "descripcion": "Cuenta informe de comisión .",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "fecha_legible": "25/09/2024",
-     "sesion": "79/372",
-     "descripcion": "Aprobadas las modificaciones del Senado. Se remite oficio a S.E. el Presidente de la República (art. 73 CPR)",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "fecha_legible": "25/09/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° 19869. Comunica al Senado que la Cámara aprobó las enmiendas propuestas por ese H. Senado al proyecto de ley.",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-26T00:00:00-03:00",
-     "fecha_legible": "26/09/2024",
-     "sesion": "/",
-     "descripcion": "Oficio de ley al Ejecutivo .",
-     "etapa": "Tercer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-30T00:00:00-03:00",
-     "fecha_legible": "30/09/2024",
-     "sesion": "80/372",
-     "descripcion": "Cuenta de Oficio de S. E. el Presidente de la República (N° 011-372), por el cual comunica que ha resuelto no hacer uso de la facultad de veto, que le confiere el inciso primero del artículo 73 de la Constitución Política de la República, respecto del proyecto.",
-     "etapa": "Trámite de aprobacion presidencial",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-09-30T00:00:00-03:00",
-     "fecha_legible": "30/09/2024",
-     "sesion": "/",
-     "descripcion": "Oficio N° 19871 al Tribunal Constitucional",
-     "etapa": "Trámite en Tribunal Constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-10-01T00:00:00-03:00",
-     "fecha_legible": "01/10/2024",
-     "sesion": "59/372",
-     "descripcion": "Cuenta de Oficio N° 19.869, de la Cámara de Diputados.",
-     "etapa": "Trámite en Tribunal Constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-10-28T00:00:00-03:00",
-     "fecha_legible": "28/10/2024",
-     "sesion": "92/372",
-     "descripcion": "Ingreso fallo del Tribunal Constitucional .",
-     "etapa": "Trámite en Tribunal Constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2024-10-28T00:00:00-03:00",
-     "fecha_legible": "28/10/2024",
-     "sesion": "92/372",
-     "descripcion": "Cuenta fallo del Tribunal Constitucional .",
-     "etapa": "Trámite en Tribunal Constitucional",
-     "camara": "C.Diputados"
-    }
-   ],
-   "urgencias": [
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-05-15T00:00:00-04:00",
-     "fecha_retiro": "2024-05-30T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-05-30T00:00:00-04:00",
-     "fecha_retiro": "2024-06-12T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-06-12T00:00:00-04:00",
-     "fecha_retiro": "2024-06-19T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-06-19T00:00:00-04:00",
-     "fecha_retiro": "2024-07-03T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-07-03T00:00:00-04:00",
-     "fecha_retiro": "2024-07-10T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-07-10T00:00:00-04:00",
-     "fecha_retiro": "2024-07-24T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-07-24T00:00:00-04:00",
-     "fecha_retiro": "2024-08-07T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-08-07T00:00:00-04:00",
-     "fecha_retiro": "2024-08-14T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-08-14T00:00:00-04:00",
-     "fecha_retiro": "2024-08-28T00:00:00-04:00"
-    },
-    {
-     "tipo": "Suma",
-     "fecha_ingreso": "2024-08-28T00:00:00-04:00",
-     "fecha_retiro": "2024-09-24T00:00:00-03:00"
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "fecha_ingreso": "2024-09-24T00:00:00-03:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Discusión inmediata",
-     "fecha_ingreso": "2024-09-25T00:00:00-03:00",
-     "fecha_retiro": ""
-    }
-   ],
-   "votaciones": [
-    {
-     "fecha": "2024-07-30T00:00:00-04:00",
-     "fecha_legible": "30/07/2024",
-     "tema": "Proyecto de ley, en segundo trámite constitucional, que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del pacto por el crecimiento económico, el progreso social y la responsabilidad fiscal, (Boletín N° 16.621-05). APROBADO.",
-     "si": "33",
-     "no": "4",
-     "abstencion": "0",
-     "camara": ""
-    }
-   ],
-   "autores": [
-    "Allende B., Isabel",
-    "Araya G., Pedro",
-    "Bianchi R., Karim",
-    "Campillai R., Fabiola",
-    "Castro G., Juan Luis",
-    "Castro P., Juan",
-    "Coloma C., Juan Antonio",
-    "Cruz-Coke C., Luciano",
-    "Durana S., José Miguel",
-    "Ebensperger O., Luz Eliana",
-    "Edwards ., Rojo",
-    "Espinoza S., Fidel",
-    "Flores G., Iván",
-    "Galilea V., Rodrigo",
-    "García R., José",
-    "Gatica B., María José",
-    "Kast S., Felipe",
-    "Kusanovic G., Alejandro",
-    "Kuschel S., Carlos Ignacio",
-    "Lagos W., Ricardo",
-    "Latorre R., Juan Ignacio",
-    "Macaya D., Javier",
-    "Núñez A., Daniel",
-    "Ordenes N., Ximena",
-    "Ossandón I., Manuel José",
-    "Pascual G., Claudia",
-    "Prohens E., Rafael",
-    "Pugh O., Kenneth",
-    "Quintana L., Jaime",
-    "Saavedra C., Gastón",
-    "Sandoval P., David",
-    "Sanhueza D., Gustavo",
-    "Sepúlveda O., Alejandra",
-    "Van Rysselberghe H., Enrique",
-    "Velásquez N., Esteban",
-    "Vodanovic R., Paulina",
-    "Walker P., Matías"
-   ],
-   "materias": [
-    "ABONOS BANCARIOS",
-    "BANCOS",
-    "COMERCIO ILEGAL",
-    "CONTRIBUYENTES",
-    "CÓDIGO TRIBUTARIO",
-    "ELUSIÓN TRIBUTARIA",
-    "EVASIÓN DE IMPUESTOS",
-    "SECRETO BANCARIO"
-   ],
-   "comisiones": [],
-   "informes": [
-    {
-     "fecha": "2024-04-10T00:00:00-04:00",
-     "tramite": "Primer informe de comisión de Hacienda",
-     "etapa": "Primer trámite constitucional",
-     "link": ""
-    },
-    {
-     "fecha": "2024-07-26T00:00:00-04:00",
-     "tramite": "Primer informe de comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "link": ""
-    },
-    {
-     "fecha": "2024-09-11T00:00:00-03:00",
-     "tramite": "Segundo informe de comisión de Hacienda",
-     "etapa": "Segundo trámite constitucional",
-     "link": ""
-    },
-    {
-     "fecha": "2024-09-25T00:00:00-03:00",
-     "tramite": "Informe de comisión de Hacienda",
-     "etapa": "Tercer trámite constitucional",
-     "link": ""
-    }
-   ],
-   "ministerios": [
-    "Ministerio de Hacienda"
-   ],
-   "camara_id": "17191",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "admisible": "true",
-   "texto_camara_completo": "17191 16621-05 Dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal 2024-01-29T00:00:00 Mensaje Cámara de Diputados 2 Ministerio de Hacienda 41219 Boletín N°16621-05 2024-09-25T14:00:12 123 17 0 0 Quórum Simple Aprobado Proyecto de Ley Única Propuesta del Senado para agregar los numerales 3 y 4 al artículo 8, nuevo, del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 738 a 742 del comparado. Tercer Trámite Sin Informe 41218 Boletín N°16621-05 2024-09-25T13:59:24 124 14 2 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas incorporadas por el Senado al numeral 5 del artículo 3 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 475 a 487 del comparado. Tercer Trámite Sin Informe 41217 Boletín N°16621-05 2024-09-25T13:57:36 124 16 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas incorporadas por el Senado al numeral 4 del artículo 2 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 443 a 462 del comparado. Tercer Trámite Sin Informe 41216 Boletín N°16621-05 2024-09-25T13:56:44 98 39 3 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas incorporadas por el Senado al artículo 100 quinquies contenido en el numeral 39 del artículo 1, cuya votación separada ha sido solicitada por el diputado Felipe Donoso, y que consta en las páginas 278 a 279 del comparado. Tercer Trámite Sin Informe 41215 Boletín N°16621-05 2024-09-25T13:55:42 123 17 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas incorporadas por el Senado al numeral 33 (que ha pasado a ser 39) del artículo 1 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 270 a 280 del comparado, con la salvedad de las modificaciones propuestas al artículo 100 quinquies, cuya votación separada a su vez ha sido solicitada. Cabe hacer presente que los incisos primero, tercero y final del artículo 100 quáter incorporado por el numeral 39, requiere para su aprobación del voto favorable de 78 diputadas y diputados por tratarse de normas de quorum calificado. Tercer Trámite Sin Informe 41214 Boletín N°16621-05 2024-09-25T13:54:24 124 16 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas incorporadas por el Senado al numeral 25 (que ha pasado a ser 27), del artículo 1 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 170 a 178 del comparado. Tercer Trámite Sin Informe 41213 Boletín N°16621-05 2024-09-25T13:53:18 124 16 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda incorporada por el Senado para agregar un numeral 7), nuevo, al artículo 1 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 46 a 51 del comparado. Cabe hacer presente que el párrafo sexto del número 1° del artículo 6° bis contenido en el numeral 7 requiere para su aprobación del voto favorable de 78 diputadas y diputados por tratarse de una norma de quorum calificado. Tercer Trámite Sin Informe 41212 Boletín N°16621-05 2024-09-25T13:52:17 124 16 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda incorporada por el Senado para agregar una nueva letra c) en el numeral 6) del artículo 1 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 44 a 46 del comparado. Tercer Trámite Sin Informe 41211 Boletín N°16621-05 2024-09-25T13:51:27 124 16 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda incorporada por el Senado para reemplazar el numeral 5 del artículo 1 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 11 a 16 del comparado. Tercer Trámite Sin Informe 41210 Boletín N°16621-05 2024-09-25T13:50:38 124 16 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas incorporadas por el Senado para reemplazar las letras d) y e) aprobadas en primer trámite constitucional por una nueva letra d) en el numeral 2 del artículo 1 del proyecto, cuya votación separada ha sido solicitada por el diputado Agustín Romero, y que consta en las páginas 4 a 5 del comparado. Tercer Trámite Sin Informe 41209 Boletín N°16621-05 2024-09-25T13:49:43 122 16 2 0 Quórum Calificado Aprobado Proyecto de Ley Única Numeral 25; el artículo 65 bis contenido en el numeral 28; el número 2 del artículo 65 ter incorporado por el numeral 29; el artículo 92 ter propuesto en el numeral 36; las letras e) y f) del numeral 57, todos numerales del artículo 1 permanente; el inciso tercero del artículo 8 bis incorporado por el numeral 1; el numeral 5; todos numerales del artículo 4 permanente; el numeral 1, los párrafos primero y tercero de la letra D del artículo 3° ter propuesto en el numeral 2 y el numeral 6 del artículo 8 permanente, por tratarse de normas orgánicas constitucionales. Por su parte, el párrafo segundo del número 4 del numeral 24 y el numeral 76, ambos numerales del artículo 1 permanente, por tratarse de normas de quorum calificado. Tercer Trámite Sin Informe 41208 Boletín N°16621-05 2024-09-25T13:47:44 124 16 0 0 Quórum Simple Aprobado Proyecto de Ley Única Enmiendas del Senado recaídas en el proyecto de ley, originado en mensaje, que “Dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal”, con la salvedad de aquellas que requieren quorum especial de aprobación y de aquellas cuya votación separada ha sido solicitada. Tercer Trámite Sin Informe 37563 Boletín N°16621-05 2024-04-10T13:37:04 75 66 1 0 Quórum Calificado Unánime Proyecto de Ley Particular Numeral 54 del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37562 Boletín N°16621-05 2024-04-10T13:35:38 75 66 1 0 Quórum Calificado Unánime Proyecto de Ley Particular Numeral 40 del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37561 Boletín N°16621-05 2024-04-10T13:34:22 79 60 3 0 Quórum Calificado Aprobado Proyecto de Ley Particular Numeral 39, literal b) del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37560 Boletín N°16621-05 2024-04-10T13:33:15 99 42 0 0 Quórum Calificado Aprobado Proyecto de Ley Particular Numeral 39 del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37559 Boletín N°16621-05 2024-04-10T13:31:52 79 59 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 37, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37558 Boletín N°16621-05 2024-04-10T13:30:52 98 38 5 0 Quórum Calificado Aprobado Proyecto de Ley Particular Numeral 36, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37557 Boletín N°16621-05 2024-04-10T13:29:45 99 41 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 34 del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37556 Boletín N°16621-05 2024-04-10T13:28:47 77 54 10 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 33, letra h) del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37555 Boletín N°16621-05 2024-04-10T13:27:53 81 58 2 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 27, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37554 Boletín N°16621-05 2024-04-10T13:26:53 77 56 8 0 Quórum Calificado Unánime Proyecto de Ley Particular Numeral 25, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37553 Boletín N°16621-05 2024-04-10T13:25:34 95 45 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Letra d) del numeral 24) del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por el diputado Boris Barrera, y que consta en la página 154 del comparado. Primer Trámite Primer Informe 37552 Boletín N°16621-05 2024-04-10T13:24:33 77 54 10 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 24, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por los diputados Miguel Mellado, Guillermo Ramírez, Agustín Romero que consta en las páginas 141 a 154 del comparado, con la salvedad de su letra d), cuya votación separada a su vez ha sido solicitada. Primer Trámite Primer Informe 37551 Boletín N°16621-05 2024-04-10T13:23:34 75 58 8 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 6, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por los diputados Miguel Mellado, Guillermo Ramírez y Agustín Romero, y que consta en las páginas 17 a 33 del comparado. Primer Trámite Primer Informe 37550 Boletín N°16621-05 2024-04-10T13:22:38 73 59 9 0 Quórum Calificado Unánime Proyecto de Ley Particular Numeral 5, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por los diputados Miguel Mellado, Guillermo Ramírez y Agustín Romero, que consta en las páginas 9 a 17 del comparado, y que requiere para su aprobación del voto favorable de 78 diputadas y diputados, es decir, la mayoría absoluta de los diputados en ejercicio, según lo dispuesto en el inciso segundo del artículo 66 de la Constitución Política de la República. Primer Trámite Primer Informe 37549 Boletín N°16621-05 2024-04-10T13:21:36 81 57 3 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 4, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda. Primer Trámite Primer Informe 37548 Boletín N°16621-05 2024-04-10T13:20:47 80 59 2 0 Quórum Calificado Aprobado Proyecto de Ley Particular Numeral 3, del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por los diputados Guillermo Ramírez y Agustín Romero, y que consta en las páginas 6 a 8 del comparado. Cabe hacer presente que su letra j), párrafo 10, requiere para su aprobación del voto favorable de 78 diputadas y diputados, es decir, la mayoría absoluta de los diputados en ejercicio, según lo dispuesto en el inciso segundo del artículo 66 de la Constitución Política de la República. Primer Trámite Primer Informe 37547 Boletín N°16621-05 2024-04-10T13:19:41 74 59 8 0 Quórum Simple Aprobado Proyecto de Ley Particular Numeral 2 del artículo primero del proyecto, en los términos sugeridos por la Comisión de Hacienda, cuya votación separada ha sido solicitada por los diputados Guillermo Ramírez y Agustín Romero, y que consta en las páginas 2 a 6 del comparado. Primer Trámite Primer Informe 37546 Boletín N°16621-05 2024-04-10T13:18:13 120 19 2 0 Quórum Calificado Aprobado Proyecto de Ley General Número 36 del artículo primero; el número 3, letra j), párrafo 10, del artículo segundo; por tratarse de normas propias de quorum calificado; y los números 5, 21, 25, 28, 29, 39, 40, 41, 44, 46, letra a), 50, 52, 53 y 54, todos del artículo primero; números 7, 9, 23, todos del artículo quinto; 1; 2, letra b), ambos del artículo undécimo. Primer Trámite Primer Informe 37545 Boletín N°16621-05 2024-04-10T13:16:43 120 18 3 0 Quórum Simple Aprobado Proyecto de Ley General Número 36 del artículo primero; el número 3, letra j), párrafo 10, del artículo segundo; por tratarse de normas propias de quorum calificado; y los números 5, 21, 25, 28, 29, 39, 40, 41, 44, 46, letra a), 50, 52, 53 y 54, todos del artículo primero; números 7, 9, 23, todos del artículo quinto; 1; 2, letra b), ambos del artículo undécimo. Primer Trámite Primer Informe 3915 CONTRIBUYENTES 3860 SECRETO BANCARIO 4388 COMERCIO ILEGAL 24167 ELUSIÓN TRIBUTARIA 1024 CÓDIGO TRIBUTARIO 3828 EVASIÓN DE IMPUESTOS 25636 ABONOS BANCARIOS 947 BANCOS true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=16621-05",
-   "canales_descubrimiento": [
-    "cartera"
-   ],
-   "id": "555ea9a190f0134e",
-   "puntaje_pertinencia": 88.0,
-   "nivel_impacto": "estructural",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [
-     "secreto bancario"
-    ],
-    "estructurales": [
-     "comercio ilegal"
-    ],
-    "sectoriales": [
-     "banco",
-     "bancos"
-    ]
-   },
-   "sectores": [
-    "banca_financiero"
-   ],
-   "sectores_legibles": [
-    "Banca y sistema financiero"
-   ],
-   "ejes": [
-    "secreto_bancario"
-   ],
-   "ejes_legibles": [
-    "Secreto y reserva bancaria"
-   ],
-   "impacto_legible": "Impacto estructural en el sistema ALA/CFT",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 2,
-   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 7,
-   "vigente": false,
-   "ultimo_movimiento": "2024-10-28T00:00:00-03:00",
-   "ultimo_movimiento_legible": "28/10/2024",
-   "dias_sin_movimiento": 660,
-   "ultimo_tramite": "Cuenta fallo del Tribunal Constitucional .",
-   "camara_actual": "C.Diputados",
-   "total_tramites": 66,
-   "fecha_ingreso_legible": "29/01/2024",
-   "antiguedad_dias": 933,
-   "prioridad": 7.2,
-   "banda_prioridad": "baja",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 0.6,
-   "factor_frescura": 0.55,
-   "huella": "9b2938a917726916d877",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16621-05",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17191&prmBOLETIN=16621-05",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16621",
-   "sintesis": "Tramitación terminada · Cuenta fallo del Tribunal Constitucional .",
    "novedad": "",
    "novedad_detectada": "2026-08-19T00:42:07.353999-04:00"
   },
@@ -11306,10 +10653,17 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-19T21:35:37.622494-04:00"
+   "revisado": "2026-08-19T23:01:36.567923-04:00"
+  },
+  {
+   "boletin": "12712-24",
+   "titulo": "Ley de Patrimonio Cultural",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia",
+   "revisado": "2026-08-19T23:01:36.567923-04:00"
   }
  ],
- "novedades": 0,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11360,22 +10714,22 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 43,
-  "boletines_consultados": 43,
-  "fichas_obtenidas": 43,
+  "candidatos_descubiertos": 236,
+  "boletines_consultados": 44,
+  "fichas_obtenidas": 44,
   "consultas_fallidas": 0,
   "registros_publicados": 43,
   "registros_conservados_sin_revisar": 1,
-  "descartados_por_pertinencia": 1,
+  "descartados_por_pertinencia": 2,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 0,
+  "con_movimiento": 1,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
    "cartera": 43,
-   "senado_movimiento": 0,
+   "senado_movimiento": 200,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -11383,23 +10737,23 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 0,
-    "errores": [
-     "12/08/2026: TimeoutError: The read operation timed out"
-    ],
-    "consultado": true
-   },
-   {
-    "canal": "senado_boletin",
-    "llamadas": 43,
-    "resultados": 43,
+    "resultados": 200,
     "errores": [],
     "consultado": true
    },
    {
-    "canal": "camara_boletin",
-    "llamadas": 43,
+    "canal": "senado_boletin",
+    "llamadas": 44,
     "resultados": 43,
+    "errores": [
+     "16621: TimeoutError: The read operation timed out"
+    ],
+    "consultado": true
+   },
+   {
+    "canal": "camara_boletin",
+    "llamadas": 44,
+    "resultados": 44,
     "errores": [],
     "consultado": true
    },
@@ -11421,6 +10775,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 78.5
+  "segundos_corrida": 99.6
  }
 }
