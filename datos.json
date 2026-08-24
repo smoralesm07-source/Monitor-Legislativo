@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-24T08:59:48.185195-04:00",
- "generado_legible": "24/08/2026 08:59",
+ "generado": "2026-08-24T10:48:37.474663-04:00",
+ "generado_legible": "24/08/2026 10:48",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -14,27 +14,32 @@
   "prioridad_critica": 1,
   "prioridad_alta": 3,
   "movimiento_7d": 8,
-  "movimiento_30d": 11,
+  "movimiento_30d": 12,
   "nivel_1": 8,
   "nivel_2": 31,
   "nivel_3": 4,
   "requieren_revision_manual": 4,
-  "estancados_180d": 18,
+  "estancados_180d": 17,
   "pipeline": [
    {
     "ordinal": 0,
     "etapa": "Cerrado o archivado",
-    "total": 3
+    "total": 1
    },
    {
     "ordinal": 1,
     "etapa": "Primer trámite",
-    "total": 36
+    "total": 37
    },
    {
     "ordinal": 2,
     "etapa": "Segundo trámite",
     "total": 3
+   },
+   {
+    "ordinal": 4,
+    "etapa": "Comisión mixta",
+    "total": 1
    },
    {
     "ordinal": 5,
@@ -157,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-08-24T08:59:48.185195-04:00"
+  "generado": "2026-08-24T10:48:37.474663-04:00"
  },
  "proyectos": [
   {
@@ -409,7 +414,8 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=16808-25",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "fa5ca40fa3da378b",
    "puntaje_pertinencia": 316.0,
@@ -1431,7 +1437,8 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18216-05",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "9b68e4e65b2ab18e",
    "puntaje_pertinencia": 28.0,
@@ -1648,7 +1655,8 @@
    "texto_camara_completo": "18569 17912-25 Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos 2025-10-10T00:00:00 Moción Cámara de Diputados 0 1009 Jorge Alessandri Vergara 0 1044 Raúl Leiva Carvajal 0 1046 Andrés Longton Herrera 0 1067 Hugo Rey Martínez 0 1075 Diego Schalper Sepúlveda 0 1019 José Miguel Castro Bascuñán 0 1099 Jaime Araya Guerrero 0 1134 Andrés Jouannet Valderrama 0 1152 Gloria Naveillan Arriagada 0 1100 Cristián Araya Lerdo de Tejada 89781 Boletín N°17912-25 2026-08-17T19:47:28 130 0 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo único del proyecto, en los términos propuestos por la Comisión de Seguridad Ciudadana. Primer Trámite Primer Informe 89780 Boletín N°17912-25 2026-08-17T19:46:44 52 60 18 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo único del proyecto, con la indicación del diputado Raúl Leiva para intercalar un numeral 1 antes de la expresión “Intercálase en el artículo 27 letra a)”; y para agregar el siguiente numeral 2, nuevo: “2. Intercálase, en el artículo 27 letra a), entre las expresión “quinquies, y en los artículos” y el guarismo “467”, la expresión “438,”. Primer Trámite Primer Informe 89779 Boletín N°17912-25 2026-08-17T19:45:31 131 0 0 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17912-25",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "80d2ea7de230a503",
    "puntaje_pertinencia": 316.0,
@@ -2248,6 +2256,1614 @@
    "sintesis": "Simple urgencia · Segundo trámite constitucional (C.Diputados) · Oficio N° . Informe financiero N°197 (12.08.2026). A HACIENDA",
    "novedad": "",
    "novedad_detectada": "2026-08-24T00:52:02.413306-04:00"
+  },
+  {
+   "boletin": "15975-25",
+   "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
+   "fecha_ingreso": "2023-05-31T00:00:00-04:00",
+   "etapa": "Comisión Mixta por rechazo de modificaciones (Senado)",
+   "subetapa": "Informe de Comisión Mixta Comisión Mixta para Boletín Nº 15975-25",
+   "iniciativa": "Mensaje",
+   "camara_origen": "Senado",
+   "urgencia": "Sin urgencia",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "En tramitación",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16514&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2023-05-31T00:00:00-04:00",
+     "fecha_legible": "31/05/2023",
+     "sesion": "/",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-05-31T00:00:00-04:00",
+     "fecha_legible": "31/05/2023",
+     "sesion": "25/371",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Pública, y a la Comisión de Hacienda, en su caso. Se remite el proyecto a la Corte Suprema.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-06-01T00:00:00-04:00",
+     "fecha_legible": "01/06/2023",
+     "sesion": "/",
+     "descripcion": "Oficio N° 255 a la Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-06-06T00:00:00-04:00",
+     "fecha_legible": "06/06/2023",
+     "sesion": "27/371",
+     "descripcion": "Cuenta del Mensaje 499-371 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-07-05T00:00:00-04:00",
+     "fecha_legible": "05/07/2023",
+     "sesion": "39/371",
+     "descripcion": "Cuenta oficio N° 158-2023 de la Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-07-05T00:00:00-04:00",
+     "fecha_legible": "05/07/2023",
+     "sesion": "39/371",
+     "descripcion": "Cuenta del Mensaje 694-371 que retira y hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-07-18T00:00:00-04:00",
+     "fecha_legible": "18/07/2023",
+     "sesion": "42/371",
+     "descripcion": "Cuenta del Mensaje 778-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-08-02T00:00:00-04:00",
+     "fecha_legible": "02/08/2023",
+     "sesion": "45/371",
+     "descripcion": "Cuenta del Mensaje 863-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-08-09T00:00:00-04:00",
+     "fecha_legible": "09/08/2023",
+     "sesion": "48/371",
+     "descripcion": "Cuenta del Mensaje 936-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-08-23T00:00:00-04:00",
+     "fecha_legible": "23/08/2023",
+     "sesion": "50/371",
+     "descripcion": "Cuenta del Mensaje 1001-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-09-06T00:00:00-03:00",
+     "fecha_legible": "06/09/2023",
+     "sesion": "57/371",
+     "descripcion": "Cuenta del Mensaje 1107-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-09-13T00:00:00-03:00",
+     "fecha_legible": "13/09/2023",
+     "sesion": "60/371",
+     "descripcion": "Cuenta del Mensaje 1168-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-09-27T00:00:00-03:00",
+     "fecha_legible": "27/09/2023",
+     "sesion": "62/371",
+     "descripcion": "Cuenta del Mensaje 1221-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-10-11T00:00:00-03:00",
+     "fecha_legible": "11/10/2023",
+     "sesion": "67/371",
+     "descripcion": "Cuenta del Mensaje 1304-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-10-25T00:00:00-03:00",
+     "fecha_legible": "25/10/2023",
+     "sesion": "71/371",
+     "descripcion": "Cuenta del Mensaje 1396-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-11-07T00:00:00-03:00",
+     "fecha_legible": "07/11/2023",
+     "sesion": "72/371",
+     "descripcion": "Cuenta del Mensaje 1434-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-11-22T00:00:00-03:00",
+     "fecha_legible": "22/11/2023",
+     "sesion": "78/371",
+     "descripcion": "Cuenta del Mensaje 1524-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-11-29T00:00:00-03:00",
+     "fecha_legible": "29/11/2023",
+     "sesion": "83/371",
+     "descripcion": "Cuenta del Mensaje 1605-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-12-13T00:00:00-03:00",
+     "fecha_legible": "13/12/2023",
+     "sesion": "85/371",
+     "descripcion": "Cuenta del Mensaje 1670-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-12-18T00:00:00-03:00",
+     "fecha_legible": "18/12/2023",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Seguridad Pública.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-12-19T00:00:00-03:00",
+     "fecha_legible": "19/12/2023",
+     "sesion": "86/371",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-12-20T00:00:00-03:00",
+     "fecha_legible": "20/12/2023",
+     "sesion": "87/371",
+     "descripcion": "Cuenta del Mensaje 1748-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-12-20T00:00:00-03:00",
+     "fecha_legible": "20/12/2023",
+     "sesion": "87/371",
+     "descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 11/01/2024 a las 12:00",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-01-09T00:00:00-03:00",
+     "fecha_legible": "09/01/2024",
+     "sesion": "92/371",
+     "descripcion": "Cuenta del Mensaje 1837-371 que hace presente la urgencia Simple",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-01-10T00:00:00-03:00",
+     "fecha_legible": "10/01/2024",
+     "sesion": "93/371",
+     "descripcion": "Cuenta del Mensaje 1852-371 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-01-11T00:00:00-03:00",
+     "fecha_legible": "11/01/2024",
+     "sesion": "/",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-01-11T00:00:00-03:00",
+     "fecha_legible": "11/01/2024",
+     "sesion": "/",
+     "descripcion": "Oficio N°I.F. N° 13. Informe Financiero Complementario",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-01-23T00:00:00-03:00",
+     "fecha_legible": "23/01/2024",
+     "sesion": "97/371",
+     "descripcion": "Cuenta del Mensaje 1953-371 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-03-05T00:00:00-03:00",
+     "fecha_legible": "05/03/2024",
+     "sesion": "101/371",
+     "descripcion": "Cuenta del Mensaje 2018-371 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-03-13T00:00:00-03:00",
+     "fecha_legible": "13/03/2024",
+     "sesion": "2/372",
+     "descripcion": "Cuenta del Mensaje 86-372 que hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-03-20T00:00:00-03:00",
+     "fecha_legible": "20/03/2024",
+     "sesion": "4/372",
+     "descripcion": "Cuenta del Mensaje 141-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-04-03T00:00:00-03:00",
+     "fecha_legible": "03/04/2024",
+     "sesion": "6/372",
+     "descripcion": "Cuenta del Mensaje 204-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-04-17T00:00:00-04:00",
+     "fecha_legible": "17/04/2024",
+     "sesion": "12/372",
+     "descripcion": "Cuenta del Mensaje 320-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-04-24T00:00:00-04:00",
+     "fecha_legible": "24/04/2024",
+     "sesion": "15/372",
+     "descripcion": "Cuenta del Mensaje 384-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-05-02T00:00:00-04:00",
+     "fecha_legible": "02/05/2024",
+     "sesion": "16/372",
+     "descripcion": "La Sala acuerda fijar un nuevo plazo para presentar indicaciones a este proyecto de ley, hasta las 12:00 horas del día 22 de mayo de 2024, en la Secretaría de la Comisión de Seguridad Pública.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-05-08T00:00:00-04:00",
+     "fecha_legible": "08/05/2024",
+     "sesion": "18/372",
+     "descripcion": "Cuenta del Mensaje 474-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-05-15T00:00:00-04:00",
+     "fecha_legible": "15/05/2024",
+     "sesion": "22/372",
+     "descripcion": "Cuenta del Mensaje 550-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-05-22T00:00:00-04:00",
+     "fecha_legible": "22/05/2024",
+     "sesion": "/",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-05-28T00:00:00-04:00",
+     "fecha_legible": "28/05/2024",
+     "sesion": "/",
+     "descripcion": "IF N° 133. INFORME FINANCIERO COMPLEMENTARIO",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-05-30T00:00:00-04:00",
+     "fecha_legible": "30/05/2024",
+     "sesion": "23/372",
+     "descripcion": "Cuenta del Mensaje 617-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-06-12T00:00:00-04:00",
+     "fecha_legible": "12/06/2024",
+     "sesion": "28/372",
+     "descripcion": "Cuenta del Mensaje 746-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-06-19T00:00:00-04:00",
+     "fecha_legible": "19/06/2024",
+     "sesion": "30/372",
+     "descripcion": "Cuenta del Mensaje 819-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-07-03T00:00:00-04:00",
+     "fecha_legible": "03/07/2024",
+     "sesion": "32/372",
+     "descripcion": "Cuenta del Mensaje 915-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-07-10T00:00:00-04:00",
+     "fecha_legible": "10/07/2024",
+     "sesion": "35/372",
+     "descripcion": "Cuenta del Mensaje 997-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-07-23T00:00:00-04:00",
+     "fecha_legible": "23/07/2024",
+     "sesion": "37/372",
+     "descripcion": "Cuenta del Mensaje 1037-372 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-07-30T00:00:00-04:00",
+     "fecha_legible": "30/07/2024",
+     "sesion": "39/372",
+     "descripcion": "Cuenta del Mensaje 1110-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-06T00:00:00-04:00",
+     "fecha_legible": "06/08/2024",
+     "sesion": "42/372",
+     "descripcion": "Cuenta del Mensaje 1168-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-08T00:00:00-04:00",
+     "fecha_legible": "08/08/2024",
+     "sesion": "/",
+     "descripcion": "Segundo informe de comisión de Seguridad Pública. Pasa a Comisión de Hacienda",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-13T00:00:00-04:00",
+     "fecha_legible": "13/08/2024",
+     "sesion": "45/372",
+     "descripcion": "Cuenta del Mensaje 1249-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-08-27T00:00:00-04:00",
+     "fecha_legible": "27/08/2024",
+     "sesion": "47/372",
+     "descripcion": "Cuenta del Mensaje 1328-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-04T00:00:00-04:00",
+     "fecha_legible": "04/09/2024",
+     "sesion": "54/372",
+     "descripcion": "Cuenta del Mensaje 1453-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-10T00:00:00-03:00",
+     "fecha_legible": "10/09/2024",
+     "sesion": "55/372",
+     "descripcion": "Cuenta del Mensaje 1482-372 que retira y hace presente la urgencia Suma",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-11T00:00:00-03:00",
+     "fecha_legible": "11/09/2024",
+     "sesion": "56/372",
+     "descripcion": "Cuenta del Mensaje 1524-372 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-09-24T00:00:00-03:00",
+     "fecha_legible": "24/09/2024",
+     "sesion": "57/372",
+     "descripcion": "Cuenta del Mensaje 1563-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-10-01T00:00:00-03:00",
+     "fecha_legible": "01/10/2024",
+     "sesion": "59/372",
+     "descripcion": "Cuenta del Mensaje 1669-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-10-08T00:00:00-03:00",
+     "fecha_legible": "08/10/2024",
+     "sesion": "61/372",
+     "descripcion": "Cuenta del Mensaje 1706-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-10-15T00:00:00-03:00",
+     "fecha_legible": "15/10/2024",
+     "sesion": "63/372",
+     "descripcion": "Cuenta del Mensaje 1789-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-10-29T00:00:00-03:00",
+     "fecha_legible": "29/10/2024",
+     "sesion": "68/372",
+     "descripcion": "Cuenta del Mensaje 1901-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-10-30T00:00:00-03:00",
+     "fecha_legible": "30/10/2024",
+     "sesion": "69/372",
+     "descripcion": "La Sala acuerda fijar un nuevo plazo para presentar indicaciones a este proyecto de ley, hasta las 17:00 horas del día 11 de noviembre de 2024, en la Secretaría de la Comisión de Hacienda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-11-04T00:00:00-03:00",
+     "fecha_legible": "04/11/2024",
+     "sesion": "70/372",
+     "descripcion": "Cuenta del Mensaje 1996-372 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-11-11T00:00:00-03:00",
+     "fecha_legible": "11/11/2024",
+     "sesion": "/",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-11-12T00:00:00-03:00",
+     "fecha_legible": "12/11/2024",
+     "sesion": "72/372",
+     "descripcion": "Cuenta del Mensaje 2029-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-11-18T00:00:00-03:00",
+     "fecha_legible": "18/11/2024",
+     "sesion": "74/372",
+     "descripcion": "Cuenta del Mensaje 2127-372 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-11-27T00:00:00-03:00",
+     "fecha_legible": "27/11/2024",
+     "sesion": "82/372",
+     "descripcion": "Cuenta del Mensaje 2209-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-12-03T00:00:00-03:00",
+     "fecha_legible": "03/12/2024",
+     "sesion": "83/372",
+     "descripcion": "La Sala acuerda fijar un nuevo plazo para presentar indicaciones a este proyecto de ley, hasta las 17:00 horas del día de hoy, en la Secretaría de la Comisión de Hacienda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-12-03T00:00:00-03:00",
+     "fecha_legible": "03/12/2024",
+     "sesion": "84/372",
+     "descripcion": "Cuenta del Mensaje 2264-372 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-12-03T00:00:00-03:00",
+     "fecha_legible": "03/12/2024",
+     "sesion": "/",
+     "descripcion": "Boletín de indicaciones .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-12-04T00:00:00-03:00",
+     "fecha_legible": "04/12/2024",
+     "sesion": "/",
+     "descripcion": "Oficio N° H-12 a la Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-12-10T00:00:00-03:00",
+     "fecha_legible": "10/12/2024",
+     "sesion": "87/372",
+     "descripcion": "Cuenta del Mensaje 2299-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-12-11T00:00:00-03:00",
+     "fecha_legible": "11/12/2024",
+     "sesion": "/",
+     "descripcion": "Cuenta oficio N° 415-2024 de la Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2024-12-17T00:00:00-03:00",
+     "fecha_legible": "17/12/2024",
+     "sesion": "90/372",
+     "descripcion": "Cuenta del Mensaje 2411-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-07T00:00:00-03:00",
+     "fecha_legible": "07/01/2025",
+     "sesion": "92/372",
+     "descripcion": "Cuenta del Mensaje 2464-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-08T00:00:00-03:00",
+     "fecha_legible": "08/01/2025",
+     "sesion": "/",
+     "descripcion": "Oficio N° H-1 a la Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-13T00:00:00-03:00",
+     "fecha_legible": "13/01/2025",
+     "sesion": "/",
+     "descripcion": "Cuenta oficio N° 13 de la Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-14T00:00:00-03:00",
+     "fecha_legible": "14/01/2025",
+     "sesion": "94/372",
+     "descripcion": "Cuenta del Mensaje 2583-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-15T00:00:00-03:00",
+     "fecha_legible": "15/01/2025",
+     "sesion": "/",
+     "descripcion": "Oficio N° H-4 a la Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-17T00:00:00-03:00",
+     "fecha_legible": "17/01/2025",
+     "sesion": "/",
+     "descripcion": "Segundo informe de comisión de Hacienda.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-21T00:00:00-03:00",
+     "fecha_legible": "21/01/2025",
+     "sesion": "96/372",
+     "descripcion": "Cuenta de segundo informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-21T00:00:00-03:00",
+     "fecha_legible": "21/01/2025",
+     "sesion": "/",
+     "descripcion": "",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-22T00:00:00-03:00",
+     "fecha_legible": "22/01/2025",
+     "sesion": "97/372",
+     "descripcion": "Cuenta del Mensaje 2671-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-27T00:00:00-03:00",
+     "fecha_legible": "27/01/2025",
+     "sesion": "98/372",
+     "descripcion": "Cuenta del Mensaje 2729-372 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-28T00:00:00-03:00",
+     "fecha_legible": "28/01/2025",
+     "sesion": "99/372",
+     "descripcion": "Cuenta del Mensaje 2748-372 que retira la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-01-28T00:00:00-03:00",
+     "fecha_legible": "28/01/2025",
+     "sesion": "99/372",
+     "descripcion": "Discusión particular . Queda pendiente Se solicita segunda discusión y queda terminada la primera.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-04T00:00:00-03:00",
+     "fecha_legible": "04/03/2025",
+     "sesion": "101/372",
+     "descripcion": "Cuenta del Mensaje 2752-372 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-11T00:00:00-03:00",
+     "fecha_legible": "11/03/2025",
+     "sesion": "1/373",
+     "descripcion": "Cuenta del Mensaje 1-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-11T00:00:00-03:00",
+     "fecha_legible": "11/03/2025",
+     "sesion": "1/373",
+     "descripcion": "La Sala acuerda remitir el proyecto de ley a la Comisión de Constitución, Legislación, Justicia y Reglamento, para que emita un informe acerca del concepto de crimen organizado, contenido en el numeral 1) del artículo 5°.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-11T00:00:00-03:00",
+     "fecha_legible": "11/03/2025",
+     "sesion": "1/373",
+     "descripcion": "Discusión particular . Se solicita informe complementario",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-18T00:00:00-03:00",
+     "fecha_legible": "18/03/2025",
+     "sesion": "4/373",
+     "descripcion": "Cuenta del Mensaje 25-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-19T00:00:00-03:00",
+     "fecha_legible": "19/03/2025",
+     "sesion": "/",
+     "descripcion": "Segundo informe complementario de Constitución, Legislación, Justicia y Reglamento.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-19T00:00:00-03:00",
+     "fecha_legible": "19/03/2025",
+     "sesion": "6/373",
+     "descripcion": "Cuenta segundo informe complementario .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-19T00:00:00-03:00",
+     "fecha_legible": "19/03/2025",
+     "sesion": "6/373",
+     "descripcion": "Discusión particular . Queda pendiente",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-25T00:00:00-03:00",
+     "fecha_legible": "25/03/2025",
+     "sesion": "7/373",
+     "descripcion": "Cuenta del Mensaje 66-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-25T00:00:00-03:00",
+     "fecha_legible": "25/03/2025",
+     "sesion": "7/373",
+     "descripcion": "Discusión particular . Aprobado",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-03-25T00:00:00-03:00",
+     "fecha_legible": "25/03/2025",
+     "sesion": "/",
+     "descripcion": "Oficio de ley a Cámara Revisora .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2025-04-07T00:00:00-04:00",
+     "fecha_legible": "07/04/2025",
+     "sesion": "9/373",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana, y a la Comisión de Hacienda en lo que corresponda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-04-08T00:00:00-04:00",
+     "fecha_legible": "08/04/2025",
+     "sesion": "10/373",
+     "descripcion": "Cuenta del Mensaje 99-373 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-04-21T00:00:00-04:00",
+     "fecha_legible": "21/04/2025",
+     "sesion": "16/373",
+     "descripcion": "Cuenta del Mensaje 184-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-05-05T00:00:00-04:00",
+     "fecha_legible": "05/05/2025",
+     "sesion": "19/373",
+     "descripcion": "Cuenta del Mensaje 265-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-05-12T00:00:00-04:00",
+     "fecha_legible": "12/05/2025",
+     "sesion": "23/373",
+     "descripcion": "Cuenta del Mensaje 378-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-05-19T00:00:00-04:00",
+     "fecha_legible": "19/05/2025",
+     "sesion": "27/373",
+     "descripcion": "Cuenta del Mensaje 460-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-06-02T00:00:00-04:00",
+     "fecha_legible": "02/06/2025",
+     "sesion": "30/373",
+     "descripcion": "Cuenta del Mensaje 557-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-06-09T00:00:00-04:00",
+     "fecha_legible": "09/06/2025",
+     "sesion": "34/373",
+     "descripcion": "Cuenta del Mensaje 614-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-06-16T00:00:00-04:00",
+     "fecha_legible": "16/06/2025",
+     "sesion": "38/373",
+     "descripcion": "Cuenta del Mensaje 650-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-06-30T00:00:00-04:00",
+     "fecha_legible": "30/06/2025",
+     "sesion": "/",
+     "descripcion": "Oficio del Presidente de la República (N°110-373), mediante el cual formula indicaciones al proyecto. Se incluye informe financiero complementario N° 169/27.06.2025",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-06-30T00:00:00-04:00",
+     "fecha_legible": "30/06/2025",
+     "sesion": "42/373",
+     "descripcion": "Cuenta del Mensaje 714-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-07-07T00:00:00-04:00",
+     "fecha_legible": "07/07/2025",
+     "sesion": "45/373",
+     "descripcion": "Cuenta del Mensaje 757-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-07-14T00:00:00-04:00",
+     "fecha_legible": "14/07/2025",
+     "sesion": "49/373",
+     "descripcion": "Cuenta del Mensaje 800-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-07-21T00:00:00-04:00",
+     "fecha_legible": "21/07/2025",
+     "sesion": "51/373",
+     "descripcion": "Cuenta del Mensaje 828-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-07-22T00:00:00-04:00",
+     "fecha_legible": "22/07/2025",
+     "sesion": "/",
+     "descripcion": "Oficio del Presidente de la República (N°135-373), por el cual retira y formula indicaciones al proyecto. Se acompaña informe financiero complementario N°202/22.07.2025.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-07-23T00:00:00-04:00",
+     "fecha_legible": "23/07/2025",
+     "sesion": "53/373",
+     "descripcion": "Cuenta del Mensaje 864-373 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-08-06T00:00:00-04:00",
+     "fecha_legible": "06/08/2025",
+     "sesion": "56/373",
+     "descripcion": "Cuenta del Mensaje 906-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-08-06T00:00:00-04:00",
+     "fecha_legible": "06/08/2025",
+     "sesion": "/",
+     "descripcion": "Oficio de S.E. el Presidente de la República (N° 154-373), mediante el cual retira y formula indicaciones al proyecto. Incluye informe financiero complementario N° 222/06.08.2025.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-08-12T00:00:00-04:00",
+     "fecha_legible": "12/08/2025",
+     "sesion": "/",
+     "descripcion": "Oficio del Presidente de la República (N°164-373), mediante el cual retira y formula indicaciones al proyecto. Se adjunta informe financiero complementario N° 232/11.08.2025.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-08-13T00:00:00-04:00",
+     "fecha_legible": "13/08/2025",
+     "sesion": "59/373",
+     "descripcion": "Cuenta del Mensaje 949-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-08-19T00:00:00-04:00",
+     "fecha_legible": "19/08/2025",
+     "sesion": "/",
+     "descripcion": "Oficio de S.E. el Presidente de la República (N° 172-373), mediante el cual retira y formula indicaciones al proyecto. Incluye informe financiero complementario N° 242/18.08.2025.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-08-20T00:00:00-04:00",
+     "fecha_legible": "20/08/2025",
+     "sesion": "61/373",
+     "descripcion": "Cuenta del Mensaje 979-373 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-09-01T00:00:00-04:00",
+     "fecha_legible": "01/09/2025",
+     "sesion": "63/373",
+     "descripcion": "Cuenta del Mensaje 988-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-09-03T00:00:00-04:00",
+     "fecha_legible": "03/09/2025",
+     "sesion": "66/373",
+     "descripcion": "Cuenta del Mensaje 1011-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-09-10T00:00:00-03:00",
+     "fecha_legible": "10/09/2025",
+     "sesion": "69/373",
+     "descripcion": "Cuenta del Mensaje 1058-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-09-15T00:00:00-03:00",
+     "fecha_legible": "15/09/2025",
+     "sesion": "/",
+     "descripcion": "Oficio del Presidente de la República (N° 197-373), mediante el cual retira y formula indicaciones al proyecto. Se adjunta informe financiero complementario N°272/15.09.2025.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-09-15T00:00:00-03:00",
+     "fecha_legible": "15/09/2025",
+     "sesion": "70/373",
+     "descripcion": "Cuenta del Mensaje 1070-373 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-09-30T00:00:00-03:00",
+     "fecha_legible": "30/09/2025",
+     "sesion": "74/373",
+     "descripcion": "Cuenta del Mensaje 1095-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-10-06T00:00:00-03:00",
+     "fecha_legible": "06/10/2025",
+     "sesion": "/",
+     "descripcion": "Oficio del Presidente de la República (N°215-373), por el cual retira y formula indicaciones. se adjunta informe financiero complementario N° 289/03.10.2025.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-10-06T00:00:00-03:00",
+     "fecha_legible": "06/10/2025",
+     "sesion": "76/373",
+     "descripcion": "Cuenta del Mensaje 1118-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-10-13T00:00:00-03:00",
+     "fecha_legible": "13/10/2025",
+     "sesion": "/",
+     "descripcion": "Oficio del Presidente de la República (N° 223-373), mediante el cual retira y formula indicaciones al proyecto. Se adjunta informe financiero N° 300/13.10.2025",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-10-14T00:00:00-03:00",
+     "fecha_legible": "14/10/2025",
+     "sesion": "80/373",
+     "descripcion": "Cuenta del Mensaje 1152-373 que hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-10-27T00:00:00-03:00",
+     "fecha_legible": "27/10/2025",
+     "sesion": "82/373",
+     "descripcion": "Cuenta del Mensaje 1189-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-11-03T00:00:00-03:00",
+     "fecha_legible": "03/11/2025",
+     "sesion": "86/373",
+     "descripcion": "Cuenta del Mensaje 1220-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-11-26T00:00:00-03:00",
+     "fecha_legible": "26/11/2025",
+     "sesion": "94/373",
+     "descripcion": "Cuenta del Mensaje 1276-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-12-02T00:00:00-03:00",
+     "fecha_legible": "02/12/2025",
+     "sesion": "97/373",
+     "descripcion": "Cuenta del Mensaje 1294-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-12-03T00:00:00-03:00",
+     "fecha_legible": "03/12/2025",
+     "sesion": "98/373",
+     "descripcion": "Cuenta del Mensaje 1309-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-12-09T00:00:00-03:00",
+     "fecha_legible": "09/12/2025",
+     "sesion": "100/373",
+     "descripcion": "Cuenta del Mensaje 1324-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2025-12-15T00:00:00-03:00",
+     "fecha_legible": "15/12/2025",
+     "sesion": "102/373",
+     "descripcion": "Cuenta del Mensaje 1371-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-01-05T00:00:00-03:00",
+     "fecha_legible": "05/01/2026",
+     "sesion": "105/373",
+     "descripcion": "Cuenta del Mensaje 1425-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-01-05T00:00:00-03:00",
+     "fecha_legible": "05/01/2026",
+     "sesion": "/",
+     "descripcion": "Oficio del Presidente de la República (N° 272-373), mediante el cual retira y formula indicaciones al proyecto. Se adjunta informe financiero complementario N° 04.01.2026.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-01-07T00:00:00-03:00",
+     "fecha_legible": "07/01/2026",
+     "sesion": "107/373",
+     "descripcion": "Cuenta del Mensaje 1470-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-01-12T00:00:00-03:00",
+     "fecha_legible": "12/01/2026",
+     "sesion": "/",
+     "descripcion": "Oficio del Presidente de la República (N°282-373), por el cual retira y formula indicaciones al proyecto. Se adjunta informe financiero complementario N° 15/12.01.2026.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-01-13T00:00:00-03:00",
+     "fecha_legible": "13/01/2026",
+     "sesion": "110/373",
+     "descripcion": "Cuenta del Mensaje 1499-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-01-19T00:00:00-03:00",
+     "fecha_legible": "19/01/2026",
+     "sesion": "112/373",
+     "descripcion": "Cuenta del Mensaje 1530-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-01-21T00:00:00-03:00",
+     "fecha_legible": "21/01/2026",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Seguridad Ciudadana. Pasa a Comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-01-21T00:00:00-03:00",
+     "fecha_legible": "21/01/2026",
+     "sesion": "114/373",
+     "descripcion": "Cuenta de primer informe de comisión . (Seguridad Ciudadana). Pasa a Hacienda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-01-21T00:00:00-03:00",
+     "fecha_legible": "21/01/2026",
+     "sesion": "/",
+     "descripcion": "Oficio del Presidente de la República (N°307-373) mediante el cual formula indicaciones al proyecto. Se adjunta informe financiero sustitutivo N° 41/21.01.2026",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-01-26T00:00:00-03:00",
+     "fecha_legible": "26/01/2026",
+     "sesion": "115/373",
+     "descripcion": "Cuenta del Mensaje 1577-373 que retira y hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-01-27T00:00:00-03:00",
+     "fecha_legible": "27/01/2026",
+     "sesion": "/",
+     "descripcion": "Oficio del Presidente de la República (N° 315-373), mediante el cual retira indicaciones al proyecto, contenidas en el Oficio N° 307-373, de fecha 21 de enero de 2026.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-01-28T00:00:00-03:00",
+     "fecha_legible": "28/01/2026",
+     "sesion": "117/373",
+     "descripcion": "Cuenta del Mensaje 1599-373 que retira y hace presente la urgencia Suma",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-01-28T00:00:00-03:00",
+     "fecha_legible": "28/01/2026",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Hacienda.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-03-02T00:00:00-03:00",
+     "fecha_legible": "02/03/2026",
+     "sesion": "118/373",
+     "descripcion": "Cuenta de primer informe de comisión . (Hacienda). Queda para tabla.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-03-02T00:00:00-03:00",
+     "fecha_legible": "02/03/2026",
+     "sesion": "118/373",
+     "descripcion": "Cuenta del Mensaje 1601-373 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-03-05T00:00:00-03:00",
+     "fecha_legible": "05/03/2026",
+     "sesion": "/",
+     "descripcion": "Oficio de S.E. el Presidente de la República (N° 323-373), mediante el cual renueva indicaciones y disposiciones al proyecto. Incluye informe financiero complementario N° 64/05.03.2026.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-03-05T00:00:00-03:00",
+     "fecha_legible": "05/03/2026",
+     "sesion": "122/373",
+     "descripcion": "Discusión general . Aprobado en general y particular con modificaciones .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-03-05T00:00:00-03:00",
+     "fecha_legible": "05/03/2026",
+     "sesion": "/",
+     "descripcion": "Oficio modificaciones a Cámara de Origen .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-03-10T00:00:00-03:00",
+     "fecha_legible": "10/03/2026",
+     "sesion": "99/373",
+     "descripcion": "Cuenta oficio con modificaciones de Cámara Revisora . Pasa a Comisión de Seguridad Pública",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-03-17T00:00:00-03:00",
+     "fecha_legible": "17/03/2026",
+     "sesion": "1/374",
+     "descripcion": "Cuenta del Mensaje 1-374 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-03-24T00:00:00-03:00",
+     "fecha_legible": "24/03/2026",
+     "sesion": "3/374",
+     "descripcion": "Cuenta del Mensaje 03-374 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-04-07T00:00:00-04:00",
+     "fecha_legible": "07/04/2026",
+     "sesion": "5/374",
+     "descripcion": "Cuenta del Mensaje 25-374 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-04-14T00:00:00-04:00",
+     "fecha_legible": "14/04/2026",
+     "sesion": "7/374",
+     "descripcion": "Cuenta del Mensaje 38-374 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-04-21T00:00:00-04:00",
+     "fecha_legible": "21/04/2026",
+     "sesion": "/",
+     "descripcion": "Informe de comisión de Seguridad Pública.",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-04-21T00:00:00-04:00",
+     "fecha_legible": "21/04/2026",
+     "sesion": "10/374",
+     "descripcion": "Cuenta del Mensaje 50-374 que hace presente la urgencia Discusión inmediata",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-04-22T00:00:00-04:00",
+     "fecha_legible": "22/04/2026",
+     "sesion": "11/374",
+     "descripcion": "Cuenta informe de comisión .",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-04-22T00:00:00-04:00",
+     "fecha_legible": "22/04/2026",
+     "sesion": "11/374",
+     "descripcion": "Cuenta del Mensaje 59-374 que retira la urgencia Discusión inmediata",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-05-12T00:00:00-04:00",
+     "fecha_legible": "12/05/2026",
+     "sesion": "15/374",
+     "descripcion": "Discusión única . Queda pendiente",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-03T00:00:00-04:00",
+     "fecha_legible": "03/06/2026",
+     "sesion": "26/374",
+     "descripcion": "Discusión única . Queda pendiente",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-08T00:00:00-04:00",
+     "fecha_legible": "08/06/2026",
+     "sesion": "30/374",
+     "descripcion": "Cuenta solicitud de comisionar al diputado Gonzalo Winter para que sostenga ante el Senado el proyecto de ley. RECHAZADO",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-09T00:00:00-04:00",
+     "fecha_legible": "09/06/2026",
+     "sesion": "28/374",
+     "descripcion": "Cuenta del Mensaje 141-374 que hace presente la urgencia Suma",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-09T00:00:00-04:00",
+     "fecha_legible": "09/06/2026",
+     "sesion": "28/374",
+     "descripcion": "Discusión única . Rechazadas las modificaciones",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-09T00:00:00-04:00",
+     "fecha_legible": "09/06/2026",
+     "sesion": "/",
+     "descripcion": "Oficio rechazo modificaciones a Cámara Revisora .",
+     "etapa": "Tercer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-10T00:00:00-04:00",
+     "fecha_legible": "10/06/2026",
+     "sesion": "32/374",
+     "descripcion": "Cuenta oficio rechazo a modificaciones .",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-06-16T00:00:00-04:00",
+     "fecha_legible": "16/06/2026",
+     "sesion": "30/374",
+     "descripcion": "Cuenta del Mensaje 154-374 que hace presente la urgencia Suma",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-07-07T00:00:00-04:00",
+     "fecha_legible": "07/07/2026",
+     "sesion": "40/374",
+     "descripcion": "Cuenta del Mensaje 188-374 que hace presente la urgencia Suma",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-05T00:00:00-04:00",
+     "fecha_legible": "05/08/2026",
+     "sesion": "/",
+     "descripcion": "Oficio integrantes de Comisión Mixta .",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-05T00:00:00-04:00",
+     "fecha_legible": "05/08/2026",
+     "sesion": "48/374",
+     "descripcion": "Cuenta oficio integrantes de Comisión Mixta .",
+     "etapa": "Comisión Mixta por rechazo de modificaciones",
+     "camara": "Senado"
+    }
+   ],
+   "urgencias": [
+    {
+     "tipo": "Discusión inmediata",
+     "fecha_ingreso": "2026-01-19T00:00:00-03:00",
+     "fecha_retiro": "2026-01-26T00:00:00-03:00"
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "fecha_ingreso": "2026-01-26T00:00:00-03:00",
+     "fecha_retiro": "2026-01-28T00:00:00-03:00"
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2026-01-28T00:00:00-03:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "fecha_ingreso": "2026-03-02T00:00:00-03:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "fecha_ingreso": "2026-03-17T00:00:00-03:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "fecha_ingreso": "2026-03-24T00:00:00-03:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "fecha_ingreso": "2026-04-07T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "fecha_ingreso": "2026-04-14T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Discusión inmediata",
+     "fecha_ingreso": "2026-04-21T00:00:00-04:00",
+     "fecha_retiro": "2026-04-22T00:00:00-04:00"
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2026-06-09T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2026-06-16T00:00:00-04:00",
+     "fecha_retiro": ""
+    },
+    {
+     "tipo": "Suma",
+     "fecha_ingreso": "2026-07-07T00:00:00-04:00",
+     "fecha_retiro": ""
+    }
+   ],
+   "votaciones": [
+    {
+     "fecha": "2023-12-20T00:00:00-03:00",
+     "fecha_legible": "20/12/2023",
+     "tema": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado (Boletín N° 15.975-25). APROBADO.",
+     "si": "31",
+     "no": "0",
+     "abstencion": "0",
+     "camara": ""
+    }
+   ],
+   "autores": [
+    "Aravena A., Carmen Gloria",
+    "Araya G., Pedro",
+    "Carvajal A., Loreto",
+    "Castro P., Juan",
+    "Chahuán C., Francisco",
+    "Coloma C., Juan Antonio",
+    "Cruz-Coke C., Luciano",
+    "Durana S., José Miguel",
+    "Ebensperger O., Luz Eliana",
+    "Edwards ., Rojo",
+    "Espinoza S., Fidel",
+    "Galilea V., Rodrigo",
+    "Gatica B., María José",
+    "Huenchumilla J., Francisco",
+    "Kast S., Felipe",
+    "Keitel B., Sebastián",
+    "Kusanovic G., Alejandro",
+    "Kuschel S., Carlos Ignacio",
+    "Latorre R., Juan Ignacio",
+    "Moreira B., Iván",
+    "Ordenes N., Ximena",
+    "Ossandón I., Manuel José",
+    "Pascual G., Claudia",
+    "Prohens E., Rafael",
+    "Rincón G., Ximena",
+    "Saavedra C., Gastón",
+    "Sandoval P., David",
+    "Sepúlveda O., Alejandra",
+    "Soria Q., Jorge",
+    "Vodanovic R., Paulina",
+    "Walker P., Matías"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [
+    {
+     "fecha": "2023-12-18T00:00:00-03:00",
+     "tramite": "Primer informe de comisión de Seguridad Pública",
+     "etapa": "Primer trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2024-08-08T00:00:00-04:00",
+     "tramite": "Segundo informe de comisión de Seguridad Pública",
+     "etapa": "Primer trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2025-01-17T00:00:00-03:00",
+     "tramite": "Segundo informe de comisión de Hacienda",
+     "etapa": "Primer trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2025-03-19T00:00:00-03:00",
+     "tramite": "Segundo informe complementario de Constitución, Legislación, Justicia y Reglamento",
+     "etapa": "Primer trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2026-01-21T00:00:00-03:00",
+     "tramite": "Primer informe de comisión de Seguridad Ciudadana",
+     "etapa": "Segundo trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2026-01-28T00:00:00-03:00",
+     "tramite": "Primer informe de comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "link": ""
+    },
+    {
+     "fecha": "2026-04-21T00:00:00-04:00",
+     "tramite": "Informe de comisión de Seguridad Pública",
+     "etapa": "Tercer trámite constitucional",
+     "link": ""
+    }
+   ],
+   "ministerios": [
+    "Ministerio de Hacienda",
+    "Ministerio de Justicia y de Derechos Humanos"
+   ],
+   "camara_id": "16514",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara",
+    "senado"
+   ],
+   "nota_semilla": "Crea el Subsistema de Inteligencia Económica contra el crimen organizado",
+   "es_semilla": true,
+   "admisible": "true",
+   "texto_camara_completo": "16514 15975-25 Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado 2023-05-31T00:00:00 Mensaje Senado 167 Ministerio de Justicia y de Derechos Humanos 2 Ministerio de Hacienda 87790 Boletín N°15975-25 2026-03-05T13:31:39 65 53 3 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo primero transitorio, en los términos aprobados por la Comisión y por el Senado, que la Comisión de Hacienda propone suprimir, y que consta en las páginas 508 y 509 del comparado. Segundo Trámite Primer Informe 87789 Boletín N°15975-25 2026-03-05T13:30:43 64 56 6 0 Quórum Calificado Unánime Proyecto de Ley Particular Disposiciones del texto del Senado contenida en los numerales 2), 3), 4), 5), 6), 7), 8), 9) y 10) del artículo 9°, que ha pasado a ser 15, que constan en las páginas 250 a 279 del comparado, que la Comisión propone suprimir, y que requieren para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de normas orgánico constitucionales. Segundo Trámite Primer Informe 87788 Boletín N°15975-25 2026-03-05T13:29:06 64 56 6 0 Quórum Calificado Unánime Proyecto de Ley Particular Disposición del texto del Senado contenida en el literal d) del numeral 1) del artículo 9°, que ha pasado a ser 15, que consta en las páginas 246 y 247 del comparado, que la Comisión propone suprimir, y que requiere para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de una disposición de quorum calificado. Segundo Trámite Primer Informe 87787 Boletín N°15975-25 2026-03-05T13:27:50 64 58 4 0 Quórum Calificado Unánime Proyecto de Ley Particular Disposición del texto del Senado contenida en el ordinal ii) del literal c) del numeral 1) del artículo 9°, que ha pasado a ser 15, que consta en las páginas 233 y 234 del comparado, que la Comisión propone suprimir, y que requiere para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de una disposición de quorum calificado. Segundo Trámite Primer Informe 87786 Boletín N°15975-25 2026-03-05T13:26:38 65 58 3 0 Quórum Calificado Unánime Proyecto de Ley Particular Disposición del texto del Senado contenida en el literal b) del numeral 1) del artículo 9°, que ha pasado a ser 15, que consta en la página 213 del comparado, que la Comisión propone suprimir, y que requiere para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de una disposición de quorum calificado. Segundo Trámite Primer Informe 87785 Boletín N°15975-25 2026-03-05T13:22:15 63 57 6 0 Quórum Calificado Unánime Proyecto de Ley Particular Indicación del Ejecutivo para intercalar, en el numeral 1 del artículo 9°, que ha pasado a ser 15, el literal a), nuevo, que requiere para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de una norma de rango orgánico constitucional. Segundo Trámite Primer Informe 87784 Boletín N°15975-25 2026-03-05T13:14:25 64 58 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Indicación del Ejecutivo para intercalar en el numeral 2 del artículo 5°, que ha pasado a ser 11, un literal b), nuevo, cuyos párrafos nuevos cuarto y sexto del ordinal iii) requieren para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de disposiciones de quorum calificado. Segundo Trámite Primer Informe 87783 Boletín N°15975-25 2026-03-05T13:07:16 124 0 0 0 Quórum Calificado Aprobado Proyecto de Ley General Segundo Trámite Primer Informe 87782 Boletín N°15975-25 2026-03-05T13:04:39 119 0 0 0 Quórum Simple Aprobado Proyecto de Ley General Segundo Trámite Primer Informe true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=15975-25",
+   "canales_descubrimiento": [
+    "semilla",
+    "cartera"
+   ],
+   "id": "d91f40e7b4657b1d",
+   "puntaje_pertinencia": 160.0,
+   "nivel_impacto": "estructural",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [
+     "inteligencia economica",
+     "subsistema de inteligencia economica"
+    ],
+    "estructurales": [
+     "crimen organizado"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "facultades_uaf",
+    "crimen_organizado"
+   ],
+   "ejes_legibles": [
+    "Facultades y competencias UAF",
+    "Crimen organizado y persecución penal"
+   ],
+   "impacto_legible": "Impacto estructural en el sistema ALA/CFT",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 2,
+   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 4,
+   "vigente": true,
+   "ultimo_movimiento": "2026-08-05T00:00:00-04:00",
+   "ultimo_movimiento_legible": "05/08/2026",
+   "dias_sin_movimiento": 19,
+   "ultimo_tramite": "Cuenta oficio integrantes de Comisión Mixta .",
+   "camara_actual": "Senado",
+   "total_tramites": 171,
+   "fecha_ingreso_legible": "31/05/2023",
+   "antiguedad_dias": 1181,
+   "prioridad": 114.1,
+   "banda_prioridad": "media",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.6,
+   "factor_frescura": 1.15,
+   "huella": "7cce8d5ce2ace14882f1",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=16514&prmBOLETIN=15975-25",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15975",
+   "sintesis": "Comisión Mixta por rechazo de modificaciones (Senado) · Cuenta oficio integrantes de Comisión Mixta .",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-24T10:48:37.474663-04:00"
   },
   {
    "boletin": "17038-03",
@@ -3419,7 +5035,8 @@
    "texto_camara_completo": "19011 18333-07 Modifica diversos cuerpos legales, con el objeto de sancionar penalmente el reclutamiento de personas por parte de una asociación delictiva o criminal 2026-06-10T00:00:00 Moción Senado 0 1117 Iván Moreira Barros 0 1324 Karim Bianchi Retamales 0 1337 Paulina Núñez Urrutia 0 1339 Gastón Saavedra Chandía 0 1450 Paulina Vodanovic Rojas true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18333-07",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "5141da866ef863d2",
    "puntaje_pertinencia": 32.0,
@@ -3529,7 +5146,8 @@
    "texto_camara_completo": "19266 18582-07 Consagra los territorios especiales digitales, con el objeto de fortalecer la soberanía digital, la continuidad estratégica del Estado y la cooperación internacional 2026-08-13T00:00:00 Moción Senado 0 1110 Pedro Araya Guerrero 0 1117 Iván Moreira Barros 0 1337 Paulina Núñez Urrutia 0 1450 Paulina Vodanovic Rojas 0 1518 Cristian Vial Maceratta true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18582-07",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "023a23c08dd98d71",
    "puntaje_pertinencia": 32.0,
@@ -3649,7 +5267,8 @@
    "texto_camara_completo": "19282 18604-07 Modifica el Código Penal para agravar la pena por la receptación de vehículos en supuestos que indica 2026-08-11T21:14:57 Moción Cámara de Diputados 0 986 Marcela Hernando Pérez 0 1062 Joanna Pérez Olea 0 1013 Alejandro Bernales Maldonado 0 1141 Luis Malla Valenzuela 0 1182 Sebastián Videla Castillo 0 1187 Carlo Arqueros Pizarro 0 1246 José Antonio Rivas Villalobos 0 1255 Eileen Urqueta Rojas 0 1241 Patricio Pinilla Valencia 0 1230 Alex Nahuelquin Nahuelquin true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18604-07",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "9697708d6a52cd57",
    "puntaje_pertinencia": 32.0,
@@ -3749,7 +5368,8 @@
    "texto_camara_completo": "19299 18609-07 Con el objeto de consagrar a la persecución de la corrupción como un principio rector para el Estado 2026-08-19T00:00:00 Moción Senado 0 1341 Alejandra Sepúlveda Orbenes 0 1343 Esteban Velásquez Núñez true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18609-07",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "e19902a821e43538",
    "puntaje_pertinencia": 32.0,
@@ -3851,7 +5471,8 @@
    "texto_camara_completo": "19292 18611-07 Modifica el Código Penal para agravar la penalidad en caso de sustracción y receptación de combustibles en supuestos que indica 2026-08-12T16:46:17 Moción Cámara de Diputados 0 1237 Francisco Orrego Gutiérrez 0 1197 Carlos Chandía Alarcón 0 1261 Daniel Valenzuela Salazar true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18611-07",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "ef1f8f6c732b03ba",
    "puntaje_pertinencia": 32.0,
@@ -4478,6 +6099,113 @@
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
    "novedad_detectada": "2026-08-24T00:52:02.413306-04:00"
+  },
+  {
+   "boletin": "18407-25",
+   "titulo": "Modifica diversos cuerpos legales, con el objeto de agravar las sanciones aplicables en materia de lavado de activos",
+   "fecha_ingreso": "2026-06-24T00:00:00-04:00",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Seguridad Pública",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia": "Sin urgencia",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "En tramitación",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19090&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2026-06-24T00:00:00-04:00",
+     "fecha_legible": "24/06/2026",
+     "sesion": "/",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-24T00:00:00-04:00",
+     "fecha_legible": "24/06/2026",
+     "sesion": "37/374",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [
+    "Alejandra Sepúlveda Orbenes",
+    "Esteban Velásquez Núñez",
+    "Sepúlveda Orbenes, Alejandra",
+    "Velásquez Núñez, Esteban"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [],
+   "ministerios": [],
+   "camara_id": "19090",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara",
+    "senado"
+   ],
+   "nota_semilla": "Agrava las sanciones aplicables en materia de lavado de activos",
+   "es_semilla": true,
+   "admisible": "true",
+   "texto_camara_completo": "19090 18407-25 Modifica diversos cuerpos legales, con el objeto de agravar las sanciones aplicables en materia de lavado de activos 2026-06-24T00:00:00 Moción Senado 0 1341 Alejandra Sepúlveda Orbenes 0 1343 Esteban Velásquez Núñez true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18407-25",
+   "canales_descubrimiento": [
+    "semilla",
+    "cartera"
+   ],
+   "id": "a2afa16efcdd8cf0",
+   "puntaje_pertinencia": 64.0,
+   "nivel_impacto": "sectorial",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [
+     "lavado de activos"
+    ],
+    "estructurales": [],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "delitos_base"
+   ],
+   "ejes_legibles": [
+    "Catálogo de delitos base"
+   ],
+   "impacto_legible": "Impacto sectorial en sujetos obligados",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 2,
+   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2026-06-24T00:00:00-04:00",
+   "ultimo_movimiento_legible": "24/06/2026",
+   "dias_sin_movimiento": 61,
+   "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
+   "camara_actual": "Senado",
+   "total_tramites": 2,
+   "fecha_ingreso_legible": "24/06/2026",
+   "antiguedad_dias": 61,
+   "prioridad": 34.0,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 1.0,
+   "huella": "4c3496185ed2c186f40c",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18407-25",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19090&prmBOLETIN=18407-25",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18407",
+   "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-08-24T10:48:37.474663-04:00"
   },
   {
    "boletin": "18416-07",
@@ -6733,185 +8461,6 @@
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta del Mensaje 1033-373 que retira y hace presente la urgencia Simple",
    "novedad": "",
    "novedad_detectada": "2026-08-24T00:52:02.413306-04:00"
-  },
-  {
-   "boletin": "15975-25",
-   "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
-   "fecha_ingreso": "2023-05-31T00:00:00-04:00",
-   "etapa": "",
-   "subetapa": "",
-   "iniciativa": "Mensaje",
-   "camara_origen": "Senado",
-   "urgencia": "",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "",
-   "link_texto_original": "",
-   "tramitacion": [],
-   "urgencias": [],
-   "votaciones": [],
-   "autores": [],
-   "materias": [],
-   "comisiones": [],
-   "informes": [],
-   "ministerios": [
-    "Ministerio de Hacienda",
-    "Ministerio de Justicia y de Derechos Humanos"
-   ],
-   "camara_id": "16514",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara"
-   ],
-   "nota_semilla": "Crea el Subsistema de Inteligencia Económica contra el crimen organizado",
-   "es_semilla": true,
-   "admisible": "true",
-   "texto_camara_completo": "16514 15975-25 Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado 2023-05-31T00:00:00 Mensaje Senado 167 Ministerio de Justicia y de Derechos Humanos 2 Ministerio de Hacienda 87790 Boletín N°15975-25 2026-03-05T13:31:39 65 53 3 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo primero transitorio, en los términos aprobados por la Comisión y por el Senado, que la Comisión de Hacienda propone suprimir, y que consta en las páginas 508 y 509 del comparado. Segundo Trámite Primer Informe 87789 Boletín N°15975-25 2026-03-05T13:30:43 64 56 6 0 Quórum Calificado Unánime Proyecto de Ley Particular Disposiciones del texto del Senado contenida en los numerales 2), 3), 4), 5), 6), 7), 8), 9) y 10) del artículo 9°, que ha pasado a ser 15, que constan en las páginas 250 a 279 del comparado, que la Comisión propone suprimir, y que requieren para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de normas orgánico constitucionales. Segundo Trámite Primer Informe 87788 Boletín N°15975-25 2026-03-05T13:29:06 64 56 6 0 Quórum Calificado Unánime Proyecto de Ley Particular Disposición del texto del Senado contenida en el literal d) del numeral 1) del artículo 9°, que ha pasado a ser 15, que consta en las páginas 246 y 247 del comparado, que la Comisión propone suprimir, y que requiere para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de una disposición de quorum calificado. Segundo Trámite Primer Informe 87787 Boletín N°15975-25 2026-03-05T13:27:50 64 58 4 0 Quórum Calificado Unánime Proyecto de Ley Particular Disposición del texto del Senado contenida en el ordinal ii) del literal c) del numeral 1) del artículo 9°, que ha pasado a ser 15, que consta en las páginas 233 y 234 del comparado, que la Comisión propone suprimir, y que requiere para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de una disposición de quorum calificado. Segundo Trámite Primer Informe 87786 Boletín N°15975-25 2026-03-05T13:26:38 65 58 3 0 Quórum Calificado Unánime Proyecto de Ley Particular Disposición del texto del Senado contenida en el literal b) del numeral 1) del artículo 9°, que ha pasado a ser 15, que consta en la página 213 del comparado, que la Comisión propone suprimir, y que requiere para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de una disposición de quorum calificado. Segundo Trámite Primer Informe 87785 Boletín N°15975-25 2026-03-05T13:22:15 63 57 6 0 Quórum Calificado Unánime Proyecto de Ley Particular Indicación del Ejecutivo para intercalar, en el numeral 1 del artículo 9°, que ha pasado a ser 15, el literal a), nuevo, que requiere para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de una norma de rango orgánico constitucional. Segundo Trámite Primer Informe 87784 Boletín N°15975-25 2026-03-05T13:14:25 64 58 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Indicación del Ejecutivo para intercalar en el numeral 2 del artículo 5°, que ha pasado a ser 11, un literal b), nuevo, cuyos párrafos nuevos cuarto y sexto del ordinal iii) requieren para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de disposiciones de quorum calificado. Segundo Trámite Primer Informe 87783 Boletín N°15975-25 2026-03-05T13:07:16 124 0 0 0 Quórum Calificado Aprobado Proyecto de Ley General Segundo Trámite Primer Informe 87782 Boletín N°15975-25 2026-03-05T13:04:39 119 0 0 0 Quórum Simple Aprobado Proyecto de Ley General Segundo Trámite Primer Informe true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=15975-25",
-   "canales_descubrimiento": [
-    "semilla",
-    "cartera"
-   ],
-   "id": "d91f40e7b4657b1d",
-   "puntaje_pertinencia": 160.0,
-   "nivel_impacto": "estructural",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [
-     "inteligencia economica",
-     "subsistema de inteligencia economica"
-    ],
-    "estructurales": [
-     "crimen organizado"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [
-    "facultades_uaf",
-    "crimen_organizado"
-   ],
-   "ejes_legibles": [
-    "Facultades y competencias UAF",
-    "Crimen organizado y persecución penal"
-   ],
-   "impacto_legible": "Impacto estructural en el sistema ALA/CFT",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 2,
-   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 0,
-   "vigente": true,
-   "ultimo_movimiento": "2023-05-31T00:00:00-04:00",
-   "ultimo_movimiento_legible": "31/05/2023",
-   "dias_sin_movimiento": 1181,
-   "ultimo_tramite": "",
-   "camara_actual": "Senado",
-   "total_tramites": 0,
-   "fecha_ingreso_legible": "31/05/2023",
-   "antiguedad_dias": 1181,
-   "prioridad": 10.2,
-   "banda_prioridad": "baja",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 0.3,
-   "factor_frescura": 0.55,
-   "huella": "0a5848de083bede6b5c4",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=16514&prmBOLETIN=15975-25",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15975",
-   "sintesis": "",
-   "novedad": "movimiento",
-   "novedad_detectada": "2026-08-24T08:59:48.185195-04:00"
-  },
-  {
-   "boletin": "18407-25",
-   "titulo": "Modifica diversos cuerpos legales, con el objeto de agravar las sanciones aplicables en materia de lavado de activos",
-   "fecha_ingreso": "2026-06-24T00:00:00-04:00",
-   "etapa": "",
-   "subetapa": "",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia": "",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "",
-   "link_texto_original": "",
-   "tramitacion": [],
-   "urgencias": [],
-   "votaciones": [],
-   "autores": [
-    "Alejandra Sepúlveda Orbenes",
-    "Esteban Velásquez Núñez"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [],
-   "ministerios": [],
-   "camara_id": "19090",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara"
-   ],
-   "nota_semilla": "Agrava las sanciones aplicables en materia de lavado de activos",
-   "es_semilla": true,
-   "admisible": "true",
-   "texto_camara_completo": "19090 18407-25 Modifica diversos cuerpos legales, con el objeto de agravar las sanciones aplicables en materia de lavado de activos 2026-06-24T00:00:00 Moción Senado 0 1341 Alejandra Sepúlveda Orbenes 0 1343 Esteban Velásquez Núñez true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18407-25",
-   "canales_descubrimiento": [
-    "semilla",
-    "cartera"
-   ],
-   "id": "a2afa16efcdd8cf0",
-   "puntaje_pertinencia": 64.0,
-   "nivel_impacto": "sectorial",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [
-     "lavado de activos"
-    ],
-    "estructurales": [],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [
-    "delitos_base"
-   ],
-   "ejes_legibles": [
-    "Catálogo de delitos base"
-   ],
-   "impacto_legible": "Impacto sectorial en sujetos obligados",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 2,
-   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 0,
-   "vigente": true,
-   "ultimo_movimiento": "2026-06-24T00:00:00-04:00",
-   "ultimo_movimiento_legible": "24/06/2026",
-   "dias_sin_movimiento": 61,
-   "ultimo_tramite": "",
-   "camara_actual": "Senado",
-   "total_tramites": 0,
-   "fecha_ingreso_legible": "24/06/2026",
-   "antiguedad_dias": 61,
-   "prioridad": 10.2,
-   "banda_prioridad": "baja",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 0.3,
-   "factor_frescura": 1.0,
-   "huella": "0a5848de083bede6b5c4",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18407-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19090&prmBOLETIN=18407-25",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18407",
-   "sintesis": "",
-   "novedad": "movimiento",
-   "novedad_detectada": "2026-08-24T08:59:48.185195-04:00"
   },
   {
    "boletin": "17060-07",
@@ -10083,7 +11632,14 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-24T08:59:48.185195-04:00"
+   "revisado": "2026-08-24T10:48:37.474663-04:00"
+  },
+  {
+   "boletin": "12712-24",
+   "titulo": "Ley de Patrimonio Cultural",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia",
+   "revisado": "2026-08-24T10:48:37.474663-04:00"
   }
  ],
  "novedades": 2,
@@ -10137,13 +11693,13 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 46,
-  "boletines_consultados": 46,
-  "fichas_obtenidas": 46,
+  "candidatos_descubiertos": 219,
+  "boletines_consultados": 47,
+  "fichas_obtenidas": 47,
   "consultas_fallidas": 0,
   "registros_publicados": 46,
   "registros_conservados_sin_revisar": 1,
-  "descartados_por_pertinencia": 1,
+  "descartados_por_pertinencia": 2,
   "retenidos_para_revision_manual": 4,
   "novedades_corrida": 2,
   "nuevos_en_cartera": 0,
@@ -10152,7 +11708,7 @@
   "canales": {
    "semillas": 15,
    "cartera": 46,
-   "senado_movimiento": 0,
+   "senado_movimiento": 181,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -10160,26 +11716,21 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 0,
-    "errores": [
-     "17/08/2026: XML ilegible"
-    ],
+    "resultados": 181,
+    "errores": [],
     "consultado": true
    },
    {
     "canal": "senado_boletin",
-    "llamadas": 46,
-    "resultados": 44,
-    "errores": [
-     "15975: HTTPError: HTTP Error 502: Bad Gateway",
-     "18407: HTTPError: HTTP Error 502: Bad Gateway"
-    ],
+    "llamadas": 47,
+    "resultados": 47,
+    "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_boletin",
-    "llamadas": 46,
-    "resultados": 46,
+    "llamadas": 47,
+    "resultados": 47,
     "errores": [],
     "consultado": true
    },
@@ -10201,6 +11752,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 80.8
+  "segundos_corrida": 80.0
  }
 }
