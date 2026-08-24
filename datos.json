@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-24T10:48:37.474663-04:00",
- "generado_legible": "24/08/2026 10:48",
+ "generado": "2026-08-24T12:44:03.295902-04:00",
+ "generado_legible": "24/08/2026 12:44",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-08-24T10:48:37.474663-04:00"
+  "generado": "2026-08-24T12:44:03.295902-04:00"
  },
  "proyectos": [
   {
@@ -3862,7 +3862,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=16514&prmBOLETIN=15975-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15975",
    "sintesis": "Comisión Mixta por rechazo de modificaciones (Senado) · Cuenta oficio integrantes de Comisión Mixta .",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-24T10:48:37.474663-04:00"
   },
   {
@@ -6204,7 +6204,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19090&prmBOLETIN=18407-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18407",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-08-24T10:48:37.474663-04:00"
   },
   {
@@ -11632,17 +11632,17 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-24T10:48:37.474663-04:00"
+   "revisado": "2026-08-24T12:44:03.295902-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-24T10:48:37.474663-04:00"
+   "revisado": "2026-08-24T12:44:03.295902-04:00"
   }
  ],
- "novedades": 2,
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11701,9 +11701,9 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 2,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 2,
+  "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 2,
+  "con_movimiento": 0,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
@@ -11752,6 +11752,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 80.0
+  "segundos_corrida": 79.3
  }
 }
