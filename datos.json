@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-25T08:56:00.345198-04:00",
- "generado_legible": "25/08/2026 08:56",
+ "generado": "2026-08-25T10:51:59.090436-04:00",
+ "generado_legible": "25/08/2026 10:51",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-08-25T08:56:00.345198-04:00"
+  "generado": "2026-08-25T10:51:59.090436-04:00"
  },
  "proyectos": [
   {
@@ -6973,23 +6973,28 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
+    "Gloria Naveillan Arriagada",
     "Naveillan Arriagada, Gloria"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "18715",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
+   "admisible": "true",
+   "texto_camara_completo": "18715 18053-07 Modifica diversos cuerpos legales para prevenir y sancionar con mayor severidad el uso del crédito prendario para lavado de activos 2026-01-12T00:00:00 Moción Cámara de Diputados 0 1152 Gloria Naveillan Arriagada true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18053-07",
    "canales_descubrimiento": [
     "cartera"
    ],
    "id": "54783418c224bc68",
-   "puntaje_pertinencia": 48.0,
+   "puntaje_pertinencia": 64.0,
    "nivel_impacto": "sectorial",
    "evidencia": {
     "directas": [],
@@ -7030,7 +7035,7 @@
    "factor_frescura": 0.8,
    "huella": "ffbff79b09ad073633e0",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18053-07",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18715&prmBOLETIN=18053-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18053",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -11626,14 +11631,14 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-25T08:56:00.345198-04:00"
+   "revisado": "2026-08-25T10:51:59.090436-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-25T08:56:00.345198-04:00"
+   "revisado": "2026-08-25T10:51:59.090436-04:00"
   }
  ],
  "novedades": 0,
@@ -11724,10 +11729,8 @@
    {
     "canal": "camara_boletin",
     "llamadas": 47,
-    "resultados": 46,
-    "errores": [
-     "18053-07: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
-    ],
+    "resultados": 47,
+    "errores": [],
     "consultado": true
    },
    {
@@ -11748,6 +11751,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 81.4
+  "segundos_corrida": 70.5
  }
 }
