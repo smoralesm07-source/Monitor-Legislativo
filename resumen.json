@@ -2,27 +2,27 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-25T21:40:43.166529-04:00",
-  "generado_legible": "25/08/2026 21:40",
+  "generado": "2026-08-25T23:11:09.322022-04:00",
+  "generado_legible": "25/08/2026 23:11",
   "proyectos_total": 46,
-  "vigentes": 43,
-  "movimientos_recientes": 7,
-  "movimientos_30d": 12,
-  "novedades_corrida": 0,
+  "vigentes": 44,
+  "movimientos_recientes": 1,
+  "movimientos_30d": 5,
+  "novedades_corrida": 42,
   "impacto_directo": 8,
-  "con_urgencia": 5,
-  "prioridad_alta": 4,
-  "estancados_180d": 17,
+  "con_urgencia": 0,
+  "prioridad_alta": 0,
+  "estancados_180d": 23,
   "ultimo": {
-    "titulo": "Modifica el Código Penal para agravar la pena por la receptación de vehículos en supuestos que indica",
-    "detalle": "Boletín 18604-07 · 19/08/2026 · Primer trámite constitucional (C.Diputados)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18604-07",
+    "titulo": "Con el objeto de consagrar a la persecución de la corrupción como un principio rector para el Estado",
+    "detalle": "Boletín 18609-07 · 19/08/2026",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18609-07",
     "fecha": "2026-08-19T00:00:00-04:00"
   },
   "serie_7d": [
     {
       "fecha": "2026-08-19",
-      "n": 3
+      "n": 1
     },
     {
       "fecha": "2026-08-20",
@@ -52,14 +52,6 @@
   "alertas": [
     {
       "severidad": "info",
-      "titulo": "Modifica el Código Penal para agravar la pena por la receptación de vehículos en supuestos que indica",
-      "detalle": "Boletín 18604-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-08-19T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18604-07",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
       "titulo": "Con el objeto de consagrar a la persecución de la corrupción como un principio rector para el Estado",
       "detalle": "Boletín 18609-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
       "fecha": "2026-08-19T00:00:00-04:00",
@@ -68,37 +60,45 @@
     },
     {
       "severidad": "info",
+      "titulo": "Consagra los territorios especiales digitales, con el objeto de fortalecer la soberanía digital, la continuidad estratégica del Estado y la cooperación internacional",
+      "detalle": "Boletín 18582-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-08-13T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18582-07",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
       "titulo": "Modifica el Código Penal para agravar la penalidad en caso de sustracción y receptación de combustibles en supuestos que indica",
       "detalle": "Boletín 18611-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-08-19T00:00:00-04:00",
+      "fecha": "2026-08-12T16:46:17-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18611-07",
       "fuente": "LEGISLATIVO"
     },
     {
-      "severidad": "alta",
-      "titulo": "Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal",
-      "detalle": "Boletín 16808-25 · Nivel 1 · Impacto en la Ley 19.913 · Simple urgencia",
-      "fecha": "2026-08-18T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16808-25",
+      "severidad": "info",
+      "titulo": "Modifica el Código Penal para agravar la pena por la receptación de vehículos en supuestos que indica",
+      "detalle": "Boletín 18604-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-08-11T21:14:57-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18604-07",
       "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
     {
       "fecha": "2026-08-19T00:00:00-04:00",
-      "texto": "Boletín 18604-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
+      "texto": "Boletín 18609-07:"
     },
     {
-      "fecha": "2026-08-19T00:00:00-04:00",
-      "texto": "Boletín 18609-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
+      "fecha": "2026-08-13T00:00:00-04:00",
+      "texto": "Boletín 18582-07:"
     },
     {
-      "fecha": "2026-08-19T00:00:00-04:00",
-      "texto": "Boletín 18611-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
+      "fecha": "2026-08-12T16:46:17-04:00",
+      "texto": "Boletín 18611-07:"
     },
     {
-      "fecha": "2026-08-18T00:00:00-04:00",
-      "texto": "Boletín 16808-25: Cuenta del Mensaje 267-374 que retira y hace presente la urgencia Simple"
+      "fecha": "2026-08-11T21:14:57-04:00",
+      "texto": "Boletín 18604-07:"
     }
   ]
 }
