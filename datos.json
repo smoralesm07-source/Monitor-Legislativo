@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-26T02:56:57.244207-04:00",
- "generado_legible": "26/08/2026 02:56",
+ "generado": "2026-08-26T04:51:01.745287-04:00",
+ "generado_legible": "26/08/2026 04:51",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-08-26T02:56:57.244207-04:00"
+  "generado": "2026-08-26T04:51:01.745287-04:00"
  },
  "proyectos": [
   {
@@ -11641,7 +11641,7 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-08-26T02:56:57.244207-04:00"
+   "revisado": "2026-08-26T04:51:01.745287-04:00"
   }
  ],
  "novedades": 0,
@@ -11754,6 +11754,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 61.3
+  "segundos_corrida": 63.2
  }
 }
