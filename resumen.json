@@ -2,8 +2,8 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-26T19:09:57.676995-04:00",
-  "generado_legible": "26/08/2026 19:09",
+  "generado": "2026-08-27T04:34:07.836173-04:00",
+  "generado_legible": "27/08/2026 04:34",
   "proyectos_total": 46,
   "vigentes": 43,
   "movimientos_recientes": 3,
@@ -11,7 +11,7 @@
   "novedades_corrida": 0,
   "impacto_directo": 8,
   "con_urgencia": 5,
-  "prioridad_alta": 4,
+  "prioridad_alta": 3,
   "estancados_180d": 17,
   "ultimo": {
     "titulo": "Modifica el Código Penal para agravar la pena por la receptación de vehículos en supuestos que indica",
@@ -20,10 +20,6 @@
     "fecha": "2026-08-19T00:00:00-04:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-08-20",
-      "n": 0
-    },
     {
       "fecha": "2026-08-21",
       "n": 0
@@ -46,6 +42,10 @@
     },
     {
       "fecha": "2026-08-26",
+      "n": 0
+    },
+    {
+      "fecha": "2026-08-27",
       "n": 0
     }
   ],
