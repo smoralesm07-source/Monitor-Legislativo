@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-08-31T15:53:29.471517-04:00",
-  "generado_legible": "31/08/2026 15:53",
+  "generado": "2026-08-31T19:40:35.876915-04:00",
+  "generado_legible": "31/08/2026 19:40",
   "proyectos_total": 46,
   "vigentes": 43,
-  "movimientos_recientes": 0,
+  "movimientos_recientes": 1,
   "movimientos_30d": 12,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 5,
   "prioridad_alta": 4,
   "estancados_180d": 18,
   "ultimo": {
-    "titulo": "Modifica el Código Penal para agravar la pena por la receptación de vehículos en supuestos que indica",
-    "detalle": "Boletín 18604-07 · 19/08/2026 · Primer trámite constitucional (C.Diputados)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18604-07",
-    "fecha": "2026-08-19T00:00:00-04:00"
+    "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
+    "detalle": "Boletín 14773-02 · 31/08/2026 · Segundo trámite constitucional (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
+    "fecha": "2026-08-31T00:00:00-04:00"
   },
   "serie_7d": [
     {
@@ -46,10 +46,18 @@
     },
     {
       "fecha": "2026-08-31",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
+    {
+      "severidad": "alta",
+      "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
+      "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
+      "fecha": "2026-08-31T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "info",
       "titulo": "Modifica el Código Penal para agravar la pena por la receptación de vehículos en supuestos que indica",
@@ -73,17 +81,13 @@
       "fecha": "2026-08-19T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18611-07",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "alta",
-      "titulo": "Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal",
-      "detalle": "Boletín 16808-25 · Nivel 1 · Impacto en la Ley 19.913 · Simple urgencia",
-      "fecha": "2026-08-18T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16808-25",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
+    {
+      "fecha": "2026-08-31T00:00:00-04:00",
+      "texto": "Boletín 14773-02: Primer informe de comisión de Hacienda."
+    },
     {
       "fecha": "2026-08-19T00:00:00-04:00",
       "texto": "Boletín 18604-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
@@ -95,10 +99,6 @@
     {
       "fecha": "2026-08-19T00:00:00-04:00",
       "texto": "Boletín 18611-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
-    },
-    {
-      "fecha": "2026-08-18T00:00:00-04:00",
-      "texto": "Boletín 16808-25: Cuenta del Mensaje 267-374 que retira y hace presente la urgencia Simple"
     }
   ]
 }
