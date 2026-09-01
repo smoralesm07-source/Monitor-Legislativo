@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-01T07:25:17.294186-04:00",
- "generado_legible": "01/09/2026 07:25",
+ "generado": "2026-09-01T12:22:36.944839-04:00",
+ "generado_legible": "01/09/2026 12:22",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-09-01T07:25:17.294186-04:00"
+  "generado": "2026-09-01T12:22:36.944839-04:00"
  },
  "proyectos": [
   {
@@ -479,7 +479,7 @@
    "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
    "fecha_ingreso": "2022-01-04T00:00:00-03:00",
    "etapa": "Segundo trámite constitucional (C.Diputados)",
-   "subetapa": "Cuenta de primer informe de comisión",
+   "subetapa": "Discusión general",
    "iniciativa": "Mensaje",
    "camara_origen": "Senado",
    "urgencia": "Simple",
@@ -815,6 +815,14 @@
      "descripcion": "Primer informe de comisión de Hacienda.",
      "etapa": "Segundo trámite constitucional",
      "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-09-01T00:00:00-04:00",
+     "fecha_legible": "01/09/2026",
+     "sesion": "62/374",
+     "descripcion": "Cuenta de primer informe de comisión . (Hacienda). Queda para tabla.",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
     }
    ],
    "urgencias": [
@@ -949,6 +957,12 @@
      "tramite": "Primer informe de comisión de Defensa Nacional",
      "etapa": "Segundo trámite constitucional",
      "link": ""
+    },
+    {
+     "fecha": "2026-08-31T00:00:00-04:00",
+     "tramite": "Primer informe de comisión de Hacienda",
+     "etapa": "Segundo trámite constitucional",
+     "link": ""
     }
    ],
    "ministerios": [
@@ -1007,12 +1021,12 @@
    "urgencia_legible": "Simple urgencia",
    "etapa_ordinal": 2,
    "vigente": true,
-   "ultimo_movimiento": "2026-08-31T00:00:00-04:00",
-   "ultimo_movimiento_legible": "31/08/2026",
-   "dias_sin_movimiento": 1,
-   "ultimo_tramite": "Primer informe de comisión de Hacienda.",
+   "ultimo_movimiento": "2026-09-01T00:00:00-04:00",
+   "ultimo_movimiento_legible": "01/09/2026",
+   "dias_sin_movimiento": 0,
+   "ultimo_tramite": "Cuenta de primer informe de comisión . (Hacienda). Queda para tabla.",
    "camara_actual": "C.Diputados",
-   "total_tramites": 41,
+   "total_tramites": 42,
    "fecha_ingreso_legible": "04/01/2022",
    "antiguedad_dias": 1701,
    "prioridad": 161.2,
@@ -1020,13 +1034,13 @@
    "factor_urgencia": 1.6,
    "factor_proximidad": 1.25,
    "factor_frescura": 1.3,
-   "huella": "727743f61efea700a513",
+   "huella": "11ba098c7c678befed08",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=15272&prmBOLETIN=14773-02",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14773",
-   "sintesis": "Simple urgencia · Segundo trámite constitucional (C.Diputados) · Primer informe de comisión de Hacienda.",
-   "novedad": "",
-   "novedad_detectada": "2026-08-31T19:40:35.876915-04:00"
+   "sintesis": "Simple urgencia · Segundo trámite constitucional (C.Diputados) · Cuenta de primer informe de comisión . (Hacienda). Queda para tabla.",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-09-01T12:22:36.944839-04:00"
   },
   {
    "boletin": "17912-25",
@@ -1763,7 +1777,7 @@
      "fecha": "2026-07-21T00:00:00-04:00",
      "fecha_legible": "21/07/2026",
      "sesion": "46/374",
-     "descripcion": "El diputado Mulet hace reserva de constitucionalidad respecto de los artículos 18 y 29 del proyecto de ley.",
+     "descripcion": "El diputado Barraza formluló reserva de constitucionalidad a las enmiendas propuestas por el Senado a los artículos 1; 5; 6; 10; 11; 12; 13; 14; 15; 16; 17 Y 29 del proyecto de ley.",
      "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
      "camara": "Senado"
     },
@@ -1771,7 +1785,7 @@
      "fecha": "2026-07-21T00:00:00-04:00",
      "fecha_legible": "21/07/2026",
      "sesion": "46/374",
-     "descripcion": "El diputado Barraza formluló reserva de constitucionalidad a las enmiendas propuestas por el Senado a los artículos 1; 5; 6; 10; 11; 12; 13; 14; 15; 16; 17 Y 29 del proyecto de ley.",
+     "descripcion": "El diputado Mulet hace reserva de constitucionalidad respecto de los artículos 18 y 29 del proyecto de ley.",
      "etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora",
      "camara": "Senado"
     },
@@ -2083,8 +2097,16 @@
      "fecha": "2026-08-17T00:00:00-04:00",
      "fecha_legible": "17/08/2026",
      "sesion": "57/374",
-     "descripcion": "Cuenta, Copia autorizada de una resolución del Tribunal Constitucional mediante la cual prorroga por diez días el plazo para resolver el requerimiento de inconstitucionalidad presentado respecto del proyecto.",
-     "etapa": "Trámite finalización en Cámara de Origen",
+     "descripcion": "Cuenta, Copia autorizada de una resolución del Tribunal Constitucional mediante la cual prorroga por diez días el plazo para resolver el requerimiento de inconstitucionalidad presentado respecto del proyecto. Roles acumulados N°s 17828-26-CPT, 17829-26-CPT y 17832-26-CPT.",
+     "etapa": "Trámite en Tribunal Constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-08-19T00:00:00-04:00",
+     "fecha_legible": "19/08/2026",
+     "sesion": "60/374",
+     "descripcion": "Cuenta, Oficio 321-2026 del Tribunal Constitucional por el cual remite copia autorizada de la resolución recaída en el requerimiento de inconstitucionalidad presentado por el Presidente de la República, respecto del artículo 31 del proyecto. Rol N° 17892-26-CPT. Otorga plazo para formular observaciones al requerimiento declarado admisible.",
+     "etapa": "Trámite en Tribunal Constitucional",
      "camara": "C.Diputados"
     }
    ],
@@ -2256,12 +2278,12 @@
    "urgencia_legible": "Discusión inmediata",
    "etapa_ordinal": 6,
    "vigente": true,
-   "ultimo_movimiento": "2026-08-17T00:00:00-04:00",
-   "ultimo_movimiento_legible": "17/08/2026",
-   "dias_sin_movimiento": 15,
-   "ultimo_tramite": "Cuenta, Copia autorizada de una resolución del Tribunal Constitucional mediante la cual prorroga por diez días el plazo para resolver el requerimiento de inconstitucionalidad presentado respecto del proyecto.",
+   "ultimo_movimiento": "2026-08-19T00:00:00-04:00",
+   "ultimo_movimiento_legible": "19/08/2026",
+   "dias_sin_movimiento": 13,
+   "ultimo_tramite": "Cuenta, Oficio 321-2026 del Tribunal Constitucional por el cual remite copia autorizada de la resolución recaída en el requerimiento de inconstitucionalidad presentado por el Presidente de la República, respecto del artículo 31 del proyecto. Rol N° 17892-26-CPT. Otorga plazo para formular observaciones al requerimiento declarado admisible.",
    "camara_actual": "C.Diputados",
-   "total_tramites": 104,
+   "total_tramites": 105,
    "fecha_ingreso_legible": "22/04/2026",
    "antiguedad_dias": 132,
    "prioridad": 140.8,
@@ -2269,13 +2291,13 @@
    "factor_urgencia": 3.0,
    "factor_proximidad": 1.2,
    "factor_frescura": 1.15,
-   "huella": "9a384272e2f2c1b28c20",
+   "huella": "cf771367ee3e9636c998",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
-   "sintesis": "Discusión inmediata · Trámite en Tribunal Constitucional (C.Diputados) · Cuenta, Copia autorizada de una resolución del Tribunal Constitucional mediante la cual prorroga por diez días el plazo para resolver el requerimiento de inconstitucionalidad presentado respecto del proyecto.",
-   "novedad": "",
-   "novedad_detectada": "2026-08-26T00:45:38.854002-04:00"
+   "sintesis": "Discusión inmediata · Trámite en Tribunal Constitucional (C.Diputados) · Cuenta, Oficio 321-2026 del Tribunal Constitucional por el cual remite copia autorizada de la resolución recaída en el requerimiento de inconstitucionalidad presentado por el Presidente de la República, respecto del artículo 31 del proyecto. Rol N° 17892-26-CPT. Otorga plazo para formular observaciones al requerimiento declar",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-09-01T12:22:36.944839-04:00"
   },
   {
    "boletin": "15975-25",
@@ -11647,10 +11669,10 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-01T07:25:17.294186-04:00"
+   "revisado": "2026-09-01T12:22:36.944839-04:00"
   }
  ],
- "novedades": 0,
+ "novedades": 2,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11701,7 +11723,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 75,
+  "candidatos_descubiertos": 81,
   "boletines_consultados": 46,
   "fichas_obtenidas": 46,
   "consultas_fallidas": 0,
@@ -11709,14 +11731,14 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 1,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 0,
+  "novedades_corrida": 2,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 0,
+  "con_movimiento": 2,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
    "cartera": 46,
-   "senado_movimiento": 30,
+   "senado_movimiento": 36,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -11724,7 +11746,7 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 30,
+    "resultados": 36,
     "errores": [],
     "consultado": true
    },
@@ -11760,6 +11782,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 58.1
+  "segundos_corrida": 59.0
  }
 }

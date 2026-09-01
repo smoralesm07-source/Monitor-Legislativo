@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-09-01T07:25:17.294186-04:00",
-  "generado_legible": "01/09/2026 07:25",
+  "generado": "2026-09-01T12:22:36.944839-04:00",
+  "generado_legible": "01/09/2026 12:22",
   "proyectos_total": 46,
   "vigentes": 43,
   "movimientos_recientes": 1,
   "movimientos_30d": 12,
-  "novedades_corrida": 0,
+  "novedades_corrida": 2,
   "impacto_directo": 8,
   "con_urgencia": 5,
   "prioridad_alta": 4,
   "estancados_180d": 18,
   "ultimo": {
     "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-    "detalle": "Boletín 14773-02 · 31/08/2026 · Segundo trámite constitucional (C.Diputados)",
+    "detalle": "Boletín 14773-02 · 01/09/2026 · Segundo trámite constitucional (C.Diputados)",
     "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
-    "fecha": "2026-08-31T00:00:00-04:00"
+    "fecha": "2026-09-01T00:00:00-04:00"
   },
   "serie_7d": [
     {
@@ -42,11 +42,11 @@
     },
     {
       "fecha": "2026-08-31",
-      "n": 1
+      "n": 0
     },
     {
       "fecha": "2026-09-01",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
@@ -54,8 +54,16 @@
       "severidad": "alta",
       "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
       "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
-      "fecha": "2026-08-31T00:00:00-04:00",
+      "fecha": "2026-09-01T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "alta",
+      "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+      "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Discusión inmediata",
+      "fecha": "2026-08-19T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
       "fuente": "LEGISLATIVO"
     },
     {
@@ -73,20 +81,16 @@
       "fecha": "2026-08-19T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18609-07",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Modifica el Código Penal para agravar la penalidad en caso de sustracción y receptación de combustibles en supuestos que indica",
-      "detalle": "Boletín 18611-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-08-19T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18611-07",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
     {
-      "fecha": "2026-08-31T00:00:00-04:00",
-      "texto": "Boletín 14773-02: Primer informe de comisión de Hacienda."
+      "fecha": "2026-09-01T00:00:00-04:00",
+      "texto": "Boletín 14773-02: Cuenta de primer informe de comisión . (Hacienda). Queda para tabla."
+    },
+    {
+      "fecha": "2026-08-19T00:00:00-04:00",
+      "texto": "Boletín 18216-05: Cuenta, Oficio 321-2026 del Tribunal Constitucional por el cual remite copia autorizada de la resolución recaída en el requerimiento de inconstitucionalidad presentado por el Presidente de la República, respecto del artículo 31 del proyecto. Rol N° 17892-26-CPT. Otorga plazo para formular observaciones al requerimiento declarado admisible."
     },
     {
       "fecha": "2026-08-19T00:00:00-04:00",
@@ -95,10 +99,6 @@
     {
       "fecha": "2026-08-19T00:00:00-04:00",
       "texto": "Boletín 18609-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
-    },
-    {
-      "fecha": "2026-08-19T00:00:00-04:00",
-      "texto": "Boletín 18611-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
     }
   ]
 }
