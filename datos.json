@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-01T12:22:36.944839-04:00",
- "generado_legible": "01/09/2026 12:22",
+ "generado": "2026-09-01T16:51:16.508910-04:00",
+ "generado_legible": "01/09/2026 16:51",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-09-01T12:22:36.944839-04:00"
+  "generado": "2026-09-01T16:51:16.508910-04:00"
  },
  "proyectos": [
   {
@@ -1039,7 +1039,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=15272&prmBOLETIN=14773-02",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14773",
    "sintesis": "Simple urgencia · Segundo trámite constitucional (C.Diputados) · Cuenta de primer informe de comisión . (Hacienda). Queda para tabla.",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-01T12:22:36.944839-04:00"
   },
   {
@@ -2296,7 +2296,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
    "sintesis": "Discusión inmediata · Trámite en Tribunal Constitucional (C.Diputados) · Cuenta, Oficio 321-2026 del Tribunal Constitucional por el cual remite copia autorizada de la resolución recaída en el requerimiento de inconstitucionalidad presentado por el Presidente de la República, respecto del artículo 31 del proyecto. Rol N° 17892-26-CPT. Otorga plazo para formular observaciones al requerimiento declar",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-01T12:22:36.944839-04:00"
   },
   {
@@ -11669,10 +11669,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-01T12:22:36.944839-04:00"
+   "revisado": "2026-09-01T16:51:16.508910-04:00"
+  },
+  {
+   "boletin": "12712-24",
+   "titulo": "Ley de Patrimonio Cultural",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia",
+   "revisado": "2026-09-01T16:51:16.508910-04:00"
+  },
+  {
+   "boletin": "16821-19",
+   "titulo": "Regula los sistemas de inteligencia artificial",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia",
+   "revisado": "2026-09-01T16:51:16.508910-04:00"
   }
  ],
- "novedades": 2,
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11723,22 +11737,22 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 81,
-  "boletines_consultados": 46,
-  "fichas_obtenidas": 46,
+  "candidatos_descubiertos": 122,
+  "boletines_consultados": 48,
+  "fichas_obtenidas": 48,
   "consultas_fallidas": 0,
   "registros_publicados": 46,
   "registros_conservados_sin_revisar": 1,
-  "descartados_por_pertinencia": 1,
+  "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 2,
+  "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 2,
+  "con_movimiento": 0,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
    "cartera": 46,
-   "senado_movimiento": 36,
+   "senado_movimiento": 77,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -11746,21 +11760,21 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 36,
+    "resultados": 77,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "senado_boletin",
-    "llamadas": 46,
-    "resultados": 46,
+    "llamadas": 48,
+    "resultados": 48,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_boletin",
-    "llamadas": 46,
-    "resultados": 46,
+    "llamadas": 48,
+    "resultados": 48,
     "errores": [],
     "consultado": true
    },
@@ -11782,6 +11796,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 59.0
+  "segundos_corrida": 66.6
  }
 }
