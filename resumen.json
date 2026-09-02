@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-09-02T15:18:33.648106-04:00",
-  "generado_legible": "02/09/2026 15:18",
+  "generado": "2026-09-02T18:29:15.766495-04:00",
+  "generado_legible": "02/09/2026 18:29",
   "proyectos_total": 46,
   "vigentes": 43,
   "movimientos_recientes": 3,
   "movimientos_30d": 12,
-  "novedades_corrida": 0,
+  "novedades_corrida": 2,
   "impacto_directo": 8,
   "con_urgencia": 5,
   "prioridad_alta": 4,
   "estancados_180d": 18,
   "ultimo": {
     "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-    "detalle": "Boletín 14773-02 · 01/09/2026 · Segundo trámite constitucional (C.Diputados)",
+    "detalle": "Boletín 14773-02 · 02/09/2026 · Segundo trámite constitucional (C.Diputados)",
     "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
-    "fecha": "2026-09-01T00:00:00-04:00"
+    "fecha": "2026-09-02T00:00:00-04:00"
   },
   "serie_7d": [
     {
@@ -42,11 +42,11 @@
     },
     {
       "fecha": "2026-09-01",
-      "n": 3
+      "n": 2
     },
     {
       "fecha": "2026-09-02",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
@@ -54,7 +54,7 @@
       "severidad": "alta",
       "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
       "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
-      "fecha": "2026-09-01T00:00:00-04:00",
+      "fecha": "2026-09-02T00:00:00-04:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
       "fuente": "LEGISLATIVO"
     },
@@ -85,8 +85,8 @@
   ],
   "actividad": [
     {
-      "fecha": "2026-09-01T00:00:00-04:00",
-      "texto": "Boletín 14773-02: Cuenta de primer informe de comisión . (Hacienda). Queda para tabla."
+      "fecha": "2026-09-02T00:00:00-04:00",
+      "texto": "Boletín 14773-02: Cuenta del Mensaje 295-374 que hace presente la urgencia Simple"
     },
     {
       "fecha": "2026-09-01T00:00:00-04:00",
