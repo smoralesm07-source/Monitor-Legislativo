@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-01T19:53:59.140053-04:00",
- "generado_legible": "01/09/2026 19:53",
+ "generado": "2026-09-01T23:53:19.830394-04:00",
+ "generado_legible": "01/09/2026 23:53",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -12,29 +12,29 @@
   "con_urgencia": 5,
   "discusion_inmediata": 1,
   "prioridad_critica": 1,
-  "prioridad_alta": 3,
+  "prioridad_alta": 2,
   "movimiento_7d": 3,
-  "movimiento_30d": 12,
+  "movimiento_30d": 11,
   "nivel_1": 8,
   "nivel_2": 31,
   "nivel_3": 4,
   "requieren_revision_manual": 4,
-  "estancados_180d": 18,
+  "estancados_180d": 19,
   "pipeline": [
    {
     "ordinal": 0,
     "etapa": "Cerrado o archivado",
-    "total": 1
+    "total": 5
    },
    {
     "ordinal": 1,
     "etapa": "Primer trámite",
-    "total": 37
+    "total": 34
    },
    {
     "ordinal": 2,
     "etapa": "Segundo trámite",
-    "total": 3
+    "total": 2
    },
    {
     "ordinal": 4,
@@ -142,12 +142,17 @@
    {
     "clave": "Senado",
     "etiqueta": "Senado",
-    "total": 21
+    "total": 20
    },
    {
     "clave": "C.Diputados",
     "etiqueta": "C.Diputados",
-    "total": 21
+    "total": 20
+   },
+   {
+    "clave": "Cámara de Diputados",
+    "etiqueta": "Cámara de Diputados",
+    "total": 2
    }
   ],
   "por_iniciativa": [
@@ -162,7 +167,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-09-01T19:53:59.140053-04:00"
+  "generado": "2026-09-01T23:53:19.830394-04:00"
  },
  "proyectos": [
   {
@@ -2100,221 +2105,8 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
    "sintesis": "Discusión inmediata · Trámite en Tribunal Constitucional (C.Diputados) · Oficio N°2059/2026. Respuesta Ministerio de Hacienda",
-   "novedad": "movimiento",
-   "novedad_detectada": "2026-09-01T19:53:59.140053-04:00"
-  },
-  {
-   "boletin": "17912-25",
-   "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
-   "fecha_ingreso": "2025-10-10T00:00:00-03:00",
-   "etapa": "Segundo trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Seguridad Pública",
-   "iniciativa": "Moción",
-   "camara_origen": "C.Diputados",
-   "urgencia": "Sin urgencia",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18569&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2025-10-10T00:00:00-03:00",
-     "fecha_legible": "10/10/2025",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2025-10-15T00:00:00-03:00",
-     "fecha_legible": "15/10/2025",
-     "sesion": "81/373",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-04-08T00:00:00-04:00",
-     "fecha_legible": "08/04/2026",
-     "sesion": "10/374",
-     "descripcion": "Cuenta del Mensaje 24-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-05-04T00:00:00-04:00",
-     "fecha_legible": "04/05/2026",
-     "sesion": "17/374",
-     "descripcion": "Cuenta del Mensaje 69-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-06-02T00:00:00-04:00",
-     "fecha_legible": "02/06/2026",
-     "sesion": "28/374",
-     "descripcion": "Cuenta del Mensaje 121-374 que hace presente la urgencia Simple",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-20T00:00:00-04:00",
-     "fecha_legible": "20/07/2026",
-     "sesion": "/",
-     "descripcion": "Primer informe de comisión de Seguridad Ciudadana.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-07-20T00:00:00-04:00",
-     "fecha_legible": "20/07/2026",
-     "sesion": "45/374",
-     "descripcion": "Cuenta de primer informe de comisión .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-17T00:00:00-04:00",
-     "fecha_legible": "17/08/2026",
-     "sesion": "57/374",
-     "descripcion": "Discusión general . Aprobado en general y particular a la vez .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-17T00:00:00-04:00",
-     "fecha_legible": "17/08/2026",
-     "sesion": "/",
-     "descripcion": "Oficio de ley a Cámara Revisora .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-18T00:00:00-04:00",
-     "fecha_legible": "18/08/2026",
-     "sesion": "51/374",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
-     "etapa": "Segundo trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "urgencias": [
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-04-08T00:00:00-04:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-05-04T00:00:00-04:00",
-     "fecha_retiro": ""
-    },
-    {
-     "tipo": "Simple",
-     "fecha_ingreso": "2026-06-02T00:00:00-04:00",
-     "fecha_retiro": ""
-    }
-   ],
-   "votaciones": [],
-   "autores": [
-    "Alessandri Vergara, Jorge",
-    "Andrés Jouannet Valderrama",
-    "Andrés Longton Herrera",
-    "Araya Guerrero, Jaime",
-    "Araya Lerdo de Tejada, Cristián",
-    "Castro Bascuñán, José Miguel",
-    "Cristián Araya Lerdo de Tejada",
-    "Diego Schalper Sepúlveda",
-    "Gloria Naveillan Arriagada",
-    "Hugo Rey Martínez",
-    "Jaime Araya Guerrero",
-    "Jorge Alessandri Vergara",
-    "José Miguel Castro Bascuñán",
-    "Jouannet Valderrama, Andrés",
-    "Leiva Carvajal, Raúl",
-    "Longton Herrera, Andrés",
-    "Naveillan Arriagada, Gloria",
-    "Raúl Leiva Carvajal",
-    "Rey Martínez, Hugo",
-    "Schalper Sepúlveda, Diego"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [
-    {
-     "fecha": "2026-07-20T00:00:00-04:00",
-     "tramite": "Primer informe de comisión de Seguridad Ciudadana",
-     "etapa": "Primer trámite constitucional",
-     "link": ""
-    }
-   ],
-   "ministerios": [],
-   "camara_id": "18569",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "admisible": "true",
-   "texto_camara_completo": "18569 17912-25 Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos 2025-10-10T00:00:00 Moción Cámara de Diputados 0 1009 Jorge Alessandri Vergara 0 1044 Raúl Leiva Carvajal 0 1046 Andrés Longton Herrera 0 1067 Hugo Rey Martínez 0 1075 Diego Schalper Sepúlveda 0 1019 José Miguel Castro Bascuñán 0 1099 Jaime Araya Guerrero 0 1134 Andrés Jouannet Valderrama 0 1152 Gloria Naveillan Arriagada 0 1100 Cristián Araya Lerdo de Tejada 89781 Boletín N°17912-25 2026-08-17T19:47:28 130 0 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo único del proyecto, en los términos propuestos por la Comisión de Seguridad Ciudadana. Primer Trámite Primer Informe 89780 Boletín N°17912-25 2026-08-17T19:46:44 52 60 18 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo único del proyecto, con la indicación del diputado Raúl Leiva para intercalar un numeral 1 antes de la expresión “Intercálase en el artículo 27 letra a)”; y para agregar el siguiente numeral 2, nuevo: “2. Intercálase, en el artículo 27 letra a), entre las expresión “quinquies, y en los artículos” y el guarismo “467”, la expresión “438,”. Primer Trámite Primer Informe 89779 Boletín N°17912-25 2026-08-17T19:45:31 131 0 0 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17912-25",
-   "canales_descubrimiento": [
-    "cartera"
-   ],
-   "id": "80d2ea7de230a503",
-   "puntaje_pertinencia": 316.0,
-   "nivel_impacto": "directo",
-   "evidencia": {
-    "directas": [
-     "19.913"
-    ],
-    "nucleo": [
-     "lavado de activos"
-    ],
-    "estructurales": [
-     "propiedad industrial"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [
-    "facultades_uaf",
-    "delitos_base"
-   ],
-   "ejes_legibles": [
-    "Facultades y competencias UAF",
-    "Catálogo de delitos base"
-   ],
-   "impacto_legible": "Impacto directo en la Ley 19.913",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 1,
-   "nivel_legible": "Nivel 1 · Impacto en la Ley 19.913",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 2,
-   "vigente": true,
-   "ultimo_movimiento": "2026-08-18T00:00:00-04:00",
-   "ultimo_movimiento_legible": "18/08/2026",
-   "dias_sin_movimiento": 14,
-   "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
-   "camara_actual": "Senado",
-   "total_tramites": 10,
-   "fecha_ingreso_legible": "10/10/2025",
-   "antiguedad_dias": 326,
-   "prioridad": 143.8,
-   "banda_prioridad": "alta",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 1.25,
-   "factor_frescura": 1.15,
-   "huella": "49c2bc430b45713f017d",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18569&prmBOLETIN=17912-25",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17912",
-   "sintesis": "Segundo trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
    "novedad": "",
-   "novedad_detectada": "2026-08-26T00:45:38.854002-04:00"
+   "novedad_detectada": "2026-09-01T19:53:59.140053-04:00"
   },
   {
    "boletin": "15975-25",
@@ -4565,7 +4357,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19092&prmBOLETIN=18420-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18420",
    "sintesis": "Simple urgencia · Primer trámite constitucional (Senado) · La Sala acuerda que el proyecto sea conocido por la Comisión de Seguridad Pública, una vez que sea despachado por la Comisión de Intereses Marítimos, Pesca y Acuicultura",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-01T19:53:59.140053-04:00"
   },
   {
@@ -5379,222 +5171,6 @@
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18582-07",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19266&prmBOLETIN=18582-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18582",
-   "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "",
-   "novedad_detectada": "2026-08-27T16:14:15.372659-04:00"
-  },
-  {
-   "boletin": "18604-07",
-   "titulo": "Modifica el Código Penal para agravar la pena por la receptación de vehículos en supuestos que indica",
-   "fecha_ingreso": "2026-08-11T00:00:00-04:00",
-   "etapa": "Primer trámite constitucional (C.Diputados)",
-   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
-   "iniciativa": "Moción",
-   "camara_origen": "C.Diputados",
-   "urgencia": "Sin urgencia",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19282&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2026-08-11T00:00:00-04:00",
-     "fecha_legible": "11/08/2026",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    },
-    {
-     "fecha": "2026-08-19T00:00:00-04:00",
-     "fecha_legible": "19/08/2026",
-     "sesion": "60/374",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-     "etapa": "Primer trámite constitucional",
-     "camara": "C.Diputados"
-    }
-   ],
-   "urgencias": [],
-   "votaciones": [],
-   "autores": [
-    "Alejandro Bernales Maldonado",
-    "Alex Nahuelquin Nahuelquin",
-    "Arqueros Pizarro, Carlo",
-    "Bernales Maldonado, Alejandro",
-    "Carlo Arqueros Pizarro",
-    "Eileen Urqueta Rojas",
-    "Hernando Pérez, Marcela",
-    "Joanna Pérez Olea",
-    "José Antonio Rivas Villalobos",
-    "Luis Malla Valenzuela",
-    "Malla Valenzuela, Luis",
-    "Marcela Hernando Pérez",
-    "Nahuelquín Nahuelquín, Alex",
-    "Patricio Pinilla Valencia",
-    "Pinilla Valencia, Patricio",
-    "Pérez Olea, Joanna",
-    "Rivas Villalobos, José",
-    "Sebastián Videla Castillo",
-    "Urqueta Rojas, Eileen",
-    "Videla Castillo, Sebastián"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [],
-   "ministerios": [],
-   "camara_id": "19282",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "admisible": "true",
-   "texto_camara_completo": "19282 18604-07 Modifica el Código Penal para agravar la pena por la receptación de vehículos en supuestos que indica 2026-08-11T21:14:57 Moción Cámara de Diputados 0 986 Marcela Hernando Pérez 0 1062 Joanna Pérez Olea 0 1013 Alejandro Bernales Maldonado 0 1141 Luis Malla Valenzuela 0 1182 Sebastián Videla Castillo 0 1187 Carlo Arqueros Pizarro 0 1246 José Antonio Rivas Villalobos 0 1255 Eileen Urqueta Rojas 0 1241 Patricio Pinilla Valencia 0 1230 Alex Nahuelquin Nahuelquin true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18604-07",
-   "canales_descubrimiento": [
-    "cartera"
-   ],
-   "id": "9697708d6a52cd57",
-   "puntaje_pertinencia": 32.0,
-   "nivel_impacto": "sectorial",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [],
-    "estructurales": [
-     "receptacion"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [],
-   "ejes_legibles": [],
-   "impacto_legible": "Impacto sectorial en sujetos obligados",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 2,
-   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 1,
-   "vigente": true,
-   "ultimo_movimiento": "2026-08-19T00:00:00-04:00",
-   "ultimo_movimiento_legible": "19/08/2026",
-   "dias_sin_movimiento": 13,
-   "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "camara_actual": "C.Diputados",
-   "total_tramites": 2,
-   "fecha_ingreso_legible": "11/08/2026",
-   "antiguedad_dias": 21,
-   "prioridad": 39.1,
-   "banda_prioridad": "baja",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 1.0,
-   "factor_frescura": 1.15,
-   "huella": "3d26a95e4119ca98381b",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18604-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19282&prmBOLETIN=18604-07",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18604",
-   "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "",
-   "novedad_detectada": "2026-08-27T16:14:15.372659-04:00"
-  },
-  {
-   "boletin": "18609-07",
-   "titulo": "Con el objeto de consagrar a la persecución de la corrupción como un principio rector para el Estado",
-   "fecha_ingreso": "2026-08-19T00:00:00-04:00",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia": "Sin urgencia",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=19299&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2026-08-19T00:00:00-04:00",
-     "fecha_legible": "19/08/2026",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-08-19T00:00:00-04:00",
-     "fecha_legible": "19/08/2026",
-     "sesion": "52/374",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "urgencias": [],
-   "votaciones": [],
-   "autores": [
-    "Alejandra Sepúlveda Orbenes",
-    "Esteban Velásquez Núñez",
-    "Sepúlveda Orbenes, Alejandra",
-    "Velásquez Núñez, Esteban"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [],
-   "ministerios": [],
-   "camara_id": "19299",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "admisible": "true",
-   "texto_camara_completo": "19299 18609-07 Con el objeto de consagrar a la persecución de la corrupción como un principio rector para el Estado 2026-08-19T00:00:00 Moción Senado 0 1341 Alejandra Sepúlveda Orbenes 0 1343 Esteban Velásquez Núñez true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18609-07",
-   "canales_descubrimiento": [
-    "cartera"
-   ],
-   "id": "e19902a821e43538",
-   "puntaje_pertinencia": 32.0,
-   "nivel_impacto": "sectorial",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [],
-    "estructurales": [
-     "corrupcion"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [],
-   "ejes_legibles": [],
-   "impacto_legible": "Impacto sectorial en sujetos obligados",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 2,
-   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 1,
-   "vigente": true,
-   "ultimo_movimiento": "2026-08-19T00:00:00-04:00",
-   "ultimo_movimiento_legible": "19/08/2026",
-   "dias_sin_movimiento": 13,
-   "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "camara_actual": "Senado",
-   "total_tramites": 2,
-   "fecha_ingreso_legible": "19/08/2026",
-   "antiguedad_dias": 13,
-   "prioridad": 39.1,
-   "banda_prioridad": "baja",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 1.0,
-   "factor_frescura": 1.15,
-   "huella": "5719ae8cfaff40640eb3",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18609-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19299&prmBOLETIN=18609-07",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18609",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
    "novedad_detectada": "2026-08-27T16:14:15.372659-04:00"
@@ -7348,151 +6924,6 @@
    "novedad_detectada": "2026-08-27T16:14:15.372659-04:00"
   },
   {
-   "boletin": "18217-07",
-   "titulo": "Modifica diversos cuerpos legales, con el objeto de perfeccionar las disposiciones relativas a la persecución penal de la criminalidad organizada y el terrorismo",
-   "fecha_ingreso": "2026-04-22T00:00:00-04:00",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Seguridad Pública",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia": "Sin urgencia",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18879&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2026-04-22T00:00:00-04:00",
-     "fecha_legible": "22/04/2026",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-04-22T00:00:00-04:00",
-     "fecha_legible": "22/04/2026",
-     "sesion": "11/374",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento. Se remite el proyecto a la Corte Suprema.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-04-22T00:00:00-04:00",
-     "fecha_legible": "22/04/2026",
-     "sesion": "11/374",
-     "descripcion": "La Sala acuerda que el proyecto de ley sea conocido, en primer lugar, por la Comisión Seguridad Pública y, posteriormente, por la Comisión de Constitución, Legislación, Justicia y Reglamento",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-04-22T00:00:00-04:00",
-     "fecha_legible": "22/04/2026",
-     "sesion": "/",
-     "descripcion": "Oficio N° 120-26 a la Corte Suprema",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-04-23T00:00:00-04:00",
-     "fecha_legible": "23/04/2026",
-     "sesion": "/",
-     "descripcion": "La Honorable Senadora señora Flores suscribe el proyecto de ley, en calidad de autora",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-05-18T00:00:00-04:00",
-     "fecha_legible": "18/05/2026",
-     "sesion": "/",
-     "descripcion": "El Honorable Senador señor Vial adhiere al proyecto de ley",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "urgencias": [],
-   "votaciones": [],
-   "autores": [
-    "Bianchi Retamales, Karim",
-    "Camila Flores Oporto",
-    "Flores García, Iván",
-    "Flores Oporto, Camila",
-    "Iván Flores García",
-    "Iván Moreira Barros",
-    "Karim Bianchi Retamales",
-    "Moreira Barros, Iván",
-    "Núñez Urrutia, Paulina",
-    "Paulina Núñez Urrutia"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [],
-   "ministerios": [],
-   "camara_id": "18879",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "camara",
-    "senado"
-   ],
-   "nota_semilla": "Criminalidad organizada y terrorismo",
-   "es_semilla": true,
-   "admisible": "true",
-   "texto_camara_completo": "18879 18217-07 Modifica diversos cuerpos legales, con el objeto de perfeccionar las disposiciones relativas a la persecución penal de la criminalidad organizada y el terrorismo 2026-04-22T00:00:00 Moción Senado 0 1117 Iván Moreira Barros 0 1324 Karim Bianchi Retamales 0 1330 Iván Flores García 0 1337 Paulina Núñez Urrutia 0 1508 Camila Flores Oporto true",
-   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18217-07",
-   "canales_descubrimiento": [
-    "semilla",
-    "cartera"
-   ],
-   "id": "d28816cac6bf9370",
-   "puntaje_pertinencia": 32.0,
-   "nivel_impacto": "sectorial",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [],
-    "estructurales": [
-     "criminalidad organizada"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [
-    "crimen_organizado"
-   ],
-   "ejes_legibles": [
-    "Crimen organizado y persecución penal"
-   ],
-   "impacto_legible": "Impacto sectorial en sujetos obligados",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 2,
-   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 1,
-   "vigente": true,
-   "ultimo_movimiento": "2026-05-18T00:00:00-04:00",
-   "ultimo_movimiento_legible": "18/05/2026",
-   "dias_sin_movimiento": 106,
-   "ultimo_tramite": "El Honorable Senador señor Vial adhiere al proyecto de ley",
-   "camara_actual": "Senado",
-   "total_tramites": 6,
-   "fecha_ingreso_legible": "22/04/2026",
-   "antiguedad_dias": 132,
-   "prioridad": 27.2,
-   "banda_prioridad": "baja",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 1.0,
-   "factor_frescura": 0.8,
-   "huella": "0a65231eab5672f76fc7",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18217-07",
-   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18879&prmBOLETIN=18217-07",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18217",
-   "sintesis": "Primer trámite constitucional (Senado) · El Honorable Senador señor Vial adhiere al proyecto de ley",
-   "novedad": "",
-   "novedad_detectada": "2026-08-26T00:45:38.854002-04:00"
-  },
-  {
    "boletin": "18219-07",
    "titulo": "Modifica cuerpos legales que indica para extender el estatuto de protección al denunciante de delitos de corrupción y criminalidad económica",
    "fecha_ingreso": "2026-04-22T00:00:00-04:00",
@@ -7589,6 +7020,104 @@
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
    "novedad_detectada": "2026-08-27T16:14:15.372659-04:00"
+  },
+  {
+   "boletin": "17912-25",
+   "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
+   "fecha_ingreso": "2025-10-10T00:00:00-03:00",
+   "etapa": "",
+   "subetapa": "",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia": "",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "",
+   "link_texto_original": "",
+   "tramitacion": [],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [
+    "Andrés Jouannet Valderrama",
+    "Andrés Longton Herrera",
+    "Cristián Araya Lerdo de Tejada",
+    "Diego Schalper Sepúlveda",
+    "Gloria Naveillan Arriagada",
+    "Hugo Rey Martínez",
+    "Jaime Araya Guerrero",
+    "Jorge Alessandri Vergara",
+    "José Miguel Castro Bascuñán",
+    "Raúl Leiva Carvajal"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [],
+   "ministerios": [],
+   "camara_id": "18569",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara"
+   ],
+   "admisible": "true",
+   "texto_camara_completo": "18569 17912-25 Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos 2025-10-10T00:00:00 Moción Cámara de Diputados 0 1009 Jorge Alessandri Vergara 0 1044 Raúl Leiva Carvajal 0 1046 Andrés Longton Herrera 0 1067 Hugo Rey Martínez 0 1075 Diego Schalper Sepúlveda 0 1019 José Miguel Castro Bascuñán 0 1099 Jaime Araya Guerrero 0 1134 Andrés Jouannet Valderrama 0 1152 Gloria Naveillan Arriagada 0 1100 Cristián Araya Lerdo de Tejada 89781 Boletín N°17912-25 2026-08-17T19:47:28 130 0 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo único del proyecto, en los términos propuestos por la Comisión de Seguridad Ciudadana. Primer Trámite Primer Informe 89780 Boletín N°17912-25 2026-08-17T19:46:44 52 60 18 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo único del proyecto, con la indicación del diputado Raúl Leiva para intercalar un numeral 1 antes de la expresión “Intercálase en el artículo 27 letra a)”; y para agregar el siguiente numeral 2, nuevo: “2. Intercálase, en el artículo 27 letra a), entre las expresión “quinquies, y en los artículos” y el guarismo “467”, la expresión “438,”. Primer Trámite Primer Informe 89779 Boletín N°17912-25 2026-08-17T19:45:31 131 0 0 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17912-25",
+   "canales_descubrimiento": [
+    "cartera"
+   ],
+   "id": "80d2ea7de230a503",
+   "puntaje_pertinencia": 316.0,
+   "nivel_impacto": "directo",
+   "evidencia": {
+    "directas": [
+     "19.913"
+    ],
+    "nucleo": [
+     "lavado de activos"
+    ],
+    "estructurales": [
+     "propiedad industrial"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "facultades_uaf",
+    "delitos_base"
+   ],
+   "ejes_legibles": [
+    "Facultades y competencias UAF",
+    "Catálogo de delitos base"
+   ],
+   "impacto_legible": "Impacto directo en la Ley 19.913",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 1,
+   "nivel_legible": "Nivel 1 · Impacto en la Ley 19.913",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 0,
+   "vigente": true,
+   "ultimo_movimiento": "2025-10-10T00:00:00-03:00",
+   "ultimo_movimiento_legible": "10/10/2025",
+   "dias_sin_movimiento": 326,
+   "ultimo_tramite": "",
+   "camara_actual": "Cámara de Diputados",
+   "total_tramites": 0,
+   "fecha_ingreso_legible": "10/10/2025",
+   "antiguedad_dias": 326,
+   "prioridad": 24.0,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 0.3,
+   "factor_frescura": 0.8,
+   "huella": "0a5848de083bede6b5c4",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=17912-25",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18569&prmBOLETIN=17912-25",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17912",
+   "sintesis": "",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-09-01T23:53:19.830394-04:00"
   },
   {
    "boletin": "17432-07",
@@ -8526,6 +8055,174 @@
    "novedad_detectada": "2026-08-26T00:45:38.854002-04:00"
   },
   {
+   "boletin": "18604-07",
+   "titulo": "Modifica el Código Penal para agravar la pena por la receptación de vehículos en supuestos que indica",
+   "fecha_ingreso": "2026-08-11T21:14:57-04:00",
+   "etapa": "",
+   "subetapa": "",
+   "iniciativa": "Moción",
+   "camara_origen": "Cámara de Diputados",
+   "urgencia": "",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "",
+   "link_texto_original": "",
+   "tramitacion": [],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [
+    "Alejandro Bernales Maldonado",
+    "Alex Nahuelquin Nahuelquin",
+    "Carlo Arqueros Pizarro",
+    "Eileen Urqueta Rojas",
+    "Joanna Pérez Olea",
+    "José Antonio Rivas Villalobos",
+    "Luis Malla Valenzuela",
+    "Marcela Hernando Pérez",
+    "Patricio Pinilla Valencia",
+    "Sebastián Videla Castillo"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [],
+   "ministerios": [],
+   "camara_id": "19282",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara"
+   ],
+   "admisible": "true",
+   "texto_camara_completo": "19282 18604-07 Modifica el Código Penal para agravar la pena por la receptación de vehículos en supuestos que indica 2026-08-11T21:14:57 Moción Cámara de Diputados 0 986 Marcela Hernando Pérez 0 1062 Joanna Pérez Olea 0 1013 Alejandro Bernales Maldonado 0 1141 Luis Malla Valenzuela 0 1182 Sebastián Videla Castillo 0 1187 Carlo Arqueros Pizarro 0 1246 José Antonio Rivas Villalobos 0 1255 Eileen Urqueta Rojas 0 1241 Patricio Pinilla Valencia 0 1230 Alex Nahuelquin Nahuelquin true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18604-07",
+   "canales_descubrimiento": [
+    "cartera"
+   ],
+   "id": "9697708d6a52cd57",
+   "puntaje_pertinencia": 32.0,
+   "nivel_impacto": "sectorial",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [],
+    "estructurales": [
+     "receptacion"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [],
+   "ejes_legibles": [],
+   "impacto_legible": "Impacto sectorial en sujetos obligados",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 2,
+   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 0,
+   "vigente": true,
+   "ultimo_movimiento": "2026-08-11T21:14:57-04:00",
+   "ultimo_movimiento_legible": "11/08/2026",
+   "dias_sin_movimiento": 21,
+   "ultimo_tramite": "",
+   "camara_actual": "Cámara de Diputados",
+   "total_tramites": 0,
+   "fecha_ingreso_legible": "11/08/2026",
+   "antiguedad_dias": 21,
+   "prioridad": 11.7,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 0.3,
+   "factor_frescura": 1.15,
+   "huella": "0a5848de083bede6b5c4",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18604-07",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19282&prmBOLETIN=18604-07",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18604",
+   "sintesis": "",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-09-01T23:53:19.830394-04:00"
+  },
+  {
+   "boletin": "18609-07",
+   "titulo": "Con el objeto de consagrar a la persecución de la corrupción como un principio rector para el Estado",
+   "fecha_ingreso": "2026-08-19T00:00:00-04:00",
+   "etapa": "",
+   "subetapa": "",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia": "",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "",
+   "link_texto_original": "",
+   "tramitacion": [],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [
+    "Alejandra Sepúlveda Orbenes",
+    "Esteban Velásquez Núñez"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [],
+   "ministerios": [],
+   "camara_id": "19299",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara"
+   ],
+   "admisible": "true",
+   "texto_camara_completo": "19299 18609-07 Con el objeto de consagrar a la persecución de la corrupción como un principio rector para el Estado 2026-08-19T00:00:00 Moción Senado 0 1341 Alejandra Sepúlveda Orbenes 0 1343 Esteban Velásquez Núñez true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18609-07",
+   "canales_descubrimiento": [
+    "cartera"
+   ],
+   "id": "e19902a821e43538",
+   "puntaje_pertinencia": 32.0,
+   "nivel_impacto": "sectorial",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [],
+    "estructurales": [
+     "corrupcion"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [],
+   "ejes_legibles": [],
+   "impacto_legible": "Impacto sectorial en sujetos obligados",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 2,
+   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 0,
+   "vigente": true,
+   "ultimo_movimiento": "2026-08-19T00:00:00-04:00",
+   "ultimo_movimiento_legible": "19/08/2026",
+   "dias_sin_movimiento": 13,
+   "ultimo_tramite": "",
+   "camara_actual": "Senado",
+   "total_tramites": 0,
+   "fecha_ingreso_legible": "19/08/2026",
+   "antiguedad_dias": 13,
+   "prioridad": 11.7,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 0.3,
+   "factor_frescura": 1.15,
+   "huella": "0a5848de083bede6b5c4",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18609-07",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19299&prmBOLETIN=18609-07",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18609",
+   "sintesis": "",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-09-01T23:53:19.830394-04:00"
+  },
+  {
    "boletin": "17060-07",
    "titulo": "Regula el ejercicio del derecho a reunión",
    "fecha_ingreso": "2024-08-16T00:00:00-04:00",
@@ -8620,6 +8317,96 @@
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
    "novedad_detectada": "2026-08-25T00:44:09.986987-04:00"
+  },
+  {
+   "boletin": "18217-07",
+   "titulo": "Modifica diversos cuerpos legales, con el objeto de perfeccionar las disposiciones relativas a la persecución penal de la criminalidad organizada y el terrorismo",
+   "fecha_ingreso": "2026-04-22T00:00:00-04:00",
+   "etapa": "",
+   "subetapa": "",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia": "",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "",
+   "link_texto_original": "",
+   "tramitacion": [],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [
+    "Camila Flores Oporto",
+    "Iván Flores García",
+    "Iván Moreira Barros",
+    "Karim Bianchi Retamales",
+    "Paulina Núñez Urrutia"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [],
+   "ministerios": [],
+   "camara_id": "18879",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara"
+   ],
+   "nota_semilla": "Criminalidad organizada y terrorismo",
+   "es_semilla": true,
+   "admisible": "true",
+   "texto_camara_completo": "18879 18217-07 Modifica diversos cuerpos legales, con el objeto de perfeccionar las disposiciones relativas a la persecución penal de la criminalidad organizada y el terrorismo 2026-04-22T00:00:00 Moción Senado 0 1117 Iván Moreira Barros 0 1324 Karim Bianchi Retamales 0 1330 Iván Flores García 0 1337 Paulina Núñez Urrutia 0 1508 Camila Flores Oporto true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18217-07",
+   "canales_descubrimiento": [
+    "semilla",
+    "cartera"
+   ],
+   "id": "d28816cac6bf9370",
+   "puntaje_pertinencia": 32.0,
+   "nivel_impacto": "sectorial",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [],
+    "estructurales": [
+     "criminalidad organizada"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "crimen_organizado"
+   ],
+   "ejes_legibles": [
+    "Crimen organizado y persecución penal"
+   ],
+   "impacto_legible": "Impacto sectorial en sujetos obligados",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 2,
+   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 0,
+   "vigente": true,
+   "ultimo_movimiento": "2026-04-22T00:00:00-04:00",
+   "ultimo_movimiento_legible": "22/04/2026",
+   "dias_sin_movimiento": 132,
+   "ultimo_tramite": "",
+   "camara_actual": "Senado",
+   "total_tramites": 0,
+   "fecha_ingreso_legible": "22/04/2026",
+   "antiguedad_dias": 132,
+   "prioridad": 8.2,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 0.3,
+   "factor_frescura": 0.8,
+   "huella": "0a5848de083bede6b5c4",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18217-07",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18879&prmBOLETIN=18217-07",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18217",
+   "sintesis": "",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-09-01T23:53:19.830394-04:00"
   },
   {
    "boletin": "16621-05",
@@ -11695,24 +11482,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-01T19:53:59.140053-04:00"
+   "revisado": "2026-09-01T23:53:19.830394-04:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-01T19:53:59.140053-04:00"
+   "revisado": "2026-09-01T23:53:19.830394-04:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-01T19:53:59.140053-04:00"
+   "revisado": "2026-09-01T23:53:19.830394-04:00"
   }
  ],
- "novedades": 2,
+ "novedades": 4,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11771,9 +11558,9 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 2,
+  "novedades_corrida": 4,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 2,
+  "con_movimiento": 4,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
@@ -11793,8 +11580,13 @@
    {
     "canal": "senado_boletin",
     "llamadas": 48,
-    "resultados": 48,
-    "errores": [],
+    "resultados": 44,
+    "errores": [
+     "18217: TimeoutError: The read operation timed out",
+     "17912: TimeoutError: The read operation timed out",
+     "18604: TimeoutError: The read operation timed out",
+     "18609: TimeoutError: The read operation timed out"
+    ],
     "consultado": true
    },
    {
@@ -11822,6 +11614,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 71.6
+  "segundos_corrida": 79.5
  }
 }
