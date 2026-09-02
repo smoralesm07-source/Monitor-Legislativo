@@ -2,17 +2,17 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-09-01T23:53:19.830394-04:00",
-  "generado_legible": "01/09/2026 23:53",
+  "generado": "2026-09-02T04:39:24.346723-04:00",
+  "generado_legible": "02/09/2026 04:39",
   "proyectos_total": 46,
   "vigentes": 43,
   "movimientos_recientes": 3,
-  "movimientos_30d": 11,
+  "movimientos_30d": 12,
   "novedades_corrida": 4,
   "impacto_directo": 8,
   "con_urgencia": 5,
-  "prioridad_alta": 3,
-  "estancados_180d": 19,
+  "prioridad_alta": 4,
+  "estancados_180d": 18,
   "ultimo": {
     "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
     "detalle": "Boletín 14773-02 · 01/09/2026 · Segundo trámite constitucional (C.Diputados)",
@@ -20,10 +20,6 @@
     "fecha": "2026-09-01T00:00:00-04:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-08-26",
-      "n": 0
-    },
     {
       "fecha": "2026-08-27",
       "n": 0
@@ -47,6 +43,10 @@
     {
       "fecha": "2026-09-01",
       "n": 3
+    },
+    {
+      "fecha": "2026-09-02",
+      "n": 0
     }
   ],
   "alertas": [
@@ -76,10 +76,10 @@
     },
     {
       "severidad": "info",
-      "titulo": "Modifica el Código Penal para agravar la penalidad en caso de sustracción y receptación de combustibles en supuestos que indica",
-      "detalle": "Boletín 18611-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "titulo": "Modifica el Código Penal para agravar la pena por la receptación de vehículos en supuestos que indica",
+      "detalle": "Boletín 18604-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
       "fecha": "2026-08-19T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18611-07",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18604-07",
       "fuente": "LEGISLATIVO"
     }
   ],
@@ -98,7 +98,7 @@
     },
     {
       "fecha": "2026-08-19T00:00:00-04:00",
-      "texto": "Boletín 18611-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
+      "texto": "Boletín 18604-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
     }
   ]
 }
