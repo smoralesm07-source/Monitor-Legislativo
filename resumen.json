@@ -2,17 +2,17 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-09-02T23:53:41.450613-04:00",
-  "generado_legible": "02/09/2026 23:53",
+  "generado": "2026-09-03T04:47:47.928522-04:00",
+  "generado_legible": "03/09/2026 04:47",
   "proyectos_total": 46,
   "vigentes": 43,
   "movimientos_recientes": 3,
-  "movimientos_30d": 11,
+  "movimientos_30d": 12,
   "novedades_corrida": 4,
   "impacto_directo": 8,
   "con_urgencia": 5,
   "prioridad_alta": 4,
-  "estancados_180d": 19,
+  "estancados_180d": 18,
   "ultimo": {
     "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
     "detalle": "Boletín 14773-02 · 02/09/2026 · Segundo trámite constitucional (C.Diputados)",
@@ -20,10 +20,6 @@
     "fecha": "2026-09-02T00:00:00-04:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-08-27",
-      "n": 0
-    },
     {
       "fecha": "2026-08-28",
       "n": 0
@@ -47,6 +43,10 @@
     {
       "fecha": "2026-09-02",
       "n": 1
+    },
+    {
+      "fecha": "2026-09-03",
+      "n": 0
     }
   ],
   "alertas": [
