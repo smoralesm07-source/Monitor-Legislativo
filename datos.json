@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-07T16:45:02.338671-03:00",
- "generado_legible": "07/09/2026 16:45",
+ "generado": "2026-09-07T19:40:53.737780-03:00",
+ "generado_legible": "07/09/2026 19:40",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-09-07T16:45:02.338671-03:00"
+  "generado": "2026-09-07T19:40:53.737780-03:00"
  },
  "proyectos": [
   {
@@ -831,6 +831,14 @@
      "descripcion": "Cuenta del Mensaje 295-374 que hace presente la urgencia Simple",
      "etapa": "Segundo trámite constitucional",
      "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-09-07T00:00:00-03:00",
+     "fecha_legible": "07/09/2026",
+     "sesion": "64/374",
+     "descripcion": "Discusión general . Queda pendiente .",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "C.Diputados"
     }
    ],
    "urgencias": [
@@ -1029,12 +1037,12 @@
    "urgencia_legible": "Simple urgencia",
    "etapa_ordinal": 2,
    "vigente": true,
-   "ultimo_movimiento": "2026-09-02T00:00:00-04:00",
-   "ultimo_movimiento_legible": "02/09/2026",
-   "dias_sin_movimiento": 5,
-   "ultimo_tramite": "Cuenta del Mensaje 295-374 que hace presente la urgencia Simple",
+   "ultimo_movimiento": "2026-09-07T00:00:00-03:00",
+   "ultimo_movimiento_legible": "07/09/2026",
+   "dias_sin_movimiento": 0,
+   "ultimo_tramite": "Discusión general . Queda pendiente .",
    "camara_actual": "C.Diputados",
-   "total_tramites": 43,
+   "total_tramites": 44,
    "fecha_ingreso_legible": "04/01/2022",
    "antiguedad_dias": 1707,
    "prioridad": 161.2,
@@ -1042,13 +1050,13 @@
    "factor_urgencia": 1.6,
    "factor_proximidad": 1.25,
    "factor_frescura": 1.3,
-   "huella": "6f21afa6ab2a5bf8cdfd",
+   "huella": "adb97265d83f9f8d1dc7",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=15272&prmBOLETIN=14773-02",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14773",
-   "sintesis": "Simple urgencia · Segundo trámite constitucional (C.Diputados) · Cuenta del Mensaje 295-374 que hace presente la urgencia Simple",
-   "novedad": "",
-   "novedad_detectada": "2026-09-02T18:29:15.766495-04:00"
+   "sintesis": "Simple urgencia · Segundo trámite constitucional (C.Diputados) · Discusión general . Queda pendiente .",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-09-07T19:40:53.737780-03:00"
   },
   {
    "boletin": "18216-05",
@@ -4597,7 +4605,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19092&prmBOLETIN=18420-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18420",
    "sintesis": "Simple urgencia · Primer trámite constitucional (Senado) · Boletín de indicaciones .",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-07T16:45:02.338671-03:00"
   },
   {
@@ -11727,21 +11735,21 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-07T16:45:02.338671-03:00"
+   "revisado": "2026-09-07T19:40:53.737780-03:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-07T16:45:02.338671-03:00"
+   "revisado": "2026-09-07T19:40:53.737780-03:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-07T16:45:02.338671-03:00"
+   "revisado": "2026-09-07T19:40:53.737780-03:00"
   }
  ],
  "novedades": 1,
@@ -11795,7 +11803,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 159,
+  "candidatos_descubiertos": 160,
   "boletines_consultados": 48,
   "fichas_obtenidas": 48,
   "consultas_fallidas": 0,
@@ -11810,7 +11818,7 @@
   "canales": {
    "semillas": 15,
    "cartera": 46,
-   "senado_movimiento": 116,
+   "senado_movimiento": 117,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -11818,7 +11826,7 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 116,
+    "resultados": 117,
     "errores": [],
     "consultado": true
    },
@@ -11854,6 +11862,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 74.7
+  "segundos_corrida": 74.5
  }
 }

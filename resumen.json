@@ -2,8 +2,8 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-09-07T16:45:02.338671-03:00",
-  "generado_legible": "07/09/2026 16:45",
+  "generado": "2026-09-07T19:40:53.737780-03:00",
+  "generado_legible": "07/09/2026 19:40",
   "proyectos_total": 46,
   "vigentes": 43,
   "movimientos_recientes": 3,
@@ -14,9 +14,9 @@
   "prioridad_alta": 4,
   "estancados_180d": 18,
   "ultimo": {
-    "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
-    "detalle": "Boletín 18420-25 · 07/09/2026 · Primer trámite constitucional (Senado)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
+    "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
+    "detalle": "Boletín 14773-02 · 07/09/2026 · Segundo trámite constitucional (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
     "fecha": "2026-09-07T00:00:00-03:00"
   },
   "serie_7d": [
@@ -26,7 +26,7 @@
     },
     {
       "fecha": "2026-09-02",
-      "n": 1
+      "n": 0
     },
     {
       "fecha": "2026-09-03",
@@ -46,24 +46,24 @@
     },
     {
       "fecha": "2026-09-07",
-      "n": 1
+      "n": 2
     }
   ],
   "alertas": [
+    {
+      "severidad": "alta",
+      "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
+      "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
+      "fecha": "2026-09-07T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "media",
       "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
       "detalle": "Boletín 18420-25 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
       "fecha": "2026-09-07T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "alta",
-      "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-      "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
-      "fecha": "2026-09-02T00:00:00-04:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
       "fuente": "LEGISLATIVO"
     },
     {
@@ -86,11 +86,11 @@
   "actividad": [
     {
       "fecha": "2026-09-07T00:00:00-03:00",
-      "texto": "Boletín 18420-25: Boletín de indicaciones ."
+      "texto": "Boletín 14773-02: Discusión general . Queda pendiente ."
     },
     {
-      "fecha": "2026-09-02T00:00:00-04:00",
-      "texto": "Boletín 14773-02: Cuenta del Mensaje 295-374 que hace presente la urgencia Simple"
+      "fecha": "2026-09-07T00:00:00-03:00",
+      "texto": "Boletín 18420-25: Boletín de indicaciones ."
     },
     {
       "fecha": "2026-09-01T00:00:00-04:00",
