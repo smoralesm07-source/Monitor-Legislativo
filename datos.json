@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-08T16:21:16.075149-03:00",
- "generado_legible": "08/09/2026 16:21",
+ "generado": "2026-09-08T19:29:26.477861-03:00",
+ "generado_legible": "08/09/2026 19:29",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-09-08T16:21:16.075149-03:00"
+  "generado": "2026-09-08T19:29:26.477861-03:00"
  },
  "proyectos": [
   {
@@ -485,7 +485,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17412&prmBOLETIN=16808-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16808",
    "sintesis": "Simple urgencia · Segundo trámite constitucional (Senado) · Cuenta del Mensaje 311-374 que retira y hace presente la urgencia Simple",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-08T16:21:16.075149-03:00"
   },
   {
@@ -4632,7 +4632,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19092&prmBOLETIN=18420-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18420",
    "sintesis": "Simple urgencia · Primer trámite constitucional (Senado) · Cuenta del Mensaje 311-374 que retira y hace presente la urgencia Simple",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-08T16:21:16.075149-03:00"
   },
   {
@@ -11762,24 +11762,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-08T16:21:16.075149-03:00"
+   "revisado": "2026-09-08T19:29:26.477861-03:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-08T16:21:16.075149-03:00"
+   "revisado": "2026-09-08T19:29:26.477861-03:00"
   },
   {
    "boletin": "16821-19",
    "titulo": "Regula los sistemas de inteligencia artificial",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-08T16:21:16.075149-03:00"
+   "revisado": "2026-09-08T19:29:26.477861-03:00"
   }
  ],
- "novedades": 2,
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11830,7 +11830,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 176,
+  "candidatos_descubiertos": 185,
   "boletines_consultados": 48,
   "fichas_obtenidas": 48,
   "consultas_fallidas": 0,
@@ -11838,14 +11838,14 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 2,
+  "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 2,
+  "con_movimiento": 0,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
    "cartera": 46,
-   "senado_movimiento": 134,
+   "senado_movimiento": 143,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -11853,7 +11853,7 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 134,
+    "resultados": 143,
     "errores": [],
     "consultado": true
    },
@@ -11889,6 +11889,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 74.9
+  "segundos_corrida": 79.5
  }
 }
