@@ -2,8 +2,8 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-09-09T13:18:32.963183-03:00",
-  "generado_legible": "09/09/2026 13:18",
+  "generado": "2026-09-09T17:46:03.624757-03:00",
+  "generado_legible": "09/09/2026 17:46",
   "proyectos_total": 46,
   "vigentes": 43,
   "movimientos_recientes": 4,
@@ -14,10 +14,10 @@
   "prioridad_alta": 4,
   "estancados_180d": 18,
   "ultimo": {
-    "titulo": "Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal",
-    "detalle": "Boletín 16808-25 · 08/09/2026 · Segundo trámite constitucional (Senado)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16808-25",
-    "fecha": "2026-09-08T00:00:00-03:00"
+    "titulo": "Modifica el Código Procesal Penal, para fortalecer la persecución penal del crimen organizado y regular el juicio oral en ausencia del imputado",
+    "detalle": "Boletín 18144-07 · 09/09/2026 · Primer trámite constitucional (Senado)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18144-07",
+    "fecha": "2026-09-09T00:00:00-03:00"
   },
   "serie_7d": [
     {
@@ -42,14 +42,22 @@
     },
     {
       "fecha": "2026-09-08",
-      "n": 3
+      "n": 2
     },
     {
       "fecha": "2026-09-09",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
+    {
+      "severidad": "info",
+      "titulo": "Modifica el Código Procesal Penal, para fortalecer la persecución penal del crimen organizado y regular el juicio oral en ausencia del imputado",
+      "detalle": "Boletín 18144-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-09-09T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18144-07",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "alta",
       "titulo": "Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal",
@@ -67,14 +75,6 @@
       "fuente": "LEGISLATIVO"
     },
     {
-      "severidad": "info",
-      "titulo": "Modifica el Código Procesal Penal, para fortalecer la persecución penal del crimen organizado y regular el juicio oral en ausencia del imputado",
-      "detalle": "Boletín 18144-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-09-08T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18144-07",
-      "fuente": "LEGISLATIVO"
-    },
-    {
       "severidad": "alta",
       "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
       "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
@@ -85,16 +85,16 @@
   ],
   "actividad": [
     {
+      "fecha": "2026-09-09T00:00:00-03:00",
+      "texto": "Boletín 18144-07: Cuenta oficio N° 255-2026 de la Corte Suprema"
+    },
+    {
       "fecha": "2026-09-08T00:00:00-03:00",
       "texto": "Boletín 16808-25: Cuenta del Mensaje 311-374 que retira y hace presente la urgencia Simple"
     },
     {
       "fecha": "2026-09-08T00:00:00-03:00",
       "texto": "Boletín 18420-25: Cuenta del Mensaje 311-374 que retira y hace presente la urgencia Simple"
-    },
-    {
-      "fecha": "2026-09-08T00:00:00-03:00",
-      "texto": "Boletín 18144-07: Oficio N° 255-2026. Respuesta de la Corte Suprema"
     },
     {
       "fecha": "2026-09-07T00:00:00-03:00",
