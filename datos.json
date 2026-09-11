@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-11T05:51:58.274050-03:00",
- "generado_legible": "11/09/2026 05:51",
+ "generado": "2026-09-11T11:10:03.039786-03:00",
+ "generado_legible": "11/09/2026 11:10",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-09-11T05:51:58.274050-03:00"
+  "generado": "2026-09-11T11:10:03.039786-03:00"
  },
  "proyectos": [
   {
@@ -2358,7 +2358,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
    "sintesis": "Discusión inmediata · Trámite en Tribunal Constitucional (C.Diputados) · Oficio N°2059/2026. Respuesta Ministerio de Hacienda",
-   "novedad": "urgencia",
+   "novedad": "",
    "novedad_detectada": "2026-09-11T05:51:58.274050-03:00"
   },
   {
@@ -4271,7 +4271,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=16514&prmBOLETIN=15975-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15975",
    "sintesis": "Comisión Mixta por rechazo de modificaciones (Senado) · Cuenta oficio integrantes de Comisión Mixta .",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-11T05:51:58.274050-03:00"
   },
   {
@@ -4751,7 +4751,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17365&prmBOLETIN=16764-03",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16764",
    "sintesis": "Primer trámite constitucional (Senado) · La Sala acuerda refundir los proyectos de ley correspondientes a los boletines números 15.462-03, 16.764-03 y 16.783-03.",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-11T05:51:58.274050-03:00"
   },
   {
@@ -4988,7 +4988,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17553&prmBOLETIN=16939-06",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16939",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Gobierno, Descentralización y Regionalización",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-11T05:51:58.274050-03:00"
   },
   {
@@ -6133,7 +6133,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19037&prmBOLETIN=18369-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18369",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-11T05:51:58.274050-03:00"
   },
   {
@@ -6249,7 +6249,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19080&prmBOLETIN=18395-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18395",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-11T05:51:58.274050-03:00"
   },
   {
@@ -6356,7 +6356,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19090&prmBOLETIN=18407-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18407",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-11T05:51:58.274050-03:00"
   },
   {
@@ -6738,7 +6738,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19135&prmBOLETIN=18460-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18460",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-11T05:51:58.274050-03:00"
   },
   {
@@ -7991,7 +7991,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18152&prmBOLETIN=17515-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17515",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-11T05:51:58.274050-03:00"
   },
   {
@@ -9458,7 +9458,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17191&prmBOLETIN=16621-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16621",
    "sintesis": "Tramitación terminada · Cuenta fallo del Tribunal Constitucional .",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-11T05:51:58.274050-03:00"
   },
   {
@@ -11770,17 +11770,17 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-11T05:51:58.274050-03:00"
+   "revisado": "2026-09-11T11:10:03.039786-03:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-11T05:51:58.274050-03:00"
+   "revisado": "2026-09-11T11:10:03.039786-03:00"
   }
  ],
- "novedades": 10,
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11839,10 +11839,10 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 2,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 10,
+  "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 9,
-  "cambios_urgencia": 1,
+  "con_movimiento": 0,
+  "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
    "cartera": 46,
@@ -11890,6 +11890,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 73.1
+  "segundos_corrida": 75.5
  }
 }
