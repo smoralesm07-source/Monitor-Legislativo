@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-11T16:04:26.373347-03:00",
- "generado_legible": "11/09/2026 16:04",
+ "generado": "2026-09-11T19:22:39.987947-03:00",
+ "generado_legible": "11/09/2026 19:22",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-09-11T16:04:26.373347-03:00"
+  "generado": "2026-09-11T19:22:39.987947-03:00"
  },
  "proyectos": [
   {
@@ -1077,7 +1077,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=15272&prmBOLETIN=14773-02",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14773",
    "sintesis": "Simple urgencia · Segundo trámite constitucional (C.Diputados) · Discusión general . Queda pendiente .",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-09-11T16:04:26.373347-03:00"
   },
   {
@@ -11778,17 +11778,17 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-11T16:04:26.373347-03:00"
+   "revisado": "2026-09-11T19:22:39.987947-03:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-11T16:04:26.373347-03:00"
+   "revisado": "2026-09-11T19:22:39.987947-03:00"
   }
  ],
- "novedades": 1,
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11847,9 +11847,9 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 2,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 1,
+  "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 1,
+  "con_movimiento": 0,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
@@ -11898,6 +11898,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 74.5
+  "segundos_corrida": 73.4
  }
 }
