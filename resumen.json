@@ -2,17 +2,17 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-09-10T20:53:27.341570-03:00",
-  "generado_legible": "10/09/2026 20:53",
+  "generado": "2026-09-11T00:59:27.570448-03:00",
+  "generado_legible": "11/09/2026 00:59",
   "proyectos_total": 46,
-  "vigentes": 43,
+  "vigentes": 44,
   "movimientos_recientes": 4,
-  "movimientos_30d": 12,
-  "novedades_corrida": 0,
+  "movimientos_30d": 10,
+  "novedades_corrida": 10,
   "impacto_directo": 8,
-  "con_urgencia": 5,
-  "prioridad_alta": 4,
-  "estancados_180d": 18,
+  "con_urgencia": 4,
+  "prioridad_alta": 3,
+  "estancados_180d": 20,
   "ultimo": {
     "titulo": "Modifica el Código Procesal Penal, para fortalecer la persecución penal del crimen organizado y regular el juicio oral en ausencia del imputado",
     "detalle": "Boletín 18144-07 · 09/09/2026 · Primer trámite constitucional (Senado)",
@@ -20,10 +20,6 @@
     "fecha": "2026-09-09T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-09-04",
-      "n": 0
-    },
     {
       "fecha": "2026-09-05",
       "n": 0
@@ -46,6 +42,10 @@
     },
     {
       "fecha": "2026-09-10",
+      "n": 0
+    },
+    {
+      "fecha": "2026-09-11",
       "n": 0
     }
   ],
