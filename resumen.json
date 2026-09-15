@@ -2,27 +2,27 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-09-15T01:19:24.611655-03:00",
-  "generado_legible": "15/09/2026 01:19",
+  "generado": "2026-09-15T08:28:04.539667-03:00",
+  "generado_legible": "15/09/2026 08:28",
   "proyectos_total": 46,
-  "vigentes": 43,
-  "movimientos_recientes": 3,
-  "movimientos_30d": 11,
-  "novedades_corrida": 0,
+  "vigentes": 46,
+  "movimientos_recientes": 0,
+  "movimientos_30d": 1,
+  "novedades_corrida": 46,
   "impacto_directo": 8,
-  "con_urgencia": 5,
-  "prioridad_alta": 4,
-  "estancados_180d": 18,
+  "con_urgencia": 0,
+  "prioridad_alta": 0,
+  "estancados_180d": 25,
   "ultimo": {
-    "titulo": "Modifica el Código Procesal Penal, para fortalecer la persecución penal del crimen organizado y regular el juicio oral en ausencia del imputado",
-    "detalle": "Boletín 18144-07 · 09/09/2026 · Primer trámite constitucional (Senado)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18144-07",
-    "fecha": "2026-09-09T00:00:00-03:00"
+    "titulo": "Con el objeto de consagrar a la persecución de la corrupción como un principio rector para el Estado",
+    "detalle": "Boletín 18609-07 · 19/08/2026",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18609-07",
+    "fecha": "2026-08-19T00:00:00-04:00"
   },
   "serie_7d": [
     {
       "fecha": "2026-09-09",
-      "n": 1
+      "n": 0
     },
     {
       "fecha": "2026-09-10",
@@ -52,53 +52,53 @@
   "alertas": [
     {
       "severidad": "info",
-      "titulo": "Modifica el Código Procesal Penal, para fortalecer la persecución penal del crimen organizado y regular el juicio oral en ausencia del imputado",
-      "detalle": "Boletín 18144-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-09-09T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18144-07",
+      "titulo": "Con el objeto de consagrar a la persecución de la corrupción como un principio rector para el Estado",
+      "detalle": "Boletín 18609-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-08-19T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18609-07",
       "fuente": "LEGISLATIVO"
     },
     {
-      "severidad": "alta",
-      "titulo": "Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal",
-      "detalle": "Boletín 16808-25 · Nivel 1 · Impacto en la Ley 19.913 · Simple urgencia",
-      "fecha": "2026-09-08T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16808-25",
+      "severidad": "info",
+      "titulo": "Consagra los territorios especiales digitales, con el objeto de fortalecer la soberanía digital, la continuidad estratégica del Estado y la cooperación internacional",
+      "detalle": "Boletín 18582-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-08-13T00:00:00-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18582-07",
       "fuente": "LEGISLATIVO"
     },
     {
-      "severidad": "media",
-      "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
-      "detalle": "Boletín 18420-25 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
-      "fecha": "2026-09-08T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
+      "severidad": "info",
+      "titulo": "Modifica el Código Penal para agravar la penalidad en caso de sustracción y receptación de combustibles en supuestos que indica",
+      "detalle": "Boletín 18611-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-08-12T16:46:17-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18611-07",
       "fuente": "LEGISLATIVO"
     },
     {
-      "severidad": "alta",
-      "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-      "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
-      "fecha": "2026-09-07T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
+      "severidad": "info",
+      "titulo": "Modifica el Código Penal para agravar la pena por la receptación de vehículos en supuestos que indica",
+      "detalle": "Boletín 18604-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-08-11T21:14:57-04:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18604-07",
       "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
     {
-      "fecha": "2026-09-09T00:00:00-03:00",
-      "texto": "Boletín 18144-07: Cuenta oficio N° 255-2026 de la Corte Suprema"
+      "fecha": "2026-08-19T00:00:00-04:00",
+      "texto": "Boletín 18609-07:"
     },
     {
-      "fecha": "2026-09-08T00:00:00-03:00",
-      "texto": "Boletín 16808-25: Cuenta del Mensaje 311-374 que retira y hace presente la urgencia Simple"
+      "fecha": "2026-08-13T00:00:00-04:00",
+      "texto": "Boletín 18582-07:"
     },
     {
-      "fecha": "2026-09-08T00:00:00-03:00",
-      "texto": "Boletín 18420-25: Cuenta del Mensaje 311-374 que retira y hace presente la urgencia Simple"
+      "fecha": "2026-08-12T16:46:17-04:00",
+      "texto": "Boletín 18611-07:"
     },
     {
-      "fecha": "2026-09-07T00:00:00-03:00",
-      "texto": "Boletín 14773-02: Discusión general . Queda pendiente ."
+      "fecha": "2026-08-11T21:14:57-04:00",
+      "texto": "Boletín 18604-07:"
     }
   ]
 }
