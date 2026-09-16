@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-16T10:18:25.218132-03:00",
- "generado_legible": "16/09/2026 10:18",
+ "generado": "2026-09-16T15:02:11.732664-03:00",
+ "generado_legible": "16/09/2026 15:02",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-09-16T10:18:25.218132-03:00"
+  "generado": "2026-09-16T15:02:11.732664-03:00"
  },
  "proyectos": [
   {
@@ -11775,7 +11775,7 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-16T10:18:25.218132-03:00"
+   "revisado": "2026-09-16T15:02:11.732664-03:00"
   }
  ],
  "novedades": 0,
@@ -11829,7 +11829,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 82,
+  "candidatos_descubiertos": 84,
   "boletines_consultados": 46,
   "fichas_obtenidas": 46,
   "consultas_fallidas": 0,
@@ -11844,7 +11844,7 @@
   "canales": {
    "semillas": 15,
    "cartera": 46,
-   "senado_movimiento": 37,
+   "senado_movimiento": 39,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -11852,7 +11852,7 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 37,
+    "resultados": 39,
     "errores": [],
     "consultado": true
    },
@@ -11888,6 +11888,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 61.3
+  "segundos_corrida": 60.9
  }
 }
