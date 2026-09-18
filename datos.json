@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-17T18:09:25.222138-03:00",
- "generado_legible": "17/09/2026 18:09",
+ "generado": "2026-09-17T21:00:26.537614-03:00",
+ "generado_legible": "17/09/2026 21:00",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -8,7 +8,7 @@
   "vigentes": 43,
   "impacto_directo": 8,
   "impacto_estructural": 6,
-  "impacto_sectorial": 26,
+  "impacto_sectorial": 27,
   "con_urgencia": 5,
   "discusion_inmediata": 1,
   "prioridad_critica": 1,
@@ -16,8 +16,8 @@
   "movimiento_7d": 0,
   "movimiento_30d": 11,
   "nivel_1": 8,
-  "nivel_2": 30,
-  "nivel_3": 5,
+  "nivel_2": 31,
+  "nivel_3": 4,
   "requieren_revision_manual": 4,
   "estancados_180d": 18,
   "pipeline": [
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-09-17T18:09:25.222138-03:00"
+  "generado": "2026-09-17T21:00:26.537614-03:00"
  },
  "proyectos": [
   {
@@ -7318,6 +7318,151 @@
    "novedad_detectada": "2026-09-15T13:40:02.294518-03:00"
   },
   {
+   "boletin": "18217-07",
+   "titulo": "Modifica diversos cuerpos legales, con el objeto de perfeccionar las disposiciones relativas a la persecución penal de la criminalidad organizada y el terrorismo",
+   "fecha_ingreso": "2026-04-22T00:00:00-04:00",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Primer informe de comisión de Seguridad Pública",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia": "Sin urgencia",
+   "ley_numero": "",
+   "refundidos": "",
+   "estado": "En tramitación",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18879&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2026-04-22T00:00:00-04:00",
+     "fecha_legible": "22/04/2026",
+     "sesion": "/",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-04-22T00:00:00-04:00",
+     "fecha_legible": "22/04/2026",
+     "sesion": "11/374",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento. Se remite el proyecto a la Corte Suprema.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-04-22T00:00:00-04:00",
+     "fecha_legible": "22/04/2026",
+     "sesion": "11/374",
+     "descripcion": "La Sala acuerda que el proyecto de ley sea conocido, en primer lugar, por la Comisión Seguridad Pública y, posteriormente, por la Comisión de Constitución, Legislación, Justicia y Reglamento",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-04-22T00:00:00-04:00",
+     "fecha_legible": "22/04/2026",
+     "sesion": "/",
+     "descripcion": "Oficio N° 120-26 a la Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-04-23T00:00:00-04:00",
+     "fecha_legible": "23/04/2026",
+     "sesion": "/",
+     "descripcion": "La Honorable Senadora señora Flores suscribe el proyecto de ley, en calidad de autora",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-05-18T00:00:00-04:00",
+     "fecha_legible": "18/05/2026",
+     "sesion": "/",
+     "descripcion": "El Honorable Senador señor Vial adhiere al proyecto de ley",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [
+    "Bianchi Retamales, Karim",
+    "Camila Flores Oporto",
+    "Flores García, Iván",
+    "Flores Oporto, Camila",
+    "Iván Flores García",
+    "Iván Moreira Barros",
+    "Karim Bianchi Retamales",
+    "Moreira Barros, Iván",
+    "Núñez Urrutia, Paulina",
+    "Paulina Núñez Urrutia"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [],
+   "ministerios": [],
+   "camara_id": "18879",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara",
+    "senado"
+   ],
+   "nota_semilla": "Criminalidad organizada y terrorismo",
+   "es_semilla": true,
+   "admisible": "true",
+   "texto_camara_completo": "18879 18217-07 Modifica diversos cuerpos legales, con el objeto de perfeccionar las disposiciones relativas a la persecución penal de la criminalidad organizada y el terrorismo 2026-04-22T00:00:00 Moción Senado 0 1117 Iván Moreira Barros 0 1324 Karim Bianchi Retamales 0 1330 Iván Flores García 0 1337 Paulina Núñez Urrutia 0 1508 Camila Flores Oporto true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18217-07",
+   "canales_descubrimiento": [
+    "semilla",
+    "cartera"
+   ],
+   "id": "d28816cac6bf9370",
+   "puntaje_pertinencia": 32.0,
+   "nivel_impacto": "sectorial",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [],
+    "estructurales": [
+     "criminalidad organizada"
+    ],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [
+    "crimen_organizado"
+   ],
+   "ejes_legibles": [
+    "Crimen organizado y persecución penal"
+   ],
+   "impacto_legible": "Impacto sectorial en sujetos obligados",
+   "requiere_revision_manual": false,
+   "nivel_cartera": 2,
+   "nivel_legible": "Nivel 2 · Perímetro regulatorio",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2026-05-18T00:00:00-04:00",
+   "ultimo_movimiento_legible": "18/05/2026",
+   "dias_sin_movimiento": 122,
+   "ultimo_tramite": "El Honorable Senador señor Vial adhiere al proyecto de ley",
+   "camara_actual": "Senado",
+   "total_tramites": 6,
+   "fecha_ingreso_legible": "22/04/2026",
+   "antiguedad_dias": 148,
+   "prioridad": 27.2,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 0.8,
+   "huella": "0a65231eab5672f76fc7",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18217-07",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18879&prmBOLETIN=18217-07",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18217",
+   "sintesis": "Primer trámite constitucional (Senado) · El Honorable Senador señor Vial adhiere al proyecto de ley",
+   "novedad": "",
+   "novedad_detectada": "2026-09-15T13:40:02.294518-03:00"
+  },
+  {
    "boletin": "18219-07",
    "titulo": "Modifica cuerpos legales que indica para extender el estatuto de protección al denunciante de delitos de corrupción y criminalidad económica",
    "fecha_ingreso": "2026-04-22T00:00:00-04:00",
@@ -7986,142 +8131,6 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18160&prmBOLETIN=17520-17",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=17520",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Oficio N° 20406. Deriva a la Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa; Protección de los Consumidores y Turismo, el proyecto de ley asignado inicialmente a la Comisión de Derechos Humanos.",
-   "novedad": "",
-   "novedad_detectada": "2026-09-15T13:40:02.294518-03:00"
-  },
-  {
-   "boletin": "18217-07",
-   "titulo": "Modifica diversos cuerpos legales, con el objeto de perfeccionar las disposiciones relativas a la persecución penal de la criminalidad organizada y el terrorismo",
-   "fecha_ingreso": "2026-04-22T00:00:00-04:00",
-   "etapa": "Primer trámite constitucional (Senado)",
-   "subetapa": "Primer informe de comisión de Seguridad Pública",
-   "iniciativa": "Moción",
-   "camara_origen": "Senado",
-   "urgencia": "Sin urgencia",
-   "ley_numero": "",
-   "refundidos": "",
-   "estado": "En tramitación",
-   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=18879&tipodoc=mensaje_mocion",
-   "tramitacion": [
-    {
-     "fecha": "2026-04-22T00:00:00-04:00",
-     "fecha_legible": "22/04/2026",
-     "sesion": "/",
-     "descripcion": "Ingreso de proyecto .",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-04-22T00:00:00-04:00",
-     "fecha_legible": "22/04/2026",
-     "sesion": "11/374",
-     "descripcion": "Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento. Se remite el proyecto a la Corte Suprema.",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-04-22T00:00:00-04:00",
-     "fecha_legible": "22/04/2026",
-     "sesion": "11/374",
-     "descripcion": "La Sala acuerda que el proyecto de ley sea conocido, en primer lugar, por la Comisión Seguridad Pública y, posteriormente, por la Comisión de Constitución, Legislación, Justicia y Reglamento",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-04-22T00:00:00-04:00",
-     "fecha_legible": "22/04/2026",
-     "sesion": "/",
-     "descripcion": "Oficio N° 120-26 a la Corte Suprema",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-04-23T00:00:00-04:00",
-     "fecha_legible": "23/04/2026",
-     "sesion": "/",
-     "descripcion": "La Honorable Senadora señora Flores suscribe el proyecto de ley, en calidad de autora",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    },
-    {
-     "fecha": "2026-05-18T00:00:00-04:00",
-     "fecha_legible": "18/05/2026",
-     "sesion": "/",
-     "descripcion": "El Honorable Senador señor Vial adhiere al proyecto de ley",
-     "etapa": "Primer trámite constitucional",
-     "camara": "Senado"
-    }
-   ],
-   "urgencias": [],
-   "votaciones": [],
-   "autores": [
-    "Bianchi Retamales, Karim",
-    "Flores García, Iván",
-    "Flores Oporto, Camila",
-    "Moreira Barros, Iván",
-    "Núñez Urrutia, Paulina"
-   ],
-   "materias": [],
-   "comisiones": [],
-   "informes": [],
-   "ministerios": [],
-   "camara_id": "",
-   "resumen": "",
-   "fuentes": [
-    "semilla",
-    "senado"
-   ],
-   "nota_semilla": "Criminalidad organizada y terrorismo",
-   "es_semilla": true,
-   "canales_descubrimiento": [
-    "semilla",
-    "cartera"
-   ],
-   "id": "d28816cac6bf9370",
-   "puntaje_pertinencia": 24.0,
-   "nivel_impacto": "seguimiento",
-   "evidencia": {
-    "directas": [],
-    "nucleo": [],
-    "estructurales": [
-     "criminalidad organizada"
-    ],
-    "sectoriales": []
-   },
-   "sectores": [],
-   "sectores_legibles": [],
-   "ejes": [
-    "crimen_organizado"
-   ],
-   "ejes_legibles": [
-    "Crimen organizado y persecución penal"
-   ],
-   "impacto_legible": "Seguimiento preventivo",
-   "requiere_revision_manual": false,
-   "nivel_cartera": 3,
-   "nivel_legible": "Nivel 3 · Seguimiento",
-   "urgencia_clave": "sin urgencia",
-   "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 1,
-   "vigente": true,
-   "ultimo_movimiento": "2026-05-18T00:00:00-04:00",
-   "ultimo_movimiento_legible": "18/05/2026",
-   "dias_sin_movimiento": 122,
-   "ultimo_tramite": "El Honorable Senador señor Vial adhiere al proyecto de ley",
-   "camara_actual": "Senado",
-   "total_tramites": 6,
-   "fecha_ingreso_legible": "22/04/2026",
-   "antiguedad_dias": 148,
-   "prioridad": 12.8,
-   "banda_prioridad": "baja",
-   "factor_urgencia": 1.0,
-   "factor_proximidad": 1.0,
-   "factor_frescura": 0.8,
-   "huella": "0a65231eab5672f76fc7",
-   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18217-07",
-   "link_camara": "",
-   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18217",
-   "sintesis": "Primer trámite constitucional (Senado) · El Honorable Senador señor Vial adhiere al proyecto de ley",
    "novedad": "",
    "novedad_detectada": "2026-09-15T13:40:02.294518-03:00"
   },
@@ -11765,7 +11774,7 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-17T18:09:25.222138-03:00"
+   "revisado": "2026-09-17T21:00:26.537614-03:00"
   }
  ],
  "novedades": 0,
@@ -11856,10 +11865,8 @@
    {
     "canal": "camara_boletin",
     "llamadas": 46,
-    "resultados": 45,
-    "errores": [
-     "18217-07: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
-    ],
+    "resultados": 46,
+    "errores": [],
     "consultado": true
    },
    {
@@ -11880,6 +11887,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 56.7
+  "segundos_corrida": 57.5
  }
 }
