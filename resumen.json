@@ -2,11 +2,11 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-09-21T16:10:44.541393-03:00",
-  "generado_legible": "21/09/2026 16:10",
+  "generado": "2026-09-21T20:05:32.898626-03:00",
+  "generado_legible": "21/09/2026 20:05",
   "proyectos_total": 46,
   "vigentes": 43,
-  "movimientos_recientes": 0,
+  "movimientos_recientes": 1,
   "movimientos_30d": 5,
   "novedades_corrida": 1,
   "impacto_directo": 8,
@@ -14,10 +14,10 @@
   "prioridad_alta": 4,
   "estancados_180d": 18,
   "ultimo": {
-    "titulo": "Modifica el Código Procesal Penal, para fortalecer la persecución penal del crimen organizado y regular el juicio oral en ausencia del imputado",
-    "detalle": "Boletín 18144-07 · 09/09/2026 · Primer trámite constitucional (Senado)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18144-07",
-    "fecha": "2026-09-09T00:00:00-03:00"
+    "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
+    "detalle": "Boletín 14773-02 · 21/09/2026 · Segundo trámite constitucional (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
+    "fecha": "2026-09-21T00:00:00-03:00"
   },
   "serie_7d": [
     {
@@ -46,10 +46,18 @@
     },
     {
       "fecha": "2026-09-21",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
+    {
+      "severidad": "alta",
+      "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
+      "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
+      "fecha": "2026-09-21T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "info",
       "titulo": "Modifica el Código Procesal Penal, para fortalecer la persecución penal del crimen organizado y regular el juicio oral en ausencia del imputado",
@@ -73,17 +81,13 @@
       "fecha": "2026-09-08T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "alta",
-      "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-      "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
-      "fecha": "2026-09-07T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
+    {
+      "fecha": "2026-09-21T00:00:00-03:00",
+      "texto": "Boletín 14773-02: Oficio N°21.584. Remite las indicaciones presentadas durante la discusión general en Sala."
+    },
     {
       "fecha": "2026-09-09T00:00:00-03:00",
       "texto": "Boletín 18144-07: Cuenta oficio N° 255-2026 de la Corte Suprema"
@@ -95,10 +99,6 @@
     {
       "fecha": "2026-09-08T00:00:00-03:00",
       "texto": "Boletín 18420-25: Cuenta del Mensaje 311-374 que retira y hace presente la urgencia Simple"
-    },
-    {
-      "fecha": "2026-09-07T00:00:00-03:00",
-      "texto": "Boletín 14773-02: Discusión general . Queda pendiente ."
     }
   ]
 }
