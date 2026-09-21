@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-21T09:28:01.709598-03:00",
- "generado_legible": "21/09/2026 09:28",
+ "generado": "2026-09-21T16:10:44.541393-03:00",
+ "generado_legible": "21/09/2026 16:10",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 6
    }
   ],
-  "generado": "2026-09-21T09:28:01.709598-03:00"
+  "generado": "2026-09-21T16:10:44.541393-03:00"
  },
  "proyectos": [
   {
@@ -1952,7 +1952,7 @@
      "fecha": "2026-08-31T00:00:00-04:00",
      "fecha_legible": "31/08/2026",
      "sesion": "61/374",
-     "descripcion": "Cuenta, Oficio del Tribunal Constitucional por el cual remite copia autorizada de la sentencia definitiva recaída en el proceso sobre requerimientos de inconstitucionalidad presentados por un grupo de senadoras y senadores, y por un grupo de diputadas y diputados, respecto del proyecto. Roles acumulados N°s 17.828-26-CPT, 17.829-26-CPT y 17.832-26-CPT. Acogido parcialmente.",
+     "descripcion": "Cuenta, Oficio del Tribunal Constitucional por el cual remite copia autorizada de la sentencia definitiva recaída en el proceso sobre requerimientos de inconstitucionalidad presentados por un grupo de senadoras y senadores, y por un grupo de diputadas y diputados, respecto del proyecto. Roles acumulados N°s 17828-26-CPT, 17829-26-CPT y 17832-26-CPT. ACOGIDO PARCIALMENTE.",
      "etapa": "Trámite en Tribunal Constitucional",
      "camara": "C.Diputados"
     },
@@ -1961,6 +1961,14 @@
      "fecha_legible": "01/09/2026",
      "sesion": "/",
      "descripcion": "Oficio N°2059/2026. Respuesta Ministerio de Hacienda",
+     "etapa": "Trámite en Tribunal Constitucional",
+     "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-09-07T00:00:00-03:00",
+     "fecha_legible": "07/09/2026",
+     "sesion": "64/374",
+     "descripcion": "Cuenta, Oficio del Tribunal Constitucional por el cual remite copia autorizada de la sentencia definitiva recaída en el requerimiento de inconstitucionalidad presentado por S.E. el Presidente de la República, respecto del artículo 31 del proyecto. (343 -2026). BOLETÍN N° 18216-05. ROL N° 17892-26-CPT. RECHAZADO.",
      "etapa": "Trámite en Tribunal Constitucional",
      "camara": "C.Diputados"
     }
@@ -2133,12 +2141,12 @@
    "urgencia_legible": "Discusión inmediata",
    "etapa_ordinal": 6,
    "vigente": true,
-   "ultimo_movimiento": "2026-09-01T00:00:00-04:00",
-   "ultimo_movimiento_legible": "01/09/2026",
-   "dias_sin_movimiento": 20,
-   "ultimo_tramite": "Oficio N°2059/2026. Respuesta Ministerio de Hacienda",
+   "ultimo_movimiento": "2026-09-07T00:00:00-03:00",
+   "ultimo_movimiento_legible": "07/09/2026",
+   "dias_sin_movimiento": 14,
+   "ultimo_tramite": "Cuenta, Oficio del Tribunal Constitucional por el cual remite copia autorizada de la sentencia definitiva recaída en el requerimiento de inconstitucionalidad presentado por S.E. el Presidente de la República, respecto del artículo 31 del proyecto. (343 -2026). BOLETÍN N° 18216-05. ROL N° 17892-26-CPT. RECHAZADO.",
    "camara_actual": "C.Diputados",
-   "total_tramites": 109,
+   "total_tramites": 110,
    "fecha_ingreso_legible": "22/04/2026",
    "antiguedad_dias": 152,
    "prioridad": 140.8,
@@ -2146,13 +2154,13 @@
    "factor_urgencia": 3.0,
    "factor_proximidad": 1.2,
    "factor_frescura": 1.15,
-   "huella": "47067e0af58454b8ad3c",
+   "huella": "57b6fcb6ba3742db8c12",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
-   "sintesis": "Discusión inmediata · Trámite en Tribunal Constitucional (C.Diputados) · Oficio N°2059/2026. Respuesta Ministerio de Hacienda",
-   "novedad": "",
-   "novedad_detectada": "2026-09-15T13:40:02.294518-03:00"
+   "sintesis": "Discusión inmediata · Trámite en Tribunal Constitucional (C.Diputados) · Cuenta, Oficio del Tribunal Constitucional por el cual remite copia autorizada de la sentencia definitiva recaída en el requerimiento de inconstitucionalidad presentado por S.E. el Presidente de la República, respecto del artículo 31 del proyecto. (343 -2026). BOLETÍN N° 18216-05. ROL N° 17892-26-CPT. RECHAZADO.",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-09-21T16:10:44.541393-03:00"
   },
   {
    "boletin": "17912-25",
@@ -11774,10 +11782,10 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-21T09:28:01.709598-03:00"
+   "revisado": "2026-09-21T16:10:44.541393-03:00"
   }
  ],
- "novedades": 0,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -11836,9 +11844,9 @@
   "registros_conservados_sin_revisar": 1,
   "descartados_por_pertinencia": 1,
   "retenidos_para_revision_manual": 4,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 0,
+  "con_movimiento": 1,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
@@ -11887,6 +11895,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 58.5
+  "segundos_corrida": 57.5
  }
 }
