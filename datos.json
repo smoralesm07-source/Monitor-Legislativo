@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-23T15:20:11.035578-03:00",
- "generado_legible": "23/09/2026 15:20",
+ "generado": "2026-09-23T19:50:44.538615-03:00",
+ "generado_legible": "23/09/2026 19:50",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -167,7 +167,7 @@
     "total": 7
    }
   ],
-  "generado": "2026-09-23T15:20:11.035578-03:00"
+  "generado": "2026-09-23T19:50:44.538615-03:00"
  },
  "proyectos": [
   {
@@ -11883,21 +11883,21 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-23T15:20:11.035578-03:00"
+   "revisado": "2026-09-23T19:50:44.538615-03:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-23T15:20:11.035578-03:00"
+   "revisado": "2026-09-23T19:50:44.538615-03:00"
   },
   {
    "boletin": "17870-05",
    "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-09-23T15:20:11.035578-03:00"
+   "revisado": "2026-09-23T19:50:44.538615-03:00"
   }
  ],
  "novedades": 0,
@@ -11951,7 +11951,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 157,
+  "candidatos_descubiertos": 170,
   "boletines_consultados": 48,
   "fichas_obtenidas": 48,
   "consultas_fallidas": 0,
@@ -11966,7 +11966,7 @@
   "canales": {
    "semillas": 15,
    "cartera": 47,
-   "senado_movimiento": 111,
+   "senado_movimiento": 124,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -11974,7 +11974,7 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 111,
+    "resultados": 124,
     "errores": [],
     "consultado": true
    },
@@ -12010,6 +12010,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 76.3
+  "segundos_corrida": 77.1
  }
 }
