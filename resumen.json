@@ -2,8 +2,8 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-09-26T11:32:52.294011-03:00",
-  "generado_legible": "26/09/2026 11:32",
+  "generado": "2026-09-27T08:51:18.740178-03:00",
+  "generado_legible": "27/09/2026 08:51",
   "proyectos_total": 47,
   "vigentes": 44,
   "movimientos_recientes": 1,
@@ -11,7 +11,7 @@
   "novedades_corrida": 0,
   "impacto_directo": 8,
   "con_urgencia": 5,
-  "prioridad_alta": 4,
+  "prioridad_alta": 3,
   "estancados_180d": 19,
   "ultimo": {
     "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
@@ -20,10 +20,6 @@
     "fecha": "2026-09-21T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-09-20",
-      "n": 0
-    },
     {
       "fecha": "2026-09-21",
       "n": 1
@@ -46,6 +42,10 @@
     },
     {
       "fecha": "2026-09-26",
+      "n": 0
+    },
+    {
+      "fecha": "2026-09-27",
       "n": 0
     }
   ],
@@ -77,7 +77,7 @@
     {
       "severidad": "media",
       "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
-      "detalle": "Boletín 18420-25 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
+      "detalle": "Boletín 18420-25 · Nivel 3 · Seguimiento · Simple urgencia",
       "fecha": "2026-09-08T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18420-25",
       "fuente": "LEGISLATIVO"
