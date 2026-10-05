@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-10-05T11:09:24.061533-03:00",
-  "generado_legible": "05/10/2026 11:09",
+  "generado": "2026-10-05T19:25:45.500372-03:00",
+  "generado_legible": "05/10/2026 19:25",
   "proyectos_total": 48,
   "vigentes": 45,
-  "movimientos_recientes": 2,
+  "movimientos_recientes": 3,
   "movimientos_30d": 6,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
   "estancados_180d": 19,
   "ultimo": {
-    "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-    "detalle": "Boletín 14773-02 · 30/09/2026 · Segundo trámite constitucional (C.Diputados)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
-    "fecha": "2026-09-30T00:00:00-03:00"
+    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+    "detalle": "Boletín 18216-05 · 05/10/2026 · Trámite en Tribunal Constitucional (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+    "fecha": "2026-10-05T00:00:00-03:00"
   },
   "serie_7d": [
     {
@@ -46,10 +46,18 @@
     },
     {
       "fecha": "2026-10-05",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
+    {
+      "severidad": "info",
+      "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+      "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-10-05T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "alta",
       "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
@@ -73,17 +81,13 @@
       "fecha": "2026-09-09T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18144-07",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "alta",
-      "titulo": "Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal",
-      "detalle": "Boletín 16808-25 · Nivel 1 · Impacto en la Ley 19.913 · Simple urgencia",
-      "fecha": "2026-09-08T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16808-25",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
+    {
+      "fecha": "2026-10-05T00:00:00-03:00",
+      "texto": "Boletín 18216-05: Cuenta fallo del Tribunal Constitucional ."
+    },
     {
       "fecha": "2026-09-30T00:00:00-03:00",
       "texto": "Boletín 14773-02: Cuenta del Mensaje 355-374 que retira y hace presente la urgencia Simple"
@@ -95,10 +99,6 @@
     {
       "fecha": "2026-09-09T00:00:00-03:00",
       "texto": "Boletín 18144-07: Cuenta oficio N° 255-2026 de la Corte Suprema"
-    },
-    {
-      "fecha": "2026-09-08T00:00:00-03:00",
-      "texto": "Boletín 16808-25: Cuenta del Mensaje 311-374 que retira y hace presente la urgencia Simple"
     }
   ]
 }
