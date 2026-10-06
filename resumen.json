@@ -2,12 +2,12 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-10-05T19:25:45.500372-03:00",
-  "generado_legible": "05/10/2026 19:25",
-  "proyectos_total": 48,
-  "vigentes": 45,
-  "movimientos_recientes": 3,
-  "movimientos_30d": 6,
+  "generado": "2026-10-06T02:46:56.295144-03:00",
+  "generado_legible": "06/10/2026 02:46",
+  "proyectos_total": 49,
+  "vigentes": 46,
+  "movimientos_recientes": 4,
+  "movimientos_30d": 7,
   "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 4,
@@ -20,10 +20,6 @@
     "fecha": "2026-10-05T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-09-29",
-      "n": 0
-    },
     {
       "fecha": "2026-09-30",
       "n": 2
@@ -46,7 +42,11 @@
     },
     {
       "fecha": "2026-10-05",
-      "n": 1
+      "n": 2
+    },
+    {
+      "fecha": "2026-10-06",
+      "n": 0
     }
   ],
   "alertas": [
@@ -56,6 +56,14 @@
       "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
       "fecha": "2026-10-05T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
+      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+      "detalle": "Boletín 18702-05 · Nivel 3 · Seguimiento · Sin urgencia",
+      "fecha": "2026-10-05T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
       "fuente": "LEGISLATIVO"
     },
     {
@@ -73,14 +81,6 @@
       "fecha": "2026-09-30T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18692-07",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Modifica el Código Procesal Penal, para fortalecer la persecución penal del crimen organizado y regular el juicio oral en ausencia del imputado",
-      "detalle": "Boletín 18144-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-09-09T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18144-07",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
@@ -89,16 +89,16 @@
       "texto": "Boletín 18216-05: Cuenta fallo del Tribunal Constitucional ."
     },
     {
+      "fecha": "2026-10-05T00:00:00-03:00",
+      "texto": "Boletín 18702-05: Cuenta de proyecto . Pasa a Comisión Especial Mixta de Presupuestos"
+    },
+    {
       "fecha": "2026-09-30T00:00:00-03:00",
       "texto": "Boletín 14773-02: Cuenta del Mensaje 355-374 que retira y hace presente la urgencia Simple"
     },
     {
       "fecha": "2026-09-30T00:00:00-03:00",
       "texto": "Boletín 18692-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
-    },
-    {
-      "fecha": "2026-09-09T00:00:00-03:00",
-      "texto": "Boletín 18144-07: Cuenta oficio N° 255-2026 de la Corte Suprema"
     }
   ]
 }
