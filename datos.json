@@ -1,11 +1,11 @@
 {
- "generado": "2026-10-06T16:22:21.846579-03:00",
- "generado_legible": "06/10/2026 16:22",
+ "generado": "2026-10-06T20:41:02.080972-03:00",
+ "generado_legible": "06/10/2026 20:41",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
-  "total": 49,
-  "vigentes": 46,
+  "total": 50,
+  "vigentes": 47,
   "impacto_directo": 8,
   "impacto_estructural": 6,
   "impacto_sectorial": 28,
@@ -13,12 +13,12 @@
   "discusion_inmediata": 0,
   "prioridad_critica": 1,
   "prioridad_alta": 2,
-  "movimiento_7d": 4,
-  "movimiento_30d": 7,
+  "movimiento_7d": 5,
+  "movimiento_30d": 8,
   "nivel_1": 8,
   "nivel_2": 32,
-  "nivel_3": 6,
-  "requieren_revision_manual": 6,
+  "nivel_3": 7,
+  "requieren_revision_manual": 7,
   "estancados_180d": 19,
   "pipeline": [
    {
@@ -29,7 +29,7 @@
    {
     "ordinal": 1,
     "etapa": "Primer trámite",
-    "total": 38
+    "total": 39
    },
    {
     "ordinal": 2,
@@ -120,7 +120,7 @@
    {
     "clave": "sin urgencia",
     "etiqueta": "Sin urgencia",
-    "total": 42
+    "total": 43
    },
    {
     "clave": "simple",
@@ -142,7 +142,7 @@
    {
     "clave": "Senado",
     "etiqueta": "Senado",
-    "total": 21
+    "total": 22
    },
    {
     "clave": "Cámara de Diputados",
@@ -154,7 +154,7 @@
    {
     "clave": "Moción",
     "etiqueta": "Moción",
-    "total": 40
+    "total": 41
    },
    {
     "clave": "Mensaje",
@@ -162,7 +162,7 @@
     "total": 8
    }
   ],
-  "generado": "2026-10-06T16:22:21.846579-03:00"
+  "generado": "2026-10-06T20:41:02.080972-03:00"
  },
  "proyectos": [
   {
@@ -7941,6 +7941,181 @@
    "novedad_detectada": "2026-09-28T01:44:52.464809-03:00"
   },
   {
+   "boletin": "14982-07",
+   "titulo": "Sobre peritaje judicial.",
+   "fecha_ingreso": "2022-05-18T00:00:00-04:00",
+   "etapa": "Primer trámite constitucional (Senado)",
+   "subetapa": "Discusión general",
+   "iniciativa": "Moción",
+   "camara_origen": "Senado",
+   "urgencia": "Sin urgencia",
+   "ley_numero": "",
+   "refundidos": "14982-07 / 14950-07 *matriz*",
+   "estado": "En tramitación",
+   "link_texto_original": "http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=15508&tipodoc=mensaje_mocion",
+   "tramitacion": [
+    {
+     "fecha": "2022-05-18T00:00:00-04:00",
+     "fecha_legible": "18/05/2022",
+     "sesion": "/",
+     "descripcion": "Ingreso de proyecto .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-05-18T00:00:00-04:00",
+     "fecha_legible": "18/05/2022",
+     "sesion": "21/370",
+     "descripcion": "Cuenta de proyecto . Pasa a Comisión Comisión especial encargada de tramitar proyectos de ley relacionados con los niños, niñas y",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-05-18T00:00:00-04:00",
+     "fecha_legible": "18/05/2022",
+     "sesion": "/",
+     "descripcion": "Oficio N° 229/SEC/22 a la Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-05-31T00:00:00-04:00",
+     "fecha_legible": "31/05/2022",
+     "sesion": "22/370",
+     "descripcion": "La Sala acuerda refundir los proyectos de ley correspondientes a los boletines N° 14.950-07 y N° 14.982-07.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-06-28T00:00:00-04:00",
+     "fecha_legible": "28/06/2022",
+     "sesion": "/",
+     "descripcion": "Comunicación de la Honorable Senadora señora Rincón, por medio de la cual retira su firma del proyecto de ley.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2022-06-28T00:00:00-04:00",
+     "fecha_legible": "28/06/2022",
+     "sesion": "29/370",
+     "descripcion": "Cuenta de Oficio N° 125-2022. Respuesta Corte Suprema",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2023-10-03T00:00:00-03:00",
+     "fecha_legible": "03/10/2023",
+     "sesion": "63/371",
+     "descripcion": "Por acuerdo de Comités, el proyecto será analizado por la Comisión de Familia, Infancia y Adolescencia, en lugar de la Comisión especial encargada de tramitar proyectos relacionados con los niños, niñas y adolescentes",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-10T00:00:00-04:00",
+     "fecha_legible": "10/06/2026",
+     "sesion": "/",
+     "descripcion": "Primer informe de comisión de Familia, Infancia y Adolescencia..",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-06-17T00:00:00-04:00",
+     "fecha_legible": "17/06/2026",
+     "sesion": "32/374",
+     "descripcion": "Cuenta de primer informe de comisión .",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-06T00:00:00-03:00",
+     "fecha_legible": "06/10/2026",
+     "sesion": "65/374",
+     "descripcion": "Discusión general . Queda pendiente Se solicita segunda discusión, quedando terminada la primera.",
+     "etapa": "Primer trámite constitucional",
+     "camara": "Senado"
+    }
+   ],
+   "urgencias": [],
+   "votaciones": [],
+   "autores": [
+    "Alfonso De Urresti Longton",
+    "Alvaro Elizalde Soto",
+    "Castro Prieto, Juan",
+    "De Urresti Longton, Alfonso",
+    "Edwards , Rojo",
+    "Elizalde Soto, Alvaro",
+    "Juan Castro Prieto",
+    "Manuel José Ossandón Irarrázabal",
+    "Ossandón Irarrázabal, Manuel José",
+    "Rojo Edwards"
+   ],
+   "materias": [],
+   "comisiones": [],
+   "informes": [
+    {
+     "fecha": "2026-06-10T00:00:00-04:00",
+     "tramite": "Primer informe de comisión de Familia, Infancia y Adolescencia.",
+     "etapa": "Primer trámite constitucional",
+     "link": ""
+    }
+   ],
+   "ministerios": [],
+   "camara_id": "15508",
+   "resumen": "",
+   "fuentes": [
+    "semilla",
+    "camara",
+    "senado"
+   ],
+   "admisible": "true",
+   "texto_camara_completo": "15508 14982-07 Sobre peritaje judicial. 2022-05-18T00:00:00 Moción Senado 0 1115 Alfonso De Urresti Longton 0 1120 Manuel José Ossandón Irarrázabal 0 1218 Juan Castro Prieto 0 1219 Alvaro Elizalde Soto 0 1328 Rojo Edwards true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=14982-07",
+   "canales_descubrimiento": [
+    "senado_movimiento"
+   ],
+   "id": "d2fb6a2d4ee630ad",
+   "puntaje_pertinencia": 0.0,
+   "nivel_impacto": "seguimiento",
+   "evidencia": {
+    "directas": [],
+    "nucleo": [],
+    "estructurales": [],
+    "sectoriales": []
+   },
+   "sectores": [],
+   "sectores_legibles": [],
+   "ejes": [],
+   "ejes_legibles": [],
+   "impacto_legible": "Seguimiento preventivo",
+   "requiere_revision_manual": true,
+   "nivel_cartera": 3,
+   "nivel_legible": "Nivel 3 · Seguimiento",
+   "urgencia_clave": "sin urgencia",
+   "urgencia_legible": "Sin urgencia",
+   "etapa_ordinal": 1,
+   "vigente": true,
+   "ultimo_movimiento": "2026-10-06T00:00:00-03:00",
+   "ultimo_movimiento_legible": "06/10/2026",
+   "dias_sin_movimiento": 0,
+   "ultimo_tramite": "Discusión general . Queda pendiente Se solicita segunda discusión, quedando terminada la primera.",
+   "camara_actual": "Senado",
+   "total_tramites": 10,
+   "fecha_ingreso_legible": "18/05/2022",
+   "antiguedad_dias": 1602,
+   "prioridad": 20.8,
+   "banda_prioridad": "baja",
+   "factor_urgencia": 1.0,
+   "factor_proximidad": 1.0,
+   "factor_frescura": 1.3,
+   "huella": "14e35e1ebbabd7c44e8e",
+   "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14982-07",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=15508&prmBOLETIN=14982-07",
+   "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14982",
+   "sintesis": "Primer trámite constitucional (Senado) · Discusión general . Queda pendiente Se solicita segunda discusión, quedando terminada la primera.",
+   "novedad": "nuevo",
+   "novedad_detectada": "2026-10-06T20:41:02.080972-03:00"
+  },
+  {
    "boletin": "17432-07",
    "titulo": "Modifica el Código Penal y el Código Procesal Penal en materia de comiso sin condena previa",
    "fecha_ingreso": "2025-03-24T00:00:00-03:00",
@@ -12124,24 +12299,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-06T16:22:21.846579-03:00"
+   "revisado": "2026-10-06T20:41:02.080972-03:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-06T16:22:21.846579-03:00"
+   "revisado": "2026-10-06T20:41:02.080972-03:00"
   },
   {
    "boletin": "17870-05",
    "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-06T16:22:21.846579-03:00"
+   "revisado": "2026-10-06T20:41:02.080972-03:00"
   }
  ],
- "novedades": 0,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -12192,22 +12367,22 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 186,
-  "boletines_consultados": 50,
-  "fichas_obtenidas": 50,
+  "candidatos_descubiertos": 200,
+  "boletines_consultados": 51,
+  "fichas_obtenidas": 51,
   "consultas_fallidas": 0,
-  "registros_publicados": 49,
+  "registros_publicados": 50,
   "registros_conservados_sin_revisar": 2,
   "descartados_por_pertinencia": 3,
-  "retenidos_para_revision_manual": 6,
-  "novedades_corrida": 0,
-  "nuevos_en_cartera": 0,
+  "retenidos_para_revision_manual": 7,
+  "novedades_corrida": 1,
+  "nuevos_en_cartera": 1,
   "con_movimiento": 0,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
    "cartera": 49,
-   "senado_movimiento": 141,
+   "senado_movimiento": 155,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -12215,21 +12390,21 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 141,
+    "resultados": 155,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "senado_boletin",
-    "llamadas": 50,
-    "resultados": 50,
+    "llamadas": 51,
+    "resultados": 51,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_boletin",
-    "llamadas": 50,
-    "resultados": 50,
+    "llamadas": 51,
+    "resultados": 51,
     "errores": [],
     "consultado": true
    },
@@ -12251,6 +12426,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 84.3
+  "segundos_corrida": 82.5
  }
 }

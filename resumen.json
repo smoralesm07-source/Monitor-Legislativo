@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-10-06T16:22:21.846579-03:00",
-  "generado_legible": "06/10/2026 16:22",
-  "proyectos_total": 49,
-  "vigentes": 46,
-  "movimientos_recientes": 4,
-  "movimientos_30d": 7,
-  "novedades_corrida": 0,
+  "generado": "2026-10-06T20:41:02.080972-03:00",
+  "generado_legible": "06/10/2026 20:41",
+  "proyectos_total": 50,
+  "vigentes": 47,
+  "movimientos_recientes": 5,
+  "movimientos_30d": 8,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
   "estancados_180d": 19,
   "ultimo": {
-    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-    "detalle": "Boletín 18216-05 · 05/10/2026 · Trámite en Tribunal Constitucional (C.Diputados)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
-    "fecha": "2026-10-05T00:00:00-03:00"
+    "titulo": "Sobre peritaje judicial.",
+    "detalle": "Boletín 14982-07 · 06/10/2026 · Primer trámite constitucional (Senado)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14982-07",
+    "fecha": "2026-10-06T00:00:00-03:00"
   },
   "serie_7d": [
     {
@@ -46,10 +46,18 @@
     },
     {
       "fecha": "2026-10-06",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
+    {
+      "severidad": "info",
+      "titulo": "Sobre peritaje judicial.",
+      "detalle": "Boletín 14982-07 · Nivel 3 · Seguimiento · Sin urgencia",
+      "fecha": "2026-10-06T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14982-07",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "info",
       "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
@@ -73,17 +81,13 @@
       "fecha": "2026-09-30T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Modifica el Código Penal para suspender la prescripción de la acción penal antes de la formalización en delitos contra la probidad administrativa, tributarios, económicos y de lavado de activos",
-      "detalle": "Boletín 18692-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-09-30T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18692-07",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
+    {
+      "fecha": "2026-10-06T00:00:00-03:00",
+      "texto": "Boletín 14982-07: Discusión general . Queda pendiente Se solicita segunda discusión, quedando terminada la primera."
+    },
     {
       "fecha": "2026-10-05T00:00:00-03:00",
       "texto": "Boletín 18216-05: Cuenta fallo del Tribunal Constitucional ."
@@ -95,10 +99,6 @@
     {
       "fecha": "2026-09-30T00:00:00-03:00",
       "texto": "Boletín 14773-02: Cuenta del Mensaje 355-374 que retira y hace presente la urgencia Simple"
-    },
-    {
-      "fecha": "2026-09-30T00:00:00-03:00",
-      "texto": "Boletín 18692-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
     }
   ]
 }
