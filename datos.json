@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-08T14:18:43.520517-03:00",
- "generado_legible": "08/10/2026 14:18",
+ "generado": "2026-10-08T20:08:54.625224-03:00",
+ "generado_legible": "08/10/2026 20:08",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -29,7 +29,7 @@
    {
     "ordinal": 1,
     "etapa": "Primer trámite",
-    "total": 41
+    "total": 42
    },
    {
     "ordinal": 2,
@@ -40,11 +40,6 @@
     "ordinal": 4,
     "etapa": "Comisión mixta",
     "total": 2
-   },
-   {
-    "ordinal": 6,
-    "etapa": "Tribunal Constitucional",
-    "total": 1
    }
   ],
   "por_eje": [
@@ -66,7 +61,7 @@
    {
     "clave": "sujetos_obligados",
     "etiqueta": "Régimen de sujetos obligados",
-    "total": 5
+    "total": 6
    },
    {
     "clave": "secreto_bancario",
@@ -162,7 +157,7 @@
     "total": 8
    }
   ],
-  "generado": "2026-10-08T14:18:43.520517-03:00"
+  "generado": "2026-10-08T20:08:54.625224-03:00"
  },
  "proyectos": [
   {
@@ -381,14 +376,24 @@
    ],
    "votaciones": [],
    "autores": [
+    "Agustín Romero Leiva",
     "Araya Lerdo de Tejada, Cristián",
     "Barchiesi Chávez, Chiara",
+    "Benjamín Moreno Bascur",
+    "Catalina Del Real Mihovilovic",
+    "Chiara Barchiesi Chávez",
+    "Cristián Araya Lerdo de Tejada",
     "Del Real Mihovilovic, Catalina",
     "Irarrázaval Rossel, Juan",
+    "José Carlos Meza Pereira",
+    "Juan Irarrázaval Rossel",
+    "Luis Sánchez Ossa",
     "Meza Pereira, José Carlos",
     "Moreno Bascur, Benjamín",
+    "Renzo Trisotti Martínez",
     "Romero Leiva, Agustín",
     "Schubert Rubio, Stephan",
+    "Stephan Schubert Rubio",
     "Sánchez Ossa, Luis",
     "Trisotti Martínez, Renzo"
    ],
@@ -403,24 +408,30 @@
     }
    ],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "17412",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Lavado de activos asociado al comercio ilegal",
    "es_semilla": true,
+   "admisible": "true",
+   "texto_camara_completo": "17412 16808-25 Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal 2024-04-25T00:00:00 Moción Cámara de Diputados 0 1003 Renzo Trisotti Martínez 0 1025 Catalina Del Real Mihovilovic 0 1100 Cristián Araya Lerdo de Tejada 0 1133 Juan Irarrázaval Rossel 0 1146 José Carlos Meza Pereira 0 1150 Benjamín Moreno Bascur 0 1165 Agustín Romero Leiva 0 1170 Luis Sánchez Ossa 0 1172 Stephan Schubert Rubio 0 1104 Chiara Barchiesi Chávez 89032 Boletín N°16808-25 2026-06-03T13:50:06 61 86 2 0 Quórum Simple Unánime Proyecto de Ley Particular Indicación renovada de la diputada Carolina Tello, del siguiente tenor: “Nuevo numeral.- Para agregar al artículo 3° de la ley N°19.913 un inciso final, del siguiente tenor: “Para efectos de la fiscalización del cumplimiento de las obligaciones establecidas en la presente ley, cuando un sujeto obligado incurra en una infracción grave que dificulte o impida la verificación del origen, destino o trazabilidad de sus operaciones, la Unidad de Análisis Financiero podrá requerir la información financiera necesaria para dichos fines, conforme a los procedimientos y autorizaciones establecidos en la legislación vigente.”. Primer Trámite Primer Informe 89031 Boletín N°16808-25 2026-06-03T13:48:28 149 0 0 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=16808-25",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
    ],
    "id": "fa5ca40fa3da378b",
-   "puntaje_pertinencia": 237.0,
+   "puntaje_pertinencia": 316.0,
    "nivel_impacto": "directo",
    "evidencia": {
     "directas": [
-     "19.913"
+     "19.913",
+     "sujeto obligado",
+     "unidad de analisis financiero"
     ],
     "nucleo": [
      "lavado de activos"
@@ -434,11 +445,13 @@
    "sectores_legibles": [],
    "ejes": [
     "facultades_uaf",
-    "delitos_base"
+    "delitos_base",
+    "sujetos_obligados"
    ],
    "ejes_legibles": [
     "Facultades y competencias UAF",
-    "Catálogo de delitos base"
+    "Catálogo de delitos base",
+    "Régimen de sujetos obligados"
    ],
    "impacto_legible": "Impacto directo en la Ley 19.913",
    "requiere_revision_manual": false,
@@ -463,7 +476,7 @@
    "factor_frescura": 1.15,
    "huella": "cf985a98dfdf8c97248f",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=16808-25",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17412&prmBOLETIN=16808-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16808",
    "sintesis": "Simple urgencia · Segundo trámite constitucional (Senado) · Cuenta del Mensaje 311-374 que retira y hace presente la urgencia Simple",
    "novedad": "",
@@ -3009,21 +3022,28 @@
      "link": ""
     }
    ],
-   "ministerios": [],
-   "camara_id": "",
+   "ministerios": [
+    "Ministerio de Hacienda",
+    "Ministerio de Justicia y de Derechos Humanos"
+   ],
+   "camara_id": "16514",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Crea el Subsistema de Inteligencia Económica contra el crimen organizado",
    "es_semilla": true,
+   "admisible": "true",
+   "texto_camara_completo": "16514 15975-25 Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado 2023-05-31T00:00:00 Mensaje Senado 2 Ministerio de Hacienda 167 Ministerio de Justicia y de Derechos Humanos 87790 Boletín N°15975-25 2026-03-05T13:31:39 65 53 3 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo primero transitorio, en los términos aprobados por la Comisión y por el Senado, que la Comisión de Hacienda propone suprimir, y que consta en las páginas 508 y 509 del comparado. Segundo Trámite Primer Informe 87789 Boletín N°15975-25 2026-03-05T13:30:43 64 56 6 0 Quórum Calificado Unánime Proyecto de Ley Particular Disposiciones del texto del Senado contenida en los numerales 2), 3), 4), 5), 6), 7), 8), 9) y 10) del artículo 9°, que ha pasado a ser 15, que constan en las páginas 250 a 279 del comparado, que la Comisión propone suprimir, y que requieren para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de normas orgánico constitucionales. Segundo Trámite Primer Informe 87788 Boletín N°15975-25 2026-03-05T13:29:06 64 56 6 0 Quórum Calificado Unánime Proyecto de Ley Particular Disposición del texto del Senado contenida en el literal d) del numeral 1) del artículo 9°, que ha pasado a ser 15, que consta en las páginas 246 y 247 del comparado, que la Comisión propone suprimir, y que requiere para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de una disposición de quorum calificado. Segundo Trámite Primer Informe 87787 Boletín N°15975-25 2026-03-05T13:27:50 64 58 4 0 Quórum Calificado Unánime Proyecto de Ley Particular Disposición del texto del Senado contenida en el ordinal ii) del literal c) del numeral 1) del artículo 9°, que ha pasado a ser 15, que consta en las páginas 233 y 234 del comparado, que la Comisión propone suprimir, y que requiere para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de una disposición de quorum calificado. Segundo Trámite Primer Informe 87786 Boletín N°15975-25 2026-03-05T13:26:38 65 58 3 0 Quórum Calificado Unánime Proyecto de Ley Particular Disposición del texto del Senado contenida en el literal b) del numeral 1) del artículo 9°, que ha pasado a ser 15, que consta en la página 213 del comparado, que la Comisión propone suprimir, y que requiere para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de una disposición de quorum calificado. Segundo Trámite Primer Informe 87785 Boletín N°15975-25 2026-03-05T13:22:15 63 57 6 0 Quórum Calificado Unánime Proyecto de Ley Particular Indicación del Ejecutivo para intercalar, en el numeral 1 del artículo 9°, que ha pasado a ser 15, el literal a), nuevo, que requiere para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de una norma de rango orgánico constitucional. Segundo Trámite Primer Informe 87784 Boletín N°15975-25 2026-03-05T13:14:25 64 58 4 0 Quórum Simple Aprobado Proyecto de Ley Particular Indicación del Ejecutivo para intercalar en el numeral 2 del artículo 5°, que ha pasado a ser 11, un literal b), nuevo, cuyos párrafos nuevos cuarto y sexto del ordinal iii) requieren para su aprobación del voto favorable de 76 diputadas y diputados por tratarse de disposiciones de quorum calificado. Segundo Trámite Primer Informe 87783 Boletín N°15975-25 2026-03-05T13:07:16 124 0 0 0 Quórum Calificado Aprobado Proyecto de Ley General Segundo Trámite Primer Informe 87782 Boletín N°15975-25 2026-03-05T13:04:39 119 0 0 0 Quórum Simple Aprobado Proyecto de Ley General Segundo Trámite Primer Informe true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=15975-25",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
    ],
    "id": "d91f40e7b4657b1d",
-   "puntaje_pertinencia": 120.0,
+   "puntaje_pertinencia": 160.0,
    "nivel_impacto": "estructural",
    "evidencia": {
     "directas": [],
@@ -3069,7 +3089,7 @@
    "factor_frescura": 1.0,
    "huella": "7cce8d5ce2ace14882f1",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=16514&prmBOLETIN=15975-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15975",
    "sintesis": "Comisión Mixta por rechazo de modificaciones (Senado) · Cuenta oficio integrantes de Comisión Mixta .",
    "novedad": "",
@@ -3258,31 +3278,42 @@
    "votaciones": [],
    "autores": [
     "Beltrán Silva, Juan Carlos",
+    "Claudia Mora Vega",
+    "Diego Schalper Sepúlveda",
     "Durán Salinas, Eduardo",
+    "Eduardo Durán Salinas",
     "García García, René Manuel",
+    "Juan Carlos Beltrán Silva",
     "Mora Vega, Claudia",
     "Ossandón Irarrázabal, Ximena",
     "Ramírez Parra, Rodrigo",
-    "Schalper Sepúlveda, Diego"
+    "René Manuel García García",
+    "Rodrigo Ramírez Parra",
+    "Schalper Sepúlveda, Diego",
+    "Ximena Ossandón Irarrázabal"
    ],
    "materias": [],
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "19055",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Levantamiento del secreto bancario con control judicial previo",
    "es_semilla": true,
+   "admisible": "true",
+   "texto_camara_completo": "19055 18373-07 Modifica la ley N° 19.913, que crea la Unidad de Análisis Financiero, para agilizar el acceso a información amparada por secreto o reserva bancaria, manteniendo el control judicial previo 2026-06-15T00:00:00 Moción Cámara de Diputados 0 843 René Manuel García García 0 1059 Ximena Ossandón Irarrázabal 0 1028 Eduardo Durán Salinas 0 1075 Diego Schalper Sepúlveda 0 1108 Juan Carlos Beltrán Silva 0 1227 Claudia Mora Vega 0 1242 Rodrigo Ramírez Parra true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18373-07",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
    ],
    "id": "bf99bac3167f7b32",
-   "puntaje_pertinencia": 225.0,
+   "puntaje_pertinencia": 300.0,
    "nivel_impacto": "directo",
    "evidencia": {
     "directas": [
@@ -3334,7 +3365,7 @@
    "factor_frescura": 0.8,
    "huella": "b32de72acffa66d8aff3",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18373-07",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19055&prmBOLETIN=18373-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18373",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
    "novedad": "",
@@ -4014,8 +4045,8 @@
    "boletin": "18216-05",
    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
    "fecha_ingreso": "2026-04-22T00:00:00-04:00",
-   "etapa": "Trámite en Tribunal Constitucional (C.Diputados)",
-   "subetapa": "Oficio de ley al Ejecutivo",
+   "etapa": "Trámite de aprobacion presidencial (C.Diputados)",
+   "subetapa": "Ingreso de observaciones",
    "iniciativa": "Mensaje",
    "camara_origen": "C.Diputados",
    "urgencia": "Sin urgencia",
@@ -4919,6 +4950,14 @@
      "descripcion": "Cuenta fallo del Tribunal Constitucional .",
      "etapa": "Trámite en Tribunal Constitucional",
      "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-10-08T00:00:00-03:00",
+     "fecha_legible": "08/10/2026",
+     "sesion": "/",
+     "descripcion": "Oficio de ley al Ejecutivo .",
+     "etapa": "Trámite finalización en Cámara de Origen",
+     "camara": "C.Diputados"
     }
    ],
    "urgencias": [
@@ -5088,28 +5127,28 @@
    "nivel_legible": "Nivel 2 · Perímetro regulatorio",
    "urgencia_clave": "sin urgencia",
    "urgencia_legible": "Sin urgencia",
-   "etapa_ordinal": 6,
+   "etapa_ordinal": 1,
    "vigente": true,
-   "ultimo_movimiento": "2026-10-05T00:00:00-03:00",
-   "ultimo_movimiento_legible": "05/10/2026",
-   "dias_sin_movimiento": 3,
-   "ultimo_tramite": "Cuenta fallo del Tribunal Constitucional .",
+   "ultimo_movimiento": "2026-10-08T00:00:00-03:00",
+   "ultimo_movimiento_legible": "08/10/2026",
+   "dias_sin_movimiento": 0,
+   "ultimo_tramite": "Oficio de ley al Ejecutivo .",
    "camara_actual": "C.Diputados",
-   "total_tramites": 112,
+   "total_tramites": 113,
    "fecha_ingreso_legible": "22/04/2026",
    "antiguedad_dias": 169,
-   "prioridad": 53.0,
+   "prioridad": 44.2,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
-   "factor_proximidad": 1.2,
+   "factor_proximidad": 1.0,
    "factor_frescura": 1.3,
-   "huella": "b18f6787a1cb69326f1a",
+   "huella": "968690c77dbe9cd38211",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
-   "sintesis": "Trámite en Tribunal Constitucional (C.Diputados) · Cuenta fallo del Tribunal Constitucional .",
-   "novedad": "",
-   "novedad_detectada": "2026-10-05T19:25:45.500372-03:00"
+   "sintesis": "Trámite de aprobacion presidencial (C.Diputados) · Oficio de ley al Ejecutivo .",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-10-08T20:08:54.625224-03:00"
   },
   {
    "boletin": "18725-07",
@@ -7841,6 +7880,8 @@
    "urgencias": [],
    "votaciones": [],
    "autores": [
+    "Alejandra Sepúlveda Orbenes",
+    "Esteban Velásquez Núñez",
     "Sepúlveda Orbenes, Alejandra",
     "Velásquez Núñez, Esteban"
    ],
@@ -7848,20 +7889,24 @@
    "comisiones": [],
    "informes": [],
    "ministerios": [],
-   "camara_id": "",
+   "camara_id": "19090",
    "resumen": "",
    "fuentes": [
     "semilla",
+    "camara",
     "senado"
    ],
    "nota_semilla": "Agrava las sanciones aplicables en materia de lavado de activos",
    "es_semilla": true,
+   "admisible": "true",
+   "texto_camara_completo": "19090 18407-25 Modifica diversos cuerpos legales, con el objeto de agravar las sanciones aplicables en materia de lavado de activos 2026-06-24T00:00:00 Moción Senado 0 1341 Alejandra Sepúlveda Orbenes 0 1343 Esteban Velásquez Núñez true",
+   "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18407-25",
    "canales_descubrimiento": [
     "semilla",
     "cartera"
    ],
    "id": "a2afa16efcdd8cf0",
-   "puntaje_pertinencia": 48.0,
+   "puntaje_pertinencia": 64.0,
    "nivel_impacto": "sectorial",
    "evidencia": {
     "directas": [],
@@ -7902,7 +7947,7 @@
    "factor_frescura": 0.8,
    "huella": "4c3496185ed2c186f40c",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18407-25",
-   "link_camara": "",
+   "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19090&prmBOLETIN=18407-25",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18407",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta de proyecto . Pasa a Comisión de Seguridad Pública",
    "novedad": "",
@@ -12488,24 +12533,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-08T14:18:43.520517-03:00"
+   "revisado": "2026-10-08T20:08:54.625224-03:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-08T14:18:43.520517-03:00"
+   "revisado": "2026-10-08T20:08:54.625224-03:00"
   },
   {
    "boletin": "17870-05",
    "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-08T14:18:43.520517-03:00"
+   "revisado": "2026-10-08T20:08:54.625224-03:00"
   }
  ],
- "novedades": 0,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -12564,9 +12609,9 @@
   "registros_conservados_sin_revisar": 2,
   "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 7,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 0,
+  "con_movimiento": 1,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
@@ -12593,13 +12638,8 @@
    {
     "canal": "camara_boletin",
     "llamadas": 53,
-    "resultados": 49,
-    "errores": [
-     "15975-25: URLError: <urlopen error [Errno 104] Connection reset by peer>",
-     "18407-25: URLError: <urlopen error [Errno 104] Connection reset by peer>",
-     "18373-07: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
-     "16808-25: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
-    ],
+    "resultados": 53,
+    "errores": [],
     "consultado": true
    },
    {
@@ -12620,6 +12660,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 119.3
+  "segundos_corrida": 85.8
  }
 }
