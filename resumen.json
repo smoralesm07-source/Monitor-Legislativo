@@ -2,28 +2,24 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-10-07T21:05:26.112025-03:00",
-  "generado_legible": "07/10/2026 21:05",
-  "proyectos_total": 50,
-  "vigentes": 47,
+  "generado": "2026-10-08T05:39:50.173549-03:00",
+  "generado_legible": "08/10/2026 05:39",
+  "proyectos_total": 52,
+  "vigentes": 49,
   "movimientos_recientes": 5,
-  "movimientos_30d": 8,
-  "novedades_corrida": 0,
+  "movimientos_30d": 10,
+  "novedades_corrida": 2,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
   "estancados_180d": 19,
   "ultimo": {
-    "titulo": "Sobre peritaje judicial.",
-    "detalle": "Boletín 14982-07 · 06/10/2026 · Primer trámite constitucional (Senado)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14982-07",
-    "fecha": "2026-10-06T00:00:00-03:00"
+    "titulo": "Modifica la ley N° 20.393 para incluir el tráfico de migrantes entre los delitos por los cuales las personas jurídicas responden penalmente",
+    "detalle": "Boletín 18725-07 · 07/10/2026 · Primer trámite constitucional (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18725-07",
+    "fecha": "2026-10-07T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-10-01",
-      "n": 0
-    },
     {
       "fecha": "2026-10-02",
       "n": 0
@@ -46,10 +42,30 @@
     },
     {
       "fecha": "2026-10-07",
+      "n": 2
+    },
+    {
+      "fecha": "2026-10-08",
       "n": 0
     }
   ],
   "alertas": [
+    {
+      "severidad": "info",
+      "titulo": "Modifica la ley N° 20.393 para incluir el tráfico de migrantes entre los delitos por los cuales las personas jurídicas responden penalmente",
+      "detalle": "Boletín 18725-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-10-07T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18725-07",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
+      "titulo": "Combate el crimen organizado y modifica el estado de excepción constitucional de emergencia",
+      "detalle": "Boletín 18732-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-10-07T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18732-07",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "info",
       "titulo": "Sobre peritaje judicial.",
@@ -65,25 +81,17 @@
       "fecha": "2026-10-05T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-      "detalle": "Boletín 18702-05 · Nivel 3 · Seguimiento · Sin urgencia",
-      "fecha": "2026-10-05T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "alta",
-      "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-      "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
-      "fecha": "2026-09-30T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
+    {
+      "fecha": "2026-10-07T00:00:00-03:00",
+      "texto": "Boletín 18725-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
+    },
+    {
+      "fecha": "2026-10-07T00:00:00-03:00",
+      "texto": "Boletín 18732-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
+    },
     {
       "fecha": "2026-10-06T00:00:00-03:00",
       "texto": "Boletín 14982-07: Discusión general . Queda pendiente Se solicita segunda discusión, quedando terminada la primera."
@@ -91,14 +99,6 @@
     {
       "fecha": "2026-10-05T00:00:00-03:00",
       "texto": "Boletín 18216-05: Cuenta fallo del Tribunal Constitucional ."
-    },
-    {
-      "fecha": "2026-10-05T00:00:00-03:00",
-      "texto": "Boletín 18702-05: Cuenta de proyecto . Pasa a Comisión Especial Mixta de Presupuestos"
-    },
-    {
-      "fecha": "2026-09-30T00:00:00-03:00",
-      "texto": "Boletín 14773-02: Cuenta del Mensaje 355-374 que retira y hace presente la urgencia Simple"
     }
   ]
 }
