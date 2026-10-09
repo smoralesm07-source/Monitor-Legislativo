@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-10-09T09:55:18.540890-03:00",
-  "generado_legible": "09/10/2026 09:55",
+  "generado": "2026-10-09T16:22:30.346092-03:00",
+  "generado_legible": "09/10/2026 16:22",
   "proyectos_total": 52,
   "vigentes": 49,
   "movimientos_recientes": 5,
   "movimientos_30d": 8,
-  "novedades_corrida": 2,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
   "estancados_180d": 19,
   "ultimo": {
-    "titulo": "Modifica la ley N° 20.393 para incluir el tráfico de migrantes entre los delitos por los cuales las personas jurídicas responden penalmente",
-    "detalle": "Boletín 18725-07 · 07/10/2026 · Primer trámite constitucional (C.Diputados)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18725-07",
-    "fecha": "2026-10-07T00:00:00-03:00"
+    "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+    "detalle": "Boletín 18216-05 · 09/10/2026 · Trámite de aprobacion presidencial (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+    "fecha": "2026-10-09T00:00:00-03:00"
   },
   "serie_7d": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "fecha": "2026-10-05",
-      "n": 2
+      "n": 1
     },
     {
       "fecha": "2026-10-06",
@@ -46,10 +46,18 @@
     },
     {
       "fecha": "2026-10-09",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
+    {
+      "severidad": "info",
+      "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
+      "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-10-09T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "info",
       "titulo": "Modifica la ley N° 20.393 para incluir el tráfico de migrantes entre los delitos por los cuales las personas jurídicas responden penalmente",
@@ -73,17 +81,13 @@
       "fecha": "2026-10-06T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14982-07",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-      "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-10-05T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
+    {
+      "fecha": "2026-10-09T00:00:00-03:00",
+      "texto": "Boletín 18216-05: Oficio de ley al Ejecutivo ."
+    },
     {
       "fecha": "2026-10-07T00:00:00-03:00",
       "texto": "Boletín 18725-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
@@ -95,10 +99,6 @@
     {
       "fecha": "2026-10-06T00:00:00-03:00",
       "texto": "Boletín 14982-07: Discusión general . Queda pendiente Se solicita segunda discusión, quedando terminada la primera."
-    },
-    {
-      "fecha": "2026-10-05T00:00:00-03:00",
-      "texto": "Boletín 18216-05: Cuenta fallo del Tribunal Constitucional ."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-09T09:55:18.540890-03:00",
- "generado_legible": "09/10/2026 09:55",
+ "generado": "2026-10-09T16:22:30.346092-03:00",
+ "generado_legible": "09/10/2026 16:22",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -157,7 +157,7 @@
     "total": 8
    }
   ],
-  "generado": "2026-10-09T09:55:18.540890-03:00"
+  "generado": "2026-10-09T16:22:30.346092-03:00"
  },
  "proyectos": [
   {
@@ -4950,6 +4950,14 @@
      "descripcion": "Cuenta fallo del Tribunal Constitucional .",
      "etapa": "Trámite en Tribunal Constitucional",
      "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-10-09T00:00:00-03:00",
+     "fecha_legible": "09/10/2026",
+     "sesion": "/",
+     "descripcion": "Oficio de ley al Ejecutivo .",
+     "etapa": "Trámite finalización en Cámara de Origen",
+     "camara": "C.Diputados"
     }
    ],
    "urgencias": [
@@ -5121,12 +5129,12 @@
    "urgencia_legible": "Sin urgencia",
    "etapa_ordinal": 1,
    "vigente": true,
-   "ultimo_movimiento": "2026-10-05T00:00:00-03:00",
-   "ultimo_movimiento_legible": "05/10/2026",
-   "dias_sin_movimiento": 4,
-   "ultimo_tramite": "Cuenta fallo del Tribunal Constitucional .",
+   "ultimo_movimiento": "2026-10-09T00:00:00-03:00",
+   "ultimo_movimiento_legible": "09/10/2026",
+   "dias_sin_movimiento": 0,
+   "ultimo_tramite": "Oficio de ley al Ejecutivo .",
    "camara_actual": "C.Diputados",
-   "total_tramites": 112,
+   "total_tramites": 113,
    "fecha_ingreso_legible": "22/04/2026",
    "antiguedad_dias": 170,
    "prioridad": 44.2,
@@ -5134,13 +5142,13 @@
    "factor_urgencia": 1.0,
    "factor_proximidad": 1.0,
    "factor_frescura": 1.3,
-   "huella": "9b4ce71eeca9c5a3b664",
+   "huella": "3ef1d5787bac7155d7aa",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18216",
-   "sintesis": "Trámite de aprobacion presidencial (C.Diputados) · Cuenta fallo del Tribunal Constitucional .",
+   "sintesis": "Trámite de aprobacion presidencial (C.Diputados) · Oficio de ley al Ejecutivo .",
    "novedad": "movimiento",
-   "novedad_detectada": "2026-10-09T09:55:18.540890-03:00"
+   "novedad_detectada": "2026-10-09T16:22:30.346092-03:00"
   },
   {
    "boletin": "18725-07",
@@ -5513,7 +5521,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18807&prmBOLETIN=18144-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18144",
    "sintesis": "Primer trámite constitucional (Senado) · Cuenta oficio N° 255-2026 de la Corte Suprema",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-10-09T09:55:18.540890-03:00"
   },
   {
@@ -12525,24 +12533,24 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-09T09:55:18.540890-03:00"
-  },
-  {
-   "boletin": "17870-05",
-   "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-09T09:55:18.540890-03:00"
+   "revisado": "2026-10-09T16:22:30.346092-03:00"
   },
   {
    "boletin": "12712-24",
    "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-09T09:55:18.540890-03:00"
+   "revisado": "2026-10-09T16:22:30.346092-03:00"
+  },
+  {
+   "boletin": "17870-05",
+   "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia",
+   "revisado": "2026-10-09T16:22:30.346092-03:00"
   }
  ],
- "novedades": 2,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -12601,8 +12609,8 @@
   "registros_conservados_sin_revisar": 2,
   "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 7,
-  "novedades_corrida": 2,
-  "nuevos_en_cartera": 1,
+  "novedades_corrida": 1,
+  "nuevos_en_cartera": 0,
   "con_movimiento": 1,
   "cambios_urgencia": 0,
   "canales": {
@@ -12652,6 +12660,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 90.4
+  "segundos_corrida": 93.8
  }
 }
