@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-13T18:06:28.258362-03:00",
- "generado_legible": "13/10/2026 18:06",
+ "generado": "2026-10-13T22:01:21.286202-03:00",
+ "generado_legible": "13/10/2026 22:01",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -157,7 +157,7 @@
     "total": 8
    }
   ],
-  "generado": "2026-10-13T18:06:28.258362-03:00"
+  "generado": "2026-10-13T22:01:21.286202-03:00"
  },
  "proyectos": [
   {
@@ -5089,8 +5089,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18216-05",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "senado_movimiento"
+    "cartera"
    ],
    "id": "9b68e4e65b2ab18e",
    "puntaje_pertinencia": 28.0,
@@ -5220,8 +5219,7 @@
    "texto_camara_completo": "19403 18725-07 Modifica la ley N° 20.393 para incluir el tráfico de migrantes entre los delitos por los cuales las personas jurídicas responden penalmente 2026-09-21T15:04:50 Moción Cámara de Diputados 0 1017 Álvaro Carter Fernández 0 1141 Luis Malla Valenzuela 0 1187 Carlo Arqueros Pizarro 0 1216 Stephanie Jéldrez Ortiz 0 1215 Álvaro Jofré Cáceres 0 1237 Francisco Orrego Gutiérrez 0 1235 Javier Olivares Avendaño 0 1208 Jorge Díaz Ibarra 0 1254 Ignacio Urcullú Clèment-Lund 0 1190 Enrique Bassaletti Riess true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18725-07",
    "canales_descubrimiento": [
-    "cartera",
-    "senado_movimiento"
+    "cartera"
    ],
    "id": "716d01ac6f2ffa6b",
    "puntaje_pertinencia": 32.0,
@@ -5331,8 +5329,7 @@
    "texto_camara_completo": "19413 18732-07 Combate el crimen organizado y modifica el estado de excepción constitucional de emergencia 2026-10-07T00:00:00 Moción Senado 0 1110 Pedro Araya Guerrero 0 1324 Karim Bianchi Retamales 0 1330 Iván Flores García 0 1512 Andrés Longton Herrera 0 1515 Arturo Squella Ovalle true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18732-07",
    "canales_descubrimiento": [
-    "cartera",
-    "senado_movimiento"
+    "cartera"
    ],
    "id": "f5ab5ad31f1a86d8",
    "puntaje_pertinencia": 32.0,
@@ -8193,8 +8190,7 @@
    "texto_camara_completo": "15508 14982-07 Sobre peritaje judicial. 2022-05-18T00:00:00 Moción Senado 0 1115 Alfonso De Urresti Longton 0 1120 Manuel José Ossandón Irarrázabal 0 1218 Juan Castro Prieto 0 1219 Alvaro Elizalde Soto 0 1328 Rojo Edwards true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=14982-07",
    "canales_descubrimiento": [
-    "cartera",
-    "senado_movimiento"
+    "cartera"
    ],
    "id": "d2fb6a2d4ee630ad",
    "puntaje_pertinencia": 0.0,
@@ -12532,21 +12528,14 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-13T18:06:28.258362-03:00"
-  },
-  {
-   "boletin": "12712-24",
-   "titulo": "Ley de Patrimonio Cultural",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-13T18:06:28.258362-03:00"
+   "revisado": "2026-10-13T22:01:21.286202-03:00"
   },
   {
    "boletin": "17870-05",
    "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-13T18:06:28.258362-03:00"
+   "revisado": "2026-10-13T22:01:21.286202-03:00"
   }
  ],
  "novedades": 0,
@@ -12600,13 +12589,13 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 143,
-  "boletines_consultados": 53,
-  "fichas_obtenidas": 53,
+  "candidatos_descubiertos": 52,
+  "boletines_consultados": 52,
+  "fichas_obtenidas": 52,
   "consultas_fallidas": 0,
   "registros_publicados": 52,
   "registros_conservados_sin_revisar": 2,
-  "descartados_por_pertinencia": 3,
+  "descartados_por_pertinencia": 2,
   "retenidos_para_revision_manual": 7,
   "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
@@ -12615,7 +12604,7 @@
   "canales": {
    "semillas": 15,
    "cartera": 52,
-   "senado_movimiento": 95,
+   "senado_movimiento": 0,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -12623,21 +12612,23 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 95,
-    "errores": [],
+    "resultados": 0,
+    "errores": [
+     "06/10/2026: TimeoutError: The read operation timed out"
+    ],
     "consultado": true
    },
    {
     "canal": "senado_boletin",
-    "llamadas": 53,
-    "resultados": 53,
+    "llamadas": 52,
+    "resultados": 52,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_boletin",
-    "llamadas": 53,
-    "resultados": 53,
+    "llamadas": 52,
+    "resultados": 52,
     "errores": [],
     "consultado": true
    },
@@ -12659,6 +12650,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 85.1
+  "segundos_corrida": 94.3
  }
 }
