@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-15T08:10:11.314843-03:00",
- "generado_legible": "15/10/2026 08:10",
+ "generado": "2026-10-15T13:41:06.918573-03:00",
+ "generado_legible": "15/10/2026 13:41",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -13,7 +13,7 @@
   "discusion_inmediata": 0,
   "prioridad_critica": 1,
   "prioridad_alta": 2,
-  "movimiento_7d": 1,
+  "movimiento_7d": 2,
   "movimiento_30d": 7,
   "nivel_1": 8,
   "nivel_2": 34,
@@ -130,13 +130,13 @@
   ],
   "por_camara": [
    {
-    "clave": "C.Diputados",
-    "etiqueta": "C.Diputados",
+    "clave": "Senado",
+    "etiqueta": "Senado",
     "total": 24
    },
    {
-    "clave": "Senado",
-    "etiqueta": "Senado",
+    "clave": "C.Diputados",
+    "etiqueta": "C.Diputados",
     "total": 23
    },
    {
@@ -157,7 +157,7 @@
     "total": 8
    }
   ],
-  "generado": "2026-10-15T08:10:11.314843-03:00"
+  "generado": "2026-10-15T13:41:06.918573-03:00"
  },
  "proyectos": [
   {
@@ -6699,6 +6699,22 @@
      "descripcion": "Cuenta de proyecto . Pasa a Comisión Especial Mixta de Presupuestos",
      "etapa": "Primer trámite constitucional",
      "camara": "C.Diputados"
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "fecha_legible": "20/10/2026",
+     "sesion": "/",
+     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos . PARTIDA 14 Ministerio de Bienes Nacionales",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "fecha_legible": "20/10/2026",
+     "sesion": "/",
+     "descripcion": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos . PARTIDA 17 Ministerio de Minería",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
     }
    ],
    "urgencias": [],
@@ -6706,7 +6722,20 @@
    "autores": [],
    "materias": [],
    "comisiones": [],
-   "informes": [],
+   "informes": [
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "tramite": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos PARTIDA 14 Ministerio de Bienes Nacionales",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "link": ""
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "tramite": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos PARTIDA 17 Ministerio de Minería",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "link": ""
+    }
+   ],
    "ministerios": [
     "Ministerio de Hacienda"
    ],
@@ -6721,7 +6750,8 @@
    "texto_camara_completo": "19391 18702-05 Ley de Presupuestos para el Sector Público correspondiente al año 2027 2026-09-30T00:00:00 Mensaje Cámara de Diputados 2 Ministerio de Hacienda true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18702-05",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "c8228c43d989a443",
    "puntaje_pertinencia": 0.0,
@@ -6744,26 +6774,26 @@
    "urgencia_legible": "Sin urgencia",
    "etapa_ordinal": 4,
    "vigente": true,
-   "ultimo_movimiento": "2026-10-05T00:00:00-03:00",
-   "ultimo_movimiento_legible": "05/10/2026",
-   "dias_sin_movimiento": 10,
-   "ultimo_tramite": "Cuenta de proyecto . Pasa a Comisión Especial Mixta de Presupuestos",
-   "camara_actual": "C.Diputados",
-   "total_tramites": 2,
+   "ultimo_movimiento": "2026-10-20T00:00:00-03:00",
+   "ultimo_movimiento_legible": "20/10/2026",
+   "dias_sin_movimiento": 0,
+   "ultimo_tramite": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos . PARTIDA 17 Ministerio de Minería",
+   "camara_actual": "Senado",
+   "total_tramites": 4,
    "fecha_ingreso_legible": "30/09/2026",
    "antiguedad_dias": 15,
-   "prioridad": 29.4,
+   "prioridad": 33.3,
    "banda_prioridad": "baja",
    "factor_urgencia": 1.0,
    "factor_proximidad": 1.6,
-   "factor_frescura": 1.15,
-   "huella": "add29d95b0a3af8afaea",
+   "factor_frescura": 1.3,
+   "huella": "94c61335e9e3fc76d0a4",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19391&prmBOLETIN=18702-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18702",
-   "sintesis": "Comisión Mixta Ley de Presupuesto (Senado) · Cuenta de proyecto . Pasa a Comisión Especial Mixta de Presupuestos",
-   "novedad": "",
-   "novedad_detectada": "2026-10-06T10:06:25.630353-03:00"
+   "sintesis": "Comisión Mixta Ley de Presupuesto (Senado) · Informe de comisión Quinta Subcomisión Mixta de Presupuestos . PARTIDA 17 Ministerio de Minería",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-10-15T13:41:06.918573-03:00"
   },
   {
    "boletin": "17835-06",
@@ -12529,17 +12559,17 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-15T08:10:11.314843-03:00"
+   "revisado": "2026-10-15T13:41:06.918573-03:00"
   },
   {
    "boletin": "17870-05",
    "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-15T08:10:11.314843-03:00"
+   "revisado": "2026-10-15T13:41:06.918573-03:00"
   }
  ],
- "novedades": 0,
+ "novedades": 1,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -12590,7 +12620,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 56,
+  "candidatos_descubiertos": 57,
   "boletines_consultados": 52,
   "fichas_obtenidas": 52,
   "consultas_fallidas": 0,
@@ -12598,14 +12628,14 @@
   "registros_conservados_sin_revisar": 2,
   "descartados_por_pertinencia": 2,
   "retenidos_para_revision_manual": 7,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 0,
+  "con_movimiento": 1,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
    "cartera": 52,
-   "senado_movimiento": 5,
+   "senado_movimiento": 7,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -12613,7 +12643,7 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 5,
+    "resultados": 7,
     "errores": [],
     "consultado": true
    },
@@ -12649,6 +12679,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 68.8
+  "segundos_corrida": 69.8
  }
 }
