@@ -2,13 +2,13 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-10-16T10:06:58.231577-03:00",
-  "generado_legible": "16/10/2026 10:06",
+  "generado": "2026-10-16T14:54:16.199231-03:00",
+  "generado_legible": "16/10/2026 14:54",
   "proyectos_total": 52,
   "vigentes": 49,
   "movimientos_recientes": 2,
   "movimientos_30d": 7,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
@@ -86,7 +86,7 @@
   "actividad": [
     {
       "fecha": "2026-10-20T00:00:00-03:00",
-      "texto": "Boletín 18702-05: Informe de comisión Quinta Subcomisión Mixta de Presupuestos . PARTIDA 17 Ministerio de Minería"
+      "texto": "Boletín 18702-05: Informe de comisión Quinta Subcomisión Mixta de Presupuestos . PARTIDA 19 Ministerio de Transportes y Telecomunicaciones"
     },
     {
       "fecha": "2026-10-09T00:00:00-03:00",
