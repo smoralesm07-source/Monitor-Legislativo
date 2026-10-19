@@ -2,13 +2,13 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-10-19T16:44:21.402222-03:00",
-  "generado_legible": "19/10/2026 16:44",
+  "generado": "2026-10-19T20:29:36.804425-03:00",
+  "generado_legible": "19/10/2026 20:29",
   "proyectos_total": 52,
-  "vigentes": 49,
+  "vigentes": 48,
   "movimientos_recientes": 1,
   "movimientos_30d": 7,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
@@ -60,14 +60,6 @@
     },
     {
       "severidad": "info",
-      "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
-      "detalle": "Boletín 18216-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-10-09T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18216-05",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
       "titulo": "Modifica la ley N° 20.393 para incluir el tráfico de migrantes entre los delitos por los cuales las personas jurídicas responden penalmente",
       "detalle": "Boletín 18725-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
       "fecha": "2026-10-07T00:00:00-03:00",
@@ -81,6 +73,14 @@
       "fecha": "2026-10-07T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18732-07",
       "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
+      "titulo": "Sobre peritaje judicial.",
+      "detalle": "Boletín 14982-07 · Nivel 3 · Seguimiento · Sin urgencia",
+      "fecha": "2026-10-06T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14982-07",
+      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
@@ -89,16 +89,16 @@
       "texto": "Boletín 18702-05: Informe de comisión Quinta Subcomisión Mixta de Presupuestos . PARTIDA 19 Ministerio de Transportes y Telecomunicaciones"
     },
     {
-      "fecha": "2026-10-09T00:00:00-03:00",
-      "texto": "Boletín 18216-05: Oficio de ley al Ejecutivo ."
-    },
-    {
       "fecha": "2026-10-07T00:00:00-03:00",
       "texto": "Boletín 18725-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
     },
     {
       "fecha": "2026-10-07T00:00:00-03:00",
       "texto": "Boletín 18732-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
+    },
+    {
+      "fecha": "2026-10-06T00:00:00-03:00",
+      "texto": "Boletín 14982-07: Discusión general . Queda pendiente Se solicita segunda discusión, quedando terminada la primera."
     }
   ]
 }
