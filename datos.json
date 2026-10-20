@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-20T13:38:08.112086-03:00",
- "generado_legible": "20/10/2026 13:38",
+ "generado": "2026-10-20T18:26:02.397015-03:00",
+ "generado_legible": "20/10/2026 18:26",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -157,7 +157,7 @@
     "total": 8
    }
   ],
-  "generado": "2026-10-20T13:38:08.112086-03:00"
+  "generado": "2026-10-20T18:26:02.397015-03:00"
  },
  "proyectos": [
   {
@@ -12586,14 +12586,21 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-20T13:38:08.112086-03:00"
+   "revisado": "2026-10-20T18:26:02.397015-03:00"
+  },
+  {
+   "boletin": "12712-24",
+   "titulo": "Ley de Patrimonio Cultural",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia",
+   "revisado": "2026-10-20T18:26:02.397015-03:00"
   },
   {
    "boletin": "17870-05",
    "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-20T13:38:08.112086-03:00"
+   "revisado": "2026-10-20T18:26:02.397015-03:00"
   }
  ],
  "novedades": 0,
@@ -12647,13 +12654,13 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 105,
-  "boletines_consultados": 52,
-  "fichas_obtenidas": 52,
+  "candidatos_descubiertos": 135,
+  "boletines_consultados": 53,
+  "fichas_obtenidas": 53,
   "consultas_fallidas": 0,
   "registros_publicados": 52,
   "registros_conservados_sin_revisar": 2,
-  "descartados_por_pertinencia": 2,
+  "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 7,
   "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
@@ -12662,7 +12669,7 @@
   "canales": {
    "semillas": 15,
    "cartera": 52,
-   "senado_movimiento": 54,
+   "senado_movimiento": 84,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -12670,21 +12677,21 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 54,
+    "resultados": 84,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "senado_boletin",
-    "llamadas": 52,
-    "resultados": 52,
+    "llamadas": 53,
+    "resultados": 53,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_boletin",
-    "llamadas": 52,
-    "resultados": 52,
+    "llamadas": 53,
+    "resultados": 53,
     "errores": [],
     "consultado": true
    },
@@ -12706,6 +12713,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 74.1
+  "segundos_corrida": 77.1
  }
 }
