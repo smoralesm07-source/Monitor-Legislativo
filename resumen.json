@@ -2,13 +2,13 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-10-21T20:07:57.025690-03:00",
-  "generado_legible": "21/10/2026 20:07",
-  "proyectos_total": 52,
-  "vigentes": 48,
-  "movimientos_recientes": 2,
-  "movimientos_30d": 8,
-  "novedades_corrida": 2,
+  "generado": "2026-10-22T01:07:24.787396-03:00",
+  "generado_legible": "22/10/2026 01:07",
+  "proyectos_total": 53,
+  "vigentes": 49,
+  "movimientos_recientes": 3,
+  "movimientos_30d": 9,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 4,
@@ -20,10 +20,6 @@
     "fecha": "2026-10-21T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-10-15",
-      "n": 0
-    },
     {
       "fecha": "2026-10-16",
       "n": 0
@@ -46,7 +42,11 @@
     },
     {
       "fecha": "2026-10-21",
-      "n": 1
+      "n": 2
+    },
+    {
+      "fecha": "2026-10-22",
+      "n": 0
     }
   ],
   "alertas": [
@@ -56,6 +56,14 @@
       "detalle": "Boletín 15975-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
       "fecha": "2026-10-21T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
+      "titulo": "Modifica la ley N° 20.880, con el objeto de incorporar a los activos financieros virtuales o criptoactivos al contenido de la declaración de intereses y patrimonio",
+      "detalle": "Boletín 18763-06 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-10-21T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18763-06",
       "fuente": "LEGISLATIVO"
     },
     {
@@ -73,14 +81,6 @@
       "fecha": "2026-10-07T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18725-07",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Combate el crimen organizado y modifica el estado de excepción constitucional de emergencia",
-      "detalle": "Boletín 18732-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-10-07T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18732-07",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
@@ -89,16 +89,16 @@
       "texto": "Boletín 15975-25: Cuenta del oficio N° 21.661, por el que informa reemplazo de integrante de la Comisión Mixta"
     },
     {
+      "fecha": "2026-10-21T00:00:00-03:00",
+      "texto": "Boletín 18763-06: Cuenta de proyecto . Pasa a Comisión de Gobierno, Descentralización y Regionalización"
+    },
+    {
       "fecha": "2026-10-20T00:00:00-03:00",
       "texto": "Boletín 18702-05: Informe de comisión Quinta Subcomisión Mixta de Presupuestos . PARTIDA 24 Ministerio de Energía"
     },
     {
       "fecha": "2026-10-07T00:00:00-03:00",
       "texto": "Boletín 18725-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
-    },
-    {
-      "fecha": "2026-10-07T00:00:00-03:00",
-      "texto": "Boletín 18732-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
     }
   ]
 }
