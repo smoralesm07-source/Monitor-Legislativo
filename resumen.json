@@ -2,8 +2,8 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-10-25T08:08:37.088024-03:00",
-  "generado_legible": "25/10/2026 08:08",
+  "generado": "2026-10-26T01:08:39.675780-03:00",
+  "generado_legible": "26/10/2026 01:08",
   "proyectos_total": 53,
   "vigentes": 49,
   "movimientos_recientes": 3,
@@ -20,10 +20,6 @@
     "fecha": "2026-10-21T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-10-19",
-      "n": 0
-    },
     {
       "fecha": "2026-10-20",
       "n": 1
@@ -46,6 +42,10 @@
     },
     {
       "fecha": "2026-10-25",
+      "n": 0
+    },
+    {
+      "fecha": "2026-10-26",
       "n": 0
     }
   ],
