@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-10-26T16:48:46.567584-03:00",
-  "generado_legible": "26/10/2026 16:48",
-  "proyectos_total": 53,
-  "vigentes": 49,
-  "movimientos_recientes": 3,
-  "movimientos_30d": 9,
-  "novedades_corrida": 1,
+  "generado": "2026-10-26T20:39:58.310053-03:00",
+  "generado_legible": "26/10/2026 20:39",
+  "proyectos_total": 54,
+  "vigentes": 50,
+  "movimientos_recientes": 5,
+  "movimientos_30d": 10,
+  "novedades_corrida": 2,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 4,
   "estancados_180d": 19,
   "ultimo": {
-    "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
-    "detalle": "Boletín 15975-25 · 21/10/2026 · Comisión Mixta por rechazo de modificaciones (Senado)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
-    "fecha": "2026-10-21T00:00:00-03:00"
+    "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
+    "detalle": "Boletín 14773-02 · 26/10/2026 · Segundo trámite constitucional (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
+    "fecha": "2026-10-26T00:00:00-03:00"
   },
   "serie_7d": [
     {
@@ -46,10 +46,26 @@
     },
     {
       "fecha": "2026-10-26",
-      "n": 0
+      "n": 2
     }
   ],
   "alertas": [
+    {
+      "severidad": "alta",
+      "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
+      "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
+      "fecha": "2026-10-26T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
+      "titulo": "Modifica cuerpos legales que indica con el objeto de sancionar la facilitación de cuentas y medios de pago para fines delictivos y actualizar el catálogo de delitos base de lavado de activo",
+      "detalle": "Boletín 18761-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-10-26T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18761-07",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "alta",
       "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
@@ -65,25 +81,17 @@
       "fecha": "2026-10-21T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18763-06",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-      "detalle": "Boletín 18702-05 · Nivel 3 · Seguimiento · Sin urgencia",
-      "fecha": "2026-10-20T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Modifica la ley N° 20.393 para incluir el tráfico de migrantes entre los delitos por los cuales las personas jurídicas responden penalmente",
-      "detalle": "Boletín 18725-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-10-07T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18725-07",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
+    {
+      "fecha": "2026-10-26T00:00:00-03:00",
+      "texto": "Boletín 14773-02: Cuenta del Mensaje 406-374 que retira y hace presente la urgencia Simple"
+    },
+    {
+      "fecha": "2026-10-26T00:00:00-03:00",
+      "texto": "Boletín 18761-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
+    },
     {
       "fecha": "2026-10-21T00:00:00-03:00",
       "texto": "Boletín 15975-25: Cuenta del oficio N° 21.661, por el que informa reemplazo de integrante de la Comisión Mixta"
@@ -91,14 +99,6 @@
     {
       "fecha": "2026-10-21T00:00:00-03:00",
       "texto": "Boletín 18763-06: Cuenta de proyecto . Pasa a Comisión de Gobierno, Descentralización y Regionalización"
-    },
-    {
-      "fecha": "2026-10-20T00:00:00-03:00",
-      "texto": "Boletín 18702-05: Informe de comisión Cuarta Subcomisión Mixta de Presupuestos . PARTIDA 30 Ministerio de Ciencia, Tecnología, Conocimiento e Innovación."
-    },
-    {
-      "fecha": "2026-10-07T00:00:00-03:00",
-      "texto": "Boletín 18725-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
     }
   ]
 }
