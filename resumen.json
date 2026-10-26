@@ -2,13 +2,13 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-10-26T09:36:16.439753-03:00",
-  "generado_legible": "26/10/2026 09:36",
+  "generado": "2026-10-26T16:48:46.567584-03:00",
+  "generado_legible": "26/10/2026 16:48",
   "proyectos_total": 53,
   "vigentes": 49,
   "movimientos_recientes": 3,
   "movimientos_30d": 9,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 4,
@@ -94,7 +94,7 @@
     },
     {
       "fecha": "2026-10-20T00:00:00-03:00",
-      "texto": "Boletín 18702-05: Informe de comisión Quinta Subcomisión Mixta de Presupuestos . PARTIDA 24 Ministerio de Energía"
+      "texto": "Boletín 18702-05: Informe de comisión Cuarta Subcomisión Mixta de Presupuestos . PARTIDA 30 Ministerio de Ciencia, Tecnología, Conocimiento e Innovación."
     },
     {
       "fecha": "2026-10-07T00:00:00-03:00",
