@@ -2,28 +2,24 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-10-27T22:12:09.237139-03:00",
-  "generado_legible": "27/10/2026 22:12",
-  "proyectos_total": 54,
-  "vigentes": 50,
-  "movimientos_recientes": 5,
-  "movimientos_30d": 10,
-  "novedades_corrida": 1,
+  "generado": "2026-10-28T05:07:18.734705-03:00",
+  "generado_legible": "28/10/2026 05:07",
+  "proyectos_total": 56,
+  "vigentes": 52,
+  "movimientos_recientes": 6,
+  "movimientos_30d": 12,
+  "novedades_corrida": 2,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 4,
   "estancados_180d": 19,
   "ultimo": {
-    "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-    "detalle": "Boletín 14773-02 · 26/10/2026 · Segundo trámite constitucional (C.Diputados)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
-    "fecha": "2026-10-26T00:00:00-03:00"
+    "titulo": "Modifica el Código Penal para sancionar el hurto, receptación y apropiación indebida de mascotas o animales de compañía",
+    "detalle": "Boletín 18800-07 · 27/10/2026 · Primer trámite constitucional (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18800-07",
+    "fecha": "2026-10-27T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-10-21",
-      "n": 2
-    },
     {
       "fecha": "2026-10-22",
       "n": 0
@@ -46,10 +42,30 @@
     },
     {
       "fecha": "2026-10-27",
+      "n": 2
+    },
+    {
+      "fecha": "2026-10-28",
       "n": 0
     }
   ],
   "alertas": [
+    {
+      "severidad": "info",
+      "titulo": "Modifica el Código Penal para sancionar el hurto, receptación y apropiación indebida de mascotas o animales de compañía",
+      "detalle": "Boletín 18800-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-10-27T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18800-07",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
+      "titulo": "Modifica la Ordenanza de Aduanas para fortalecer la persecución penal del contrabando y de su comercialización",
+      "detalle": "Boletín 18802-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-10-27T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18802-07",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "alta",
       "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
@@ -65,25 +81,17 @@
       "fecha": "2026-10-26T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18761-07",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "alta",
-      "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
-      "detalle": "Boletín 15975-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-10-21T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Modifica la ley N° 20.880, con el objeto de incorporar a los activos financieros virtuales o criptoactivos al contenido de la declaración de intereses y patrimonio",
-      "detalle": "Boletín 18763-06 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-10-21T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18763-06",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
+    {
+      "fecha": "2026-10-27T00:00:00-03:00",
+      "texto": "Boletín 18800-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
+    },
+    {
+      "fecha": "2026-10-27T00:00:00-03:00",
+      "texto": "Boletín 18802-07: Oficio N° 21695. Comunica a la Comisión de Seguridad Ciudadana el acuerdo de la Sala, en orden a asignarle el proyecto radicado inicialmente en la Comisión de Constitución, Legislación, Justicia y Reglamento."
+    },
     {
       "fecha": "2026-10-26T00:00:00-03:00",
       "texto": "Boletín 14773-02: Cuenta del Mensaje 406-374 que retira y hace presente la urgencia Simple"
@@ -91,14 +99,6 @@
     {
       "fecha": "2026-10-26T00:00:00-03:00",
       "texto": "Boletín 18761-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
-    },
-    {
-      "fecha": "2026-10-21T00:00:00-03:00",
-      "texto": "Boletín 15975-25: Cuenta del oficio N° 21.661, por el que informa reemplazo de integrante de la Comisión Mixta"
-    },
-    {
-      "fecha": "2026-10-21T00:00:00-03:00",
-      "texto": "Boletín 18763-06: Cuenta de proyecto . Pasa a Comisión de Gobierno, Descentralización y Regionalización"
     }
   ]
 }
