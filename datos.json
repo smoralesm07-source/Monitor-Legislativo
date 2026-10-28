@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-27T19:00:06.127894-03:00",
- "generado_legible": "27/10/2026 19:00",
+ "generado": "2026-10-27T22:12:09.237139-03:00",
+ "generado_legible": "27/10/2026 22:12",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 8
    }
   ],
-  "generado": "2026-10-27T19:00:06.127894-03:00"
+  "generado": "2026-10-27T22:12:09.237139-03:00"
  },
  "proyectos": [
   {
@@ -1058,7 +1058,8 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=14773-02",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "1083c0b2961f15d8",
    "puntaje_pertinencia": 96.0,
@@ -2679,7 +2680,8 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=15975-25",
    "canales_descubrimiento": [
     "semilla",
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "d91f40e7b4657b1d",
    "puntaje_pertinencia": 160.0,
@@ -3176,7 +3178,8 @@
    "texto_camara_completo": "19461 18761-07 Modifica cuerpos legales que indica con el objeto de sancionar la facilitación de cuentas y medios de pago para fines delictivos y actualizar el catálogo de delitos base de lavado de activo 2026-10-01T21:05:26 Moción Cámara de Diputados 0 1102 Roberto Arroyo Muñoz true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18761-07",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "83af5a571b67f355",
    "puntaje_pertinencia": 80.0,
@@ -4234,7 +4237,8 @@
    "texto_camara_completo": "19444 18763-06 Modifica la ley N° 20.880, con el objeto de incorporar a los activos financieros virtuales o criptoactivos al contenido de la declaración de intereses y patrimonio 2026-10-21T00:00:00 Moción Senado 0 1222 Francisco Huenchumilla Jaramillo 0 1341 Alejandra Sepúlveda Orbenes 0 1513 Vlado Mirosevic Verdugo true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18763-06",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "43355d8b2d51f1c4",
    "puntaje_pertinencia": 32.0,
@@ -5733,6 +5737,14 @@
      "fecha": "2026-10-20T00:00:00-03:00",
      "fecha_legible": "20/10/2026",
      "sesion": "/",
+     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos . PARTIDA 02 Congreso Nacional",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "fecha_legible": "20/10/2026",
+     "sesion": "/",
      "descripcion": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos . PARTIDA 03 Poder Judicial",
      "etapa": "Comisión Mixta Ley de Presupuesto",
      "camara": "Senado"
@@ -5765,6 +5777,22 @@
      "fecha": "2026-10-20T00:00:00-03:00",
      "fecha_legible": "20/10/2026",
      "sesion": "/",
+     "descripcion": "Informe de comisión Primera Subcomisión Mixta de Presupuestos. PARTIDA 07 Ministerio de Economía, Fomento y Turismo",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "fecha_legible": "20/10/2026",
+     "sesion": "/",
+     "descripcion": "Informe de comisión Primera Subcomisión Mixta de Presupuestos. PARTIDA 08 Ministerio de Hacienda",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "fecha_legible": "20/10/2026",
+     "sesion": "/",
      "descripcion": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos . PARTIDA 10 Ministerio de Justicia y Derechos Humanos",
      "etapa": "Comisión Mixta Ley de Presupuesto",
      "camara": "Senado"
@@ -5774,6 +5802,14 @@
      "fecha_legible": "20/10/2026",
      "sesion": "/",
      "descripcion": "Informe de comisión Segunda Subcomisión Mixta de Presupuestos . PARTIDA 11 Ministerio de Defensa Nacional",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "fecha_legible": "20/10/2026",
+     "sesion": "/",
+     "descripcion": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos . PARTIDA 12 Ministerio de Obras Públicas",
      "etapa": "Comisión Mixta Ley de Presupuesto",
      "camara": "Senado"
     },
@@ -5845,6 +5881,14 @@
      "fecha": "2026-10-20T00:00:00-03:00",
      "fecha_legible": "20/10/2026",
      "sesion": "/",
+     "descripcion": "Informe de comisión Primera Subcomisión Mixta de Presupuestos. PARTIDA 21 Ministerio de Desarrollo Social y Familia",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "fecha_legible": "20/10/2026",
+     "sesion": "/",
      "descripcion": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos . PARTIDA 23 Ministerio Público",
      "etapa": "Comisión Mixta Ley de Presupuesto",
      "camara": "Senado"
@@ -5854,6 +5898,14 @@
      "fecha_legible": "20/10/2026",
      "sesion": "/",
      "descripcion": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos . PARTIDA 24 Ministerio de Energía",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "fecha_legible": "20/10/2026",
+     "sesion": "/",
+     "descripcion": "Informe de comisión Primera Subcomisión Mixta de Presupuestos. PARTIDA 27 Ministerio de la Mujer y la equidad de genero",
      "etapa": "Comisión Mixta Ley de Presupuesto",
      "camara": "Senado"
     },
@@ -5880,6 +5932,30 @@
      "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos . PARTIDA 30 Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.",
      "etapa": "Comisión Mixta Ley de Presupuesto",
      "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "fecha_legible": "20/10/2026",
+     "sesion": "/",
+     "descripcion": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos . PARTIDA 31 Gobiernos Regionales",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "fecha_legible": "20/10/2026",
+     "sesion": "/",
+     "descripcion": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos . PARTIDA 32 Ministerio de Seguridad Pública",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "fecha_legible": "20/10/2026",
+     "sesion": "/",
+     "descripcion": "Informe de comisión Primera Subcomisión Mixta de Presupuestos. PARTIDA 50 Tesoro Publico",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "camara": "Senado"
     }
    ],
    "urgencias": [],
@@ -5888,36 +5964,6 @@
    "materias": [],
    "comisiones": [],
    "informes": [
-    {
-     "fecha": "2026-10-20T00:00:00-03:00",
-     "tramite": "Informe de comisión Segunda Subcomisión Mixta de Presupuestos PARTIDA 11 Ministerio de Defensa Nacional",
-     "etapa": "Comisión Mixta Ley de Presupuesto",
-     "link": ""
-    },
-    {
-     "fecha": "2026-10-20T00:00:00-03:00",
-     "tramite": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos PARTIDA 13 Ministerio de Agricultura",
-     "etapa": "Comisión Mixta Ley de Presupuesto",
-     "link": ""
-    },
-    {
-     "fecha": "2026-10-20T00:00:00-03:00",
-     "tramite": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos PARTIDA 14 Ministerio de Bienes Nacionales",
-     "etapa": "Comisión Mixta Ley de Presupuesto",
-     "link": ""
-    },
-    {
-     "fecha": "2026-10-20T00:00:00-03:00",
-     "tramite": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos PARTIDA 15 Ministerio del Trabajo y Previsión social",
-     "etapa": "Comisión Mixta Ley de Presupuesto",
-     "link": ""
-    },
-    {
-     "fecha": "2026-10-20T00:00:00-03:00",
-     "tramite": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos PARTIDA 16 Ministerio de Salud",
-     "etapa": "Comisión Mixta Ley de Presupuesto",
-     "link": ""
-    },
     {
      "fecha": "2026-10-20T00:00:00-03:00",
      "tramite": "Informe de comisión Quinta Subcomisión Mixta de Presupuestos PARTIDA 17 Ministerio de Minería",
@@ -5933,6 +5979,12 @@
     {
      "fecha": "2026-10-20T00:00:00-03:00",
      "tramite": "Informe de comisión Segunda Subcomisión Mixta de Presupuestos PARTIDA 20 Ministerio Secretaría General de Gobierno",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "link": ""
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "tramite": "Informe de comisión Primera Subcomisión Mixta de Presupuestos PARTIDA 21 Ministerio de Desarrollo Social y Familia",
      "etapa": "Comisión Mixta Ley de Presupuesto",
      "link": ""
     },
@@ -5962,6 +6014,12 @@
     },
     {
      "fecha": "2026-10-20T00:00:00-03:00",
+     "tramite": "Informe de comisión Primera Subcomisión Mixta de Presupuestos PARTIDA 27 Ministerio de la Mujer y la equidad de genero",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "link": ""
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
      "tramite": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos PARTIDA 28 Servicio Electoral",
      "etapa": "Comisión Mixta Ley de Presupuesto",
      "link": ""
@@ -5975,6 +6033,24 @@
     {
      "fecha": "2026-10-20T00:00:00-03:00",
      "tramite": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos PARTIDA 30 Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "link": ""
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "tramite": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos PARTIDA 31 Gobiernos Regionales",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "link": ""
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "tramite": "Informe de comisión Tercera Subcomisión Mixta de Presupuestos PARTIDA 32 Ministerio de Seguridad Pública",
+     "etapa": "Comisión Mixta Ley de Presupuesto",
+     "link": ""
+    },
+    {
+     "fecha": "2026-10-20T00:00:00-03:00",
+     "tramite": "Informe de comisión Primera Subcomisión Mixta de Presupuestos PARTIDA 50 Tesoro Publico",
      "etapa": "Comisión Mixta Ley de Presupuesto",
      "link": ""
     }
@@ -5993,7 +6069,8 @@
    "texto_camara_completo": "19391 18702-05 Ley de Presupuestos para el Sector Público correspondiente al año 2027 2026-09-30T00:00:00 Mensaje Cámara de Diputados 2 Ministerio de Hacienda true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18702-05",
    "canales_descubrimiento": [
-    "cartera"
+    "cartera",
+    "senado_movimiento"
    ],
    "id": "c8228c43d989a443",
    "puntaje_pertinencia": 0.0,
@@ -6019,9 +6096,9 @@
    "ultimo_movimiento": "2026-10-20T00:00:00-03:00",
    "ultimo_movimiento_legible": "20/10/2026",
    "dias_sin_movimiento": 7,
-   "ultimo_tramite": "Informe de comisión Cuarta Subcomisión Mixta de Presupuestos . PARTIDA 30 Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.",
+   "ultimo_tramite": "Informe de comisión Primera Subcomisión Mixta de Presupuestos. PARTIDA 50 Tesoro Publico",
    "camara_actual": "Senado",
-   "total_tramites": 22,
+   "total_tramites": 31,
    "fecha_ingreso_legible": "30/09/2026",
    "antiguedad_dias": 27,
    "prioridad": 33.3,
@@ -6029,13 +6106,13 @@
    "factor_urgencia": 1.0,
    "factor_proximidad": 1.6,
    "factor_frescura": 1.3,
-   "huella": "cdc6eebf176bab071dd5",
+   "huella": "a31962869ba10277ac12",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19391&prmBOLETIN=18702-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18702",
-   "sintesis": "Comisión Mixta Ley de Presupuesto (Senado) · Informe de comisión Cuarta Subcomisión Mixta de Presupuestos . PARTIDA 30 Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.",
+   "sintesis": "Comisión Mixta Ley de Presupuesto (Senado) · Informe de comisión Primera Subcomisión Mixta de Presupuestos. PARTIDA 50 Tesoro Publico",
    "novedad": "movimiento",
-   "novedad_detectada": "2026-10-27T19:00:06.127894-03:00"
+   "novedad_detectada": "2026-10-27T22:12:09.237139-03:00"
   },
   {
    "boletin": "17835-06",
@@ -13022,14 +13099,21 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-27T19:00:06.127894-03:00"
+   "revisado": "2026-10-27T22:12:09.237139-03:00"
   },
   {
    "boletin": "17870-05",
    "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-10-27T19:00:06.127894-03:00"
+   "revisado": "2026-10-27T22:12:09.237139-03:00"
+  },
+  {
+   "boletin": "12712-24",
+   "titulo": "Ley de Patrimonio Cultural",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia",
+   "revisado": "2026-10-27T22:12:09.237139-03:00"
   }
  ],
  "novedades": 1,
@@ -13083,13 +13167,13 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 54,
-  "boletines_consultados": 54,
-  "fichas_obtenidas": 54,
+  "candidatos_descubiertos": 224,
+  "boletines_consultados": 55,
+  "fichas_obtenidas": 55,
   "consultas_fallidas": 0,
   "registros_publicados": 54,
   "registros_conservados_sin_revisar": 2,
-  "descartados_por_pertinencia": 2,
+  "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 7,
   "novedades_corrida": 1,
   "nuevos_en_cartera": 0,
@@ -13098,7 +13182,7 @@
   "canales": {
    "semillas": 15,
    "cartera": 54,
-   "senado_movimiento": 0,
+   "senado_movimiento": 175,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -13106,23 +13190,21 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 0,
-    "errores": [
-     "20/10/2026: TimeoutError: The read operation timed out"
-    ],
+    "resultados": 175,
+    "errores": [],
     "consultado": true
    },
    {
     "canal": "senado_boletin",
-    "llamadas": 54,
-    "resultados": 54,
+    "llamadas": 55,
+    "resultados": 55,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_boletin",
-    "llamadas": 54,
-    "resultados": 54,
+    "llamadas": 55,
+    "resultados": 55,
     "errores": [],
     "consultado": true
    },
@@ -13144,6 +13226,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 95.9
+  "segundos_corrida": 90.3
  }
 }
