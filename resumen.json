@@ -2,8 +2,8 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-10-31T12:45:20.373220-03:00",
-  "generado_legible": "31/10/2026 12:45",
+  "generado": "2026-11-01T10:03:59.609250-03:00",
+  "generado_legible": "01/11/2026 10:03",
   "proyectos_total": 56,
   "vigentes": 52,
   "movimientos_recientes": 4,
@@ -12,7 +12,7 @@
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
-  "estancados_180d": 19,
+  "estancados_180d": 20,
   "ultimo": {
     "titulo": "Modifica el Código Penal para sancionar el hurto, receptación y apropiación indebida de mascotas o animales de compañía",
     "detalle": "Boletín 18800-07 · 27/10/2026 · Primer trámite constitucional (C.Diputados)",
@@ -20,10 +20,6 @@
     "fecha": "2026-10-27T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-10-25",
-      "n": 0
-    },
     {
       "fecha": "2026-10-26",
       "n": 2
@@ -46,6 +42,10 @@
     },
     {
       "fecha": "2026-10-31",
+      "n": 0
+    },
+    {
+      "fecha": "2026-11-01",
       "n": 0
     }
   ],
