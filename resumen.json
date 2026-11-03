@@ -2,13 +2,13 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-02T20:21:57.783957-03:00",
-  "generado_legible": "02/11/2026 20:21",
+  "generado": "2026-11-03T03:02:27.762195-03:00",
+  "generado_legible": "03/11/2026 03:02",
   "proyectos_total": 56,
   "vigentes": 52,
-  "movimientos_recientes": 4,
-  "movimientos_30d": 11,
-  "novedades_corrida": 0,
+  "movimientos_recientes": 2,
+  "movimientos_30d": 10,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
@@ -20,10 +20,6 @@
     "fecha": "2026-10-27T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-10-27",
-      "n": 2
-    },
     {
       "fecha": "2026-10-28",
       "n": 0
@@ -46,6 +42,10 @@
     },
     {
       "fecha": "2026-11-02",
+      "n": 0
+    },
+    {
+      "fecha": "2026-11-03",
       "n": 0
     }
   ],
@@ -76,10 +76,10 @@
     },
     {
       "severidad": "info",
-      "titulo": "Modifica cuerpos legales que indica con el objeto de sancionar la facilitación de cuentas y medios de pago para fines delictivos y actualizar el catálogo de delitos base de lavado de activo",
-      "detalle": "Boletín 18761-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-10-26T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18761-07",
+      "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
+      "detalle": "Boletín 15975-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-10-21T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
       "fuente": "LEGISLATIVO"
     }
   ],
@@ -97,8 +97,8 @@
       "texto": "Boletín 14773-02: Cuenta del Mensaje 406-374 que retira y hace presente la urgencia Simple"
     },
     {
-      "fecha": "2026-10-26T00:00:00-03:00",
-      "texto": "Boletín 18761-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
+      "fecha": "2026-10-21T00:00:00-03:00",
+      "texto": "Boletín 15975-25: Cuenta del oficio N° 21.661, por el que informa reemplazo de integrante de la Comisión Mixta"
     }
   ]
 }
