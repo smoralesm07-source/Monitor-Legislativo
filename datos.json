@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-05T14:56:04.156069-03:00",
- "generado_legible": "05/11/2026 14:56",
+ "generado": "2026-11-05T20:29:40.878357-03:00",
+ "generado_legible": "05/11/2026 20:29",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -132,7 +132,7 @@
     "total": 8
    }
   ],
-  "generado": "2026-11-05T14:56:04.156069-03:00"
+  "generado": "2026-11-05T20:29:40.878357-03:00"
  },
  "proyectos": [
   {
@@ -5283,6 +5283,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 423.6
+  "segundos_corrida": 424.4
  }
 }
