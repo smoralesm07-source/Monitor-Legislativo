@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-05T06:15:26.592814-03:00",
- "generado_legible": "05/11/2026 06:15",
+ "generado": "2026-11-05T14:56:04.156069-03:00",
+ "generado_legible": "05/11/2026 14:56",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -132,7 +132,7 @@
     "total": 8
    }
   ],
-  "generado": "2026-11-05T06:15:26.592814-03:00"
+  "generado": "2026-11-05T14:56:04.156069-03:00"
  },
  "proyectos": [
   {
@@ -177,8 +177,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18373-07",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "bf99bac3167f7b32",
    "puntaje_pertinencia": 300.0,
@@ -272,8 +271,7 @@
    "texto_camara_completo": "19461 18761-07 Modifica cuerpos legales que indica con el objeto de sancionar la facilitación de cuentas y medios de pago para fines delictivos y actualizar el catálogo de delitos base de lavado de activo 2026-10-01T21:05:26 Moción Cámara de Diputados 0 1102 Roberto Arroyo Muñoz true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18761-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "83af5a571b67f355",
    "puntaje_pertinencia": 80.0,
@@ -836,8 +834,7 @@
    "texto_camara_completo": "18569 17912-25 Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos 2025-10-10T00:00:00 Moción Cámara de Diputados 0 1009 Jorge Alessandri Vergara 0 1044 Raúl Leiva Carvajal 0 1046 Andrés Longton Herrera 0 1067 Hugo Rey Martínez 0 1075 Diego Schalper Sepúlveda 0 1019 José Miguel Castro Bascuñán 0 1099 Jaime Araya Guerrero 0 1134 Andrés Jouannet Valderrama 0 1152 Gloria Naveillan Arriagada 0 1100 Cristián Araya Lerdo de Tejada 89781 Boletín N°17912-25 2026-08-17T19:47:28 130 0 0 0 Quórum Simple Aprobado Proyecto de Ley Particular Artículo único del proyecto, en los términos propuestos por la Comisión de Seguridad Ciudadana. Primer Trámite Primer Informe 89780 Boletín N°17912-25 2026-08-17T19:46:44 52 60 18 0 Quórum Simple Unánime Proyecto de Ley Particular Artículo único del proyecto, con la indicación del diputado Raúl Leiva para intercalar un numeral 1 antes de la expresión “Intercálase en el artículo 27 letra a)”; y para agregar el siguiente numeral 2, nuevo: “2. Intercálase, en el artículo 27 letra a), entre las expresión “quinquies, y en los artículos” y el guarismo “467”, la expresión “438,”. Primer Trámite Primer Informe 89779 Boletín N°17912-25 2026-08-17T19:45:31 131 0 0 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17912-25",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "80d2ea7de230a503",
    "puntaje_pertinencia": 316.0,
@@ -934,8 +931,7 @@
    "texto_camara_completo": "18599 17943-25 Modifica cuerpos legales que indica para permitir, a la Unidad de Análisis Financiero, acceder a información bancaria de ciertas autoridades sin orden judicial previa 2025-05-19T00:00:00 Moción Cámara de Diputados 0 990 Daniel Melo Contreras 0 1044 Raúl Leiva Carvajal 0 1073 Juan Santana Castillo 0 975 Daniella Cicardini Milla 0 1038 Marcos Ilabaca Cerda 0 1181 Nelson Venegas Salazar 0 1142 Daniel Manouchehri Lobos 0 1103 Danisa Astudillo Peiretti 0 1185 Arturo Barrios Oteíza true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17943-25",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "8cff1dd109fe79cc",
    "puntaje_pertinencia": 236.0,
@@ -1033,7 +1029,7 @@
    "texto_camara_completo": "19529 18843-07 Modifica el Código Penal y la ley N° 18010 para sancionar la usura agravada en los préstamos informales denominados \"gota a gota\" y su cobranza mediante violencia o intimidación 2026-11-02T17:27:05 Moción Cámara de Diputados 0 1039 Pamela Jiles Moreno 0 1243 Tamara Ramírez Ramírez 0 1258 Guillermo Valdés Carmona 0 1240 Zandra Parisi Fernández 0 1236 Paula Olmos Contreras 0 1255 Eileen Urqueta Rojas 0 1201 Flor Contreras Vivallo 0 1230 Alex Nahuelquin Nahuelquin 0 1239 Fabián Ossandón Briceño 0 1193 Patricio Briones Moller true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18843-07",
    "canales_descubrimiento": [
-    "camara_anno"
+    "cartera"
    ],
    "id": "6e7f7e5df69bc9e7",
    "puntaje_pertinencia": 32.0,
@@ -1076,7 +1072,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19529&prmBOLETIN=18843-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18843",
    "sintesis": "",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-11-05T06:15:26.592814-03:00"
   },
   {
@@ -1116,8 +1112,7 @@
    "texto_camara_completo": "19413 18732-07 Combate el crimen organizado y modifica el estado de excepción constitucional de emergencia 2026-10-07T00:00:00 Moción Senado 0 1110 Pedro Araya Guerrero 0 1324 Karim Bianchi Retamales 0 1330 Iván Flores García 0 1512 Andrés Longton Herrera 0 1515 Arturo Squella Ovalle true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18732-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "f5ab5ad31f1a86d8",
    "puntaje_pertinencia": 32.0,
@@ -1202,8 +1197,7 @@
    "texto_camara_completo": "19444 18763-06 Modifica la ley N° 20.880, con el objeto de incorporar a los activos financieros virtuales o criptoactivos al contenido de la declaración de intereses y patrimonio 2026-10-21T00:00:00 Moción Senado 0 1222 Francisco Huenchumilla Jaramillo 0 1341 Alejandra Sepúlveda Orbenes 0 1513 Vlado Mirosevic Verdugo true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18763-06",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "43355d8b2d51f1c4",
    "puntaje_pertinencia": 32.0,
@@ -1292,8 +1286,7 @@
    "texto_camara_completo": "19480 18800-07 Modifica el Código Penal para sancionar el hurto, receptación y apropiación indebida de mascotas o animales de compañía 2026-10-14T13:23:09 Moción Cámara de Diputados 0 1056 Emilia Nuyado Ancapichun 0 1073 Juan Santana Castillo 0 1142 Daniel Manouchehri Lobos 0 1222 Andrea Macías Palma 0 1210 Gustavo Gatica Villarroel 0 1260 César Valenzuela Maass 0 1204 Francisco Crisóstomo Llanos true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18800-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "95a5f16b3ac82153",
    "puntaje_pertinencia": 32.0,
@@ -1380,8 +1373,7 @@
    "texto_camara_completo": "19478 18802-07 Modifica la Ordenanza de Aduanas para fortalecer la persecución penal del contrabando y de su comercialización 2026-10-17T20:49:33 Moción Cámara de Diputados 0 1017 Álvaro Carter Fernández 0 1075 Diego Schalper Sepúlveda 0 1100 Cristián Araya Lerdo de Tejada 0 1150 Benjamín Moreno Bascur 0 1259 Juan Marcelo Valenzuela Henríquez 0 1235 Javier Olivares Avendaño 0 1227 Claudia Mora Vega 0 1201 Flor Contreras Vivallo 0 1193 Patricio Briones Moller true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18802-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "2ab337d1ed2811b9",
    "puntaje_pertinencia": 32.0,
@@ -2033,8 +2025,7 @@
    "texto_camara_completo": "19257 18573-25 Autoriza al Presidente de la República para recompensar a quienes aporten antecedentes útiles para la investigación y sanción de delitos vinculados al crimen organizado 2026-08-07T11:55:23 Moción Cámara de Diputados 0 1044 Raúl Leiva Carvajal 0 1059 Ximena Ossandón Irarrázabal 0 1075 Diego Schalper Sepúlveda 0 1099 Jaime Araya Guerrero 0 1152 Gloria Naveillan Arriagada 0 1100 Cristián Araya Lerdo de Tejada 0 1108 Juan Carlos Beltrán Silva 0 1131 Mauro González Villarroel 0 1237 Francisco Orrego Gutiérrez 0 1190 Enrique Bassaletti Riess true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18573-25",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "e9b6238012169647",
    "puntaje_pertinencia": 32.0,
@@ -2121,8 +2112,7 @@
    "texto_camara_completo": "19266 18582-07 Consagra los territorios especiales digitales, con el objeto de fortalecer la soberanía digital, la continuidad estratégica del Estado y la cooperación internacional 2026-08-13T00:00:00 Moción Senado 0 1110 Pedro Araya Guerrero 0 1117 Iván Moreira Barros 0 1337 Paulina Núñez Urrutia 0 1450 Paulina Vodanovic Rojas 0 1518 Cristian Vial Maceratta true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18582-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "023a23c08dd98d71",
    "puntaje_pertinencia": 32.0,
@@ -2214,8 +2204,7 @@
    "texto_camara_completo": "19282 18604-07 Modifica el Código Penal para agravar la pena por la receptación de vehículos en supuestos que indica 2026-08-11T21:14:57 Moción Cámara de Diputados 0 986 Marcela Hernando Pérez 0 1062 Joanna Pérez Olea 0 1013 Alejandro Bernales Maldonado 0 1141 Luis Malla Valenzuela 0 1182 Sebastián Videla Castillo 0 1187 Carlo Arqueros Pizarro 0 1246 José Antonio Rivas Villalobos 0 1255 Eileen Urqueta Rojas 0 1241 Patricio Pinilla Valencia 0 1230 Alex Nahuelquin Nahuelquin true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18604-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "9697708d6a52cd57",
    "puntaje_pertinencia": 32.0,
@@ -2295,8 +2284,7 @@
    "texto_camara_completo": "19299 18609-07 Con el objeto de consagrar a la persecución de la corrupción como un principio rector para el Estado 2026-08-19T00:00:00 Moción Senado 0 1341 Alejandra Sepúlveda Orbenes 0 1343 Esteban Velásquez Núñez true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18609-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "e19902a821e43538",
    "puntaje_pertinencia": 32.0,
@@ -2377,8 +2365,7 @@
    "texto_camara_completo": "19292 18611-07 Modifica el Código Penal para agravar la penalidad en caso de sustracción y receptación de combustibles en supuestos que indica 2026-08-12T16:46:17 Moción Cámara de Diputados 0 1237 Francisco Orrego Gutiérrez 0 1197 Carlos Chandía Alarcón 0 1261 Daniel Valenzuela Salazar true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18611-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "ef1f8f6c732b03ba",
    "puntaje_pertinencia": 32.0,
@@ -2464,8 +2451,7 @@
    "texto_camara_completo": "19370 18692-07 Modifica el Código Penal para suspender la prescripción de la acción penal antes de la formalización en delitos contra la probidad administrativa, tributarios, económicos y de lavado de activos 2026-09-09T15:33:42 Moción Cámara de Diputados 0 1015 Jorge Brito Hasbún 0 1099 Jaime Araya Guerrero 0 1180 Consuelo Veloso Ávila 0 1177 Carolina Tello Rojas 0 1142 Daniel Manouchehri Lobos 0 1209 Matías Fernández Hartwig 0 1226 José Montalva Feuerhake 0 1189 Jaime Bassa Mercado true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18692-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "07d13ccd18582d48",
    "puntaje_pertinencia": 64.0,
@@ -2557,8 +2543,7 @@
    "texto_camara_completo": "19403 18725-07 Modifica la ley N° 20.393 para incluir el tráfico de migrantes entre los delitos por los cuales las personas jurídicas responden penalmente 2026-09-21T15:04:50 Moción Cámara de Diputados 0 1017 Álvaro Carter Fernández 0 1141 Luis Malla Valenzuela 0 1187 Carlo Arqueros Pizarro 0 1216 Stephanie Jéldrez Ortiz 0 1215 Álvaro Jofré Cáceres 0 1237 Francisco Orrego Gutiérrez 0 1235 Javier Olivares Avendaño 0 1208 Jorge Díaz Ibarra 0 1254 Ignacio Urcullú Clèment-Lund 0 1190 Enrique Bassaletti Riess true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18725-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "716d01ac6f2ffa6b",
    "puntaje_pertinencia": 32.0,
@@ -2641,8 +2626,7 @@
    "texto_camara_completo": "18715 18053-07 Modifica diversos cuerpos legales para prevenir y sancionar con mayor severidad el uso del crédito prendario para lavado de activos 2026-01-12T00:00:00 Moción Cámara de Diputados 0 1152 Gloria Naveillan Arriagada true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18053-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "54783418c224bc68",
    "puntaje_pertinencia": 64.0,
@@ -2728,8 +2712,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18080-03",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "549f2c9d43daf111",
    "puntaje_pertinencia": 64.0,
@@ -2819,8 +2802,7 @@
    "texto_camara_completo": "18807 18144-07 Modifica el Código Procesal Penal, para fortalecer la persecución penal del crimen organizado y regular el juicio oral en ausencia del imputado 2026-03-25T00:00:00 Moción Senado 0 911 Carlos Ignacio Kuschel Silva 0 1117 Iván Moreira Barros 0 1330 Iván Flores García 0 1337 Paulina Núñez Urrutia 0 1339 Gastón Saavedra Chandía true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18144-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "7c87f3be4f08b415",
    "puntaje_pertinencia": 32.0,
@@ -2906,8 +2888,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18216-05",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "9b68e4e65b2ab18e",
    "puntaje_pertinencia": 28.0,
@@ -3007,8 +2988,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18217-07",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "d28816cac6bf9370",
    "puntaje_pertinencia": 32.0,
@@ -3091,8 +3071,7 @@
    "texto_camara_completo": "18885 18219-07 Modifica cuerpos legales que indica para extender el estatuto de protección al denunciante de delitos de corrupción y criminalidad económica 2026-04-22T00:00:00 Moción Cámara de Diputados 0 1200 Cristian Contreras Radovic true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18219-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "751a76149907f587",
    "puntaje_pertinencia": 32.0,
@@ -3175,8 +3154,7 @@
    "texto_camara_completo": "19011 18333-07 Modifica diversos cuerpos legales, con el objeto de sancionar penalmente el reclutamiento de personas por parte de una asociación delictiva o criminal 2026-06-10T00:00:00 Moción Senado 0 1117 Iván Moreira Barros 0 1324 Karim Bianchi Retamales 0 1337 Paulina Núñez Urrutia 0 1339 Gastón Saavedra Chandía 0 1450 Paulina Vodanovic Rojas true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18333-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "5141da866ef863d2",
    "puntaje_pertinencia": 32.0,
@@ -3266,8 +3244,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18369-07",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "022f13e1bf19d971",
    "puntaje_pertinencia": 32.0,
@@ -3355,8 +3332,7 @@
    "texto_camara_completo": "19080 18395-07 Sanciona penalmente la usura y la obtención de lucro en las contrataciones con el Estado en situaciones de emergencia o catástrofe 2026-06-16T00:00:00 Moción Cámara de Diputados 0 1038 Marcos Ilabaca Cerda 0 1159 Lorena Pizarro Sierra 0 1180 Consuelo Veloso Ávila 0 1128 Ana María Gazmuri Vieira 0 1224 Cristian Mella Andaur 0 1211 Sofía González Cortés 0 1226 José Montalva Feuerhake 0 1189 Jaime Bassa Mercado 0 1213 Irací Hassler Jacob 0 1188 Marcos Barraza Gómez true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18395-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "0f1646badb9713ab",
    "puntaje_pertinencia": 32.0,
@@ -3439,8 +3415,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18407-25",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "a2afa16efcdd8cf0",
    "puntaje_pertinencia": 64.0,
@@ -3529,8 +3504,7 @@
    "texto_camara_completo": "19110 18416-07 Modifica el Código Penal para hacer aplicable la imprescriptibilidad de la acción penal a todos los casos de trata de personas contra víctimas menores de edad y establecer reglas especiales de protección penal 2026-06-23T00:00:00 Moción Cámara de Diputados 0 1039 Pamela Jiles Moreno 0 1054 Francesca Muñoz González 0 1028 Eduardo Durán Salinas 0 1119 Sara Concha Smith 0 1133 Juan Irarrázaval Rossel 0 1184 Roberto Celedón Fernández 0 1237 Francisco Orrego Gutiérrez true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18416-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "d9dbdcfa374078d6",
    "puntaje_pertinencia": 32.0,
@@ -3616,8 +3590,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18420-25",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "9ea5d77fee565cf7",
    "puntaje_pertinencia": 32.0,
@@ -3709,8 +3682,7 @@
    "texto_camara_completo": "19127 18443-07 Crea el Registro Nacional de Condenados por Delitos Económicos y establece restricciones a beneficios estatales para quienes los cometen 2026-06-24T14:34:55 Moción Cámara de Diputados 0 1077 Raúl Soto Mardones 0 1087 Gael Yeomans Araya 0 1105 Héctor Barría Angulo 0 1142 Daniel Manouchehri Lobos 0 1116 Felipe Camaño Cárdenas 0 1259 Juan Marcelo Valenzuela Henríquez 0 1238 Álvaro Ortiz Vera 0 1224 Cristian Mella Andaur 0 1208 Jorge Díaz Ibarra 0 1241 Patricio Pinilla Valencia true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18443-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "979da7062509e787",
    "puntaje_pertinencia": 32.0,
@@ -3802,8 +3774,7 @@
    "texto_camara_completo": "19135 18460-07 Modifica la Constitución Política para establecer un régimen transitorio de apoyo de las fuerzas armadas a las policías en labores de seguridad pública y combate al crimen organizado 2026-07-06T19:30:57 Moción Cámara de Diputados 0 843 René Manuel García García 0 1021 Andrés Celis Montt 0 1059 Ximena Ossandón Irarrázabal 0 1060 Luis Pardo Sáinz 0 1028 Eduardo Durán Salinas 0 1075 Diego Schalper Sepúlveda 0 1108 Juan Carlos Beltrán Silva 0 1131 Mauro González Villarroel 0 1237 Francisco Orrego Gutiérrez 0 1219 Tomás Kast Sommerhoff true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18460-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "3ddaed3c685fa827",
    "puntaje_pertinencia": 32.0,
@@ -3893,8 +3864,7 @@
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18488-07",
    "canales_descubrimiento": [
     "semilla",
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "dd8debf4ea849c38",
    "puntaje_pertinencia": 32.0,
@@ -4069,8 +4039,7 @@
    "texto_camara_completo": "18068 17432-07 Modifica el Código Penal y el Código Procesal Penal en materia de comiso sin condena previa 2025-03-24T00:00:00 Moción Cámara de Diputados 0 872 Jaime Mulet Martínez 0 973 Karol Cariola Oliva 0 1038 Marcos Ilabaca Cerda 0 1134 Andrés Jouannet Valderrama 0 1155 Rubén Darío Oyarzo Figueroa true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17432-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "24d58c518528ba31",
    "puntaje_pertinencia": 64.0,
@@ -4153,8 +4122,7 @@
    "texto_camara_completo": "18078 17446-17 Establece y regula la debida diligencia de las empresas en el respeto a los derechos humanos, el medio ambiente y el cambio climático 2025-04-03T00:00:00 Moción Senado 0 985 Isabel Allende Bussi true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17446-17",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "c208c749e4d5d678",
    "puntaje_pertinencia": 64.0,
@@ -4246,8 +4214,7 @@
    "texto_camara_completo": "18152 17515-07 Modifica distintos cuerpos legales para agravar las penas aplicables a los delitos de maltrato habitual, tráfico ilícito de migrantes y trata de personas, y reduce el plazo para formular denuncia en casos que indica 2025-04-22T00:00:00 Moción Cámara de Diputados 0 74 Jaime Naranjo Ortiz 0 990 Daniel Melo Contreras 0 1044 Raúl Leiva Carvajal 0 1056 Emilia Nuyado Ancapichun 0 1073 Juan Santana Castillo 0 1038 Marcos Ilabaca Cerda 0 1124 Tomás De Rementería Venegas 0 1181 Nelson Venegas Salazar 0 1103 Danisa Astudillo Peiretti 0 1112 Ana María Bravo Castro true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17515-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "bc332ed625b5da38",
    "puntaje_pertinencia": 64.0,
@@ -4336,8 +4303,7 @@
    "texto_camara_completo": "18160 17520-17 Establece la obligación de incorporar la debida diligencia en derechos humanos a las empresas que operen en territorio nacional 2025-05-05T00:00:00 Moción Cámara de Diputados 0 1037 Diego Ibáñez Cotroneo 0 1068 Camila Rojas Valderrama 0 1087 Gael Yeomans Araya 0 1177 Carolina Tello Rojas 0 1107 María Francisca Bello Campos 0 1127 Lorena Fries Monleón 0 1167 Jaime Sáez Quiroz 0 1169 Clara Sagardía Cabezas 0 1129 Andrés Giordano Salazar 0 1184 Roberto Celedón Fernández true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17520-17",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "07dec5631b5fcdbf",
    "puntaje_pertinencia": 64.0,
@@ -4421,8 +4387,7 @@
    "texto_camara_completo": "18489 17835-06 Modifica la Ley de Tránsito, en materia de decomiso de mercaderías y de subasta de vehículos retirados de circulación 2025-09-10T00:00:00 Moción Senado 0 1341 Alejandra Sepúlveda Orbenes 0 1343 Esteban Velásquez Núñez true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17835-06",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "688ee3f1969d92eb",
    "puntaje_pertinencia": 64.0,
@@ -4506,8 +4471,7 @@
    "texto_camara_completo": "18535 17881-25 Modifica diversos cuerpos legales con el objeto de prevenir y sancionar la extorsión y el secuestro exprés, y mejorar la trazabilidad de remesas vinculadas al crimen organizado 2025-09-26T00:00:00 Moción Cámara de Diputados 0 1059 Ximena Ossandón Irarrázabal 0 1019 José Miguel Castro Bascuñán true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17881-25",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "207716662ac2d29b",
    "puntaje_pertinencia": 48.0,
@@ -4596,8 +4560,7 @@
    "texto_camara_completo": "19391 18702-05 Ley de Presupuestos para el Sector Público correspondiente al año 2027 2026-09-30T00:00:00 Mensaje Cámara de Diputados 2 Ministerio de Hacienda true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18702-05",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "c8228c43d989a443",
    "puntaje_pertinencia": 0.0,
@@ -4755,8 +4718,7 @@
    "texto_camara_completo": "19030 18353-07 Conmutación de penas 2026-06-09T00:00:00 Moción Cámara de Diputados 0 1060 Luis Pardo Sáinz 0 1152 Gloria Naveillan Arriagada 0 1104 Chiara Barchiesi Chávez 0 1219 Tomás Kast Sommerhoff 0 1217 Pier Karlezi Hazleby 0 1234 Mario Olavarría Rodríguez 0 1193 Patricio Briones Moller 0 1190 Enrique Bassaletti Riess true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18353-07",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "da4e6c909fdc000c",
    "puntaje_pertinencia": 0.0,
@@ -5156,8 +5118,7 @@
    "texto_camara_completo": "18532 17870-05 Ley de Presupuestos del Sector Público correspondiente al año 2026 2025-09-30T00:00:00 Mensaje Cámara de Diputados 2 Ministerio de Hacienda 86638 Boletín N°17870-05 2025-11-26T20:32:50 66 35 0 0 Quórum Calificado Aprobado Proyecto de Ley Única Proposición de la Comisión Mixta recaída en el proyecto de ley de Presupuestos para el Sector Público correspondiente al año 2026. Cabe hacer presente que las glosas 03 y 04 que se incorporan al Capítulo 01 Fisco, Programa 11 Empresas y Sociedades del Estado, de la Partida 50, Tesoro Público, fueron rechazadas por no alcanzar el voto favorable de 76 diputadas y diputados por tratarse de normas de quorum calificado. Comisión Mixta Sin Informe 86583 Boletín N°17870-05 2025-11-25T19:30:23 57 63 1 0 Quórum Simple Unánime Proyecto de Ley Única Enmienda del Senado que reemplaza íntegramente la Partida 32 Ministerio de Seguridad Pública, cuya votación separada ha sido solicitada por el diputado Frank Sauerbaum, y que consta en la página 1568 del comparado. (i13) Tercer Trámite Sin Informe 86582 Boletín N°17870-05 2025-11-25T19:29:14 57 58 6 0 Quórum Simple Unánime Proyecto de Ley Única Modificación introducida por el Senado que rechaza la asignación 003 “Fondo Programa Sitios de Memoria” del ítem 01 del Subtítulo 33 Programa 05 del Capítulo 03 de la Partida 29, cuya votación separada ha sido solicitada por la diputada Lorena Fries y por el diputado Juan Santana, y que consta en la página 1491 del comparado. (i6 e i15) Tercer Trámite Sin Informe 86581 Boletín N°17870-05 2025-11-25T19:28:01 61 57 3 0 Quórum Simple Aprobado Proyecto de Ley Única Modificación introducida por el Senado que rechaza la asignación 241 “Fundación Salvador Allende” del ítem 01 del Subtítulo 24 Programa 05 del Capítulo 03 de la Partida 29, cuya votación separada ha sido solicitada por la diputada Lorena Fries y por el diputado Juan Santana, y que consta en la página 1491 del comparado. (i5 e i15) Tercer Trámite Sin Informe 86580 Boletín N°17870-05 2025-11-25T19:27:03 57 57 7 0 Quórum Simple Unánime Proyecto de Ley Única Modificación introducida por el Senado que rechaza la asignación 240 “Corporación de Ex Presos Políticos de Pisagua” del ítem 01 del Subtítulo 24 Programa 05 del Capítulo 03 de la Partida 29, cuya votación separada ha sido solicitada por la diputada Lorena Fries y por el diputado Juan Santana, y que consta en la página 1491 del comparado. (i3 e i15) Tercer Trámite Sin Informe 86579 Boletín N°17870-05 2025-11-25T19:25:59 56 57 8 0 Quórum Simple Unánime Proyecto de Ley Única Modificación introducida por el Senado que rechaza la asignación 239 “Fundación 1367 Casa Memoria José Domingo Cañas” del ítem 01 del Subtítulo 24 Programa 05 del Capítulo 03 de la Partida 29, cuya votación separada ha sido solicitada por la diputada Lorena Fries y por el diputado Juan Santana, y que consta en la página 1491 del comparado. (i2 e i15) Tercer Trámite Sin Informe 86578 Boletín N°17870-05 2025-11-25T19:24:51 57 58 6 0 Quórum Simple Unánime Proyecto de Ley Única Modificación introducida por el Senado que rechaza la asignación 237 “Corporación Estadio Nacional. Memoria Nacional” del ítem 01 del Subtítulo 24 Programa 05 del Capítulo 03 de la Partida 29, cuya votación separada ha sido solicitada por la diputada Lorena Fries, y que consta en la página 1490 del comparado. (i4) Tercer Trámite Sin Informe 86577 Boletín N°17870-05 2025-11-25T19:23:50 61 57 3 0 Quórum Simple Aprobado Proyecto de Ley Única Modificación introducida por el Senado para agregar una nueva glosa asociada al Programa 02 del Capítulo 10 de la Partida 21, cuya votación separada ha sido solicitada por la diputada María Candelaria Acevedo, y que consta en las páginas 1334 y 1335 del comparado. (i11) Tercer Trámite Sin Informe 86576 Boletín N°17870-05 2025-11-25T19:22:44 61 57 3 0 Quórum Simple Aprobado Proyecto de Ley Única Modificación introducida por el Senado que rechaza la asignación 112 “Programa de Apoyo a la Identidad de Género” del ítem 03 del Subtítulo 24 Programa 02 del Capítulo 10 de la Partida 21, cuya votación separada ha sido solicitada por las diputadas Ana María Gazmuri y Emilia Schneider, y que consta en la página 1328 del comparado. (i7 e i9) Tercer Trámite Sin Informe 86575 Boletín N°17870-05 2025-11-25T19:21:44 52 59 10 0 Quórum Simple Unánime Proyecto de Ley Única Modificación introducida por el Senado que rechaza el Capítulo 05, Programa 01 “Instituto Nacional de la Juventud” de la Partida 21, cuya votación separada ha sido solicitada por la diputada Camila Rojas y por los diputados Boris Barrera y Juan Santana, y que consta en la página 1283 del comparado. (i1, i10 e i15) Tercer Trámite Sin Informe 86574 Boletín N°17870-05 2025-11-25T19:20:37 59 58 4 0 Quórum Simple Unánime Proyecto de Ley Única Enmienda del Senado que reemplaza íntegramente la Partida 02 Congreso Nacional, cuya votación separada ha sido solicitada por el diputado Frank Sauerbaum, y que consta en la página 103 del comparado. (i13) Tercer Trámite Sin Informe 86573 Boletín N°17870-05 2025-11-25T19:19:42 60 55 6 0 Quórum Simple Unánime Proyecto de Ley Única Enmienda del Senado que agrega un artículo 59 nuevo, cuya votación separada ha sido solicitada por la diputada Camila Rojas, y que consta en las páginas 97 a 99 del comparado. (i19) Tercer Trámite Sin Informe 86572 Boletín N°17870-05 2025-11-25T19:18:45 60 54 7 0 Quórum Simple Unánime Proyecto de Ley Única Enmienda del Senado que agrega un artículo 58 nuevo, cuya votación separada ha sido solicitada por la diputada Camila Rojas, y que consta en la página 97 del comparado. (i18) Tercer Trámite Sin Informe 86571 Boletín N°17870-05 2025-11-25T19:17:55 60 56 5 0 Quórum Simple Unánime Proyecto de Ley Única Enmienda del Senado que agrega un artículo 57 nuevo, cuya votación separada ha sido solicitada por la diputada Camila Rojas, y que consta en las páginas 96 a 97 del comparado. (i17) Tercer Trámite Sin Informe 86570 Boletín N°17870-05 2025-11-25T19:17:07 58 62 1 0 Quórum Simple Unánime Proyecto de Ley Única Enmienda del Senado que modifica el artículo 52 aprobado por la Cámara (que pasaría a ser 55), cuya votación separada ha sido solicitada por la diputada Camila Rojas y por el diputado Frank Sauerbaum, y que consta en las páginas 93 a 96 del comparado. (i8 y i13) Tercer Trámite Sin Informe 86569 Boletín N°17870-05 2025-11-25T19:15:48 61 59 1 0 Quórum Simple Aprobado Proyecto de Ley Única Enmienda del Senado que propone suprimir el artículo 46 aprobado por la Cámara, cuya votación separada ha sido solicitada por el diputado Frank Sauerbaum, y que consta en la página 88 del comparado. (i13) Tercer Trámite Sin Informe 86568 Boletín N°17870-05 2025-11-25T19:14:57 60 59 2 0 Quórum Simple Unánime Proyecto de Ley Única Enmienda del Senado que agrega un artículo 45 nuevo, cuya votación separada ha sido solicitada por el diputado Frank Sauerbaum, y que consta en la página 80 del comparado. (i13) Tercer Trámite Sin Informe 86567 Boletín N°17870-05 2025-11-25T19:14:09 59 61 0 0 Quórum Simple Unánime Proyecto de Ley Única Enmienda del Senado que agrega un artículo 37 nuevo, cuya votación separada ha sido solicitada por el diputado Frank Sauerbaum, y que consta en la página 74 del comparado. (i13) Tercer Trámite Sin Informe 86566 Boletín N°17870-05 2025-11-25T19:13:15 60 50 10 0 Quórum Simple Unánime Proyecto de Ley Única Enmienda del Senado que introduce modificaciones al inciso primero del número 11 del artículo 13 (que pasaría a ser 14), cuya votación separada ha sido solicitada por la diputada Camila Rojas, y que consta en las páginas 22 a 28 del comparado. (i14) Tercer Trámite Sin Informe 86565 Boletín N°17870-05 2025-11-25T19:12:19 120 0 0 0 Quórum Calificado Aprobado Proyecto de Ley Única Modificaciones del Senado recaídas en la nueva Glosa asociada al ítem 02, Subtítulo 31, Programa 04, Capítulo 01 de la Partida 19; el inciso final nuevo de la Glosa 14, asociada a la Asignación 006, ítem 09, Subtitulo 24, Programa 01, Capítulo 01 de la Partida 21; la Glosa nueva asociada a las glosas comunes de los Servicios Regionales de Vivienda y Urbanismo de la Partida 18; la Glosa nueva asociada al Subtítulo 24, ítem 03, Asignación 002 y al Subtítulo 33, ítem 03, Asignación 002, Programa 04 del Capitulo 01 de la Partida 18; la Glosa nueva asociada al Subtítulo 24, ítem 03, Asignación 106 y al Subtítulo 33, ítem 03, Asignación 106, Programa 04 del Capítulo 01 de la Partida 18; y el inciso primero nuevo de la Glosa 04, asociada al Subtítulo 24, ítem 03, Asignación 003 y al Subtítulo 33, ítem 03, Asignación 003, Programa 02 del Capítulo 01 de la Partida 18, todos los anteriores por tratarse de normas orgánicas constitucionales; y la Glosa nueva común a la Partida 11; la Glosa nueva común a la Partida 13; y la nueva Glosa 07, asociada a la Asignación 014, ítem 01, Subtítulo 23, Programa 01, Capítulo 02 de la Partida 16, por tratarse de normas de quorum calificado; y que requieren para su aprobación del voto favorable de 76 diputadas y diputados. Tercer Trámite Sin Informe 86564 Boletín N°17870-05 2025-11-25T19:09:33 119 0 0 0 Quórum Simple Aprobado Proyecto de Ley Única Modificaciones incorporadas por el Senado en el proyecto de “Ley de Presupuestos para el Sector Público correspondiente al año 2026”, con la salvedad de aquellas que requieren quorum especial de aprobación y de aquellas cuya votación separada ha sido solicitada. Tercer Trámite Sin Informe 86440 Boletín N°17870-05 2025-11-18T16:29:06 80 38 2 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Sauerbaum Frank Artículo NUEVO Para agregar un nuevo artículo del siguiente tenor: \"Art. xx.- Los órganos del Estado, por intermedio de sus respectivas jefaturas, deberán informar de manera consolidada a la Comisión Mixta de Presupuestos, a más tardar el 31 de enero de 2026, sobre el estado de avance de los procesos disciplinarios instruidos a funcionarios de su dependencia por mal uso de licencias médicas. El informe deberá contener, al menos, el siguiente desglose: 1. Cuantificación General: Número total de funcionarios investigados y número total de procesos disciplinarios iniciados. 2. Estado de Avance de los Procesos en Curso: Procesos en fase de investigación; procesos con resolución dictada por el jefe de servicio; procesos con resolución impugnada o en trámite de apelación; y procesos remitidos a la Contraloría General de la República para toma de razón, si procediere. 3. Detalle de los Procesos Cerrados y Sanciones Aplicadas: Número de funcionarios destituidos; funcionarios sancionados con suspensión, indicando el período; funcionarios sancionados con multa, indicando el monto; funcionarios sancionados con censura; y funcionarios absueltos o con sobreseimiento. 4. Estado de la Recuperación Financiera: Monto total estimado de las remuneraciones pagadas indebidamente a los funcionarios investigados; monto total de los fondos cuyo reintegro ha sido ordenado; y monto total de los fondos efectivamente reintegrados a la fecha del informe.\". Primer Trámite Primer Informe 86439 Boletín N°17870-05 2025-11-18T16:28:12 95 25 9 0 Quórum Simple Aprobado Proyecto de Ley Particular de la diputada Rojas Camila Artículo NUEVO Todos los órganos público deberán publicar el llamado a postulación al concurso público, su acta de evaluación, el acto administrativo de adjudicación, el proyecto y presupuesto adjudicado y el convenio asociado a éste en los sitios electrónicos en los que dan cumplimiento a las obligaciones de transparencia activa, de forma permanente, completa y actualizada, en un plazo no mayor de quince días corridos una vez firmado el mencionado convenio. Misma obligación recaerá sobre la institución privada receptora de transferencias por un monto mayor a 2.000 unidades tributarias mensuales, la cual además del proyecto y presupuesto adjudicado y el convenio asociado a éste, deberá publicar en su sitio electrónico los estados financieros, balance y memoria anual de actividades. Asimismo, deberá publicar, la nómina de su directorio en ejercicio o de su órgano superior de administración, administradores principales, y los recursos recibidos por fecha, monto y organismo otorgante. La institución privada receptora -en la misma oportunidad en la que realice las mencionadas publicaciones-, deberá remitir dicha información al organismo público correspondiente, el cual deberá publicarla en el sitio electrónico en el que da cumplimiento a las obligaciones de Transparencia Activa. De acuerdo con lo dispuesto en el artículo 8° del artículo primero de la Ley N°20.285, sobre Acceso a la Información Pública, cualquier persona podrá reclamar ante el Consejo para la Transparencia, si el organismo público correspondiente no realiza las publicaciones indicadas en este inciso, o no actualiza la información. Corresponderá al Consejo para la Transparencia impartir instrucciones sobre el cumplimiento de las obligaciones de transparencia activa contenidas en el presente inciso. Primer Trámite Primer Informe 86438 Boletín N°17870-05 2025-11-18T16:27:23 71 40 12 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Sauerbaum Frank Artículo NUEVO Para agregar un nuevo artículo del siguiente tenor: \"Artículo xx.- La Dirección de Presupuestos deberá remitir a la Comisión Especial Mixta de Presupuestos, a más tardar el 31 de enero de 2026, un informe consolidado sobre los saldos de los pasivos exigibles de los órganos y servicios públicos regidos presupuestariamente por el decreto ley N° 1.263, de 1975, excepto el Congreso Nacional, Poder Judicial, Ministerio Público y la Contraloría General de la República, con fecha de corte al 31 de diciembre de 2025. Dicho informe deberá identificar, por cada partida y capítulo considerada, a lo menos el siguiente desglose informativo: 1. Saldo Total de Compromisos Devengados No Pagados: El monto total de las obligaciones devengadas y pendientes de pago a la fecha de corte. Esto debe incluir explícitamente la Deuda Flotante (registrada en la asignación presupuestaria 34.07 o su equivalente contable) y todas las demás cuentas por pagar provenientes de gastos presupuestarios. 2. Desglose por Antigüedad de la Deuda: El saldo total de los compromisos devengados no pagados, clasificado según el tiempo transcurrido desde su devengamiento o la fecha de recepción de la factura, en los siguientes tramos: 0 a 30 días; 31 a 90 días; y más de 90 días. 3. Desglose Informativo por Tipo de Acreedor: Una individualización de los saldos pendientes de pago, según la naturaleza del acreedor, distinguiendo, a lo menos, entre proveedores de bienes y servicios (distinguiendo entre pymes y grandes empresas, en la medida que la información esté disponible); obligaciones de personal; transferencias pendientes a otras entidades del sector público (incluyendo Gobiernos Regionales); y otros pasivos. Este informe deberá ser remitido en un formato estandarizado que permita la comparación entre las distintas Partidas y Capítulos, facilitando la fiscalización de la gestión de liquidez y los compromisos operativos del Fisco.\". Primer Trámite Primer Informe 86437 Boletín N°17870-05 2025-11-18T16:26:15 92 17 20 0 Quórum Simple Aprobado Proyecto de Ley Particular de la diputada Yeomans Gael Artículo NUEVO A contar del 01 de julio de 2026, cada ministerio y los demás órganos de la Administración del Estado deberán publicar en sus respectivos sitios web institucionales el estado de tramitación de decretos y reglamentos de leyes promulgadas a contar del 02 de enero de 2026 que cuenten con uno o más informes financiero de acuerdo a lo establecido en el Artículo 1º bis de la Ley Nº 20.128 Primer Trámite Primer Informe 86436 Boletín N°17870-05 2025-11-18T16:25:00 74 47 8 0 Ley Orgánica Constitucional Unánime Proyecto de Ley Particular (Ley Orgánica Constitucional) del diputado Sauerbaum Frank Artículo NUEVO Para agregar un nuevo artículo del siguiente tenor: \"Artículo x.- Durante el año presupuestario 2026, la Contraloría General de la República efectuará auditorías aleatorias de personal y remuneraciones de los últimos 18 meses en los órganos de la Administración del Estado, con el propósito de auditar aquellas contrataciones que sean iguales o superiores a los $2 millones de pesos mensuales, analizando si el personal contratado en calidad de planta, contrata o a honorarios en dichos términos posee las cualidades curriculares, académicas o la experiencia profesional personal idónea para ejercer el cargo y percibir la respectiva remuneración. Las irregularidades que se detecten por el órgano contralor en el desarrollo de las auditorias serán comunicadas a la respectiva jefatura y al Consejo de Defensa del Estado para que dé inicio a las acciones judiciales que correspondieren. Copia de dichas comunicaciones será remitida ambas cámaras del Congreso Nacional.\". Primer Trámite Primer Informe 86435 Boletín N°17870-05 2025-11-18T16:23:23 59 62 2 0 Quórum Simple Unánime Proyecto de Ley Particular de la diputada Pérez Joanna Artículo NUEVO Los órganos, servicios públicos y entidades del Estado comprendidos en la presente ley que, durante el ejercicio presupuestario, suscriban convenios, colaboraciones, transferencias, solicitudes de coordinación o instrumentos de ejecución conjunta con otros órganos de la Administración del Estado o con instituciones privadas, propenderán a la utilización de mecanismos formales de coordinación interinstitucional y de rendición de cuentas. Los ministerios y servicios públicos propenderán a coordinar sus acciones con las instituciones involucradas en la ejecución de los convenios o colaboraciones financiadas con recursos fiscales, Dentro de los treinta días siguientes al término de cada trimestre, los órganos y servicios públicos informarán a la Comisión Especial Mixta de Presupuestos, con copia a la Dirección de Presupuestos, un reporte consolidado que contenga: i) La nómina de los convenios y colaboraciones vigentes o suscritos en el período; ii) Las entidades públicas o privadas participantes; iii) Los montos comprometidos y ejecutados; iv) Los objetivos y resultados esperados; v) El estado de avance físico y financiero; vi) Las dificultades detectadas en la coordinación interinstitucional o en la implementación, y las medidas adoptadas para superarlas. Dicho informe deberá presentarse en formato digital, legible y procesable, conforme a las instrucciones impartidas por la Dirección de Presupuestos. Primer Trámite Primer Informe 86434 Boletín N°17870-05 2025-11-18T16:21:48 56 65 6 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicación 84 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86433 Boletín N°17870-05 2025-11-18T16:20:11 43 80 4 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicación 83 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86432 Boletín N°17870-05 2025-11-18T16:18:02 75 51 2 0 Quórum Simple Aprobado Proyecto de Ley Admisibilidad del diputado Sauerbaum Frank Artículo NUEVO Para agregar un nuevo artículo del siguiente tenor: \"Art. xx.- Durante el año 2026, la dictación del decreto supremo al que hace referencia el artículo octavo transitorio de la ley N° 21.600, que crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas protegidas, requerirá previamente la dictación del reglamento a que se refiere el artículo 29 de la misma ley.\". Primer Trámite Primer Informe 86431 Boletín N°17870-05 2025-11-18T16:17:28 69 58 2 0 Quórum Simple Aprobado Proyecto de Ley Admisibilidad Partida 00 Indicación 81 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86430 Boletín N°17870-05 2025-11-18T16:15:21 73 50 7 0 Quórum Simple Aprobado Proyecto de Ley Admisibilidad del diputado Sauerbaum Frank Artículo NUEVO Para agregar un nuevo artículo del siguiente tenor: \"Artículo xx.- \"\"En el proceso de Admisión Escolar correspondiente al año 2027, el Ministerio de Educación deberá ejecutar las acciones necesarias para otorgar preferencia en la asignación de vacantes a las personas de nacionalidad chilena y a los extranjeros que se encuentren en situación migratoria regular. Tratándose de postulantes que se encuentren en condición migratoria irregular, los establecimientos educacionales deberán proceder a su enrolamiento y registro conforme a lo dispuesto en el artículo 44 de la Ley N° 21.325, de Migración y Extranjería.\". Primer Trámite Primer Informe 86429 Boletín N°17870-05 2025-11-18T16:14:44 67 58 3 0 Quórum Simple Aprobado Proyecto de Ley Admisibilidad Partida 00 Indicación 77 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86428 Boletín N°17870-05 2025-11-18T16:13:20 44 71 8 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicación 76 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86427 Boletín N°17870-05 2025-11-18T16:11:12 44 81 2 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicaciones 74 y 75 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86426 Boletín N°17870-05 2025-11-18T16:09:23 31 89 9 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicación 73 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86425 Boletín N°17870-05 2025-11-18T16:06:10 31 95 3 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicaciones 71 y 72 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86424 Boletín N°17870-05 2025-11-18T16:03:16 54 66 9 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicación 69 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86423 Boletín N°17870-05 2025-11-18T16:00:09 61 64 5 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicación 66 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86422 Boletín N°17870-05 2025-11-18T15:57:37 32 61 37 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicación 62 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86421 Boletín N°17870-05 2025-11-18T15:55:50 64 60 6 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicación 60 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86420 Boletín N°17870-05 2025-11-18T15:53:57 63 62 4 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicación 59 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86419 Boletín N°17870-05 2025-11-18T15:52:09 63 61 4 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicación 58 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86418 Boletín N°17870-05 2025-11-18T15:49:42 57 61 7 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicación 57 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86417 Boletín N°17870-05 2025-11-18T15:46:04 71 51 9 0 Quórum Simple Aprobado Proyecto de Ley Admisibilidad del diputado Sauerbaum Frank Artículo NUEVO Para agregar un nuevo artículo del siguiente tenor: \"Artículo xx.- Prohíbase durante el año presupuestario 2026 con cargo a los recursos de esta ley, la implementacion o ejecución de todo proceso de regularización extraordinaria de extranjeros en situación migratoria irregular.\". Primer Trámite Primer Informe 86416 Boletín N°17870-05 2025-11-18T15:45:13 67 60 2 0 Quórum Simple Aprobado Proyecto de Ley Admisibilidad Partida 00 Indicación 56 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86415 Boletín N°17870-05 2025-11-18T15:41:45 65 61 4 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicación 55 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86414 Boletín N°17870-05 2025-11-18T15:39:33 60 63 5 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Reclamación de inadmisibilidad de la indicación N° 54 del articulado. Primer Trámite Primer Informe 86413 Boletín N°17870-05 2025-11-18T15:36:47 66 58 5 0 Quórum Simple Aprobado Proyecto de Ley Admisibilidad del diputado Donoso Felipe Artículo NUEVO Agréguese un nuevo artículo del siguiente tenor: “Los procesos de asignación de beneficios cuya vigencia sea anual y estén sujetos a postulación, llamado, concurso, cualquiera sea su mecanismo de aplicación, podrán iniciarse solamente una vez se cuente con la información del cierre del año fiscal 2025 y sujeto a que los ingresos tributarios resto de contribuyentes de dicho año completen el 17% del PIB respectivo. Aquellos beneficios cuya asignación y/o adjudicación se realice en más de un proceso de postulación, llamado, concurso, cualquiera sea su mecanismo de aplicación, se sujetarán al comportamiento de los ingresos de acuerdo con el nivel esperado que se reporte trimestralmente en el informe de ejecución presupuestaria, a partir de lo cual, la Dirección de Presupuestos instruirá instrucciones al respecto.” Primer Trámite Primer Informe 86412 Boletín N°17870-05 2025-11-18T15:35:34 59 50 2 0 Quórum Simple Aprobado Proyecto de Ley Admisibilidad Partida 00 Indicación 52 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86411 Boletín N°17870-05 2025-11-18T15:32:41 63 58 5 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 00 Indicación 51 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 86410 Boletín N°17870-05 2025-11-18T15:31:07 70 51 4 0 Quórum Simple Aprobado Proyecto de Ley Admisibilidad del diputado Sauerbaum Frank Artículo NUEVO Para agregar un nuevo artículo del siguiente tenor: \"\"Artículo xx.- Entre el 1 de enero de 2026 y hasta el 10 de marzo del mismo año la aplicación de lo dispuesto en el artículo referido al cambio de calidad juridica de honorario a suma alzada a contrata, estará sujeto a las siguientes restricciones: a) La modificación de la calidad jurídica de honorario a suma alzada a contrata deberá ser calificada como necesaria para el continuo y buen funcionamiento del servicio por parte de quien se desempeña como su Jefe Superior. En caso de duda sobre esta calificación podrá consultarlo a la Contraloría General de la República, la que evacuará respuesta en forma de Dictamen. b) No podrá modificarse la calidad jurídica de honorario a suma alzada del funcionario que haya prestado servicios en dicha modalidad en un Gabinete Ministerial o de la Jefatura Superior de un servicio durante el año previo a la modificación.\". Primer Trámite Primer Informe 86409 Boletín N°17870-05 2025-11-18T15:30:19 66 59 2 0 Quórum Simple Aprobado Proyecto de Ley Admisibilidad Partida 00 Indicación 50 - En votación la reclamación contra la declaración de inadmisibilidad. Primer Trámite Primer Informe 86408 Boletín N°17870-05 2025-11-18T15:28:25 66 7 52 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Artículo NUEVO Agrégase el siguiente artículo 49: “Artículo 49.- Los ministerios y servicios públicos no podrán realizar celebraciones generales, ni aniversarios que impliquen desembolsar gasto fiscal, con excepción de las embajadas y consulados en el extranjero para la conmemoración del día de la independencia nacional.”. Primer Trámite Primer Informe 86407 Boletín N°17870-05 2025-11-18T15:26:14 60 65 0 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Artículo NUEVO Agrégase el siguiente artículo 47: “Artículo 47.- Los sostenedores de los establecimientos educacionales que hayan percibido la subvención escolar preferencial regulada en la ley N°20.248, y que, conforme a lo registrado por la Superintendencia de Educación, cuenten con saldos acreditados o no acreditados derivados de Convenios de Igualdad de Oportunidades y Excelencia Educativa que hayan expirado a la fecha de la entrada en vigencia de la presente ley, deberán presentar al Ministerio de Educación un Plan de Ejecución y Recuperación de Saldos, en adelante, el Plan, a más tardar el 31 de marzo de 2026. Dicho Plan deberá presentarse de acuerdo al formato que el Ministerio ponga a disposición de los sostenedores. El Plan considerará todo o parte de los saldos de subvención escolar preferencial indicados en el inciso primero que se encuentren registrados por la Superintendencia de Educación. Esta última informará tales saldos, a partir de la publicación de la presente ley. El Plan tendrá por objeto permitir que dichos sostenedores puedan ejecutar las acciones que en éste comprometan, las que deberán financiarse con cargo a los saldos señalados. Además, deberá contener las acciones que serán financiadas con los saldos la oportunidad en la cual éstas serán ejecutadas, las que no podrá exceder del 30 de junio 2026. Dichas acciones podrán consistir en: a) Financiar el mantenimiento, reparación, construcción y habilitación de infraestructura y mobiliario esencial para el funcionamiento de los establecimientos educacionales. b) Financiar acciones destinadas a reducir las brechas de aprendizaje, promover la inclusión y fortalecer las trayectorias escolares. c) Financiar acciones orientadas a fortalecer la eficiencia y eficacia en la gestión administrativa y financiera de los establecimientos educacionales, dentro de las cuales se podrá considerar el pago de deuda previsional respecto del personal docente y asistente de la educación que se desempeñe en los establecimientos educacionales del respectivo sostenedor. d) Destinar recursos para los fines educativos establecidos en el artículo 3 del decreto con fuerza de ley N°2, de 1998, del Ministerio de Educación. e) Racionalizar la dotación de profesionales y asistentes de la educación, con el objeto de optimizar las estructuras de costos y garantizar su sostenibilidad financiera en el tiempo. Para estos efectos, no se requerirá modificar el Plan Anual de Desarrollo Educativo Municipal, debiendo dar cuenta de los ajustes correspondientes el Plan Anual del año siguiente. Para el caso de las acciones previstas en el literal a) precedente, el Plan podrá considerar la posibilidad de que ellas se ejecuten durante los tres primeros trimestres del año 2026. El Ministerio de Educación, deberá dictar una o más resoluciones que individualicen a los sostenedores que no presenten el Plan dentro del plazo indicado en el inciso primero, o bien, lo presenten por sólo parte de los saldos registrados. Dicha resolución deberá dictarse a más tardar en el mes de mayo de 2026. El sostenedor que no presente el Plan o presente uno por parte de los saldos registrados, deberá reintegrar dichos saldos, en una sola cuota, a rentas generales de la Nación, dentro de 30 días hábiles a partir de la fecha en que se le notifique la resolución, la que podrá ser notificada de acuerdo a las reglas generales, o mediante correo electrónico u otra plataforma que usualmente el Ministerio de Educación utilice. El Ministerio de Educación, deberá dictar una o más resoluciones que dejen constancia de la presentac Primer Trámite Primer Informe 86406 Boletín N°17870-05 2025-11-18T15:24:00 60 64 1 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Artículo NUEVO Agrégase el siguiente artículo 46: “Artículo 46.- Autorizase al Fisco a efectuar, durante el año 2026, un aporte fiscal de hasta 100.000.000 de dólares de los Estados Unidos de América, o su equivalente en moneda nacional, a la persona jurídica de derecho público denominada \"Fondo de Garantías Especiales\", creada por la ley N° 21.543.”. Primer Trámite Primer Informe 86405 Boletín N°17870-05 2025-11-18T15:22:59 60 63 1 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Artículo NUEVO Agrégase el siguiente artículo 44: “Artículo 44.- Los profesionales de la educación dependientes de sostenedores o administradores regidos por el párrafo tercero de las disposiciones transitorias de la Ley N°20.903 que no hayan pasado a regirse por el título III del decreto con fuerza de ley N°1 de 1996, del Ministerio de Educación, a la fecha de publicación de la presente ley, lo harán en forma obligatoria a contar de julio de 2027, en lugar del momento dispuesto por el artículo trigésimo transitorio de la Ley N° 20.903. Lo anterior, es sin perjuicio del derecho consagrado en el artículo vigésimo cuarto transitorio de la misma ley. Serán exceptuados de lo dispuesto en el inciso anterior aquellos profesionales de la educación que hayan rendido los instrumentos de evaluación contemplados en el artículo 19K del decreto con fuerza de ley N°1 de 1996, del Ministerio de Educación, en el proceso de evaluación docente del año 2025, y que además sean reconocidos en la resolución que establece el artículo 19Q del referido decreto con fuerza de ley.”. Primer Trámite Primer Informe 86404 Boletín N°17870-05 2025-11-18T15:22:06 55 63 4 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Artículo NUEVO Agrégase el siguiente artículo 36: “ARTÍCULO 36.- Autorízase al Fisco para postergar a contar de la fecha de publicación de esta ley y hasta su vigencia, el cumplimiento de la obligación contenida en el artículo tercero transitorio de la ley N° 21.174, que establece nuevo mecanismo de financiamiento de las capacidades estratégicas de la defensa nacional, respecto del Fondo de Contingencia Estratégico.”. Primer Trámite Primer Informe 86403 Boletín N°17870-05 2025-11-18T15:21:11 57 62 2 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Artículo NUEVO Agrégase el siguiente artículo 15: “ARTÍCULO 15.- Fíjase para el año 2026 en 6.500 el número máximo de personas que podrá modificar su calidad jurídica de honorario a suma alzada a contrata, y se asimilará al grado del estamento que le corresponda según el sistema de remuneraciones del servicio, cuya remuneración líquida mensualizada le permita mantener su honorario líquido mensual. Para efectuar los traspasos señalados, a partir del 1 de enero de 2026, a solicitud de los respectivos servicios e instituciones del Sector Público, podrá ser modificado el límite máximo de la dotación de personal fijada en las respectivas glosas presupuestarias de la presente ley, con cargo a una compensación equivalente en el número de personas contratadas a honorarios a suma alzada, fijado en las glosas presupuestarias correspondientes, asociadas a los Subtítulos 21 y 24. Los ajustes derivados de la aplicación de este artículo serán establecidos por medio de decretos del Ministerio de Hacienda, dictados conforme a lo dispuesto en el artículo 70 del decreto ley N° 1.263, de 1975, y deberán ser informados mensualmente, dentro de los treinta días siguientes al término del mes respectivo, a la Comisión Especial Mixta de Presupuestos. También, mediante decretos del Ministerio de Hacienda dictados conforme a lo señalado anteriormente, se establecerán los requisitos para el traspaso; la forma de determinar la remuneración líquida mensualizada, para cuyo cálculo no procederá descontar los impuestos, el honorario líquido mensual y el grado de asimilación al estamento que le corresponda según el sistema de remuneraciones del servicio; los criterios de priorización que, a lo menos, deberán establecer las jefas y los jefes superiores de servicio para el caso que haya más personal a honorarios que cupos disponibles para el traspaso; y las demás normas de procedimiento que sean necesarias para la implementación de este artículo. Durante el año 2026, los órganos y servicios públicos incluidos en la presente ley podrán renovar las contrataciones de su personal sobre la base de honorarios sin quedar sujeto a las limitaciones establecidas en el artículo 11 de la ley N° 18.834, sobre Estatuto Administrativo, u otra norma de similar naturaleza que rija al respectivo órgano público. Asimismo, los reemplazos del personal a honorarios no quedarán afectos a la limitación antes señalada.”. Primer Trámite Primer Informe 86402 Boletín N°17870-05 2025-11-18T15:20:03 56 62 3 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Artículo NUEVO Agrégase el siguiente artículo 4: “ARTÍCULO 4.- De conformidad con lo dispuesto en el inciso tercero del artículo 26 del decreto ley N° 1.263, de 1975, sólo en virtud de autorización otorgada por ley podrá incrementarse la suma del valor neto de los montos para los Gastos en personal, Bienes y servicios de consumo, Prestaciones de seguridad social, Transferencias corrientes y Otros gastos corrientes incluidos en el artículo 1, en moneda nacional y en moneda extranjera convertida a dólares. No regirá lo dispuesto en el inciso precedente respecto de los mayores egresos que se produzcan en los ítems de los referidos Subtítulos que sean legalmente excedibles de acuerdo al artículo 28 del decreto ley N° 1.263, de 1975, y a la glosa 01, Programa Operaciones Complementarias de esta ley, ni a los incrementos originados con motivo de la venta de activos financieros o en virtud de lo dispuesto en el artículo 21 del decreto ley N° 1.263, de 1975. Los mayores gastos efectivos o incrementos que se dispongan por tales conceptos, en la cantidad que excedan lo presupuestado, incrementarán los montos máximos señalados en el inciso precedente, según corresponda. Igual autorización legal se requerirá para aumentar la suma de las cantidades aprobadas en el artículo 1, de los Subtítulos de Adquisición de activos no financieros, de las Iniciativas de inversión y Transferencias de capital a organismos o empresas no incluidas en esta ley, en un monto superior al 10 por ciento de dicha suma, salvo que los incrementos se financien con reasignaciones presupuestarias provenientes del monto máximo establecido en el inciso primero de este artículo o por incorporación de mayores saldos iniciales de caja, excepto el correspondiente a la Partida Tesoro Público, del producto de venta de activos, de recursos obtenidos de fondos concursables de entes públicos o de recuperación de anticipos. Los incrementos que provengan de las referidas reasignaciones disminuirán en igual cantidad el monto máximo establecido en el inciso primero de este artículo. Los aportes a cada una de las empresas incluidas en esta ley podrán elevarse hasta en el 10 por ciento. Sin perjuicio de las disposiciones de este artículo, el uso de los recursos del Fondo de Estabilización Económica y Social, creado por el artículo 10 de la ley N° 20.128, que se haga de acuerdo con lo establecido en el inciso final de dicha norma, requerirá autorización legal cuando su monto acumulado anual supere el 0,3% del Producto Interno Bruto.” Primer Trámite Primer Informe 86400 Boletín N°17870-05 2025-11-18T15:17:57 112 0 3 0 Quórum Calificado Aprobado Proyecto de Ley Particular En votación la indicación N° 2, presentada por el Ejecutivo, que sustituye el artículo 3, que requiere para su aprobación del voto favorable de 77 diputadas y diputados por tratarse de una norma de quorum calificado, del siguiente tenor: Sustitúyase el artículo 3, por el siguiente: “ARTÍCULO 3.- Autorízase al Presidente de la República para contraer obligaciones, en el país o en el exterior, en moneda nacional o en monedas extranjeras, hasta por la cantidad de US$ 17.400.000 miles que, por concepto de endeudamiento, se incluye en los Ingresos Generales de la Nación. Autorízasele, además, para contraer obligaciones, en el país o en el exterior, hasta por la cantidad de US$ 600.000 miles o su equivalente en otras monedas extranjeras o en moneda nacional. Para los fines de este artículo, se podrán emitir y colocar bonos y otros documentos en moneda nacional o extranjera, los cuales podrán llevar impresa la firma del Tesorero General de la República. La parte de las obligaciones contraídas en virtud de esta autorización que sea amortizada dentro del ejercicio presupuestario 2026 y aquellas que se contraigan para efectuar el pago anticipado total o parcial de deudas constituidas en ejercicios anteriores, deducidas las amortizaciones incluidas en esta ley para el año 2026, no serán consideradas en el cómputo del margen de endeudamiento fijado en los incisos anteriores. La autorización que se otorga al Presidente de la República será ejercida mediante decretos supremos expedidos a través del Ministerio de Hacienda, en los cuales se identificará el destino específico de las obligaciones que se contraigan, con indicación de las fuentes de recursos con cargo a los cuales debe hacerse el servicio de la deuda. Copias de estos decretos serán enviadas a las comisiones de Hacienda del Senado y de la Cámara de Diputados dentro de los quince días siguientes al de su total tramitación.”. Primer Trámite Primer Informe 86590 Boletín N°17870-05 2025-11-18T15:17:13 117 0 2 0 Quórum Calificado Aprobado Proyecto de Ley Particular En votación la indicación N° 1, presentada por el Ejecutivo, que sustituye el artículo 2 (quorum calificado): “ARTÍCULO 2.- Durante el año 2026 el Presidente de la República podrá otorgar la garantía del Estado a los créditos que contraigan o a los bonos que emitan las empresas del Sector Público y las universidades estatales, hasta por la cantidad de US$500.000.000 o su equivalente en otras monedas extranjeras o en moneda nacional. La autorización que se otorga al Presidente de la República será ejercida mediante uno o más decretos supremos expedidos a través del Ministerio de Hacienda, en los cuales se identificará el destino específico de las obligaciones por contraer, y se indicarán las fuentes de los recursos con cargo a los cuales debe hacerse el servicio de la deuda. Estos decretos podrán incluir los requisitos de información y otras actuaciones que deberán cumplir las empresas y universidades señaladas mientras se encuentren vigentes los créditos o bonos. Las garantías que otorgue el Estado en conformidad con este artículo se extenderán al capital, reajustes e intereses que devenguen los créditos y los bonos mencionados precedentemente, comisiones, contratos de canje de monedas y demás gastos que irroguen, cualquiera sea su denominación presente o futura, hasta el pago efectivo de dichas obligaciones. Las empresas señaladas en el inciso primero, para obtener la garantía estatal indicada deberán suscribir previamente, cuando corresponda, un convenio de programación con el Comité Sistema de Empresas de la Corporación de Fomento de la Producción, en que se especificarán los objetivos y los resultados esperados de su operación y programa de inversiones, en la forma que se establezca mediante instrucciones del Ministerio de Hacienda. A estos convenios les será aplicable el inciso segundo del artículo 2 de la ley N° 19.847. Autorízase a las universidades estatales para contratar durante el año 2026 empréstitos para el financiamiento de capital de trabajo y de remuneraciones, -con excepción de incrementos remuneracionales-, refinanciamiento de pasivos, y/o proyectos de inversión, por períodos de hasta veinte años, de forma que, con los montos que se contraten, el nivel del stock del endeudamiento financiero no deberá exceder del cien por ciento del patrimonio respectivo. El servicio de la deuda se realizará con cargo al patrimonio de las mismas universidades estatales que las contraigan. Estos empréstitos, deberán contar con la visación previa del Ministerio de Hacienda. La respuesta por parte del Ministerio de Hacienda deberá efectuarse dentro del plazo de noventa días corridos, a contar de la recepción conforme de los respectivos antecedentes. Para la contratación de empréstitos cuyo vencimiento no exceda la duración del actual período presidencial, la visación del Ministerio de Hacienda deberá efectuarse dentro del plazo de veinte días corridos. El análisis de la relación deuda-patrimonio se realizará habida consideración de los estados financieros trimestrales de la respectiva universidad estatal correspondientes al trimestre anterior al de la solicitud. La contratación de los empréstitos que se autorizan a las universidades estatales no estará sujeta a las normas de la ley Nº 19.886 y su reglamento. En todo caso, las universidades deberán llamar a propuesta pública para seleccionar la o las entidades financieras que les concederán el o los empréstitos. Copia electrónica de los contratos de los antedichos empréstitos, con indicación del monto y las condiciones bajo las cuales fueron suscritos, además de un informe que especifique los objetivos y los resultados esperados de cada operación de endeudamiento, serán enviados al Ministerio de Educación, a la Comisión Especial Mixta de Presupuestos y a la Dirección de Presupuestos, dentro de los diez días siguientes al de su contratación.” Primer Trámite Primer Informe 86399 Boletín N°17870-05 2025-11-18T13:52:46 63 61 6 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 50 En votación la indicación 1 de la Partida 50 “Tesoro Público” que reemplaza la partida rechazada de la Comisión Mixta de Presupuestos. Primer Trámite Primer Informe 86398 Boletín N°17870-05 2025-11-18T13:37:11 5 116 9 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 32 En votración la indicacion N° 1 de la Partida 32 “Ministerio de Seguridad Pública” que reemplaza la Partida rewchazada en la Comisión Mixta de Presupuestos. Primer Trámite Primer Informe 86397 Boletín N°17870-05 2025-11-18T13:15:12 53 65 1 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 31 En votación la indicación 1 de la Partida Partida 31 “FINANCIAMIENTO GOBIERNOS REGIONALES” que reemplaza la partida rechazada por la Comisión Mixta de Presupuestos. Primer Trámite Primer Informe 86396 Boletín N°17870-05 2025-11-18T12:47:22 64 49 1 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 30 En votación la indicacion 1 de la Partida 30 “Ministerio de Ciencia, Tecnología, Conocimiento e Innovación” que reemplaza la partida rechazada por la Comisión Mixta de Presupuestos. Primer Trámite Primer Informe 86395 Boletín N°17870-05 2025-11-18T12:42:30 61 53 3 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 29 En votación la indicación 1 de la Partida Partida 29 “MINISTERIO DE LAS CULTURAS, LAS ARTES Y EL PATRIMONIO” que reemplaza la partida rechazada por la Comisión Mixta de Presupuestos. Primer Trámite Primer Informe 86392 Boletín N°17870-05 2025-11-18T12:19:03 61 45 2 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 28 - Cap 01 - Prog 01 - Sub 22 En uso de las facultades que me otorga la Constitución Política de la República, he resuelto formular al proyecto de Ley de Presupuestos del Sector Público para el año 2026, la modificación que seguidamente indico a la Partida 28 “SERVICIO ELECTORAL” de dicha iniciativa legal: 28 SERVICIO ELECTORAL - Capítulo:01 Servicio Electoral - Programa: 01 Servicio Electoral En el subtítulo 22 “BIENES Y SERVICIOS DE CONSUMO” del Programa 28-01-01 “Servicio Electoral”, reemplázase el guarismo “62.856 Miles de $” por “6.317.951 Miles de $”. Como consecuencia de esta indicación, cabe entender modificados los rubros afectados y los rubros superiores de agregación. Primer Trámite Primer Informe 86391 Boletín N°17870-05 2025-11-18T12:17:49 60 43 3 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 28 - Cap 01 - Prog 01 - Sub 21 28 SERVICIO ELECTORAL En el subtítulo 21 “GASTOS EN PERSONAL” del Programa 28-01-01 “Servicio Electoral” reemplázase el guarismo “5.061.064 Miles de $” por “18.433.179 Miles de $”. Primer Trámite Primer Informe 86390 Boletín N°17870-05 2025-11-18T12:09:28 59 49 2 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 27 En votación la indicación N° 1 de la Partida N° 27 MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos.. Primer Trámite Primer Informe 86389 Boletín N°17870-05 2025-11-18T11:58:46 51 56 0 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 26 En votación la indicación N° 1 de la Partida N° 26 MINISTERIO DEL DEPORTE, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86388 Boletín N°17870-05 2025-11-18T11:47:48 44 60 2 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 25 En votación la indicación N° 1 de la Partida N° 25 MINISTERIO DEL MEDIO AMBIENTE, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86387 Boletín N°17870-05 2025-11-18T11:34:26 42 51 4 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 24 En votación la indicación N° 1 de la Partida N° 24 MINISTERIO DE ENERGÍA, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86386 Boletín N°17870-05 2025-11-18T11:24:34 51 47 2 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 23 En votación la indicación N° 1 de la Partida N° 23 MINISTERIO PÚBLICO,que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86385 Boletín N°17870-05 2025-11-18T11:13:15 49 52 1 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 22 En votación la indicación N° 1 de la Partida N° 22 MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA DE LA REPÚBLICA, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86384 Boletín N°17870-05 2025-11-18T11:09:24 50 47 5 0 Quórum Simple Unánime Proyecto de Ley Particular del diputado Romero Agustín Part 21 - Cap 10 - Prog 02 - Sub 24 - Item 03 Semestralmente, se deberá informar a la Comisión Especial Mixta de Presupuestos de las acciones realizadas en el marco del Programa de Apoyo a la Identidad de Género (PAIG), indicando el número de atenciones y el origen de la derivación. Asimismo, se deberá expresar si cuenta con la autorización de los padres o apoderados del niño, niña o adolescente que ingresa al PAIG. En la información que se envíe se deberá señalar si es beneficiario de otro programa relacionado con la identidad de género. Primer Trámite Primer Informe 86383 Boletín N°17870-05 2025-11-18T11:06:07 57 43 1 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Romero Agustín Part 21 - Cap 10 - Prog 02 - Sub 24 - Item 03 Trimestralmente, se informará a la Comisión Especial Mixta de Presupuestos, a la Comisión de Familia, Infancia y Adolescencia del Senado y a la Comisión de la Familia de la Cámara de Diputados respecto del estado de avance y la ejecución presupuestaria del Programa de Apoyo a la Identidad de Género (PAIG), y sobre el apoyo psicológico y biopsicosocial a niños, niñas y adolescentes cuya identidad de género no coincide con su sexo y nombre registral. Primer Trámite Primer Informe 86382 Boletín N°17870-05 2025-11-18T11:04:44 52 48 2 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 21 En votación la indicación N° 1 de la Partida N° 21 MINISTERIO DE DESARROLLO SOCIAL Y FAMILIA, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. El párrafo final de la glosa 14 del programa 01 del capitulo 01 se entiende rechazada por no haber alcanzado el quorum constitucional requerido. Primer Trámite Primer Informe 86381 Boletín N°17870-05 2025-11-18T10:47:50 46 47 1 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 20 En votación la indicación N° 1 de la Partida N° 20 MINISTERIO SECRETARÍA GENERAL DE GOBIERNO, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86380 Boletín N°17870-05 2025-11-18T10:42:45 47 45 1 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 19 En votación la indicación N° 1 de la Partida N° 19 MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. La glosa 5 del programa 04 del capítulo 01 se entiende rechazada por no alcanzar el quorum constitucional requerido. Primer Trámite Primer Informe 86379 Boletín N°17870-05 2025-11-18T10:28:49 45 41 2 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 18 En votación la indicación N° 1 de la Partida N° 18 MINISTERIO DE VIVIENDA Y URBANISMO, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Las glosas 4 y 7 del programa 04 del capitulo 01, la glosa 4 del programa 02 del capítulo 01 y la glosa 7 de la partida se entienden rechazadas por no haber alcanzado el quorum constitucional requerido. Primer Trámite Primer Informe 86361 Boletín N°17870-05 2025-11-17T19:35:19 47 53 2 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 17 En votación la indicación N° 1 de la Partida N° 17 MINISTERIO DE MINERÍA, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86360 Boletín N°17870-05 2025-11-17T19:31:27 36 53 14 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 16 En votación la indicación N° 1 de la Partida N° 16 MINISTERIO DE SALUD, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86358 Boletín N°17870-05 2025-11-17T19:03:42 51 41 1 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 15 En votación la indicación N° 1 de la Partida N° 15 MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL,que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86357 Boletín N°17870-05 2025-11-17T19:00:08 92 0 1 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 14 - Cap 01 - Prog 05 - Sub 21 En uso de las facultades que me otorga la Constitución Política de la República, he resuelto formular al proyecto de Ley de Presupuestos del Sector Público para el año 2026, la modificación que seguidamente indico a la Partida 14 “MINISTERIO DE BIENES NACIONALES” de dicha iniciativa legal: I. A la Partida 14 Ministerio de Bienes Nacionales, - Capítulo 01: Subsecretaría de Bienes Nacionales - Programa 05: Catastro Sustitúyase en el literal e) Autorización máxima para cumplimiento artículo septuagésimo tercero de la Ley N° 19.882, Asignación por Funciones Críticas de la Glosa 01, asociada al subtítulo 21, el guarismo “22.341” por “20.107”. Como consecuencia de esta indicación, cabe entender modificados los rubros afectados y los superiores de agregación. Primer Trámite Primer Informe 86356 Boletín N°17870-05 2025-11-17T18:58:54 92 0 1 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 14 - Cap 01 - Prog 04 - Sub 21 En uso de las facultades que me otorga la Constitución Política de la República, he resuelto formular al proyecto de Ley de Presupuestos del Sector Público para el año 2026, la modificación que seguidamente indico a la Partida 14 “MINISTERIO DE BIENES NACIONALES” de dicha iniciativa legal: A la Partida 14 Ministerio de Bienes Nacionales, - Capítulo 01: Subsecretaría de Bienes Nacionales - Programa 04: Administración de Bienes Sustitúyase en el literal e) Autorización máxima para cumplimiento artículo septuagésimo tercero de la Ley N° 19.882, Asignación por Funciones Críticas de la Glosa 02, asociada al subtítulo 21, el guarismo “22.341” por “20.107”. Como consecuencia de esta indicación, cabe entender modificados los rubros afectados y los superiores de agregación. Primer Trámite Primer Informe 86355 Boletín N°17870-05 2025-11-17T18:57:48 95 0 1 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 14 - Cap 01 - Prog 03 - Sub 21 En uso de las facultades que me otorga la Constitución Política de la República, he resuelto formular al proyecto de Ley de Presupuestos del Sector Público para el año 2026, la modificación que seguidamente indico a la Partida 14 “MINISTERIO DE BIENES NACIONALES” de dicha iniciativa legal: I. A la Partida 14 Ministerio de Bienes Nacionales, - Capítulo 01: Subsecretaría de Bienes Nacionales - Programa 03: Regularización de la Propiedad Raíz Sustitúyase en el literal e) Autorización máxima para cumplimiento artículo septuagésimo tercero de la Ley N° 19.882, Asignación por Funciones Críticas de la Glosa 02, asociada al subtítulo 21, el guarismo “22.341” por “20.107”. Como consecuencia de esta indicación, cabe entender modificados los rubros afectados y los superiores de agregación. Primer Trámite Primer Informe 86354 Boletín N°17870-05 2025-11-17T18:56:27 93 0 1 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 14 - Cap 01 - Prog 01 - Sub 21 En uso de las facultades que me otorga la Constitución Política de la República, he resuelto formular al proyecto de Ley de Presupuestos del Sector Público para el año 2026, la modificación que seguidamente indico a la Partida 14 “MINISTERIO DE BIENES NACIONALES” de dicha iniciativa legal: A la Partida 14 Ministerio de Bienes Nacionales, - Capítulo 01: Subsecretaría de Bienes Nacionales - Programa 01: Subsecretaría de Bienes Nacionales Sustitúyase en el literal e) Autorización máxima para cumplimiento artículo septuagésimo tercero de la Ley N° 19.882, Asignación por Funciones Críticas de la Glosa 02, asociada al subtítulo 21, el guarismo “318.531” por “286.678”. Como consecuencia de esta indicación, cabe entender modificados los rubros afectados y los superiores de agregación. Primer Trámite Primer Informe 86353 Boletín N°17870-05 2025-11-17T18:53:56 49 46 1 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 13 En votación la indicación N° 1 de la Partida N° 13 MINISTERIO DE AGRICULTURA, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. La glosa N° 4 de la Partida y la glosa N° 4 del Programa 02 del Capítulo 01, se entienden rechazadas por no haberse alcanzado el quorum constitucional requerido. Primer Trámite Primer Informe 86352 Boletín N°17870-05 2025-11-17T18:50:52 52 45 1 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 12 En votación la indicación N° 1 de la Partida N° 12 MINISTERIO DE OBRAS PÚBLICAS, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos Primer Trámite Primer Informe 86347 Boletín N°17870-05 2025-11-17T18:37:40 50 44 2 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 11 En votación la indicación N° 1 de la Partida N° 11 MINISTERIO DE DEFENSA NACIONAL, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. La glosa N° 5 de la Partida se entiende rechazada por no haberse alcanzado el quorum constitucional requerido. Primer Trámite Primer Informe 86344 Boletín N°17870-05 2025-11-17T18:29:58 50 44 4 0 Quórum Simple Aprobado Proyecto de Ley Particular de la diputada Flores Camila Part 10 - Cap 03 - Prog 01 PARA AGREGAR UNA GLOSA NUEVA, DEL SIGUIENTE TENOR: \"El Servicio Médico Legal infomará trimestralmente a las Comisiones de Derechos Humanos, Nacionalidad y Ciudadanía del Senado y de Derechos Humanos y Pueblos Originarios de la Cámara de Diputados el número de cuerpos que se encuentran en posesión del Servicio para ser sometidos a pruebas tanatológicas en el contexto de causas calificadas como violaciones a los Derechos Humanos por hechos que hubieren ocurrido entre 1973 y 1989, así como de aquellos que por derivación del Servicio estén en posesión de otras instituciones del ámbito sanitario, singularizando la causa judicial en que estas pericias hubieren sido instruidas.\". Primer Trámite Primer Informe 86343 Boletín N°17870-05 2025-11-17T18:27:52 52 43 6 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 10 En votación la indicación N° 1 de la Partida N° 10 MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. La glosa N° 26 del Programa 01 queda rechazada por no haberse alcanzado el quorum constitucional requerido. Primer Trámite Primer Informe 86340 Boletín N°17870-05 2025-11-17T18:18:09 45 58 4 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 09 En votación la indicación N° 1 de la Partida N° 08 MINISTERIO DE EDUCACIÓN, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86337 Boletín N°17870-05 2025-11-17T18:03:04 55 45 1 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 08 En votación la indicación N° 1 de la Partida N° 08 MINISTERIO DE HACIENDA, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86336 Boletín N°17870-05 2025-11-17T17:58:11 50 45 2 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 07 En votación la indicación N° 1 de la Partida N° 07 MINISTERIO DE ECONOMÍA, FOMENTO Y TURISMO, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86334 Boletín N°17870-05 2025-11-17T17:15:35 46 45 1 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 06 En votación la indicación N° 1 de la Partida N° 06 MINISTERIO DE RELACIONES EXTERIORES, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86333 Boletín N°17870-05 2025-11-17T17:12:59 45 45 1 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 05 En votación la indicación N° 1, de la Partida N° 05 Ministerio del Interior, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86332 Boletín N°17870-05 2025-11-17T17:10:32 47 44 0 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 04 En votación la indicación N° 1de la Partida N° 04 CONTRALORÍA GENERAL DE LA REPÚBLICA,que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe 86331 Boletín N°17870-05 2025-11-17T17:08:01 47 44 0 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 03 - Cap 04 - Prog 01 - Sub 22 En uso de las facultades que me otorga la Constitución Política de la República, he resuelto formular al proyecto de Ley de Presupuestos del Sector Público para el año 2026, la modificación que seguidamente indico a la Partida 03 “PODER JUDICIAL” de dicha iniciativa legal: 03 PODER JUDICIAL - Capítulo:04 Academia Judicial - Programa: 01 Academia Judicial En el subtítulo 22 “BIENES Y SERVICIOS DE CONSUMO” del Programa 03-04-01 “Academia Judicial” reemplázase el guarismo “1 Miles de $” por “616.891 Miles de $”. Como consecuencia de esta indicación, cabe entender modificados los rubros afectados y los rubros superiores de agregación. Primer Trámite Primer Informe 86330 Boletín N°17870-05 2025-11-17T17:07:00 47 44 0 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 03 - Cap 04 - Prog 01 - Sub 21 En uso de las facultades que me otorga la Constitución Política de la República, he resuelto formular al proyecto de Ley de Presupuestos del Sector Público para el año 2026, la modificación que seguidamente indico a la Partida 03 “PODER JUDICIAL” de dicha iniciativa legal: 03 PODER JUDICIAL - Capítulo:04 Academia Judicial - Programa: 01 Academia Judicial Repónense los gastos variables rebajados del subtítulo 21 “GASTOS EN PERSONAL” del Programa 01, Capítulo 04, Partida 03 “Academia Judicial”, reemplázase el guarismo “1.438.269 Miles de $” por “1.452.495 Miles de $”. Como consecuencia de esta indicación, cabe entender modificados los rubros afectados y los rubros superiores de agregación. Primer Trámite Primer Informe 86329 Boletín N°17870-05 2025-11-17T17:05:56 46 44 0 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 03 - Cap 03 - Prog 01 - Sub 22 En uso de las facultades que me otorga la Constitución Política de la República, he resuelto formular al proyecto de Ley de Presupuestos del Sector Público para el año 2026, la modificación que seguidamente indico a la Partida 03 “PODER JUDICIAL” de dicha iniciativa legal: 03 PODER JUDICIAL - Capítulo:03 Corporación Administrativa del Poder Judicial - Programa: 01 Corporación Administrativa del Poder Judicial En el subtítulo 22 “BIENES Y SERVICIOS DE CONSUMO” del Programa 01, Capítulo 03, Partida 03 “Corporación Administrativa del Poder Judicial”, reemplázase el guarismo “138.574 Miles de $” por “98.950.479 Miles de $”. Como consecuencia de esta indicación, cabe entender modificados los rubros afectados y los rubros superiores de agregación. Primer Trámite Primer Informe 86328 Boletín N°17870-05 2025-11-17T17:04:48 47 44 0 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 03 - Cap 03 - Prog 01 - Sub 21 En uso de las facultades que me otorga la Constitución Política de la República, he resuelto formular al proyecto de Ley de Presupuestos del Sector Público para el año 2026, la modificación que seguidamente indico a la Partida 03 “PODER JUDICIAL” de dicha iniciativa legal: 03 PODER JUDICIAL - Capítulo:03 Corporación Administrativa del Poder Judicial - Programa: 01 Corporación Administrativa del Poder Judicial En el subtítulo 21 “GASTOS EN PERSONAL” del Programa 01, Capítulo 03, Partida 03, “Corporación Administrativa del Poder Judicial”, reemplázase el guarismo “1.046.322 Miles de $” por “23.987.805 Miles de $”. Como consecuencia de esta indicación, cabe entender modificados los rubros afectados y los rubros superiores de agregación. Primer Trámite Primer Informe 86327 Boletín N°17870-05 2025-11-17T17:03:20 47 44 0 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 03 - Cap 01 - Prog 02 - Sub 21 En uso de las facultades que me otorga la Constitución Política de la República, he resuelto formular al proyecto de Ley de Presupuestos del Sector Público para el año 2026, la modificación que seguidamente indico a la Partida 03 “PODER JUDICIAL” de dicha iniciativa legal: 03 PODER JUDICIAL - Capítulo:01 Poder Judicial - Programa: 02 Unidad de Apoyo a Tribunales En el subtítulo 21 “GASTOS EN PERSONAL” del programa 03-01-01 “Unidad de Apoyo a Tribunales, reemplázase el guarismo “1 Miles de $” por “36.805.526 Miles de $”. Como consecuencia de esta indicación, cabe entender modificados los rubros afectados y los rubros superiores de agregación. Primer Trámite Primer Informe 86326 Boletín N°17870-05 2025-11-17T17:01:45 41 43 5 0 Quórum Simple Unánime Proyecto de Ley Particular de la diputada Flores Camila Part 03 - Cap 01 - Prog 01 PARA AGREGAR UNA GLOSA NUEVA, DEL SIGUIENTE TENOR: \"A más tardar al día 31 de marzo de 2026 la Corte Suprema informará a las comisiones de Derechos Humanos, Nacionalidad y Ciudadanía del Senado y de Derechos Humanos y Pueblos Originarios de la Cámara de Diputado el total de causas radicadas en el 34° Juzgado del Crimen de Santiago, en Cortes de Apelaciones, en la Corte Suprema o que se sustancien con Ministro en Visita y que correspondan a hechos calificados como vulneraciones a los Derechos Humanos ocurridos entre 1973 y 1989, indicando la situación procesal del sometido a proceso o acusado y el tiempo total por el que se ha prolongado la tramitación de la causa desde su inicio hasta el momento del informe..\". Primer Trámite Primer Informe 86324 Boletín N°17870-05 2025-11-17T17:00:07 44 39 6 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 03 - Cap 01 - Prog 01 - Sub 21 En uso de las facultades que me otorga la Constitución Política de la República, he resuelto formular al proyecto de Ley de Presupuestos del Sector Público para el año 2026, la modificación que seguidamente indico a la Partida 03 “PODER JUDICIAL” de dicha iniciativa legal: 03 PODER JUDICIAL - Capítulo:01 Poder Judicial - Programa: 01 Poder Judicial Repónense los gastos variables rebajados del subtítulo 21 “GASTOS EN PERSONAL” del Programa 03-01-01 “Poder Judicial”, reemplázase el guarismo “438.953.850 Miles de $” por “535.312.426 Miles de $”. Como consecuencia de esta indicación, cabe entender modificados los rubros afectados y los rubros superiores de agregación. Primer Trámite Primer Informe 86320 Boletín N°17870-05 2025-11-17T16:56:50 77 10 5 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Donoso Felipe Part 02 - Cap 02 - Prog 01 - Sub 24 - Item 03 Los diputados que al 11 de marzo del año 2026 integren un comité y con posterioridad lo abandonen, sólo abonarán a su nuevo comité un 30% del aporte, permaneciendo el restante 70% en su comité de origen. Primer Trámite Primer Informe 86319 Boletín N°17870-05 2025-11-17T16:55:28 46 34 12 0 Quórum Simple Unánime Proyecto de Ley Particular del diputado Sauerbaum Frank Part 02 - Cap 01 - Prog 01 - Sub 24 - Item 01 Para agregar una nueva glosa del siguiente tenor: \"Durante el año 2026 no podrá pagarse asignaciones a los expresidentes. Sin embargo, las dietas se pagarán de acuerdo a la ley N° 19.672\". Primer Trámite Primer Informe 86318 Boletín N°17870-05 2025-11-17T16:53:32 45 39 5 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Sauerbaum Frank Part 02 - Cap 01 - Prog 01 - Sub 24 - Item 01 Para reducir a 415.289 miles Primer Trámite Primer Informe 86317 Boletín N°17870-05 2025-11-17T16:48:25 40 39 3 0 Quórum Simple Unánime Proyecto de Ley Particular del Ejecutivo Part 01 En votación la indicación N° 1 de la Partida N° 01 PRESIDENCIA DE LA REPÚBLICA, que reemplaza la Partida rechazada por la Comisión Especial Mixta de Presupuestos. Primer Trámite Primer Informe true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=17870-05",
    "canales_descubrimiento": [
-    "cartera",
-    "camara_anno"
+    "cartera"
    ],
    "id": "c2d7962796ebd4f9",
    "puntaje_pertinencia": 0.0,
@@ -5202,422 +5163,8 @@
    "novedad_detectada": "2026-11-04T08:58:06.657192-03:00"
   }
  ],
- "descartados": [
-  {
-   "boletin": "18384-08",
-   "titulo": "Ley de protección tarifaria eléctrica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18031-24",
-   "titulo": "Ley sobre fomento a las artes de la visualidad",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "17611-15",
-   "titulo": "Regula el uso del espacio público",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18852-03",
-   "titulo": "Proyecto de ley que modifica la Ley General de Cooperativas, con el objeto de fortalecer los estándares prudenciales de gestión de riesgo y transparencia de las cooperativas de ahorro y crédito",
-   "puntaje_pertinencia": 16.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18850-06",
-   "titulo": "Proyecto de ley que consagra un límite a la reelección de los dirigentes vecinales",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18849-07",
-   "titulo": "Modifica cuerpos legales que indica para excluir del indulto particular y de la reducción de condena a los condenados por delitos sexuales cometidos contra personas menores de edad",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18848-07",
-   "titulo": "Modifica el Código Penal para el caso de multirreincidencia de delitos",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18847-07",
-   "titulo": "Establece obligaciones de las asociaciones y fundaciones en relación con aportes provenientes del extranjero",
-   "puntaje_pertinencia": 16.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18846-03",
-   "titulo": "Modifica cuerpos legales que indica para establecer la inhabilidad de los directores y ejecutivos de las Administradoras de Fondos de Pensiones y de fondos de terceros que causen perjuicios a los fondos que administran",
-   "puntaje_pertinencia": 16.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18844-07",
-   "titulo": "Modifica la Carta Fundamental para establecer la imposibilidad del retiro de utilidades por parte de las administradoras de fondos de pensiones en caso de pérdidas atribuidas a decisiones de inversión cuyo riesgo haya sido advertido por el ente regulador",
-   "puntaje_pertinencia": 16.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18842-07",
-   "titulo": "Modifica la ley N° 19.856 y el Código Procesal Penal para precisar la aplicación inmediata de las exclusiones del artículo 17 al beneficio de reducción de condena e incorporar la participación de la víctima",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18837-06",
-   "titulo": "Modifica la ley N° 19.175, orgánica constitucional sobre Gobierno y Administración Regional, para eliminar la inhabilidad de los concejales para ser candidatos a consejero regional",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18836-06",
-   "titulo": "Modifica la ley N°18.695, orgánica constitucional de Municipalidades, con el propósito de eliminar la inhabilidad de los consejeros regionales para ser candidatos a alcalde o concejal",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18834-07",
-   "titulo": "Reforma la Constitución Política de la República para establecer mayores requisitos para acceder a cargos de elección popular",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18819-03",
-   "titulo": "Fomenta la industria de capital de riesgo, mediante la autorización a la Corporación de Fomento de la Producción para participar como aportante en fondos de fondos y en fondos de capital de riesgo",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18810-06",
-   "titulo": "Concede por especial gracia la nacionalidad chilena al ciudadano noruego Don Bernt Daniel Odfjell",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18835-07",
-   "titulo": "Regula la intervención de redes móviles como diligencia especial de investigación y establece un régimen reforzado para la captación excepcional del contenido de las comunicaciones",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18830-07",
-   "titulo": "Modifica cuerpos legales que indica para garantizar la protección de las víctimas en los procesos de otorgamiento de beneficios penitenciarios",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18804-07",
-   "titulo": "Proyecto de ley que, interpreta el artículo 17 de la ley N° 19.856, en materia de exclusión del beneficio de reducción de condena",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18805-07",
-   "titulo": "Proyecto de ley que modifica la ley N° 19.856, con el objeto de precisar los requisitos y las condiciones para acceder al beneficio de reducción de condena",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18806-07",
-   "titulo": "Proyecto de ley que modifica la ley Nº 19.856, que crea un sistema de reinserción social de los condenados sobre la base de la observación de buena conducta, y el Código Procesal Penal, con el objeto de introducir modificaciones al régimen del beneficio penitenciario de reducción de condena",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18817-07",
-   "titulo": "Modifica la Carta Fundamental para establece el deber de las Administradoras de Fondos de Pensiones de restituir a sus afiliados, hasta el monto de las comisiones cobradas, las pérdidas anuales de sus ahorros previsionales obligatorios y lo aplica a las pérdidas de 2026",
-   "puntaje_pertinencia": 16.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18826-06",
-   "titulo": "Modifica textos legales que indica para establecer un régimen de inhabilidades posteriores al ejercicio del cargo para ex autoridades y ex funcionarios del Ministerio de Obras Públicas",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18824-03",
-   "titulo": "Modifica la ley N° 19.496, que establece normas sobre protección de los derechos de los consumidores, para exigir que el tamaño de los envases guarde proporción con su contenido y de sancionar el espacio vacío injustificado",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18822-06",
-   "titulo": "Modifica la ley N° 20.285, sobre acceso a la información pública, para fortalecer la transparencia respecto de las personas que desempeñan funciones en la Administración del Estado",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18818-07",
-   "titulo": "Modifica la Carta Fundamental para establecer el deber de velar por la integridad y seguridad de los fondos de pensiones y la responsabilidad ante actuaciones que causen perjuicios en estos y en sus afiliados",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18792-07",
-   "titulo": "Modifica la Ley N.º 19.856 para precisar la aplicación de sus normas y el otorgamiento de los beneficios de reducción de condena",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18780-07",
-   "titulo": "Proyecto de ley que modifica el Código Procesal Penal para regular los traslados penitenciarios",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18793-07",
-   "titulo": "Modifica la ley N° 19.856 y el Código Procesal Penal para restringir la reducción de condena por delitos sexuales contra menores de edad y fortalecer la información y protección de sus víctimas durante la ejecución de la pena",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18794-07",
-   "titulo": "Modifica la ley N° 19.856 para excluir del beneficio de reducción de condena a las personas condenadas por delitos cometidos contra menores de edad",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18779-07",
-   "titulo": "Proyecto de ley que interpreta y modifica la ley N° 19.856, en materia de exclusión del beneficio de reducción de condena por delitos sexuales cometidos contra menores de edad",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18778-07",
-   "titulo": "Proyecto de reforma constitucional que fortalece la conducción estratégica del Estado en materia de seguridad nacional",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18777-07",
-   "titulo": "Proyecto de reforma constitucional que establece el Comando Conjunto de las Fuerzas Armadas",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18816-07",
-   "titulo": "Modifica el Código Penal para aumentar las penas del delito de abigeato en zonas rurales",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18781-06",
-   "titulo": "Modifica la ley N° 19.995 con el objeto de entregar igualdad de condiciones de competencia a los casinos y otras entidades establecidas por ley",
-   "puntaje_pertinencia": 16.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18815-06",
-   "titulo": "Modifica la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, para ampliar las incompatibilidades y establecer una inhabilidad de cuatro años a exautoridades y exfuncionarios directivos del Ministerio de Obras Públicas para desempeñarse en empresas concesionarias que mantengan contratos vigentes con el Estado",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18788-07",
-   "titulo": "Modifica la Carta Fundamental para restringir la aplicación retroactiva de beneficios penales en delitos sexuales",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18813-07",
-   "titulo": "Modifica el Código Orgánico de Tribunales con el objeto de establecer el deber de veracidad y verificación de los abogados y procuradores y sanciona la litigación temeraria y el abuso procesal",
-   "puntaje_pertinencia": 16.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18814-07",
-   "titulo": "Modifica la Constitución Política de la República para consagrar los principios de autonomía progresiva e interés superior del niño, niña o adolescente",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18764-07",
-   "titulo": "Sanciona la administración temeraria de los fondos de pensiones",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18812-07",
-   "titulo": "Reforma la Constitución Política de la República para garantizar la integridad de los fondos previsionales mediante la contratación de un seguro con cargo a las entidades administradoras en caso de pérdida o rentabilidad negativa",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18811-07",
-   "titulo": "Establece un estatuto de protección penal reforzada para los integrantes de las Fuerzas Armadas, de Orden y Seguridad Pública y Gendarmería de Chile",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18808-25",
-   "titulo": "Aumenta las multas por consumo de alcohol y drogas en espacios públicos y en particular, en recintos deportivos comunitarios",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18807-07",
-   "titulo": "Modifica el Código Procesal Penal para hacer improcedente el arresto domiciliario y la caución económica, y consagrar la prisión preventiva preferente por peligro de fuga tras veredicto o sentencia condenatoria por delitos sexuales cometidos contra menores de edad",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18801-07",
-   "titulo": "Modifica el Código Penal para incorporar como nueva agravante de la responsabilidad penal, el cometer el delito contra dirigentes vecinales y de organizaciones comunitarias o sociales, en razón o con ocasión del ejercicio de sus funciones",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18785-06",
-   "titulo": "Modifica la ley N° 18.834, sobre Estatuto Administrativo, para establecer un plazo máximo de duración del sumario administrativo y el cese de pleno derecho de la suspensión preventiva a su vencimiento",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18748-07",
-   "titulo": "Modifica el procedimiento de remoción de jueces por no haber tenido buen comportamiento",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18749-06",
-   "titulo": "Modifica la ley N° 20.730, con el objeto de prohibir el ejercicio del lobby a personas que mantienen un vínculo familiar con las autoridades que indica",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18783-03",
-   "titulo": "Establece la exhibición de precios netos y la información separada del impuesto al valor agregado al momento del pago",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18798-07",
-   "titulo": "Modifica el Código Penal para aumentar la pena a quienes graben, exhiban o difundan sus propios delitos en las redes sociales",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18797-06",
-   "titulo": "Modifica la ley N° 18.700, orgánica constitucional sobre votaciones populares y escrutinios, para prohibir a las autoridades públicas a la realización de inauguraciones y ceremonias de entrega de beneficios financiados con recursos públicos durante los treinta días anteriores a una elección o plebiscito",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18791-06",
-   "titulo": "Modifica leyes que indica con el objeto de establecer una duración determinada en el cargo de director de obras municipales",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18786-03",
-   "titulo": "Modifica diversos cuerpos legales para facilitar la formalización, funcionamiento y desarrollo de las MIPYMES",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18771-03",
-   "titulo": "Modifica la ley N° 19.496, que establece normas sobre protección de los derechos de los consumidores, con el objeto de regular la transparencia y veracidad de las ofertas anunciadas por los proveedores",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18773-07",
-   "titulo": "Modifica la Ley N° 20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para impedir que residencias de protección especializada sean utilizadas como lugar de cumplimiento de medidas cautelares penales",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18776-02",
-   "titulo": "Modifica la ley N° 17.798, sobre control de armas, con objeto de perfeccionar la regulación de la heredabilidad de las armas de fuego inscritas",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18717-07",
-   "titulo": "Modifica diversos cuerpos legales, con el objeto de asegurar la investigación oportuna de la violencia de género y otorgar protección a las víctimas",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18770-07",
-   "titulo": "Modifica el Código procesal penal, para establecer sanción frente al incumplimiento del arresto domiciliario total",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  },
-  {
-   "boletin": "18721-06",
-   "titulo": "Modifica el decreto ley Nº 3.063, de 1979, sobre Rentas Municipales, para agilizar el otorgamiento de la patente municipal a la micro y pequeña empresa",
-   "puntaje_pertinencia": 0.0,
-   "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-05T06:15:26.592814-03:00"
-  }
- ],
- "novedades": 1,
+ "descartados": [],
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -5668,29 +5215,24 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 1539,
-  "boletines_consultados": 149,
-  "fichas_obtenidas": 116,
+  "candidatos_descubiertos": 57,
+  "boletines_consultados": 57,
+  "fichas_obtenidas": 57,
   "consultas_fallidas": 0,
   "registros_publicados": 57,
   "registros_conservados_sin_revisar": 0,
-  "descartados_por_pertinencia": 59,
+  "descartados_por_pertinencia": 0,
   "retenidos_para_revision_manual": 7,
-  "novedades_corrida": 1,
-  "nuevos_en_cartera": 1,
+  "novedades_corrida": 0,
+  "nuevos_en_cartera": 0,
   "con_movimiento": 0,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
-   "cartera": 56,
+   "cartera": 57,
    "senado_movimiento": 0,
    "camara_anno": 0,
-   "camara_conciliacion_diaria": "ok",
-   "camara_diaria_resultados": 1522,
-   "camara_diaria_annos": [
-    2026,
-    2025
-   ]
+   "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
   "cobertura_canales": [
    {
@@ -5704,7 +5246,7 @@
    },
    {
     "canal": "senado_boletin",
-    "llamadas": 119,
+    "llamadas": 57,
     "resultados": 0,
     "errores": [
      "15975: TimeoutError: The read operation timed out",
@@ -5718,17 +5260,19 @@
    },
    {
     "canal": "camara_boletin",
-    "llamadas": 118,
-    "resultados": 118,
+    "llamadas": 57,
+    "resultados": 57,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_anno",
-    "llamadas": 4,
-    "resultados": 1522,
-    "errores": [],
-    "consultado": true
+    "llamadas": 0,
+    "resultados": 0,
+    "errores": [
+     "no consultado en esta corrida"
+    ],
+    "consultado": false
    }
   ],
   "ultima_conciliacion": "2026-11-01T10:03:59.609250-03:00",
@@ -5739,6 +5283,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 830.0
+  "segundos_corrida": 423.6
  }
 }
