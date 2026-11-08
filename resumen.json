@@ -2,17 +2,17 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-07T13:29:40.074004-03:00",
-  "generado_legible": "07/11/2026 13:29",
-  "proyectos_total": 57,
-  "vigentes": 57,
+  "generado": "2026-11-08T10:09:16.808246-03:00",
+  "generado_legible": "08/11/2026 10:09",
+  "proyectos_total": 58,
+  "vigentes": 58,
   "movimientos_recientes": 1,
   "movimientos_30d": 4,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 0,
   "prioridad_alta": 0,
-  "estancados_180d": 31,
+  "estancados_180d": 32,
   "ultimo": {
     "titulo": "Modifica el Código Penal y la ley N° 18010 para sancionar la usura agravada en los préstamos informales denominados \"gota a gota\" y su cobranza mediante violencia o intimidación",
     "detalle": "Boletín 18843-07 · 02/11/2026",
@@ -20,10 +20,6 @@
     "fecha": "2026-11-02T17:27:05-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-11-01",
-      "n": 0
-    },
     {
       "fecha": "2026-11-02",
       "n": 1
@@ -46,6 +42,10 @@
     },
     {
       "fecha": "2026-11-07",
+      "n": 0
+    },
+    {
+      "fecha": "2026-11-08",
       "n": 0
     }
   ],
