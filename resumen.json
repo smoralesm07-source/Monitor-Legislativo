@@ -2,20 +2,20 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-10T06:30:32.398357-03:00",
-  "generado_legible": "10/11/2026 06:30",
+  "generado": "2026-11-10T14:36:41.914143-03:00",
+  "generado_legible": "10/11/2026 14:36",
   "proyectos_total": 58,
   "vigentes": 54,
   "movimientos_recientes": 2,
   "movimientos_30d": 8,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
   "estancados_180d": 21,
   "ultimo": {
     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-    "detalle": "Boletín 18702-05 · 09/11/2026 · Discusión Ley de Presupuesto en Cámara de Origen (C.Diputados)",
+    "detalle": "Boletín 18702-05 · 09/11/2026 · Primer trámite constitucional (C.Diputados)",
     "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
     "fecha": "2026-11-09T00:00:00-03:00"
   },
@@ -86,7 +86,7 @@
   "actividad": [
     {
       "fecha": "2026-11-09T00:00:00-03:00",
-      "texto": "Boletín 18702-05: Informe de comisión Especial Mixta de Presupuestos."
+      "texto": "Boletín 18702-05: Cuenta informe Comisión Mixta ."
     },
     {
       "fecha": "2026-11-04T00:00:00-03:00",
