@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-10T14:36:41.914143-03:00",
- "generado_legible": "10/11/2026 14:36",
+ "generado": "2026-11-10T20:02:12.203136-03:00",
+ "generado_legible": "10/11/2026 20:02",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -46,7 +46,7 @@
    {
     "clave": "crimen_organizado",
     "etiqueta": "Crimen organizado y persecución penal",
-    "total": 11
+    "total": 12
    },
    {
     "clave": "delitos_base",
@@ -74,6 +74,11 @@
     "total": 2
    },
    {
+    "clave": "cooperacion_institucional",
+    "etiqueta": "Cooperación e intercambio de información",
+    "total": 2
+   },
+   {
     "clave": "responsabilidad_penal_pj",
     "etiqueta": "Responsabilidad penal de personas jurídicas",
     "total": 2
@@ -91,11 +96,6 @@
    {
     "clave": "activos_virtuales",
     "etiqueta": "Activos virtuales",
-    "total": 1
-   },
-   {
-    "clave": "cooperacion_institucional",
-    "etiqueta": "Cooperación e intercambio de información",
     "total": 1
    }
   ],
@@ -162,7 +162,7 @@
     "total": 9
    }
   ],
-  "generado": "2026-11-10T14:36:41.914143-03:00"
+  "generado": "2026-11-10T20:02:12.203136-03:00"
  },
  "proyectos": [
   {
@@ -7761,7 +7761,7 @@
     {
      "fecha": "2026-11-09T00:00:00-03:00",
      "fecha_legible": "09/11/2026",
-     "sesion": "/",
+     "sesion": "89/374",
      "descripcion": "Cuenta informe Comisión Mixta .",
      "etapa": "Discusión Ley de Presupuesto en Cámara de Origen",
      "camara": "C.Diputados"
@@ -7875,25 +7875,34 @@
     "senado"
    ],
    "admisible": "true",
-   "texto_camara_completo": "19391 18702-05 Ley de Presupuestos para el Sector Público correspondiente al año 2027 2026-09-30T00:00:00 Mensaje Cámara de Diputados 2 Ministerio de Hacienda 90915 Boletín N°18702-05 2026-11-10T14:33:04 53 79 0 0 Quórum Simple Unánime Proyecto de Ley Particular del diputado Araya Jaime Rafael Ricardo Part 01 Reemplázase el guarismo $61.728 por $1 Primer Trámite Primer Informe 90914 Boletín N°18702-05 2026-11-10T14:31:18 77 51 0 0 Quórum Simple Aprobado Proyecto de Ley Particular de la diputada Schneider Emilia y otros - Votación Separada Partida 01 PRESIDENCIA DE LA REPÚBLICA Votación separada Primer Trámite Primer Informe 90885 Boletín N°18702-05 2026-11-09T18:13:34 81 63 1 0 Quórum Calificado Aprobado Proyecto de Ley General Primer Trámite Primer Informe 90884 Boletín N°18702-05 2026-11-09T18:12:35 80 63 1 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
+   "texto_camara_completo": "19391 18702-05 Ley de Presupuestos para el Sector Público correspondiente al año 2027 2026-09-30T00:00:00 Mensaje Cámara de Diputados 2 Ministerio de Hacienda 90958 Boletín N°18702-05 2026-11-10T20:01:09 55 71 12 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 07 Indicación 17 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 90957 Boletín N°18702-05 2026-11-10T19:58:56 56 69 12 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 07 Indicación 16 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 90956 Boletín N°18702-05 2026-11-10T19:56:15 72 66 0 0 Quórum Simple Aprobado Proyecto de Ley Particular de la diputada Serrano Daniela y otros - Votación Separada Partida 07 MINISTERIO DE ECONOMÍA, FOMENTO Y TURISMO Capítulo 03 Subsecretaría de Pesca y Acuicultura Programa 01 Subsecretaría de Pesca y Acuicultura Subtítulo 22 BIENES Y SERVICIOS DE CONSUMO Votación separada Primer Trámite Primer Informe 90955 Boletín N°18702-05 2026-11-10T19:55:28 68 70 0 0 Quórum Simple Unánime Proyecto de Ley Particular del diputado Ossandón Fabián Part 07 - Cap 02 - Prog 01 “El Servicio Nacional del Consumidor informará semestralmente, dentro de los treinta días siguientes al término del semestre respectivo, a la Comisión Especial Mixta de Presupuestos y a la Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa; Protección de los Consumidores y Turismo de la Cámara de Diputados las herramientas de comparación de precios disponibles, los bienes y servicios cubiertos, su uso por región y las diferencias de precios regionales detectadas en productos de consumo habitual.”. Primer Trámite Primer Informe 90954 Boletín N°18702-05 2026-11-10T19:54:20 67 71 0 0 Quórum Simple Unánime Proyecto de Ley Particular de la diputada Gazmuri Ana María Part 07 - Cap 02 - Prog 01 Indicación Para incorporar una glosa X nueva a la Partida 07, Capítulo 02, Programa 01, Servicio Nacional del Consumidor, que indique: Glosa X nueva: “El Servicio Nacional del Consumidor informará trimestralmente a las Comisiones de Economía y de Mujeres y Equidad de Género de la Cámara de Diputadas y Diputados y del Senado, dentro de los treinta días siguientes al término del respectivo trimestre, sobre las políticas, estudios y acciones desarrolladas respecto de las diferencias de precios de productos y servicios de igual función y características en razón del género de los consumidores. El informe indicará, a lo menos, los estudios y monitoreos de precios realizados, con sus resultados por categoría de producto y región; los reclamos recibidos y las acciones de fiscalización, mediación o judiciales iniciadas por esta causa; las campañas de educación e información desarrolladas, y los recursos ejecutados en cada una de estas acciones. Esta información deberá publicarse, en la misma oportunidad, en el sitio web del Servicio.” Primer Trámite Primer Informe 90953 Boletín N°18702-05 2026-11-10T19:52:48 85 53 0 0 Quórum Simple Aprobado Proyecto de Ley Particular de la diputada Serrano Daniela y otros - Votación Separada Partida 07 MINISTERIO DE ECONOMÍA, FOMENTO Y TURISMO Capítulo 02 Servicio Nacional del Consumidor Programa 01 Servicio Nacional del Consumidor Subtítulo 24 TRANSFERENCIAS CORRIENTES Votación separada Primer Trámite Primer Informe 90952 Boletín N°18702-05 2026-11-10T19:51:57 17 121 0 0 Quórum Simple Unánime Proyecto de Ley Particular del diputado Verdugo Germán Part 07 - Cap 01 - Prog 07 - Sub 24 - Item 01 reemplacese a 327.993 Primer Trámite Primer Informe 90951 Boletín N°18702-05 2026-11-10T19:50:40 75 62 0 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Díaz Jorge y otros - Votación Separada Partida 07 MINISTERIO DE ECONOMÍA, FOMENTO Y TURISMO Capítulo 01 Subsecretaría de Economía y Empresas de Menor Tamaño Programa 07 Fondo de Innovación para la Competitividad - Emprendimiento Votación separada Primer Trámite Primer Informe 90950 Boletín N°18702-05 2026-11-10T19:49:46 67 67 4 0 Quórum Simple Unánime Proyecto de Ley Particular de la diputada Schneider Emilia y otros Part 07 \"“El Ministerio de Economía, Fomento y Turismo, respecto de las subsecretarías y de los demás órganos comprendidos en esta Partida, informará trimestralmente, dentro de los treinta días siguientes al término de cada trimestre, a la Comisión Especial Mixta de Presupuestos, a la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación de la Cámara de Diputadas y Diputados y a la Comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación del Senado, sobre las siguientes materias: a) Los contratos de adquisición, arrendamiento o suscripción de bienes y servicios de tecnologías de la información, de almacenamiento o procesamiento de datos en la nube y de sistemas de inteligencia artificial, financiados con cargo a esta Partida, que hubieren sido celebrados o se encontraren vigentes durante el trimestre, con indicación del proveedor, el monto, la duración, la ubicación del almacenamiento de los datos, las cláusulas sobre transferencia de conocimiento, documentación, capacitación del personal del servicio y portabilidad o término de la relación contractual, y el número de funcionarios que participan en la operación o mantención del sistema contratado. b) Las piezas de publicidad y difusión financiadas con cargo a esta Partida que hubieren sido creadas mediante sistemas de inteligencia artificial generativa, indicando el proveedor que las elaboró, el monto asociado y si en su difusión se incluyó una leyenda visible o audible que informe de dicha circunstancia. Los informes a que se refiere esta glosa, deben informar sobre el uso de herramientas de inteligencia artificial en su elaboración, que indique si no se utilizaron o si su uso fue parcial o predominante, las funciones para las que se emplearon y el funcionario responsable de la revisión y validación de su contenido, sin perjuicio de la responsabilidad del órgano respectivo por la exactitud de la información proporcionada. La información se entregará conforme al artículo 35 de esta ley, sin exponer datos personales, credenciales ni antecedentes de seguridad legalmente protegidos.”.\" Primer Trámite Primer Informe 90949 Boletín N°18702-05 2026-11-10T19:48:12 91 43 0 0 Quórum Simple Aprobado Proyecto de Ley Particular de la diputada Schneider Emilia y otros - Votación Separada Partida 07 MINISTERIO DE ECONOMÍA, FOMENTO Y TURISMO Votación separada Primer Trámite Primer Informe 90945 Boletín N°18702-05 2026-11-10T18:39:00 59 84 0 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 06 Indicación 24 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 90944 Boletín N°18702-05 2026-11-10T18:37:17 56 86 0 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 06 Indicación 16 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 90943 Boletín N°18702-05 2026-11-10T18:34:58 56 84 0 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 06 Indicación 11 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 90942 Boletín N°18702-05 2026-11-10T18:33:10 57 84 0 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 06 Indicación 10 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 90941 Boletín N°18702-05 2026-11-10T18:31:35 57 86 0 0 Quórum Simple Unánime Proyecto de Ley Admisibilidad Partida 06 Indicación 9 - En votación la reclamación contra la declaración de inadmisibilidad Primer Trámite Primer Informe 90940 Boletín N°18702-05 2026-11-10T18:26:23 142 0 0 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 06 - Cap 07 - Prog 01 - Sub 24 - Item 03 Agréguese el siguiente texto a la Glosa 06 asociada al capítulo 07, programa 01, ambos denominados “Dirección General de Promoción de Exportaciones”, en el inciso segundo a continuación del punto final que pasa a ser seguido: “Asimismo, incluye recursos para el Plan de Internacionalización del Pisco por $ 117.390 miles y US$ 671 miles, y para la promoción del vino en mercados internacionales por $ 800.000 miles.”. Primer Trámite Primer Informe 90939 Boletín N°18702-05 2026-11-10T18:24:50 142 0 0 0 Quórum Simple Aprobado Proyecto de Ley Particular del Ejecutivo Part 06 - Cap 07 - Prog 01 - Sub 24 - Item 03 Sustitúyase en el gasto en bienes y servicios de consumo de la Glosa 06 asociada al capítulo 07, programa 01, ambos denominados “Dirección General de Promoción de Exportaciones”, los siguientes guarismos: - “2.098.391” por “3.015.781”. - “5.109” por “5.780”. Primer Trámite Primer Informe 90938 Boletín N°18702-05 2026-11-10T18:21:53 78 58 5 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Urruticoechea Cristóbal - Votación Separada Partida 06 MINISTERIO DE RELACIONES EXTERIORES Capítulo 05 Agencia Chilena de Cooperación Internacional para el Desarrollo Programa 01 Agencia Chilena de Cooperación Internacional para el Desarrollo Subtítulo 24 TRANSFERENCIAS CORRIENTES Item 03 A Otras Entidades Públicas Votación separada Primer Trámite Primer Informe 90937 Boletín N°18702-05 2026-11-10T18:20:34 134 8 0 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Marowski Hans Alberto - Votación Separada Partida 06 MINISTERIO DE RELACIONES EXTERIORES Capítulo 05 Agencia Chilena de Cooperación Internacional para el Desarrollo Programa 01 Agencia Chilena de Cooperación Internacional para el Desarrollo Votación separada Primer Trámite Primer Informe 90936 Boletín N°18702-05 2026-11-10T18:18:17 86 56 0 0 Quórum Simple Aprobado Proyecto de Ley Particular de la diputada Macías Andrea - Votación Separada Partida 06 MINISTERIO DE RELACIONES EXTERIORES Capítulo 01 Secretaría y Administración General y Servicio Exterior Programa 01 Secretaría y Administración General y Servicio Exterior Subtítulo 24 TRANSFERENCIAS CORRIENTES Item 01 Al Sector Privado Votación separada Primer Trámite Primer Informe 90935 Boletín N°18702-05 2026-11-10T18:17:12 69 73 0 0 Quórum Simple Unánime Proyecto de Ley Particular de la diputada Schneider Emilia y otros Part 06 \"Para agregar una glosa nueva del siguiente tenor: “El Ministerio de Relaciones Exteriores, respecto de las subsecretarías y de los demás órganos comprendidos en esta Partida, informará trimestralmente, dentro de los treinta días siguientes al término de cada trimestre, a la Comisión Especial Mixta de Presupuestos, a la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación de la Cámara de Diputadas y Diputados y a la Comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación del Senado, sobre las siguientes materias: a) Los contratos de adquisición, arrendamiento o suscripción de bienes y servicios de tecnologías de la información, de almacenamiento o procesamiento de datos en la nube y de sistemas de inteligencia artificial, financiados con cargo a esta Partida, que hubieren sido celebrados o se encontraren vigentes durante el trimestre, con indicación del proveedor, el monto, la duración, la ubicación del almacenamiento de los datos, las cláusulas sobre transferencia de conocimiento, documentación, capacitación del personal del servicio y portabilidad o término de la relación contractual, y el número de funcionarios que participan en la operación o mantención del sistema contratado. b) Las piezas de publicidad y difusión financiadas con cargo a esta Partida que hubieren sido creadas mediante sistemas de inteligencia artificial generativa, indicando el proveedor que las elaboró, el monto asociado y si en su difusión se incluyó una leyenda visible o audible que informe de dicha circunstancia. Los informes a que se refiere esta glosa, deben informar sobre el uso de herramientas de inteligencia artificial en su elaboración, que indique si no se utilizaron o si su uso fue parcial o predominante, las funciones para las que se emplearon y el funcionario responsable de la revisión y validación de su contenido, sin perjuicio de la responsabilidad del órgano respectivo por la exactitud de la información proporcionada. La información se entregará conforme al artículo 35 de esta ley, sin exponer datos personales, credenciales ni antecedentes de seguridad legalmente protegidos.”.\" Primer Trámite Primer Informe 90934 Boletín N°18702-05 2026-11-10T18:15:52 97 44 1 0 Quórum Simple Aprobado Proyecto de Ley Particular de la diputada Schneider Emilia y otros - Votación Separada Partida 06 MINISTERIO DE RELACIONES EXTERIORES Votación separada Primer Trámite Primer Informe 90933 Boletín N°18702-05 2026-11-10T17:31:18 71 71 0 0 Quórum Simple Unánime Proyecto de Ley Particular de la diputada Schneider Emilia y otros - Votación Separada Partida 05 MINISTERIO DEL INTERIOR Votación separada Primer Trámite Primer Informe 90932 Boletín N°18702-05 2026-11-10T15:57:02 69 70 1 0 Quórum Simple Unánime Proyecto de Ley Particular de la diputada Schneider Emilia y otros Part 04 \"Para agregar una glosa nueva del siguiente tenor: “La Contraloría General de la República informará trimestralmente, dentro de los treinta días siguientes al término de cada trimestre, a la Comisión Especial Mixta de Presupuestos, a la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación de la Cámara de Diputadas y Diputados y a la Comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación del Senado, sobre las siguientes materias: a) Los contratos de adquisición, arrendamiento o suscripción de bienes y servicios de tecnologías de la información, de almacenamiento o procesamiento de datos en la nube y de sistemas de inteligencia artificial, financiados con cargo a esta Partida, que hubieren sido celebrados o se encontraren vigentes durante el trimestre, con indicación del proveedor, el monto, la duración, la ubicación del almacenamiento de los datos, las cláusulas sobre transferencia de conocimiento, documentación, capacitación del personal del servicio y portabilidad o término de la relación contractual, y el número de funcionarios que participan en la operación o mantención del sistema contratado. b) Las piezas de publicidad y difusión financiadas con cargo a esta Partida que hubieren sido creadas mediante sistemas de inteligencia artificial generativa, indicando el proveedor que las elaboró, el monto asociado y si en su difusión se incluyó una leyenda visible o audible que informe de dicha circunstancia. Los informes a que se refiere esta glosa, deben informar sobre el uso de herramientas de inteligencia artificial en su elaboración, que indique si no se utilizaron o si su uso fue parcial o predominante, las funciones para las que se emplearon y el funcionario responsable de la revisión y validación de su contenido, sin perjuicio de la responsabilidad del órgano respectivo por la exactitud de la información proporcionada. La información se entregará conforme al artículo 35 de esta ley, sin exponer datos personales, credenciales ni antecedentes de seguridad legalmente protegidos.”.\" Primer Trámite Primer Informe 90931 Boletín N°18702-05 2026-11-10T15:31:58 89 52 1 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Díaz Jorge y otros - Votación Separada Partida 03 PODER JUDICIAL Capítulo 03 Corporación Administrativa del Poder Judicial Programa 01 Corporación Administrativa del Poder Judicial Votación separada Primer Trámite Primer Informe 90930 Boletín N°18702-05 2026-11-10T15:29:49 71 43 26 0 Quórum Simple Aprobado Proyecto de Ley Particular de la diputada Gazmuri Ana María Part 03 - Cap 01 - Prog 01 - Sub 21 Para incorporar una glosa X nueva a la Partida 03, Capítulo 01, Programa 01, Subtítulo 21, sobre implementación ley integral de erradicación de violencia contra las mujeres, que indique: Glosa X nueva: “El Poder Judicial deberá informar, trimestralmente, a la Comisión de Mujer y Equidad de Género del Senado, y a las Comisión de Mujeres y Equidad de Género de la Cámara de Diputadas y Diputados sobre los gastos destinados a financiar la implementación de la Ley N°21.675 que establece un marco completo para prevenir, sancionar y erradicar la violencia contra las mujeres, especialmente los recursos ejecutados en capacitación, con el número de funcionarios y funcionarias capacitados por estamento, jurisdicción y región, los contenidos impartidos y las horas de formación; las acciones realizadas para adecuar la infraestructura y los procedimientos, con el fin de evitar la revictimización de las mujeres que acuden a los tribunales; el número de medidas de protección y cautelares decretadas en causas de violencia contra las mujeres, violencia intrafamiliar y medidas de protección de niñas, niños y adolescentes, y los mecanismos de seguimiento de su cumplimiento; y los tiempos promedio de tramitación de estas causas, desagregados por región. Esta información deberá publicarse, en la misma oportunidad, en el sitio web del Poder Judicial.” Primer Trámite Primer Informe 90929 Boletín N°18702-05 2026-11-10T15:26:59 67 66 1 0 Quórum Simple Unánime Proyecto de Ley Particular de la diputada Gazmuri Ana María Part 03 - Cap 01 - Prog 01 - Sub 21 Indicación Para incorporar una glosa X nueva a la Partida 03, Capítulo 01, Programa 01, Subtítulo 21, sobre implementación ley 21.575 sobre persecución del narcotráfico y crimen organizado que modificó la Ley 20.000, que indique: Glosa X nueva: “El Poder Judicial deberá informar trimestralmente a las Comisiones de Salud de la Cámara de Diputadas y Diputados y del Senado, dentro de los treinta días siguientes al término del respectivo trimestre, sobre los gastos destinados a financiar la implementación del inciso segundo del artículo 8° de la Ley N° 20.000, incorporado por la Ley N° 21.575, relativo al cultivo de especies vegetales del género cannabis para la atención de un tratamiento médico. El informe deberá indicar, a lo menos, el número de causas por cultivo de cannabis en que se haya invocado dicha causal de justificación, cuántas fueron acogidas y rechazadas, desagregadas por región, y las acciones de capacitación realizadas a jueces y funcionarios sobre su aplicación, con los recursos ejecutados en ellas. Esta información deberá publicarse, en la misma oportunidad, en el sitio web del Poder Judicial.” Primer Trámite Primer Informe 90928 Boletín N°18702-05 2026-11-10T15:23:34 65 62 7 0 Quórum Simple Unánime Proyecto de Ley Particular de la diputada Schneider Emilia y otros Part 03 \"Para agregar una glosa nueva del siguiente tenor: “El Poder Judicial informará trimestralmente, dentro de los treinta días siguientes al término de cada trimestre, a la Comisión Especial Mixta de Presupuestos, a la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación de la Cámara de Diputadas y Diputados y a la Comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación del Senado, sobre las siguientes materias: a) Los contratos de adquisición, arrendamiento o suscripción de bienes y servicios de tecnologías de la información, de almacenamiento o procesamiento de datos en la nube y de sistemas de inteligencia artificial, financiados con cargo a esta Partida, que hubieren sido celebrados o se encontraren vigentes durante el trimestre, con indicación del proveedor, el monto, la duración, la ubicación del almacenamiento de los datos, las cláusulas sobre transferencia de conocimiento, documentación, capacitación del personal del servicio y portabilidad o término de la relación contractual, y el número de funcionarios que participan en la operación o mantención del sistema contratado. b) Las piezas de publicidad y difusión financiadas con cargo a esta Partida que hubieren sido creadas mediante sistemas de inteligencia artificial generativa, indicando el proveedor que las elaboró, el monto asociado y si en su difusión se incluyó una leyenda visible o audible que informe de dicha circunstancia. Los informes a que se refiere esta glosa, deben informar sobre el uso de herramientas de inteligencia artificial en su elaboración, que indique si no se utilizaron o si su uso fue parcial o predominante, las funciones para las que se emplearon y el funcionario responsable de la revisión y validación de su contenido, sin perjuicio de la responsabilidad del órgano respectivo por la exactitud de la información proporcionada. La información se entregará conforme al artículo 35 de esta ley, sin exponer datos personales, credenciales ni antecedentes de seguridad legalmente protegidos.”.\" Primer Trámite Primer Informe 90927 Boletín N°18702-05 2026-11-10T15:20:49 126 7 0 0 Quórum Simple Aprobado Proyecto de Ley Particular de la diputada Muñoz Paulina - Votación Separada Partida 03 PODER JUDICIAL Votación separada Primer Trámite Primer Informe 90926 Boletín N°18702-05 2026-11-10T15:07:19 110 27 1 0 Quórum Simple Aprobado Proyecto de Ley Particular Votación Separada Partida 02 CONGRESO NACIONAL Capítulo 04 Consejo Resolutivo de Asignaciones Parlamentarias Programa 01 Consejo Resolutivo de Asignaciones Parlamentarias Subtítulo 21 GASTOS EN PERSONAL Indicaciones: 16.1 y 16.2 Primer Trámite Primer Informe 90925 Boletín N°18702-05 2026-11-10T15:05:58 28 97 12 0 Quórum Simple Unánime Proyecto de Ley Particular del diputado Bobadilla Sergio Part 02 - Cap 04 - Prog 01 Para reducir el presupuesto total a $1. Primer Trámite Primer Informe 90924 Boletín N°18702-05 2026-11-10T15:04:30 112 24 1 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Bobadilla Sergio Part 02 - Cap 03 - Prog 01 - Sub 22 “Con cargo a estos recursos se podrá contratar los servicios para certificar el contenido de la base de datos de “Ley Chile”. Para estos efectos, conforme a las normas complementarias que apruebe la Comisión de Biblioteca, tendrán el carácter de oficiales las ediciones digitales de la Constitución Política de la República, de los Códigos de la República y de la legislación nacional que la Biblioteca del Congreso Nacional ponga a disposición del público, en forma gratuita, a través del Sistema Ley Chile, sujetándose a las disposiciones de la ley N.º 19.799. Tratándose de las versiones actualizadas de la Constitución Política de la República y de los Códigos de la República, éstas requerirán la aprobación del Ministerio de Justicia y Derechos Humanos, de conformidad con lo dispuesto en el artículo 2°, letra v), del decreto con fuerza de ley N.º 3, de 2016, de dicho ministerio. En todo caso, la Biblioteca del Congreso Nacional publicará en el Sistema Ley Chile las versiones actualizadas, con carácter provisorio mientras se dicta el decreto aprobatorio. Lo anterior es sin perjuicio de lo dispuesto en otras disposiciones vigentes sobre la materia.” Primer Trámite Primer Informe 90923 Boletín N°18702-05 2026-11-10T15:01:26 100 35 1 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Bobadilla Sergio - Votación Separada Partida 02 CONGRESO NACIONAL Capítulo 01 Senado Programa 01 Senado Votación separada Primer Trámite Primer Informe 90922 Boletín N°18702-05 2026-11-10T15:00:20 54 75 7 0 Quórum Simple Unánime Proyecto de Ley Particular Votación Separada Partida 02 CONGRESO NACIONAL Capítulo 01 Senado Programa 01 Senado Subtítulo 24 TRANSFERENCIAS CORRIENTES Item 01 Al Sector Privado Indicaciones: 3.1 y 3.2 Primer Trámite Primer Informe 90921 Boletín N°18702-05 2026-11-10T14:58:43 63 70 3 0 Quórum Simple Unánime Proyecto de Ley Particular de la diputada Schneider Emilia y otros Part 02 \"Para agregar una glosa nueva del siguiente tenor: “Los órganos comprendidos en esta Partida informarán trimestralmente, dentro de los treinta días siguientes al término de cada trimestre, a la Comisión Especial Mixta de Presupuestos, a la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación de la Cámara de Diputadas y Diputados y a la Comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación del Senado, sobre las siguientes materias: a) Los contratos de adquisición, arrendamiento o suscripción de bienes y servicios de tecnologías de la información, de almacenamiento o procesamiento de datos en la nube y de sistemas de inteligencia artificial, financiados con cargo a esta Partida, que hubieren sido celebrados o se encontraren vigentes durante el trimestre, con indicación del proveedor, el monto, la duración, la ubicación del almacenamiento de los datos, las cláusulas sobre transferencia de conocimiento, documentación, capacitación del personal del servicio y portabilidad o término de la relación contractual, y el número de funcionarios que participan en la operación o mantención del sistema contratado. b) Las piezas de publicidad y difusión financiadas con cargo a esta Partida que hubieren sido creadas mediante sistemas de inteligencia artificial generativa, indicando el proveedor que las elaboró, el monto asociado y si en su difusión se incluyó una leyenda visible o audible que informe de dicha circunstancia. Los informes a que se refiere esta glosa, deben informar sobre el uso de herramientas de inteligencia artificial en su elaboración, que indique si no se utilizaron o si su uso fue parcial o predominante, las funciones para las que se emplearon y el funcionario responsable de la revisión y validación de su contenido, sin perjuicio de la responsabilidad del órgano respectivo por la exactitud de la información proporcionada. La información se entregará conforme al artículo 35 de esta ley, sin exponer datos personales, credenciales ni antecedentes de seguridad legalmente protegidos.”.\" Primer Trámite Primer Informe 90920 Boletín N°18702-05 2026-11-10T14:42:11 85 53 0 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Araya Jaime Rafael Ricardo - Votación Separada Partida 01 PRESIDENCIA DE LA REPÚBLICA Capítulo 01 Presidencia de la República Programa 01 Presidencia de la República Subtítulo 24 TRANSFERENCIAS CORRIENTES Item 09 A Unidades o Programas del Servicio Votación separada Primer Trámite Primer Informe 90919 Boletín N°18702-05 2026-11-10T14:41:18 85 53 0 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Araya Jaime Rafael Ricardo - Votación Separada Partida 01 PRESIDENCIA DE LA REPÚBLICA Capítulo 01 Presidencia de la República Programa 01 Presidencia de la República Subtítulo 22 BIENES Y SERVICIOS DE CONSUMO Votación separada Primer Trámite Primer Informe 90918 Boletín N°18702-05 2026-11-10T14:40:06 85 53 0 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Araya Jaime Rafael Ricardo - Votación Separada Partida 01 PRESIDENCIA DE LA REPÚBLICA Capítulo 01 Presidencia de la República Programa 01 Presidencia de la República Subtítulo 29 ADQUISICIÓN DE ACTIVOS NO FINANCIEROS Item 07 Programas Informáticos Votación separada Primer Trámite Primer Informe 90917 Boletín N°18702-05 2026-11-10T14:39:03 85 53 0 0 Quórum Simple Aprobado Proyecto de Ley Particular del diputado Araya Jaime Rafael Ricardo - Votación Separada Partida 01 PRESIDENCIA DE LA REPÚBLICA Capítulo 01 Presidencia de la República Programa 01 Presidencia de la República Subtítulo 29 ADQUISICIÓN DE ACTIVOS NO FINANCIEROS Item 04 Mobiliario y Otros Votación separada Primer Trámite Primer Informe 90916 Boletín N°18702-05 2026-11-10T14:37:42 64 66 7 0 Quórum Simple Unánime Proyecto de Ley Particular Votación Separada Partida 01 PRESIDENCIA DE LA REPÚBLICA Indicaciones: 3.1 y 3.2 Primer Trámite Primer Informe 90915 Boletín N°18702-05 2026-11-10T14:33:04 53 79 0 0 Quórum Simple Unánime Proyecto de Ley Particular del diputado Araya Jaime Rafael Ricardo Part 01 Reemplázase el guarismo $61.728 por $1 Primer Trámite Primer Informe 90914 Boletín N°18702-05 2026-11-10T14:31:18 77 51 0 0 Quórum Simple Aprobado Proyecto de Ley Particular de la diputada Schneider Emilia y otros - Votación Separada Partida 01 PRESIDENCIA DE LA REPÚBLICA Votación separada Primer Trámite Primer Informe 90885 Boletín N°18702-05 2026-11-09T18:13:34 81 63 1 0 Quórum Calificado Aprobado Proyecto de Ley General Primer Trámite Primer Informe 90884 Boletín N°18702-05 2026-11-09T18:12:35 80 63 1 0 Quórum Simple Aprobado Proyecto de Ley General Primer Trámite Primer Informe true",
    "fuente_texto_camara": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarProyectoLey?prmNumeroBoletin=18702-05",
    "canales_descubrimiento": [
     "cartera",
     "senado_movimiento"
    ],
    "id": "c8228c43d989a443",
-   "puntaje_pertinencia": 0.0,
+   "puntaje_pertinencia": 16.0,
    "nivel_impacto": "seguimiento",
    "evidencia": {
     "directas": [],
     "nucleo": [],
-    "estructurales": [],
+    "estructurales": [
+     "cooperacion internacional",
+     "crimen organizado"
+    ],
     "sectoriales": []
    },
    "sectores": [],
    "sectores_legibles": [],
-   "ejes": [],
-   "ejes_legibles": [],
+   "ejes": [
+    "crimen_organizado",
+    "cooperacion_institucional"
+   ],
+   "ejes_legibles": [
+    "Crimen organizado y persecución penal",
+    "Cooperación e intercambio de información"
+   ],
    "impacto_legible": "Seguimiento preventivo",
    "requiere_revision_manual": true,
    "nivel_cartera": 3,
@@ -7920,7 +7929,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19391&prmBOLETIN=18702-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18702",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta informe Comisión Mixta .",
-   "novedad": "movimiento",
+   "novedad": "",
    "novedad_detectada": "2026-11-10T14:36:41.914143-03:00"
   },
   {
@@ -13594,24 +13603,38 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-10T14:36:41.914143-03:00"
+   "revisado": "2026-11-10T20:02:12.203136-03:00"
   },
   {
-   "boletin": "17870-05",
-   "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
+   "boletin": "12712-24",
+   "titulo": "Ley de Patrimonio Cultural",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-10T14:36:41.914143-03:00"
+   "revisado": "2026-11-10T20:02:12.203136-03:00"
+  },
+  {
+   "boletin": "16821-19",
+   "titulo": "Regula los sistemas de inteligencia artificial",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia",
+   "revisado": "2026-11-10T20:02:12.203136-03:00"
   },
   {
    "boletin": "17142-05",
    "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2025",
    "puntaje_pertinencia": 24.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-10T14:36:41.914143-03:00"
+   "revisado": "2026-11-10T20:02:12.203136-03:00"
+  },
+  {
+   "boletin": "17870-05",
+   "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
+   "puntaje_pertinencia": 0.0,
+   "motivo": "bajo umbral de pertinencia",
+   "revisado": "2026-11-10T20:02:12.203136-03:00"
   }
  ],
- "novedades": 1,
+ "novedades": 0,
  "catalogos": {
   "ejes": {
    "facultades_uaf": "Facultades y competencias UAF",
@@ -13662,22 +13685,22 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 107,
-  "boletines_consultados": 58,
-  "fichas_obtenidas": 58,
+  "candidatos_descubiertos": 168,
+  "boletines_consultados": 60,
+  "fichas_obtenidas": 60,
   "consultas_fallidas": 0,
   "registros_publicados": 58,
   "registros_conservados_sin_revisar": 3,
-  "descartados_por_pertinencia": 3,
+  "descartados_por_pertinencia": 5,
   "retenidos_para_revision_manual": 8,
-  "novedades_corrida": 1,
+  "novedades_corrida": 0,
   "nuevos_en_cartera": 0,
-  "con_movimiento": 1,
+  "con_movimiento": 0,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
    "cartera": 58,
-   "senado_movimiento": 51,
+   "senado_movimiento": 112,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -13685,21 +13708,21 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 51,
+    "resultados": 112,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "senado_boletin",
-    "llamadas": 58,
-    "resultados": 58,
+    "llamadas": 60,
+    "resultados": 60,
     "errores": [],
     "consultado": true
    },
    {
     "canal": "camara_boletin",
-    "llamadas": 58,
-    "resultados": 58,
+    "llamadas": 60,
+    "resultados": 60,
     "errores": [],
     "consultado": true
    },
@@ -13721,6 +13744,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 81.2
+  "segundos_corrida": 91.1
  }
 }
