@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-09T12:46:12.748296-03:00",
-  "generado_legible": "09/11/2026 12:46",
+  "generado": "2026-11-09T21:02:07.708998-03:00",
+  "generado_legible": "09/11/2026 21:02",
   "proyectos_total": 58,
-  "vigentes": 58,
-  "movimientos_recientes": 1,
-  "movimientos_30d": 4,
-  "novedades_corrida": 0,
+  "vigentes": 54,
+  "movimientos_recientes": 2,
+  "movimientos_30d": 8,
+  "novedades_corrida": 55,
   "impacto_directo": 8,
-  "con_urgencia": 0,
-  "prioridad_alta": 0,
-  "estancados_180d": 32,
+  "con_urgencia": 4,
+  "prioridad_alta": 3,
+  "estancados_180d": 21,
   "ultimo": {
-    "titulo": "Modifica el Código Penal y la ley N° 18010 para sancionar la usura agravada en los préstamos informales denominados \"gota a gota\" y su cobranza mediante violencia o intimidación",
-    "detalle": "Boletín 18843-07 · 02/11/2026",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18843-07",
-    "fecha": "2026-11-02T17:27:05-03:00"
+    "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+    "detalle": "Boletín 18702-05 · 09/11/2026 · Discusión Ley de Presupuesto en Cámara de Origen (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
+    "fecha": "2026-11-09T00:00:00-03:00"
   },
   "serie_7d": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "fecha": "2026-11-04",
-      "n": 0
+      "n": 1
     },
     {
       "fecha": "2026-11-05",
@@ -46,59 +46,59 @@
     },
     {
       "fecha": "2026-11-09",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
     {
       "severidad": "info",
+      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+      "detalle": "Boletín 18702-05 · Nivel 3 · Seguimiento · Sin urgencia",
+      "fecha": "2026-11-09T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
       "titulo": "Modifica el Código Penal y la ley N° 18010 para sancionar la usura agravada en los préstamos informales denominados \"gota a gota\" y su cobranza mediante violencia o intimidación",
       "detalle": "Boletín 18843-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-11-02T17:27:05-03:00",
+      "fecha": "2026-11-04T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18843-07",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Modifica la ley N° 20.880, con el objeto de incorporar a los activos financieros virtuales o criptoactivos al contenido de la declaración de intereses y patrimonio",
-      "detalle": "Boletín 18763-06 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-10-21T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18763-06",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Modifica la Ordenanza de Aduanas para fortalecer la persecución penal del contrabando y de su comercialización",
-      "detalle": "Boletín 18802-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-10-17T20:49:33-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18802-07",
       "fuente": "LEGISLATIVO"
     },
     {
       "severidad": "info",
       "titulo": "Modifica el Código Penal para sancionar el hurto, receptación y apropiación indebida de mascotas o animales de compañía",
       "detalle": "Boletín 18800-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-10-14T13:23:09-03:00",
+      "fecha": "2026-10-27T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18800-07",
+      "fuente": "LEGISLATIVO"
+    },
+    {
+      "severidad": "info",
+      "titulo": "Modifica la Ordenanza de Aduanas para fortalecer la persecución penal del contrabando y de su comercialización",
+      "detalle": "Boletín 18802-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-10-27T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18802-07",
       "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
     {
-      "fecha": "2026-11-02T17:27:05-03:00",
-      "texto": "Boletín 18843-07:"
+      "fecha": "2026-11-09T00:00:00-03:00",
+      "texto": "Boletín 18702-05: Informe de comisión Especial Mixta de Presupuestos."
     },
     {
-      "fecha": "2026-10-21T00:00:00-03:00",
-      "texto": "Boletín 18763-06:"
+      "fecha": "2026-11-04T00:00:00-03:00",
+      "texto": "Boletín 18843-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
     },
     {
-      "fecha": "2026-10-17T20:49:33-03:00",
-      "texto": "Boletín 18802-07:"
+      "fecha": "2026-10-27T00:00:00-03:00",
+      "texto": "Boletín 18800-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
     },
     {
-      "fecha": "2026-10-14T13:23:09-03:00",
-      "texto": "Boletín 18800-07:"
+      "fecha": "2026-10-27T00:00:00-03:00",
+      "texto": "Boletín 18802-07: Oficio N° 21695. Comunica a la Comisión de Seguridad Ciudadana el acuerdo de la Sala, en orden a asignarle el proyecto radicado inicialmente en la Comisión de Constitución, Legislación, Justicia y Reglamento."
     }
   ]
 }
