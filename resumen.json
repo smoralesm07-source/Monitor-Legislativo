@@ -2,8 +2,8 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-10T20:02:12.203136-03:00",
-  "generado_legible": "10/11/2026 20:02",
+  "generado": "2026-11-11T02:35:33.674443-03:00",
+  "generado_legible": "11/11/2026 02:35",
   "proyectos_total": 58,
   "vigentes": 54,
   "movimientos_recientes": 2,
@@ -20,10 +20,6 @@
     "fecha": "2026-11-09T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-11-04",
-      "n": 1
-    },
     {
       "fecha": "2026-11-05",
       "n": 0
@@ -47,13 +43,17 @@
     {
       "fecha": "2026-11-10",
       "n": 0
+    },
+    {
+      "fecha": "2026-11-11",
+      "n": 0
     }
   ],
   "alertas": [
     {
       "severidad": "info",
       "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-      "detalle": "Boletín 18702-05 · Nivel 3 · Seguimiento · Sin urgencia",
+      "detalle": "Boletín 18702-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
       "fecha": "2026-11-09T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
       "fuente": "LEGISLATIVO"
