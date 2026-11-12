@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-12T09:24:23.139669-03:00",
-  "generado_legible": "12/11/2026 09:24",
+  "generado": "2026-11-12T18:22:33.806270-03:00",
+  "generado_legible": "12/11/2026 18:22",
   "proyectos_total": 60,
   "vigentes": 56,
   "movimientos_recientes": 3,
   "movimientos_30d": 10,
-  "novedades_corrida": 2,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
   "estancados_180d": 21,
   "ultimo": {
-    "titulo": "Modifica cuerpos legales que indica para agravar las penas del delito de asociación criminal",
-    "detalle": "Boletín 18869-07 · 11/11/2026 · Primer trámite constitucional (C.Diputados)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18869-07",
-    "fecha": "2026-11-11T00:00:00-03:00"
+    "titulo": "Modifica el Código Penal para sancionar el vuelo no autorizado de drones sobre los establecimientos penitenciarios y su entorno, y asegurar el comiso de las aeronaves utilizadas",
+    "detalle": "Boletín 18876-07 · 12/11/2026 · Primer trámite constitucional (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18876-07",
+    "fecha": "2026-11-12T00:00:00-03:00"
   },
   "serie_7d": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "fecha": "2026-11-09",
-      "n": 2
+      "n": 1
     },
     {
       "fecha": "2026-11-10",
@@ -46,10 +46,18 @@
     },
     {
       "fecha": "2026-11-12",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
+    {
+      "severidad": "info",
+      "titulo": "Modifica el Código Penal para sancionar el vuelo no autorizado de drones sobre los establecimientos penitenciarios y su entorno, y asegurar el comiso de las aeronaves utilizadas",
+      "detalle": "Boletín 18876-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-11-12T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18876-07",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "info",
       "titulo": "Modifica cuerpos legales que indica para agravar las penas del delito de asociación criminal",
@@ -60,16 +68,8 @@
     },
     {
       "severidad": "info",
-      "titulo": "Modifica el Código Penal para sancionar el vuelo no autorizado de drones sobre los establecimientos penitenciarios y su entorno, y asegurar el comiso de las aeronaves utilizadas",
-      "detalle": "Boletín 18876-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-11-09T15:22:01-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18876-07",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
       "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-      "detalle": "Boletín 18702-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "detalle": "Boletín 18702-05 · Nivel 3 · Seguimiento · Sin urgencia",
       "fecha": "2026-11-09T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
       "fuente": "LEGISLATIVO"
@@ -85,12 +85,12 @@
   ],
   "actividad": [
     {
-      "fecha": "2026-11-11T00:00:00-03:00",
-      "texto": "Boletín 18869-07: A solicitud del diputado Cristian Araya, la Sala acordó radicar el proyecto en la Comisión de Seguridad Ciudadana."
+      "fecha": "2026-11-12T00:00:00-03:00",
+      "texto": "Boletín 18876-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
     },
     {
-      "fecha": "2026-11-09T15:22:01-03:00",
-      "texto": "Boletín 18876-07:"
+      "fecha": "2026-11-11T00:00:00-03:00",
+      "texto": "Boletín 18869-07: A solicitud del diputado Cristian Araya, la Sala acordó radicar el proyecto en la Comisión de Seguridad Ciudadana."
     },
     {
       "fecha": "2026-11-09T00:00:00-03:00",
