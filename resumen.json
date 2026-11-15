@@ -2,8 +2,8 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-14T13:37:39.456947-03:00",
-  "generado_legible": "14/11/2026 13:37",
+  "generado": "2026-11-15T10:48:08.156286-03:00",
+  "generado_legible": "15/11/2026 10:48",
   "proyectos_total": 60,
   "vigentes": 56,
   "movimientos_recientes": 3,
@@ -12,7 +12,7 @@
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
-  "estancados_180d": 21,
+  "estancados_180d": 22,
   "ultimo": {
     "titulo": "Modifica el Código Penal para sancionar el vuelo no autorizado de drones sobre los establecimientos penitenciarios y su entorno, y asegurar el comiso de las aeronaves utilizadas",
     "detalle": "Boletín 18876-07 · 12/11/2026 · Primer trámite constitucional (C.Diputados)",
@@ -20,10 +20,6 @@
     "fecha": "2026-11-12T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-11-08",
-      "n": 0
-    },
     {
       "fecha": "2026-11-09",
       "n": 1
@@ -46,6 +42,10 @@
     },
     {
       "fecha": "2026-11-14",
+      "n": 0
+    },
+    {
+      "fecha": "2026-11-15",
       "n": 0
     }
   ],
