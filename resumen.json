@@ -2,16 +2,16 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-16T21:05:42.700168-03:00",
-  "generado_legible": "16/11/2026 21:05",
+  "generado": "2026-11-17T07:26:43.086232-03:00",
+  "generado_legible": "17/11/2026 07:26",
   "proyectos_total": 61,
   "vigentes": 57,
   "movimientos_recientes": 5,
   "movimientos_30d": 11,
-  "novedades_corrida": 2,
+  "novedades_corrida": 0,
   "impacto_directo": 8,
   "con_urgencia": 4,
-  "prioridad_alta": 4,
+  "prioridad_alta": 3,
   "estancados_180d": 22,
   "ultimo": {
     "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
@@ -20,10 +20,6 @@
     "fecha": "2026-11-16T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-11-10",
-      "n": 0
-    },
     {
       "fecha": "2026-11-11",
       "n": 1
@@ -47,6 +43,10 @@
     {
       "fecha": "2026-11-16",
       "n": 3
+    },
+    {
+      "fecha": "2026-11-17",
+      "n": 0
     }
   ],
   "alertas": [
