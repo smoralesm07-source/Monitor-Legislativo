@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-17T07:26:43.086232-03:00",
-  "generado_legible": "17/11/2026 07:26",
+  "generado": "2026-11-17T17:40:56.261514-03:00",
+  "generado_legible": "17/11/2026 17:40",
   "proyectos_total": 61,
   "vigentes": 57,
   "movimientos_recientes": 5,
   "movimientos_30d": 11,
-  "novedades_corrida": 0,
+  "novedades_corrida": 3,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
   "estancados_180d": 22,
   "ultimo": {
-    "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
-    "detalle": "Boletín 15975-25 · 16/11/2026 · Comisión Mixta por rechazo de modificaciones (Senado)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
-    "fecha": "2026-11-16T00:00:00-03:00"
+    "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+    "detalle": "Boletín 18702-05 · 17/11/2026 · Segundo trámite constitucional (Senado)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
+    "fecha": "2026-11-17T00:00:00-03:00"
   },
   "serie_7d": [
     {
@@ -42,28 +42,28 @@
     },
     {
       "fecha": "2026-11-16",
-      "n": 3
+      "n": 2
     },
     {
       "fecha": "2026-11-17",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
+    {
+      "severidad": "info",
+      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+      "detalle": "Boletín 18702-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-11-17T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "alta",
       "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
       "detalle": "Boletín 15975-25 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
       "fecha": "2026-11-16T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-      "detalle": "Boletín 18702-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-11-16T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
       "fuente": "LEGISLATIVO"
     },
     {
@@ -85,16 +85,16 @@
   ],
   "actividad": [
     {
+      "fecha": "2026-11-17T00:00:00-03:00",
+      "texto": "Boletín 18702-05: La Honorable Senadora señora Pascual hizo reserva de constitucionalidad respecto de la indicación 664"
+    },
+    {
       "fecha": "2026-11-16T00:00:00-03:00",
       "texto": "Boletín 15975-25: Oficio N°."
     },
     {
       "fecha": "2026-11-16T00:00:00-03:00",
-      "texto": "Boletín 18702-05: Cuenta de proyecto . Queda para tabla"
-    },
-    {
-      "fecha": "2026-11-16T00:00:00-03:00",
-      "texto": "Boletín 18878-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
+      "texto": "Boletín 18878-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento."
     },
     {
       "fecha": "2026-11-12T00:00:00-03:00",
