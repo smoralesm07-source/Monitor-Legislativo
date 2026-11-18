@@ -2,13 +2,13 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-17T17:40:56.261514-03:00",
-  "generado_legible": "17/11/2026 17:40",
+  "generado": "2026-11-18T00:29:18.373120-03:00",
+  "generado_legible": "18/11/2026 00:29",
   "proyectos_total": 61,
   "vigentes": 57,
   "movimientos_recientes": 5,
   "movimientos_30d": 11,
-  "novedades_corrida": 3,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
@@ -20,10 +20,6 @@
     "fecha": "2026-11-17T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-11-11",
-      "n": 1
-    },
     {
       "fecha": "2026-11-12",
       "n": 1
@@ -47,6 +43,10 @@
     {
       "fecha": "2026-11-17",
       "n": 1
+    },
+    {
+      "fecha": "2026-11-18",
+      "n": 0
     }
   ],
   "alertas": [
@@ -86,7 +86,7 @@
   "actividad": [
     {
       "fecha": "2026-11-17T00:00:00-03:00",
-      "texto": "Boletín 18702-05: La Honorable Senadora señora Pascual hizo reserva de constitucionalidad respecto de la indicación 664"
+      "texto": "Boletín 18702-05: El Ejecutivo hizo reserva de constitucionalidad respecto de la ind 13"
     },
     {
       "fecha": "2026-11-16T00:00:00-03:00",
