@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-19T09:41:09.973603-03:00",
- "generado_legible": "19/11/2026 09:41",
+ "generado": "2026-11-19T19:01:51.752884-03:00",
+ "generado_legible": "19/11/2026 19:01",
  "version_motor": "1.1.0-camara-bf-uso-dual",
  "modo_ejecucion": "rapido",
  "metricas": {
@@ -162,7 +162,7 @@
     "total": 9
    }
   ],
-  "generado": "2026-11-19T09:41:09.973603-03:00"
+  "generado": "2026-11-19T19:01:51.752884-03:00"
  },
  "proyectos": [
   {
@@ -3758,6 +3758,22 @@
      "descripcion": "La Honorable Senadora señora Kaiser hizo reserva de constitucionalidad respecto de las indicaciones 169 y 170",
      "etapa": "Segundo trámite constitucional",
      "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-19T00:00:00-03:00",
+     "fecha_legible": "19/11/2026",
+     "sesion": "85/374",
+     "descripcion": "El Ejecutivo hizo reserva de constitucionalidad de la ind 1134",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
+    },
+    {
+     "fecha": "2026-11-19T00:00:00-03:00",
+     "fecha_legible": "19/11/2026",
+     "sesion": "86/374",
+     "descripcion": "El Ejecutivo hizo reserva de constitucionalidad de las ind 1141 y 115",
+     "etapa": "Segundo trámite constitucional",
+     "camara": "Senado"
     }
    ],
    "urgencias": [],
@@ -3906,12 +3922,12 @@
    "urgencia_legible": "Sin urgencia",
    "etapa_ordinal": 2,
    "vigente": true,
-   "ultimo_movimiento": "2026-11-18T00:00:00-03:00",
-   "ultimo_movimiento_legible": "18/11/2026",
-   "dias_sin_movimiento": 1,
-   "ultimo_tramite": "La Honorable Senadora señora Kaiser hizo reserva de constitucionalidad respecto de las indicaciones 169 y 170",
+   "ultimo_movimiento": "2026-11-19T00:00:00-03:00",
+   "ultimo_movimiento_legible": "19/11/2026",
+   "dias_sin_movimiento": 0,
+   "ultimo_tramite": "El Ejecutivo hizo reserva de constitucionalidad de las ind 1141 y 115",
    "camara_actual": "Senado",
-   "total_tramites": 47,
+   "total_tramites": 49,
    "fecha_ingreso_legible": "30/09/2026",
    "antiguedad_dias": 50,
    "prioridad": 55.2,
@@ -3919,13 +3935,13 @@
    "factor_urgencia": 1.0,
    "factor_proximidad": 1.25,
    "factor_frescura": 1.3,
-   "huella": "f2d76b7e22ababe564ab",
+   "huella": "5fac7863f38213d8d0a6",
    "link_senado": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19391&prmBOLETIN=18702-05",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18702",
-   "sintesis": "Segundo trámite constitucional (Senado) · La Honorable Senadora señora Kaiser hizo reserva de constitucionalidad respecto de las indicaciones 169 y 170",
-   "novedad": "",
-   "novedad_detectada": "2026-11-19T00:01:52.590717-03:00"
+   "sintesis": "Segundo trámite constitucional (Senado) · El Ejecutivo hizo reserva de constitucionalidad de las ind 1141 y 115",
+   "novedad": "movimiento",
+   "novedad_detectada": "2026-11-19T19:01:51.752884-03:00"
   },
   {
    "boletin": "16764-03",
@@ -5439,7 +5455,7 @@
    "link_camara": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=19529&prmBOLETIN=18843-07",
    "link_ws_senado": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=18843",
    "sintesis": "Primer trámite constitucional (C.Diputados) · Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento",
-   "novedad": "nuevo",
+   "novedad": "",
    "novedad_detectada": "2026-11-19T09:41:09.973603-03:00"
   },
   {
@@ -14055,21 +14071,21 @@
    "titulo": "Modifica la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, en cuanto a la regulación de la declaración de intereses y patrimonio que debe efectuar el personal de las Fuerzas Armadas y de Orden y Seguridad Pública",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-19T09:41:09.973603-03:00"
+   "revisado": "2026-11-19T19:01:51.752884-03:00"
   },
   {
    "boletin": "17870-05",
    "titulo": "Ley de Presupuestos del Sector Público correspondiente al año 2026",
    "puntaje_pertinencia": 0.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-19T09:41:09.973603-03:00"
+   "revisado": "2026-11-19T19:01:51.752884-03:00"
   },
   {
    "boletin": "17142-05",
    "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2025",
    "puntaje_pertinencia": 24.0,
    "motivo": "bajo umbral de pertinencia",
-   "revisado": "2026-11-19T09:41:09.973603-03:00"
+   "revisado": "2026-11-19T19:01:51.752884-03:00"
   }
  ],
  "novedades": 1,
@@ -14123,7 +14139,7 @@
  },
  "auditoria": {
   "modo": "rapido",
-  "candidatos_descubiertos": 138,
+  "candidatos_descubiertos": 139,
   "boletines_consultados": 61,
   "fichas_obtenidas": 61,
   "consultas_fallidas": 0,
@@ -14132,13 +14148,13 @@
   "descartados_por_pertinencia": 3,
   "retenidos_para_revision_manual": 8,
   "novedades_corrida": 1,
-  "nuevos_en_cartera": 1,
-  "con_movimiento": 0,
+  "nuevos_en_cartera": 0,
+  "con_movimiento": 1,
   "cambios_urgencia": 0,
   "canales": {
    "semillas": 15,
    "cartera": 61,
-   "senado_movimiento": 81,
+   "senado_movimiento": 82,
    "camara_anno": 0,
    "camara_conciliacion_diaria": "ya_ejecutada_hoy"
   },
@@ -14146,7 +14162,7 @@
    {
     "canal": "senado_movimiento",
     "llamadas": 1,
-    "resultados": 81,
+    "resultados": 82,
     "errores": [],
     "consultado": true
    },
@@ -14182,6 +14198,6 @@
   "ventana_movimiento_dias": 7,
   "semillas_configuradas": 15,
   "boletines_excluidos": 0,
-  "segundos_corrida": 95.1
+  "segundos_corrida": 98.9
  }
 }

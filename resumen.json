@@ -2,8 +2,8 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-19T09:41:09.973603-03:00",
-  "generado_legible": "19/11/2026 09:41",
+  "generado": "2026-11-19T19:01:51.752884-03:00",
+  "generado_legible": "19/11/2026 19:01",
   "proyectos_total": 61,
   "vigentes": 57,
   "movimientos_recientes": 4,
@@ -15,9 +15,9 @@
   "estancados_180d": 22,
   "ultimo": {
     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-    "detalle": "Boletín 18702-05 · 18/11/2026 · Segundo trámite constitucional (Senado)",
+    "detalle": "Boletín 18702-05 · 19/11/2026 · Segundo trámite constitucional (Senado)",
     "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
-    "fecha": "2026-11-18T00:00:00-03:00"
+    "fecha": "2026-11-19T00:00:00-03:00"
   },
   "serie_7d": [
     {
@@ -42,11 +42,11 @@
     },
     {
       "fecha": "2026-11-18",
-      "n": 1
+      "n": 0
     },
     {
       "fecha": "2026-11-19",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
@@ -54,7 +54,7 @@
       "severidad": "info",
       "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
       "detalle": "Boletín 18702-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-11-18T00:00:00-03:00",
+      "fecha": "2026-11-19T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
       "fuente": "LEGISLATIVO"
     },
@@ -85,8 +85,8 @@
   ],
   "actividad": [
     {
-      "fecha": "2026-11-18T00:00:00-03:00",
-      "texto": "Boletín 18702-05: La Honorable Senadora señora Kaiser hizo reserva de constitucionalidad respecto de las indicaciones 169 y 170"
+      "fecha": "2026-11-19T00:00:00-03:00",
+      "texto": "Boletín 18702-05: El Ejecutivo hizo reserva de constitucionalidad de las ind 1141 y 115"
     },
     {
       "fecha": "2026-11-16T00:00:00-03:00",
