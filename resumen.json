@@ -2,28 +2,24 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-21T14:36:24.506899-03:00",
-  "generado_legible": "21/11/2026 14:36",
+  "generado": "2026-11-22T11:25:42.549987-03:00",
+  "generado_legible": "22/11/2026 11:25",
   "proyectos_total": 61,
   "vigentes": 57,
   "movimientos_recientes": 3,
   "movimientos_30d": 10,
-  "novedades_corrida": 0,
+  "novedades_corrida": 1,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
   "estancados_180d": 22,
   "ultimo": {
     "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-    "detalle": "Boletín 18702-05 · 20/11/2026 · Segundo trámite constitucional (Senado)",
+    "detalle": "Boletín 18702-05 · 21/11/2026 · Tercer trámite constitucional (C.Diputados)",
     "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
-    "fecha": "2026-11-20T00:00:00-03:00"
+    "fecha": "2026-11-21T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-11-15",
-      "n": 0
-    },
     {
       "fecha": "2026-11-16",
       "n": 2
@@ -42,10 +38,14 @@
     },
     {
       "fecha": "2026-11-20",
-      "n": 1
+      "n": 0
     },
     {
       "fecha": "2026-11-21",
+      "n": 1
+    },
+    {
+      "fecha": "2026-11-22",
       "n": 0
     }
   ],
@@ -54,7 +54,7 @@
       "severidad": "info",
       "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
       "detalle": "Boletín 18702-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-11-20T00:00:00-03:00",
+      "fecha": "2026-11-21T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
       "fuente": "LEGISLATIVO"
     },
@@ -85,8 +85,8 @@
   ],
   "actividad": [
     {
-      "fecha": "2026-11-20T00:00:00-03:00",
-      "texto": "Boletín 18702-05: La Honorable Senadora señora Cicardini hizo reserva de constitucionalidad de la ind N° 1150"
+      "fecha": "2026-11-21T00:00:00-03:00",
+      "texto": "Boletín 18702-05: Oficio modificaciones a Cámara de Origen ."
     },
     {
       "fecha": "2026-11-16T00:00:00-03:00",
