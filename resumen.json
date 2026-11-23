@@ -2,22 +2,22 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-23T03:51:56.678337-03:00",
-  "generado_legible": "23/11/2026 03:51",
+  "generado": "2026-11-23T16:59:28.964651-03:00",
+  "generado_legible": "23/11/2026 16:59",
   "proyectos_total": 61,
   "vigentes": 57,
-  "movimientos_recientes": 3,
+  "movimientos_recientes": 4,
   "movimientos_30d": 10,
-  "novedades_corrida": 0,
+  "novedades_corrida": 2,
   "impacto_directo": 8,
   "con_urgencia": 4,
   "prioridad_alta": 3,
   "estancados_180d": 22,
   "ultimo": {
-    "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-    "detalle": "Boletín 18702-05 · 21/11/2026 · Tercer trámite constitucional (C.Diputados)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
-    "fecha": "2026-11-21T00:00:00-03:00"
+    "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
+    "detalle": "Boletín 14773-02 · 23/11/2026 · Segundo trámite constitucional (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
+    "fecha": "2026-11-23T00:00:00-03:00"
   },
   "serie_7d": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "fecha": "2026-11-21",
-      "n": 1
+      "n": 0
     },
     {
       "fecha": "2026-11-22",
@@ -46,15 +46,23 @@
     },
     {
       "fecha": "2026-11-23",
-      "n": 0
+      "n": 2
     }
   ],
   "alertas": [
     {
+      "severidad": "alta",
+      "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
+      "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
+      "fecha": "2026-11-23T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
+      "fuente": "LEGISLATIVO"
+    },
+    {
       "severidad": "info",
       "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
       "detalle": "Boletín 18702-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-11-21T00:00:00-03:00",
+      "fecha": "2026-11-23T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
       "fuente": "LEGISLATIVO"
     },
@@ -73,20 +81,16 @@
       "fecha": "2026-11-16T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18878-07",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Modifica el Código Penal para sancionar el vuelo no autorizado de drones sobre los establecimientos penitenciarios y su entorno, y asegurar el comiso de las aeronaves utilizadas",
-      "detalle": "Boletín 18876-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-11-12T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18876-07",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
     {
-      "fecha": "2026-11-21T00:00:00-03:00",
-      "texto": "Boletín 18702-05: Oficio modificaciones a Cámara de Origen ."
+      "fecha": "2026-11-23T00:00:00-03:00",
+      "texto": "Boletín 14773-02: Cuenta del Mensaje 478-374 que retira y hace presente la urgencia Simple"
+    },
+    {
+      "fecha": "2026-11-23T00:00:00-03:00",
+      "texto": "Boletín 18702-05: Cuenta oficio con modificaciones de Cámara Revisora . Queda para tabla"
     },
     {
       "fecha": "2026-11-16T00:00:00-03:00",
@@ -95,10 +99,6 @@
     {
       "fecha": "2026-11-16T00:00:00-03:00",
       "texto": "Boletín 18878-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento."
-    },
-    {
-      "fecha": "2026-11-12T00:00:00-03:00",
-      "texto": "Boletín 18876-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
     }
   ]
 }
