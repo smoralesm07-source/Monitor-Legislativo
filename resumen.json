@@ -2,8 +2,8 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-24T01:42:19.869737-03:00",
-  "generado_legible": "24/11/2026 01:42",
+  "generado": "2026-11-24T14:19:24.091578-03:00",
+  "generado_legible": "24/11/2026 14:19",
   "proyectos_total": 61,
   "vigentes": 57,
   "movimientos_recientes": 2,
@@ -14,10 +14,10 @@
   "prioridad_alta": 2,
   "estancados_180d": 22,
   "ultimo": {
-    "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-    "detalle": "Boletín 14773-02 · 23/11/2026 · Segundo trámite constitucional (C.Diputados)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
-    "fecha": "2026-11-23T00:00:00-03:00"
+    "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+    "detalle": "Boletín 18702-05 · 24/11/2026 · Comisión Mixta por rechazo de modificaciones (Senado)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
+    "fecha": "2026-11-24T00:00:00-03:00"
   },
   "serie_7d": [
     {
@@ -42,28 +42,28 @@
     },
     {
       "fecha": "2026-11-23",
-      "n": 2
+      "n": 1
     },
     {
       "fecha": "2026-11-24",
-      "n": 0
+      "n": 1
     }
   ],
   "alertas": [
+    {
+      "severidad": "info",
+      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
+      "detalle": "Boletín 18702-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
+      "fecha": "2026-11-24T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "alta",
       "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
       "detalle": "Boletín 14773-02 · Nivel 2 · Perímetro regulatorio · Simple urgencia",
       "fecha": "2026-11-23T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=14773-02",
-      "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-      "detalle": "Boletín 18702-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-11-23T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
       "fuente": "LEGISLATIVO"
     },
     {
@@ -85,12 +85,12 @@
   ],
   "actividad": [
     {
-      "fecha": "2026-11-23T00:00:00-03:00",
-      "texto": "Boletín 14773-02: Cuenta del Mensaje 478-374 que retira y hace presente la urgencia Simple"
+      "fecha": "2026-11-24T00:00:00-03:00",
+      "texto": "Boletín 18702-05: Oficio rechazo modificaciones a Cámara Revisora ."
     },
     {
       "fecha": "2026-11-23T00:00:00-03:00",
-      "texto": "Boletín 18702-05: Cuenta oficio con modificaciones de Cámara Revisora . Queda para tabla"
+      "texto": "Boletín 14773-02: Cuenta del Mensaje 478-374 que retira y hace presente la urgencia Simple"
     },
     {
       "fecha": "2026-11-16T00:00:00-03:00",
