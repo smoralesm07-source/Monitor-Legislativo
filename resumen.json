@@ -2,28 +2,24 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-24T23:06:08.229724-03:00",
-  "generado_legible": "24/11/2026 23:06",
-  "proyectos_total": 61,
-  "vigentes": 57,
-  "movimientos_recientes": 2,
-  "movimientos_30d": 10,
+  "generado": "2026-11-25T11:02:22.003196-03:00",
+  "generado_legible": "25/11/2026 11:02",
+  "proyectos_total": 62,
+  "vigentes": 58,
+  "movimientos_recientes": 3,
+  "movimientos_30d": 11,
   "novedades_corrida": 1,
-  "impacto_directo": 8,
+  "impacto_directo": 9,
   "con_urgencia": 4,
-  "prioridad_alta": 2,
+  "prioridad_alta": 3,
   "estancados_180d": 22,
   "ultimo": {
-    "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-    "detalle": "Boletín 18702-05 · 24/11/2026 · Comisión Mixta por rechazo de modificaciones (Senado)",
-    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
-    "fecha": "2026-11-24T00:00:00-03:00"
+    "titulo": "Modifica el Código Penal, el Código Procesal Penal y la Ley N° 19.913, que crea la Unidad de Análisis Financiero y modifica diversas disposiciones en materia de lavado y blanqueo de activos, para fortalecer la persecución penal y patrimonial de las casas de juego ilegales",
+    "detalle": "Boletín 18914-07 · 25/11/2026 · Primer trámite constitucional (C.Diputados)",
+    "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18914-07",
+    "fecha": "2026-11-25T00:00:00-03:00"
   },
   "serie_7d": [
-    {
-      "fecha": "2026-11-18",
-      "n": 0
-    },
     {
       "fecha": "2026-11-19",
       "n": 0
@@ -47,9 +43,21 @@
     {
       "fecha": "2026-11-24",
       "n": 1
+    },
+    {
+      "fecha": "2026-11-25",
+      "n": 1
     }
   ],
   "alertas": [
+    {
+      "severidad": "alta",
+      "titulo": "Modifica el Código Penal, el Código Procesal Penal y la Ley N° 19.913, que crea la Unidad de Análisis Financiero y modifica diversas disposiciones en materia de lavado y blanqueo de activos, para fortalecer la persecución penal y patrimonial de las casas de juego ilegales",
+      "detalle": "Boletín 18914-07 · Nivel 1 · Impacto en la Ley 19.913 · Sin urgencia",
+      "fecha": "2026-11-25T00:00:00-03:00",
+      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18914-07",
+      "fuente": "LEGISLATIVO"
+    },
     {
       "severidad": "info",
       "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
@@ -73,17 +81,13 @@
       "fecha": "2026-11-16T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15975-25",
       "fuente": "LEGISLATIVO"
-    },
-    {
-      "severidad": "info",
-      "titulo": "Modifica la ley N° 19.856, para excluir del beneficio de reducción de condena a los condenados por narcotráfico, homicidio, delitos sexuales, secuestro, trata de personas, extorsión, crimen organizado y terrorismo",
-      "detalle": "Boletín 18878-07 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-11-16T00:00:00-03:00",
-      "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18878-07",
-      "fuente": "LEGISLATIVO"
     }
   ],
   "actividad": [
+    {
+      "fecha": "2026-11-25T00:00:00-03:00",
+      "texto": "Boletín 18914-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
+    },
     {
       "fecha": "2026-11-24T00:00:00-03:00",
       "texto": "Boletín 18702-05: Cuenta oficio rechazo a modificaciones ."
@@ -95,10 +99,6 @@
     {
       "fecha": "2026-11-16T00:00:00-03:00",
       "texto": "Boletín 15975-25: Oficio N°."
-    },
-    {
-      "fecha": "2026-11-16T00:00:00-03:00",
-      "texto": "Boletín 18878-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento."
     }
   ]
 }
