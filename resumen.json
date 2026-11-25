@@ -2,8 +2,8 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-24T14:19:24.091578-03:00",
-  "generado_legible": "24/11/2026 14:19",
+  "generado": "2026-11-24T23:06:08.229724-03:00",
+  "generado_legible": "24/11/2026 23:06",
   "proyectos_total": 61,
   "vigentes": 57,
   "movimientos_recientes": 2,
@@ -86,7 +86,7 @@
   "actividad": [
     {
       "fecha": "2026-11-24T00:00:00-03:00",
-      "texto": "Boletín 18702-05: Oficio rechazo modificaciones a Cámara Revisora ."
+      "texto": "Boletín 18702-05: Cuenta oficio rechazo a modificaciones ."
     },
     {
       "fecha": "2026-11-23T00:00:00-03:00",
