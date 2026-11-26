@@ -2,8 +2,8 @@
   "esquema": "centro-monitor-1.0",
   "tipo": "legislativo",
   "estado": "activo",
-  "generado": "2026-11-25T11:02:22.003196-03:00",
-  "generado_legible": "25/11/2026 11:02",
+  "generado": "2026-11-25T21:05:34.431862-03:00",
+  "generado_legible": "25/11/2026 21:05",
   "proyectos_total": 62,
   "vigentes": 58,
   "movimientos_recientes": 3,
@@ -42,11 +42,11 @@
     },
     {
       "fecha": "2026-11-24",
-      "n": 1
+      "n": 0
     },
     {
       "fecha": "2026-11-25",
-      "n": 1
+      "n": 2
     }
   ],
   "alertas": [
@@ -62,7 +62,7 @@
       "severidad": "info",
       "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
       "detalle": "Boletín 18702-05 · Nivel 2 · Perímetro regulatorio · Sin urgencia",
-      "fecha": "2026-11-24T00:00:00-03:00",
+      "fecha": "2026-11-25T00:00:00-03:00",
       "link": "https://tramitacion.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=18702-05",
       "fuente": "LEGISLATIVO"
     },
@@ -89,8 +89,8 @@
       "texto": "Boletín 18914-07: Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento"
     },
     {
-      "fecha": "2026-11-24T00:00:00-03:00",
-      "texto": "Boletín 18702-05: Cuenta oficio rechazo a modificaciones ."
+      "fecha": "2026-11-25T00:00:00-03:00",
+      "texto": "Boletín 18702-05: Oficio aprobación de informe de Comisión Mixta a C.de Origen ."
     },
     {
       "fecha": "2026-11-23T00:00:00-03:00",
